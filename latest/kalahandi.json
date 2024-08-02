@@ -1,0 +1,168 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 69,
+         "wind_speed": 13,
+         "wind_direction": 259,
+         "cloud_cover": 7
+      },
+      "01-08-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 65,
+         "wind_speed": 14,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 63,
+         "wind_speed": 15,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 71,
+         "wind_speed": 14,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 66,
+         "wind_speed": 13,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal & chilli",
+      "okra",
+      "onion",
+      "mango",
+      "papaya",
+      "cow",
+      "poultry",
+      "goat & sheep"
+   ],
+   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread to widespread rain/thundershower is very likely over districts of Odisha during next week (2nd to 8th August 2024) and overall rainfall activity likely to be slightly above normal with possibility of isolated heavy to very heavy rain over the districts of Odisha during next week.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Weed Management: Apply Fenoxaprop-p-ethyl 10% EC (Whipsuper) @240-260 ml/acre by mixing with 200 liters of water at 25-30 DAS in upland condition.",
+            "In medium and low land condition, where herbicide is not applied for weed control Beushening may be done after accumulation of sufficient water (at least 7-10cm standing water) in the field & proper plant population to be maintained (Khelua).",
+            "Nutrient Management: Apply 26 kg urea/acre after weeding in upland condition and 36 kg urea/acre after beushening in medium and low land condition as top dressing."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Recommended dose of Fertilizer: Apply 26 kg DAP + 10 kg MOP + 10 kg ZnSO4 in upland condition and 35 kg DAP + 13 kg MOP + 10 kg ZnSO4 per acre in medium and low land condition as basal application. In boron deficient soil apply borax@2kg/ac during final land preparation.",
+            "Transplanting of 20-25 days old seedlings is recommended @ 2-3 seedlings/hill at a spacing of 20 x15 cm.",
+            "Weed Management: Apply granular herbicide Bensulfuron methyl 0.6% + Pretilachlor 6% GR (Londax Power) @ 4 kg/acre by mixing with 20 kg of sand at 1-3 days after transplanting."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Make drainage channel for draining out excess rain water.",
+            "Undertake hoeing, weeding and 1st top dressing followed by earthing up at three-week stage of cotton. Apply 26 kg urea with 20 kg MOP in hybrids and 20 kg urea with 15 kg MOP in high yielding varieties as 1st top dressing.",
+            "Application of Neem based pesticide like Neem oil@45 ml by mixing with 15 liters of water is advisable at 30-45 days of crop stage to protect from insects.",
+            "Application of plant hormone Planofix @12 ml mixing with 15 liters of water is advisable at 30-45 days of crop stage to control flower drop."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Create drainage channel to drain away excess rain water.",
+            "Hoeing, weeding followed by earthing up should be done at three-week stage.",
+            "Monitor your field regularly for signs of pest infestation."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Develop better drainage system to avoid water logging condition due to excess rainfall.",
+            "At three-week stage go for hoeing, weeding and 1st top dressing followed by earthing up. Apply urea @75 kg/ac as 1st top dressing.",
+            "Stem borer and banded leaf and sheath blight may appear at this stage. Monitor the field regularly and remove infected plant parts."
+         ]
+      },
+      "brinjal & chilli": {
+         "advisory": [
+            "Transplant 30-45 days old seedlings in the main field.",
+            "Make necessary drainage channels to prevent water logging condition.",
+            "Identify and fill gaps in the main field to maintain plant population.",
+            "Monitor your field regularly for signs of pest infestation.",
+            "Remove infected plant and bury them away from the field."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Sowing should be completed by the end of July to get higher yield.",
+            "Apply well decomposed FYM @2t/acre at the time of land preparation.",
+            "Seed rate - 4kg/acre. Seed should be treated with Bavistin @2g/kg of seed before sowing to prevent from wilting disease.",
+            "Provide drainage facility to avoid water logging condition due to heavy rainfall."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Suitable varieties like Bhima Raj, Bhima Dark Red, Bhima Super etc. should be selected.",
+            "Raised nursery beds should be prepared under an overhead-protected structure for Kharif onion.",
+            "Seed treatment, sowing, and followed by application of paddy straw mulching is advised to obtain good seedling.",
+            "Apply Chloropyriphos @1ml/lit of water to prevent termite infestation."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Ideal time for planting mango is July to August.",
+            "Select suitable variety like, Banganpalli, Totapuri, Bombay green, Subarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Ramkella, Rummani, Sindhu, Alphanso and Keshar etc. Use healthy unbranched grafted seedlings.",
+            "Plant the saplings in 1m x 1m x 1m pit at 10m x 10m distance. Apply 5kg FYM/pit before planting."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "This is suitable time for planting papaya.",
+            "HYV for papaya are Honeydew, Coorg honey dew, CO-1, CO-2, Pusa delicious, Pusa majesty and Pusa giant.",
+            "Plant the seedling at 2.5m x 2.5m distance and 0.5m x 0.5m x 0.5m pit. Disease resistance and Tissue culture seedling should be use. Apply a mixture of top soil and well rotten FYM in the pit before planting."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Keep barns well-ventilated and leak-free to prevent moisture buildup and harmful fungi growth.",
+            "Vaccinate cows & buffalo against FMD, HS & BQ and establish a deworming plan to control internal parasites in moist environments."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Repair the poultry house to stop rain water from getting inside. Don’t allow the litter material to get wet.",
+            "Prevent the feed ingredients from getting wet which might lead to fungal growth in the feed."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites.",
+            "Dipping should be done in case of sheep against external parasites.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water and keep dry fodder and straw ready at home for sheep and goat in rainy season.",
+            "Please ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

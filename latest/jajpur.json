@@ -1,0 +1,107 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 52,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 87,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 270,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 83,
+         "rh_min": 66,
+         "wind_speed": 16,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 62,
+         "wind_speed": 13,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 62,
+         "wind_speed": 13,
+         "wind_direction": 216,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "jute",
+      "sugarcane",
+      "vegetables",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Beushaning in direct seeded rice should be completed utilizing the recent rainfall & maintain a thin film of water in field. Farmers are advised continue transplanting of rice by using rainwater/canal water/pond, as a good amount of rainfall expected in the coming days. Drain out excess water from rice nurseries & jute field.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Considering the anticipated rainfall farmer should start transplanting of rice after nursery treatment with Granular insecticide like Cartap hydrochloride (4G) @ 100 grams/1 decimal nursery or Fipronil 0.3 g @ 100g/ 1 decimal nursery area seven days before uprooting of seedlings.",
+            "Plant 2 to 3 seedlings/hill at shallow depth in an erect manner with spacing of 20 X 15cm for long duration and 20 X 10cm for medium duration varieties.",
+            "Apply pre-emergence weedicide Bensulfuron methyl+Pretilachlor@10kg/ha or Pyrazosulfuron ethyl @20g a.i./ha at 3 to 4 days after transplanting (DAT) with mixing 25kg dry sand."
+         ]
+      },
+      "jute": {
+         "advisory": [
+            "Excess water in the field decreases the quality of jute. Hence, drain excess water from the field.",
+            "Cut the branches during inter-crop to enhance the growth.",
+            "Recent rain will increase weed population in jute, to control grass weeds apply Quizalfop-pethyl @2ml/litre of water.",
+            "Current rainy weather is favourable for the attack of insect pests like semilooper, Bihari hair caterpillar, and other foliage feeders. To control these insects, spray Lamba cyhalothrin 4.9CS @ 250 ml/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Remove the borer affected tillers and late formed tillers, tie the cane shoot with two or three together with partially dried lower leaves.",
+            "To control early shot borer in sugarcane foliar spray of Fipronil 5SC @400 ml/acre is advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to rain and high humid condition during the last week, wilting is likely to appear in vegetable plants.",
+            "Drain out water from the field.",
+            "Spray Streptocycline@20g with Carboxin+Thiram @400g or Metalaxyl 8%+Mancozeb 64% WP @400g per acre in 200 liters of water.",
+            "Apply Neem or Karanjaa cake @ 1g/acre, Drenching of Tebuconazole @ 1ml/liter can be recommended.",
+            "To control Fruit and shoot borer in Brinjal and Okra Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @70ml/acre and Emamectin benzoate @ 80 g /acre at 15 days interval."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran are given in the same ratio @ 5% of the total biomass of stocking material. Cow dung, urea, and superphosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

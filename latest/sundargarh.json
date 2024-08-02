@@ -1,0 +1,129 @@
+{
+   "weather_details": {
+      "31/07/2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 66,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "01/08/2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 76,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "02/08/2024": {
+         "rainfall": 20,
+         "t_max": 28,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 72,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "03/08/2024": {
+         "rainfall": 6,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 85,
+         "wind_speed": 16,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "04/08/2024": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 71,
+         "wind_speed": 13,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "kharif 2024 crop planning",
+      "arhar",
+      "paddy",
+      "ragi",
+      "maize",
+      "groundnut",
+      "ginger",
+      "turmeric",
+      "vegetables",
+      "yam"
+   ],
+   "general_advisory": "In the vacant land, go for non paddy crops like pulses. Take care of the paddy nursery due to deficit rainfall.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "10 kg seeds are required for one acre mung and blackgram cultivation. Treat the seeds with Rhizobium @ 20g/kg of seeds. Before seven days of sowing treat with Carbedazim @ 2 g/kg seeds. Good varieties are IP-02-14, OUM-11-5, Pant-19, PDM-54."
+         ]
+      },
+      "kharif 2024 crop planning": {
+         "advisory": [
+            "Choose the variety according to land type and resource available. The variety like Swarna Shreya of 115-125 days. It is drought tolerant and tolerant to disease and pest. MTU 1156 is of 115 to 120 days. Long duration variety are Pooja, MTU 7029, Pratikshya, MTU 1075, Kalinga dhan 1203,1204,1205",
+            "Aromatic paddy like New Kalajeera and Kalajeera, Nua Acharmati. Change the certified seeds after three years.",
+            "If using own seeds, test the germination test before sowing.",
+            "In areas where rain is received, go for sowing the Dhaincha seeds @ 10kg/ac which should be incorporated in the field at 3 weeks stage prior to main kharif crop cultivation. It will condition the soil and add organic matter in the soil."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Choose quality seeds of Arhar like Upas-120, ICPl 86012, Pusa Arhar. Always go for early to medium duration Arhar."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Prepare a well-cultivated dry bed of size 10 decimal of land required for acre of paddy transplantation. Beds of 3ft width, 6 inch height and length according to land are prepared keeping 1ft gap in between beds. 40 baskets of FYM is mixed in the bed. Sow 20 kg seeds in 10 decimal in lines and cover with soil. Rice seedling is of 15 days old, apply 4 kg urea for 10 decimal area. Go for Field preparing and close all the rat holes and other holes in the field and bunds and store the rainwater for field preparation."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough. Transplant the 21 days old ragi seedlings."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Go for intercultivation and apply 16 kg Nitrogen per acre at 3 -4 week stage. At 7-8 weeks stage apply 8 kg Nitrogen per acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Chose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut @ 75 kg/acre of pod. Treat the seeds with Vitavax power @ 2g/kg of seeds. Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds. At final land preparation apply 2 t FYM, 1q gysuphum along with 8:16:16 kg NPK/acre. The spacing is 30 X 10 cm."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Drain out excess water from the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Drain out excess water from the field."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "In case of Brinjal fruit & Shoot Borer use 8 nos. of pheromone trap or apply Neem-based pesticides twice at 10-15 days interval. Go for off-season vegetables like Cauliflower, plant the seedlings in the main field."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 q/ac. The seed material should be of 150-200 g. Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth. After planting the pits should be filled with equal quantity of FYM and topsoil."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "2024-07-31": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 71,
+         "wind_speed": 8,
+         "wind_direction": 257,
+         "cloud_cover": 7
+      },
+      "2024-08-01": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 65,
+         "wind_speed": 11,
+         "wind_direction": 270,
+         "cloud_cover": 7
+      },
+      "2024-08-02": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 64,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "2024-08-03": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 66,
+         "wind_speed": 9,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "2024-08-04": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 7,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "pumpkin",
+      "okra",
+      "ladyfinger",
+      "brinjal",
+      "common fish"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 33.9°C and the mean minimum daily temperature was 26.0°C of the Gajapati district during the last week. The district received 12.6 mm of rainfall during the last week. If the rice plant population is > 50%, carry out weeding and adjust the plant population by Khelua (removing and redistributing the hills) and clonal propagation...",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Use pre-emergence herbicide Pretilachlor 37 % EW @ 600-ml/acre or Oxadiargyl 80%W.P @ 50-gm/acre or Pyrazosulfuron Ethyl 10% W.P @ 80-gm/acre at 1-3 DAT...",
+            "Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "First top dressing of fertilizer should be done with 50% N (30 kg Urea) and 50% K (15 kg MOP) for high yielding varieties and for hybrids with 50% N (42 kg Urea) and 50% K (20 kg MOP) at 20-25 DAS..."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "For Intercropping, between two consecutive rows of maize two rows of Cowpea (2:2) at a row spacing of 30 cm or three rows of urdbean or mungbean (2:3) at a row spacing of 30 cm or two rows of arhar at a row spacing of 60 cm is sown..."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Rainy and humid weather, high morning RH (>85%) & water saturated soil favours Downy Mildew disease in cucurbit vegetables. To manage Downy Mildew disease in cucurbits spray Metalaxyl @ 2-gram/litre or Azoxystrobin @ 1-gram/litre or Copper oxychloride 50 % WP @ 3-gram/litre twice in 10 days intervals..."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Rainfall followed by clear sky, dry weather, longer day with temp. 30 - 36°C favors sucking pest like aphids, Jassids, thrips and whiteflies in Okra. To manage these pests at early stage of infestation spray neem-based pesticide (Neem Oil) 1500 PPM @600-ml/acre by mixing it in 200-litre of water..."
+         ]
+      },
+      "ladyfinger": {
+         "advisory": [
+            "Rainfall followed by clear sky, dry weather, longer day with temp. 30 - 36°C favors sucking pest like aphids, Jassids, thrips and whiteflies in okra. To manage these pests at early stage of infestation spray neem-based pesticide (Neem Oil) 1500 PPM @600-ml/acre by mixing it in 200-litre of water..."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "High soil moisture & moderate soil temperature (<28oC), and more RH during the rainy season. Dampness due to high rainfall, and poor drainage cause damping off disease in brinjal..."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Chemical methods of weed control include application of Glyphosate @ 1.2kg/ac, 2,4-D @ 2.8- 4kg/ ac, Simazine @ 0.3- 0.5 ppm or 0.003ml/10 liter etc. Biological methods of weed control include usage of fishes like grass carp @100 to 200 numbers with 50 to 100 gram weight..."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

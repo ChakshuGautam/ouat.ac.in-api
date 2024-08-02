@@ -1,0 +1,97 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 70,
+         "wind_speed": 16,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 69,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 72,
+         "wind_speed": 15,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "04-08-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 14,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cotton",
+      "vegetable crops",
+      "animal husbandry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is above normal, both maximum and minimum temperature is expected to be normal for Odisha state during 04.08.2024 to 10.08.2024. As there is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places in upcoming days so, farmers are advised to avoid irrigation as well as spraying operation during that period and complete final field preparation as soon as possible for transplanting of paddy seedlings and make provision to drain out excess rainwater from crop fields. Prevailing weather condition is favourable for various disease and insects attack in different crops so its regular monitoring should be advised.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land levelling for uniform crop stand. About 0.8t/acre of well decomposed FYM may be applied before first puddling. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field.",
+            "For high yielding varieties apply specific doses of fertilizers as basal dose at the time of last puddling.",
+            "Transplanting of 25-30 days old seedlings should be done in already prepared field at a specific spacing and depth.",
+            "Farmers are advised to store rainwater for future use by making broad and elevated bunds.",
+            "Specific advice for hybrids and seedlings per hill."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Period after sowing is critical for weed growth, manual hoeing and pre-emergence application of herbicide recommended.",
+            "Delay spraying and intercultural operations based on upcoming rainfall forecast."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Provision for draining out excess water from the field and delay nitrogen fertilizer top dressing and other operations based on rainfall conditions."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Start raised bed nursery preparation with proper drainage system for kharif vegetable crops.",
+            "Avoid planting and intercultural operations during specific periods and drain out excess water from the field."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Deworming and vaccination of animals should be ensured due to increased mosquito, fly, and microorganism activity during rainy season.",
+            "Provide safe shelter for animals, avoid mixing rainwater with drinking water, and provide clean water to animals."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

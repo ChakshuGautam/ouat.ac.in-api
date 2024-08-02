@@ -1,0 +1,125 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 57,
+         "wind_speed": 11,
+         "wind_direction": 290,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 63,
+         "wind_speed": 13,
+         "wind_direction": 288,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 87,
+         "rh_min": 70,
+         "wind_speed": 13,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 64,
+         "wind_speed": 10,
+         "wind_direction": 214,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "green gram",
+      "black gram",
+      "french bean",
+      "cucurbits",
+      "banana",
+      "cattles",
+      "goat",
+      "fishery"
+   ],
+   "general_advisory": "In view of moderate rainfall forecast, stop sowing of seeds and top dressing of fertilizers. Make provisions for drainage, cover vegetable nursery with polythene, and monitor for pest attacks regularly.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To control weed infestation in Paddy field, use pre-emergence herbicide",
+            "For high yielding paddy varieties, apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Wrapping and propping should be done in 4-5 months old crop for medium and long duration varieties",
+            "To manage Internode Borer pest biologically, use Trichogramma chilonis card at weekly interval"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Follow integrated pest management strategies to prevent Whitefly infestation and YMV disease"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Select YMV disease resistant varieties like PDM 139, PDM 11"
+         ]
+      },
+      "french bean": {
+         "advisory": [
+            "Select appropriate varieties for Odisha conditions like Phalguni, Arka Komal, Contender"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "After heavy rainfall, watch out for Semilooper pest incidence in Cucurbits"
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Provide staking and drainage for Banana plants",
+            "Select disease-free planting material and resistant cultivars"
+         ]
+      },
+      "cattles": {
+         "advisory": [
+            "Keep animals indoors during rainy hours and provide good quality fodder"
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Deworming is essential during the rainy season",
+            "Vaccinate against Pestedespetits Ruminants and Enterotoxaemia diseases"
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Apply disinfectant after heavy rainfall to maintain water salinity in ponds",
+            "Erect mesh screens at inlets and outlets for better fish management"
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

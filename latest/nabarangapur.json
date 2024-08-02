@@ -1,0 +1,113 @@
+{
+   "weather_details": {
+      "27-07-2024": {
+         "rainfall": 30,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 82,
+         "wind_speed": 20,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "28-07-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 89,
+         "rh_min": 72,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "29-07-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 64,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "30-07-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 66,
+         "wind_speed": 17,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "31-07-2024": {
+         "rainfall": 12,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 71,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "maize",
+      "ragi",
+      "cauliflower",
+      "chilli",
+      "ginger",
+      "turmeric"
+   ],
+   "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before kharif crop, go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Collect hybrid or high yielding varieties of paddy with resistant to diseases and insect pests as per the land situations of the farmers from the nearby dealers.",
+            "Farmers are advised for sowing of dhanicha seeds @ 10 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3-4 weeks old at the time of transplanting of rice. Apply phosphatic fertilizer in the dhaincha fields required for paddy cultivation.",
+            "Transplant 15-25days seedling. Treat the nursery seedlings or root dip uprooted seedlings in the solution of neem oil @ 5ml/litre of water and metalaxyl + mancozeb @ 1.25 g/litre of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Prepare the field and raise Kharif groundnut of high yielding varieties. Treat the seeds with Trichoderma viridae, Pseudomonas fluorescence and Rhizobium culture before sowing."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Complete the sowing of 10 Kg Maize hybrid seed per acre with the spacing of 60 cm row to row and 20-25cm between plants.",
+            "Spray Atrazine @1Kg/acre within 2 days of sowing to control the weeds in maize field."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "This is the optimum time for direct sowing ragi. Sow the seeds @ 4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed.",
+            "Sow 4Kg seeds of Arjun, Kalua, Bharabi, etc. high yielding ragi varieties per acre."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "6 Kg of leafy coriander per acre may be sown.",
+            "Raise nursery of bacterial wilt resistant early cauliflower and cabbage varieties."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Chances of fruit rot infestation in chilli and brinjal, if observe spray Carbendazim 50% WP @ 2 g/litre of water or Copper oxycloride 50% WP @ 3 g/litre of water."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
+         ]
+      }
+   },
+   "date": "26-07-2024"
+}

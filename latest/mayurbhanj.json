@@ -1,0 +1,128 @@
+{
+   "weather_details": {
+      "2024-07-31": {
+         "rainfall": 20,
+         "t_max": 28,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 62,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "2024-08-01": {
+         "rainfall": 20,
+         "t_max": 27,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 71,
+         "wind_speed": 6,
+         "wind_direction": 289,
+         "cloud_cover": 8
+      },
+      "2024-08-02": {
+         "rainfall": 15,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 73,
+         "wind_speed": 13,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "2024-08-03": {
+         "rainfall": 12,
+         "t_max": 29,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 67,
+         "wind_speed": 13,
+         "wind_direction": 207,
+         "cloud_cover": 8
+      },
+      "2024-08-04": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 61,
+         "wind_speed": 12,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "maize",
+      "finger millet",
+      "pigeon pea",
+      "rice",
+      "brinjal",
+      "mango",
+      "okra",
+      "goat",
+      "cow",
+      "fresh water carp",
+      "chicken"
+   ],
+   "general_advisory": "Drain out excess water from crop fields to avoid water stagnation. Postpone sowing of maize, pigeon pea and vegetables. Go for raising seedlings of vegetables in raised seed bed in the rainfed uplands. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangements. In heavy rainfall areas, stop the sowing of seeds and top dressing of fertilizers or herbicides for time being.",
+   "crops_data": {
+      "maize": {
+         "advisory": [
+            "The crop is at germination to three-week stage. At the three to four-week stage of maize crop go for hoeing, weeding observing the soil moisture and apply Urea 52 kg per acre for hybrid maize and 40kg Urea per acre for high yielding varieties.",
+            "Hand weeding and earthing up should be done at 20-25 DAS. Apply 55-kg of urea per acre at this stage as first top dressing. Again at 40-45 DAS or before tasselling apply 55-kg of Urea and 20-kg of MOP as second top dressing. To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200 litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Apply Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5% S.G @ 80-gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "It is time for nursery sowing of ragi. Grow high yielding varieties like Arjun, Divyasingh, AKP-2, AKP-3, AKP-7, Godavari, Neelachal, Bhairavi, Shubhra, and Chilika. Use 2 to 2.5 kg seeds/acre for transplanting. Before sowing treat the seeds with 3 g Thiram or 1g Trycychlozole per kg Seeds. Apply 10 g each of Nitrogen and Phophorous per sq.metre of nursery bed and mix it thoroughly. Sow the seeds uniformly over the beds and cover the seeds thinly with powdered soil."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T-Arhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2-gram/kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Dry Direct Seeded Rice: In lowland areas, where direct seeding has been done and herbicide was not applied for weed control, ‘beushening’  may be done after accumulation of sufficient water (at least 7-10 cm standing water) in the field. After ‘beushening’  apply 18 kg of urea/acre in semideep/deep water areas and 36 kg of urea/acre in shallow lowlands as top dressing. Transplanted Rice: If leaf blast is observed in rice nursery, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g or, Isoprothiolane 40EC @ 1.5 ml per litre of water. After 7-10 days apply the second spray. In-case of case worm, spray Indoxacarb 14.5% SC @ 200 ml/acre or, Fipronil 5% SC @ 400ml/acre. Transplanting of rice must be completed by mid of August in irrigated/normal rainfall areas. For high yielding varieties, apply 44 kg DAP  + 33 kg MOP or, 22 kg urea + 125 kg SSP  + 33kg MOP as basal dose at the time last puddling."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "High soil moisture & moderate soil temperature (<28oC), and more RH during the rainy season. Dampness due to high rainfall, and poor drainage cause damping of disease in brinjal. To control damping disease of brinjal seedlings in the nursery, drench the bed soil with a solution of 20 gm Metalaxyl and Mancozeb in 10-litre water. The brinjal seedlings become ready for transplanting after 25-30 days of sowing. In the evening of one day before uprooting seedlings for transplanting, drench the nursery bed soil with a solution made of 20-gram Copper oxychloride and 1-gram Streptocycline dissolved in 10-litre of water."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "July and August is the optimum for mango planting."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "There are chances of infestation of shoot and fruit borer in Okra. The larvae of okra shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds. Later larvae bore into fruits which become unfit for consumption. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. To manage the pest biologically spray Bacillus thuringiensis var. Kurstaki 5 % WP @ 400-gram/acre. To manage the pest chemically spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @ 80-ml/acre or Pyridalyl 10% EC @ 300-ml/acre by mixing in 200-litre of water."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from the river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Monsoon rain might lead to dampness and lack of drainage, use sand and ash to get rid of the excess moisture. Clean the shelter floor twice with phenyl to avoid the flies and diseases associated with them.",
+            "Deworming and vaccination of the animal against FMD, HS and BQ should be ensured because with the commencement of the monsoon (during the rainy season) it spread rapidly among animals."
+         ]
+      },
+      "fresh water carp": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran are given in the same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "In the rainy season, chicken might experience Coccidiosis, give Coccidiostat in chicken feed with the recommendation of the nearest veterinary expert."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

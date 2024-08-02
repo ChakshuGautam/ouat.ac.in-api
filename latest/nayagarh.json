@@ -1,0 +1,169 @@
+{
+   "weather_details": {
+      "03/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 46,
+         "rh_min": 11,
+         "wind_speed": 8,
+         "wind_direction": 288,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 63,
+         "rh_min": 10,
+         "wind_speed": 7,
+         "wind_direction": 198,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 53,
+         "rh_min": 16,
+         "wind_speed": 9,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 51,
+         "rh_min": 12,
+         "wind_speed": 9,
+         "wind_direction": 165,
+         "cloud_cover": 1
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 35,
+         "rh_min": 8,
+         "wind_speed": 10,
+         "wind_direction": 202,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "mustard",
+      "groundnut",
+      "mung",
+      "biri",
+      "kulthi",
+      "sugarcane",
+      "maize",
+      "tomato",
+      "brinjal",
+      "coconut",
+      "vegetables",
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "onion",
+      "mango",
+      "okra"
+   ],
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages...",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Water deficit during these stages should be avoided."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Harvesting is completed. Overall crop condition is normal."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Harvesting is completed. Overall crop condition is normal."
+         ]
+      },
+      "mung": {
+         "advisory": [
+            "Harvesting is completed. Overall crop condition is normal."
+         ]
+      },
+      "biri": {
+         "advisory": [
+            "Harvesting is completed. Overall crop condition is normal."
+         ]
+      },
+      "kulthi": {
+         "advisory": [
+            "Harvesting is completed. Overall crop condition is normal."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Cover the rows with dry leaves. Top-dress with potassium to protect from water scarcity.",
+            "To manage early shoot borer, irrigate frequently during hot months."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "High temperature increases water requirement. Irrigate the crop accordingly."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "High temperature may lead to wilting. Apply Streptocyclin in root zone."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Install pheromone traps. Spray neem-based pesticide during pest infestation."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves around the tree to reduce water loss."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover newly planted vegetable seedlings with paper caps during day time."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings if water temperature rises."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Manage tobacco caterpillar migration."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Manage tobacco caterpillar migration."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "After harvesting, cut the tops and dry the bulbs."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hoppers, spray recommended insecticides."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds to prevent whitefly infestation."
+         ]
+      }
+   },
+   "date": "02-04-2024"
+}

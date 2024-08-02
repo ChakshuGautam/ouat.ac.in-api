@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 61,
+         "wind_speed": 13,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 67,
+         "wind_speed": 15,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 67,
+         "wind_speed": 16,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 70,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 65,
+         "wind_speed": 12,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cotton",
+      "vegetable crops",
+      "animal husbandry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is above normal, both maximum and minimum temperature is expected to be normal for Odisha state during 04.08.2024 to 10.08.2024. Farmers are advised to avoid irrigation and spraying operations during periods of light to moderate rainfall. Regular monitoring for disease and insect attacks is recommended. Proper water management and weed control practices are advised for various crops.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Main field land preparation should be done by puddling the field twice at 7-10 day intervals and land leveling for uniform crop stand.",
+            "Apply recommended doses for basal fertilizers based on variety and soil type.",
+            "Transplant seedlings at appropriate spacing and depth.",
+            "Store rainwater for future use during dry spells."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Perform manual hoeing at critical periods to control weed growth.",
+            "Delay spraying and intercultural operations based on rainfall forecast."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Ensure proper drainage to avoid waterlogging.",
+            "Delay nitrogen fertilizer application based on rainfall conditions."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Prepare raised bed nurseries with drainage systems for kharif vegetable crops.",
+            "Avoid planting and intercultural operations during heavy rainfall periods.",
+            "Ensure proper water management."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Deworm and vaccinate animals against infectious diseases.",
+            "Provide clean drinking water and shelter animals during rainy periods.",
+            "Prevent mixing of rainwater with drinking sources."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 63,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "01-08-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 74,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 67,
+         "wind_speed": 21,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 20,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 82,
+         "wind_speed": 18,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 70,
+         "wind_speed": 16,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cotton",
+      "vegetable crops",
+      "animal husbandry"
+   ],
+   "general_advisory": "According to IMD forecast, above-normal rainfall expected in Odisha. Farmers advised to prepare for heavy rainfall, avoid irrigation, monitor crops for diseases, and store rainwater. Animal husbandry: Ensure deworming, vaccination, safe shelter, and clean drinking water.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Main field land preparation: puddle field twice, apply decomposed FYM, green manuring.",
+            "Basal dose application for different varieties.",
+            "Transplanting at appropriate spacing, seedlings per hill, rainwater storage."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Critical weed growth period: manual hoeing, pre-emergence application, hand weeding.",
+            "Delay intercultural operations based on rainfall forecast."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Draining excess water, delaying nitrogen top dressing and intercultural operations."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Raised bed nursery preparation, proper drainage for kharif vegetable crops.",
+            "Avoid planting during heavy rainfall, drain excess water."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Ensure deworming, vaccination against infectious diseases.",
+            "Provide safe shelter, clean drinking water, prevent mixing of rainwater.",
+            "Avoid grazing in open areas, protect animals from diseases and harsh weather."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

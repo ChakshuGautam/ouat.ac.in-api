@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 27,
+         "rh_max": 92,
+         "rh_min": 66,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 74,
+         "wind_speed": 13,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 73,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 12,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 82,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 71,
+         "wind_speed": 13,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cotton",
+      "vegetable crops",
+      "animal husbandry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is above normal, both maximum and minimum temperature is expected to be normal for Odisha state during 04.08.2024 to 10.08.2024. Farmers are advised to avoid irrigation and spraying operations during the expected rainfall period. Regular monitoring of crops for disease and insect attacks is recommended.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Main field land preparation should be done by puddling the field twice at 7-10 days intervals and land leveling for uniform crop stand. About 0.8t/acre of well decomposed FYM may be applied before first puddling. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field.",
+            "For high yielding varieties apply specific doses of fertilizers at different stages of land preparation and transplanting.",
+            "Transplanting of 25-30 days old seedlings should be done in the already prepared field at specific spacings. Farmers are advised to store rainwater for future use during dry spells."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Critical weed growth period between 15-45 days after sowing should be managed with manual hoeing and herbicide application. Delay spraying and intercultural operations due to upcoming rainfall forecast."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Proper drainage of excess water from fields is important. Delay nitrogen fertilizer top dressing and intercultural operations based on prevailing rainfall conditions."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Start raised bed nursery preparation with proper drainage systems. Avoid planting and intercultural operations during periods of heavy rainfall."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Ensure deworming and vaccination of animals during the rainy season. Provide clean drinking water and safe shelter for animals to prevent infectious diseases."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

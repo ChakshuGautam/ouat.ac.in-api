@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 20,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 82,
+         "rh_min": 59,
+         "wind_speed": 13,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 259,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 73,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 64,
+         "wind_speed": 18,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 63,
+         "wind_speed": 17,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "jute",
+      "sugarcane",
+      "vegetables",
+      "pisciculture"
+   ],
+   "general_advisory": "Beushaning in direct seeded rice should be completed utilizing the recent rainfall & maintain a thin film of water in the field. Farmers are advised to continue transplanting rice using rain water/canal water/pond as good amount of rainfall is expected in the coming days. Drain out excess water from rice nurseries & jute fields.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Considering the anticipated rainfall farmer should start transplanting of rice after nursery treatment with Granular insecticide like Cartap hydrochloride (4G) or Fipronil 0.3g. Plant 2 to 3 seedlings/hill at shallow depth with appropriate spacing. Apply pre-emergence weedicide at 3 to 4 days after transplanting."
+         ]
+      },
+      "jute": {
+         "advisory": [
+            "Excess water in the field decreases the quality of jute. Drain excess water from the field. Cut the branches during inter-crop to enhance growth. Recent rain will increase weed population in jute, apply appropriate herbicides. Rainy weather is favorable for insect pests, control them with recommended pesticides."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Remove borer affected tillers and late formed tillers. Tie cane shoots together. Use foliar spray to control early shot borer."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Drain out water from the field to prevent wilting. Use appropriate pesticides and fungicides to control pests.",
+            "To control Fruit and shoot borer in Brinjal and Okra, use Neem based pesticide and alternate sprays."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Stock Carp in the recommended ratio for better growth. Use specified feed and supplements to increase benefits. Vaccinate animals against common diseases."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

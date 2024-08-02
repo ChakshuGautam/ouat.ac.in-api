@@ -1,0 +1,124 @@
+{
+   "weather_details": {
+      "31/07/2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 71,
+         "wind_speed": 12,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "01/08/2024": {
+         "rainfall": 10,
+         "t_max": 27,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 63,
+         "wind_speed": 8,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "02/08/2024": {
+         "rainfall": 15,
+         "t_max": 27,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 56,
+         "wind_speed": 6,
+         "wind_direction": 240,
+         "cloud_cover": 8
+      },
+      "03/08/2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 63,
+         "wind_speed": 7,
+         "wind_direction": 242,
+         "cloud_cover": 8
+      },
+      "04/08/2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "arhar",
+      "ragi",
+      "maize",
+      "groundnut",
+      "ginger",
+      "turmeric",
+      "vegetables"
+   ],
+   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare a well cultivated dry bed for paddy transplantation.",
+            "Sow 20 kg seeds in 10 decimal area.",
+            "Apply 4 kg urea for 10 decimal area.",
+            "Go for field preparation and close all openings in the field."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Treat seeds with Rhizobium and Carbendazim before sowing.",
+            "Select good varieties like IP-02-14, Pant-19."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Choose quality seeds like Upas-120, ICPl 86012.",
+            "Opt for early to medium duration Arhar varieties."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Select varieties like Arjuna, Kalua, Sriprava.",
+            "Prepare land and sow seeds after good rainfall."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties like Kalinga Maize, Prabal.",
+            "Apply basal dose of NPK after land preparation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Select varieties like Dharani, Smruti, Kadri-6.",
+            "Treat seeds with Vitavax power and Rhizobium culture.",
+            "Apply FYM, gypsum, and NPK during land preparation."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Drain excess water from the field before planting."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Ensure excess water drainage before planting."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "In case of pest issue, use pheromone traps or neem-based pesticides.",
+            "Consider off-season vegetable cultivation like cauliflower."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

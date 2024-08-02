@@ -1,0 +1,150 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 279,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 74,
+         "wind_speed": 8,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 80,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 77,
+         "wind_speed": 13,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      },
+      "04-08-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 67,
+         "wind_speed": 12,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "greengram",
+      "blackgram",
+      "chilli",
+      "lady finger",
+      "okra",
+      "brinjal",
+      "cowpea",
+      "bitter gourd"
+   ],
+   "general_advisory": "Due to low pressure, a good amount of rainfall is expected in next 5 days. Farmers are advised to complete their transplanting activities. Prepare bundles to store rainwater. Make drainage channels for removal of excess water. Postpone the spraying of fertilizers and pesticides for next 4-5 days. Drain out excess water from the root zone.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Complete the transplanting process in paddy.",
+            "Make bunds to store rainwater in the field.",
+            "Take 18-21 days old seedlings for transplanting.",
+            "Monitor the field for blast diseases and stem rot.",
+            "For blast diseases, spray Hexaconazole 5% EC.",
+            "For stem rot, spray Carbendazim 50% WP."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Earthing up by the soil should be done after the application of Urea.",
+            "Make drainage channel and remove excess water from the root zone.",
+            "For turcicum leaf blight, spray Propiconazole 25% EC.",
+            "For fall army worm, spray Emamectin benzoate 5% SG.",
+            "For aphids, spray Imidacloprid."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Remove excess water from the field.",
+            "Spray Imidacloprid to manage thrips and aphids.",
+            "Remove weeds and keep the field clean.",
+            "For Yellow vein mosaic virus, spray Imidacloprid 17.8 SL."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Remove excess water from the field.",
+            "Spray Imidacloprid to manage thrips and aphids.",
+            "Remove weeds and keep the field clean.",
+            "For Yellow vein mosaic virus, spray Imidacloprid 17.8 SL."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Keep the field clean.",
+            "To control Chilli thrips, spray Malathion or Imidachloprid 17.8 SL.",
+            "For leaf blight in Chilli, spray carbendazim or Mancozeb fungicides."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "Drain out excess water from the field.",
+            "Apply Mancozeb or Thiram to manage Fusarium wilt.",
+            "For cercospora leaf spot, spray Copper oxychloride.",
+            "For Yellow vein mosaic virus, spray Quinalphos 25EC."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Avoid waterlogging to prevent rotting.",
+            "Examine the crop for any disease and pests.",
+            "For fruit and shoot borer, remove the affected terminal shoots.",
+            "For powdery mildew disease, spray Dinocap or Carbendazim."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Avoid waterlogging to prevent rotting.",
+            "Examine the crop for any disease and pests.",
+            "For fruit and shoot borer, remove the affected terminal shoots.",
+            "Keep the root zone weed free."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Spray Imidacloprid to manage Thrips, ants, and other sucking pests.",
+            "Spray Carbendazim or Mancozeb to control leaf blight.",
+            "For Gundhi bug infestation, spray Malathion."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "In case of aphid infestation, spray Imidacloprid.",
+            "For beetles, fruit flies, and caterpillars, spray Malathion or Dimethoate.",
+            "For powdery mildew disease, spray Dinocap or Carbendazim."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

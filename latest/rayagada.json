@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "2024-07-27": {
+         "rainfall": 20,
+         "t_max": 27,
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 79,
+         "wind_speed": 14,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "2024-07-28": {
+         "rainfall": 10,
+         "t_max": 27,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 70,
+         "wind_speed": 12,
+         "wind_direction": 285,
+         "cloud_cover": 8
+      },
+      "2024-07-29": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 68,
+         "wind_speed": 10,
+         "wind_direction": 270,
+         "cloud_cover": 7
+      },
+      "2024-07-30": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 69,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "2024-07-31": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 73,
+         "wind_speed": 11,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "chicken"
+   ],
+   "general_advisory": "Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangements. In heavy rainfall areas, stop the sowing of seeds and top dressing of fertilizers or herbicides for time being.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Start land preparation for transplanting paddy with 3-4 week old seedlings. Apply 2t FYM before final land preparation and 25kg DAP with10kg MOP before transplanting in short duration varieties and 35 kg DAP with 13 kg MOP in medium and long duration varieties per acre area"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "The crop is at germination to three-week stage. Carry out hoeing, weeding and 1st top dressing followed by earthing up at three to four -week stage of crop observing the soil moisture. Apply 26kg urea with 20kg MOP in hybrids and 20kg urea with 15kg MOP in high-yielding varieties"
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "In rainy season chicken might experience Coccidiosis, give Coccidiostat in chicken feed with recommendation of nearest veterinary expert."
+         ]
+      }
+   },
+   "date": "26-07-2024"
+}

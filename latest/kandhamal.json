@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "31-07-2024": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 73,
+         "wind_speed": 11,
+         "wind_direction": 257,
+         "cloud_cover": 7
+      },
+      "01-08-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 90,
+         "rh_min": 70,
+         "wind_speed": 14,
+         "wind_direction": 270,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 69,
+         "wind_speed": 14,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 74,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "04-08-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 69,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "ragi",
+      "maize",
+      "turmeric",
+      "tomato",
+      "brinjal",
+      "pumpkin",
+      "cattle rearing",
+      "chickens"
+   ],
+   "general_advisory": "Seeing the alternating rainfall and rainless period farmers are hereby advised to keep the rain water standing on the rice field by raised bund after transplanting. Farmers should halt sowing seeds like maize to prevent rotting and germination failure or they can sow the seeds by making the ridge. Drain out excess water from vegetable fields to protect the seedlings from rotting. Chickens and cattle should be provided with a dry environment in the prevailing rainy season.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Stage - Transplanting. Blast disease may occur due to alternate drying and wetting condition. Spray Tricyclazole@0.7gram/liter and NSKE (neem seed kernel extract) at 15 days interval regularly."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Stage - nursery/transplanting. Disease - ragi blast. Spray tricyclazole@0.7gram/liter in the field. Finger millet nursery bed should be prepared in raised bed or it can be planted as direct seeded. Make provision to drain out excess water from the main field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Stage - later Knee height. Earthing up can also be done with Nitrogen @30kg/ha application at knee height stage."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Stage - vegetative/early flowering. During the peak vegetative growth period of turmeric, weeding is necessary to reduce the crop weed competition and better yield at a later stage."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Stage - transplanting/ early vegetative. Drain out excess water from the recently transplanted seedling fields to avoid root rotting. Keep the field sanitized after the rain recedes. Cover the nursery bed at early vegetative stage with polythene sheets."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Stage - transplanting/ early vegetative. Drain out excess water from the recently transplanted seedling fields to avoid root rotting. Keep the field sanitized after the rain recedes. Cover the nursery bed at early vegetative stage with polythene sheets."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Stage - vegetative/early fruiting. To control Downy Mildew disease in pumpkin, spray Carbendazim 12 % + Mancozeb 63 % WP @ 2 -gram/liter or Copper Hydroxide 77 % WP @ 3 -gram/liter."
+         ]
+      },
+      "cattle rearing": {
+         "advisory": [
+            "Suitable dry bedding materials should be provided during the rainy season. Dry fodder, dry paddy straw, and thick jute gunny bags need to be provided as bedding material for livestock."
+         ]
+      },
+      "chickens": {
+         "advisory": [
+            "Provide the chickens with a dry condition during the rainy season. Regularly vaccinate the chicks."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

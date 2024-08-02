@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "31/07/2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 67,
+         "wind_speed": 18,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "01/08/2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 26,
+         "rh_max": 82,
+         "rh_min": 69,
+         "wind_speed": 19,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "02/08/2024": {
+         "rainfall": 7,
+         "t_max": 31,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 69,
+         "wind_speed": 19,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "03/08/2024": {
+         "rainfall": 6,
+         "t_max": 32,
+         "t_min": 28,
+         "rh_max": 80,
+         "rh_min": 68,
+         "wind_speed": 18,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "04/08/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 29,
+         "rh_max": 80,
+         "rh_min": 68,
+         "wind_speed": 19,
+         "wind_direction": 216,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "black gram",
+      "green gram",
+      "cucurbits",
+      "banana",
+      "fishery"
+   ],
+   "general_advisory": "Crop Stage Advisory Paddy sowing to Tillering stage: Weed management...",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Weed management: To control weed infestation in Paddy field use pre-emergence herbicide Pretilachlor 37 % EW @ 600ml/acre...",
+            "Fertilizer management: For high yielding paddy varieties, apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage. For hybrids apply 42-kg of Urea per acre at 3 weeks after transplanting at active tillering stage..."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Integrated pest management strategies should be followed to prevent both Whitefly infestation and YMV disease incidence starting from sowing of seeds...",
+            "Select YMV disease resistant varieties like PDM 139, PDM 11 etc...",
+            "To prevent whitefly infestation seeds should be treated with Imidacloprid @ 5-gram/kg of seeds before sowing...",
+            "Install 10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop till pod maturity..."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Integrated pest management strategies should be followed to prevent both Whitefly infestation and YMV disease incidence starting from sowing of seeds...",
+            "Select YMV disease resistant varieties like PDM 139, PDM 11 etc...",
+            "To prevent whitefly infestation seeds should be treated with Imidacloprid @ 5-gram/kg of seeds before sowing...",
+            "Install 10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop till pod maturity..."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "After heavy rainfall, Semilooper pest incidence is common in Cucurbits like Ridge gourd and snake Guard...",
+            "Go for spraying of neem-based pesticide (Neem Oil 15000 PPM) Azadiractin @ 600 ml/acre or Bacillus Thuringiensis @ 400 gm/acre by mixing it in 200-litre of water...",
+            "To manage the pest biologically use Trichogramma chilonis card (50,000 eggs/ha) @ 1/acre at weekly interval for 5 times by splitting each card into 12 pieces at the given perforations...",
+            "To manage the pest chemically, spray AlphaCyhalothrin @ 50-ml/acre or Thiachloprid @ 120 ml/acre during afternoon hours by mixing it with 200 litres of water..."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Provide staking and make provision for drainage. To manage panama wilt, select disease-free planting material and resistant cultivar like Bantal, Robusta, Champa, Kabuli etc...",
+            "Banana suckers should be dipped with a solution of Carbendazim @ 10-gram/10-litre of water before planting followed by bimonthly drenching of soil around the pseudostem starting from 5 months after planting..."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Heavy rainfall may decrease the salinity of water in the pond. Farmers are advised to apply alky-dimethyl-benzyl ammonium chloride (3ppm) as a disinfectant after cessation of rain...",
+            "Bamboo or nylon mesh screens should be erected at the inlets and outlets to prevent loss and entry of unwanted fish...",
+            "Nylon nets may be erected on bunds to prevent loss of fish with overflowing water..."
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

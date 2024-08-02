@@ -1,0 +1,51 @@
+{
+   "weather_details": {
+      "2022-11-01": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "2022-11-02": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 200,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "wheat",
+      "corn",
+      "cattle"
+   ],
+   "general_advisory": "It is recommended to plant wheat and corn during this season. Ensure proper care for the cattle.",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "Plant wheat seeds at the recommended depth",
+            "Ensure proper irrigation for wheat growth"
+         ]
+      },
+      "corn": {
+         "advisory": [
+            "Plant corn seeds in well-drained soil",
+            "Protect corn plants from pests and diseases"
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Provide sufficient fodder and water to the cattle",
+            "Keep cattle sheltered during extreme weather conditions"
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}

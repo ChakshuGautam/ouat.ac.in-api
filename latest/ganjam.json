@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "2024-07-24": {
+         "rainfall": 25,
+         "t_max": 28,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 67,
+         "wind_speed": 15,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "2024-07-25": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 72,
+         "wind_speed": 17,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "2024-07-26": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 27,
+         "rh_max": 78,
+         "rh_min": 73,
+         "wind_speed": 15,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "2024-07-27": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 27,
+         "rh_max": 82,
+         "rh_min": 65,
+         "wind_speed": 13,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "2024-07-28": {
+         "rainfall": 30,
+         "t_max": 30,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 63,
+         "wind_speed": 10,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "maize",
+      "groundnut",
+      "finger millet",
+      "rice"
+   ],
+   "general_advisory": "A depression area is likely to form in the Bay of Bengal because of which heavy rain is expected in the coming five days. As sufficient rain is expected farmers can go for sowing and nursery preparation of kharif vegetables after rain cessation. Postpone spray of agro-chemicals and fertilizer application.",
+   "crops_data": {
+      "maize": {
+         "advisory": [
+            "As sufficient moisture is received during the five days farmers who have not sown maize crop till now can go for sowing of maize in proper moisture condition. Make drainage arrangement in standing crop field."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Collect good varieties like Dharani, Kadri-9, TAG-24, Kalinga Chinabadam. Seed rate is 50 kg seeds /ac. Treat the seeds before sowing with Rhizobium @ 30 g/kg seed after fungicide treatment. Spacing is 30 X 10 cm. After final land preparation apply 2 t FYM, 100 kg Gypsum, 4 kg Urea, 35 kg DAP , and 26 kg potash as basal dose."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "Use quality seeds like Arjuna, Kalua, Bhairavi, Chilika and seed rate is 1.5 kg for SMI methods, 2.5 Kg for line sowing and 4 kg/ac for broadcasting. Apply 10 g N and 10 g P per sq meter of nursery . For direct sowing apply 4 t FYM/ac. The fertilizer dose is 50:25:25 kg NPK/ha. To protect from termites apply 10 kg Chlorpyriphos at final preparation of the field."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "As sufficient rain is received farmers can go for transplanting of rice in the main field."
+         ]
+      }
+   },
+   "date": "23-07-2024"
+}

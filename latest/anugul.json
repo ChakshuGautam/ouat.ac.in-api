@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "30-07-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 62,
+         "wind_speed": 11,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "31-07-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 92,
+         "rh_min": 71,
+         "wind_speed": 12,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "01-08-2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 76,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "02-08-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 76,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "03-08-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 68,
+         "wind_speed": 10,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "tomato",
+      "okra/ladyfinger",
+      "cow"
+   ],
+   "general_advisory": "Adequate drainage facilities in the nursery beds should be provided. When there is raining, cover the nursery bed with white polythene film, avoid black polythene cover as the seedlings grow tall under it. Preferably use 30-45 days old seedlings with 4-5 seedlings/hill to minimize the mortality of seedlings after transplanting and maintenance of optimum plant population.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply 800-gram Cartap Hydrochloride 4%G or 400-gram Chlorantraniliprole 0.4% G for 10 decimal nursery area 7 days before transplanting to manage gall midge, stem borer, caseworm, leaf folder and root knot nematode up to 3 weeks after transplanting."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To manage fruit borer in tomato first collect and destroy the affected fruits and grown up larvae. Set up 20 nos. of pheromone trap having Helilure per acre. During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600- ml/acre by mixing in 200-litre of water. Go for spraying of insecticide if there are 10% fruits infested with borer. For chemical control spray Chlorantraniliprole 18.5% S.C @ 80 -ml/acre or Flubendiamide 39.5 % M/M S.C @ 40-ml/acre or Indoxacarb 14.5% S.C. @ 200-ml/acre. For spraying of insecticides 200 litre of water per acre is required. Use any of the above insecticides alternately at 15 days interval.(go for application when weather is clear)"
+         ]
+      },
+      "okra/ladyfinger": {
+         "advisory": [
+            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra due to present weather condition. To manage these pests at early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @600- ml/acre by mixing it in 200- litre of water. To manage these sucking pests chemically spray Thiamethoxam 25 % WG @ 40-gram/acre in 200-litre of water.(go for application when weather is clear)"
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide sufficient clean drinking water to animals. Don't feed wet or water soaked straw to cattle. Before feeding dry it well under Sun. Animal's shed and its floor should not remain wet and cool for longer periods of time"
+         ]
+      }
+   },
+   "date": "30-07-2024"
+}
