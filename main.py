@@ -34,6 +34,7 @@ async def save_response(results,districts_data,temp_dir):
         
         response = await remove_empty_crops(response)
             
+        os.makedirs("latest", exist_ok=True)
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
 
@@ -70,7 +71,8 @@ async def refine_response(inconsistent):
             inconsistent_districts.append(district)
         
         response = await remove_empty_crops(response)
-            
+        
+        os.makedirs("latest", exist_ok=True)
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
 
