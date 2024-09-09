@@ -66,7 +66,7 @@
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "Due to Forecast of Light to Moderate rainfall from 7th Sept. Farmers are advised to don't apply fertilizer & chemical during this period.",
+   "general_advisory": "Due to forecast of light to moderate rainfall, farmers are advised not to apply fertilizer and chemicals during this period. Strengthen the bunds of paddy fields and check for any rat holes or leakage. Keep the bund clean to avoid insect multiplication.",
    "crops_data": {
       "paddy": {
          "advisory": [
@@ -75,12 +75,12 @@
       },
       "pulses": {
          "advisory": [
-            "After rain there is chances of mealy bug attack, to manage this spray Dimethoate @ 2 ml/liter of water."
+            "After rain, there is a chance of mealy bug attack, to manage this spray Dimethoate @ 2 ml/liter of water."
          ]
       },
       "direct sown paddy": {
          "advisory": [
-            "Maintain 2 inches of water till grand growth stage. Go for regular survey of the crop for any insect pest infestation."
+            "Maintain 2 inches of water till grand growth stage. Go for regular survey for any insect pest infestation."
          ]
       },
       "ragi": {
@@ -90,17 +90,17 @@
       },
       "sesamum": {
          "advisory": [
-            "In upland, go for sowing sesamum. Good varieties are Amrit, GT 10, Kanak, Kalika, Prachi @ 2-3 kg/acre. Go for line sowing at spacing 30 cm X 10 cm. At final land preparation, apply basal fertilizer dose @ 6 kg Nitrogen, 8 kg Phosphorus, and 8 kg potas per acre."
+            "In upland, go for sowing sesamum. Good varieties are Amrit, GT 10, Kanak, Kalika, Prachi @ 2-3 kg/acre. Go for line sowing at spacing 30cm X 10cm. At final land preparation, apply basal fertilizer dose @ 6 kg Nitrogen, 8 kg Phosphorus, and 8 kg potash per acre."
          ]
       },
       "maize": {
          "advisory": [
-            "Due to weather there is chances of Aphids in Maize, to manage this, apply Dimethoate @ 2 ml/liter of water."
+            "Due to weather, there is a chance of Aphids in Maize. To manage this, apply Dimethoate @ 2 ml/liter of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Due to weather Leaf blight disease is seen, to manage this spray Mancozeb @ 4 ml/liter of water."
+            "Due to weather, Leaf blight disease is seen. To manage this, spray Mancozeb @ 4 ml/liter of water."
          ]
       },
       "turmeric": {
@@ -110,12 +110,12 @@
       },
       "mango": {
          "advisory": [
-            "Provide staking to the newly planted saplings to avoid from wind damage. Go for intercropping with pulses in newly developed orchard."
+            "Provide staking to the newly planted saplings to avoid wind damage. Go for intercropping with pulses in newly developed orchard."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Due to weather there is chances of Brinjal Fruit & Shoot Borer attack, to manage this apply T. chilonis @ 20000 per acre."
+            "Due to weather, there is a chance of Brinjal Fruit & Shoot Borer attack. To manage this, apply T. chilonis @ 20000 per acre."
          ]
       },
       "papaya": {

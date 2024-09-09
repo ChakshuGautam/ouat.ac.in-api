@@ -64,12 +64,12 @@
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread rain/thundershower is very likely over districts of Odisha during the week -1 (6th - 12th September, 2024) with isolated heavy rainfall very likely in the districts of South Odisha on 6th Sept; isolated heavy to very heavy rainfall very likely in the districts of South Odisha on 7th Sept; isolated heavy to very heavy rainfall very likely in the districts of Central Odisha on 8th Sept, heavy rainfall very likely over the districts of north Odisha on 9th and 10th Sept. Scattered to fairly widespread rain/thundershower very likely in the district of Odisha state during week 2 (13th - 19th September, 2024). In view of five days weather forecast received from IMD, farmers are advised to withhold application of fertilizers and plant protection chemicals for the time being. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. To prevent this, ensure proper rotation between insecticides and use mixtures. Use light trap to monitor insect population so that timely control measure can be taken. SMS Advisory - Apply Urea @ 25kg/ac if crop is at tasseling stage (9 week) in Maize.",
+   "general_advisory": "Fairly widespread rain/thundershower is very likely over districts of Odisha during the week 1 (6th - 12th September, 2024) with isolated heavy rainfall.",
    "crops_data": {
       "direct seeded paddy": {
          "advisory": [
-            "Farmers are advised to spray of leaf extracts of Bael, Tulsi, or Neem per litre of water for reducing the incidence of insects & diseases.",
-            "Spray Tebuconazole + Trifloxystrobin or Isoprothiolane for blast infestation."
+            "Farmers are advised to spray of leaf extracts of Bael or Tulsi or Neem per litre of water for reducing the incidence of insects & diseases.",
+            "If leaf blast is observed, spray Tebuconazole 50% + Trifloxystrobin 25% WG (Nativo) for control."
          ]
       },
       "transplanted paddy": {
@@ -80,55 +80,55 @@
       },
       "cotton": {
          "advisory": [
-            "Application of plant hormone Planofix for improving seed cotton yield.",
+            "Apply plant hormone Planofix for improving seed cotton yield.",
             "Apply total killer herbicide glyphosate or Glufosinate Ammonium for weed control."
          ]
       },
       "arhar": {
          "advisory": [
-            "Spray Profenophos or Chlorpyriphos for leaf webber infestation.",
-            "Monitor field regularly for pest infestation and spray neem-based pesticide for sucking pests."
+            "To control leaf webber infestation, spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC.",
+            "Monitor field regularly for pests and apply neem-based pesticide at initial stage of infestation."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Apply Urea if crop is at tasseling stage and monitor field for pests.",
-            "For effective control of stem borer, spray Fipronil or Profenophos."
+            "Apply Urea at tasseling stage if water is insufficient.",
+            "Monitor field regularly for pests like stem borer and banded leaf and sheath blight."
          ]
       },
       "brinjal": {
          "advisory": [
             "Install yellow sticky trap to monitor sucking pests.",
-            "Spray Tebuconazole at the root zone for wilting."
+            "Spray Tebuconazole to control wilting."
          ]
       },
       "chilli": {
          "advisory": [
             "Install Blue sticky trap to monitor thrips infestation.",
-            "Spray neem-based pesticide for thrips control."
+            "Spray neem based pesticide for thrips control."
          ]
       },
       "tomato": {
          "advisory": [
-            "Now is suitable time for raising tomato seedlings.",
-            "Apply recommended seed rate and plant varieties."
+            "Now is a suitable time for raising tomato seedlings.",
+            "Choose suitable varieties like Utkal Kumari, Utkal Deepti, Utkal Raja, Utkal Pragyan, and Swarna Sampad."
          ]
       },
       "cow & buffalo": {
          "advisory": [
-            "Provide concentrate for adequate dry matter intake during rainy days."
+            "Provide 1 kg of concentrate for every 2 kg of milk to dairy animals due to high moisture content in grasses."
          ]
       },
       "goat & sheep": {
          "advisory": [
             "Keep dry fodder and straw ready for sheep and goat in rainy season.",
-            "Ensure balanced concentrate one month prior to kidding or lambing."
+            "Ensure balanced concentrate feeding one month prior to kidding and lambing."
          ]
       },
       "poultry": {
          "advisory": [
             "Clean poultry houses daily and change feed and water frequently.",
-            "Dispose of dead poultry birds properly to prevent disease spread."
+            "Do not bring poultry birds or eggs from affected areas to home."
          ]
       }
    },

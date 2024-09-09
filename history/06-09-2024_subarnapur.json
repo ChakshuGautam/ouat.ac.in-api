@@ -1,0 +1,95 @@
+{
+   "weather_details": {
+      "07-09-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 50,
+         "wind_speed": 7,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "08-09-2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 54,
+         "wind_speed": 6,
+         "wind_direction": 289,
+         "cloud_cover": 7
+      },
+      "09-09-2024": {
+         "rainfall": 20,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 65,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "10-09-2024": {
+         "rainfall": 25,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "11-09-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 15,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "vegetable crops",
+      "banana",
+      "cow/buffalo"
+   ],
+   "general_advisory": "There is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places with thunderstorm and lightning in upcoming days. Farmers are advised to wait some days for irrigation and spraying operations should be conducted before that. Keep animals away from any electrical equipment. Prevailing weather conditions are favorable for various diseases and sucking insect pest attacks in different crops, so regular monitoring is advised.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In case of no rainfall condition, farmers should apply one irrigation at this stage to maintain 5 cm water level in rice field.",
+            "After rainfall, there may be a chance of infestation of sheath blight and sheath rot disease in rice field, so to control these diseases farmers should spray Trifloxystrobin 25% + Tebuconazole 50% WG @ 80 g or other specified chemicals."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control flower drop in cotton crop, application of Planofix @ 90 ml in 200 liters of water per acre after 60-65 days after sowing of seed.",
+            "To control sucking insect pest attack in cotton crop, application of Neem based pesticide like Neem oil @ specified amount should be advised at specified crop stage."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "If sucking insect pest attack is noticed, then spraying of specified chemicals should be advised.",
+            "For controlling some diseases like wilt, root rot etc., farmers should use Carbendazim @ 2g or copper oxicloride @ 3ml per liter water under specified conditions."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Prevailing weather condition is favorable for thrip attack in Banana plant, so specified control measures should be taken.",
+            "For chemical control, spraying of Diafenthiuron 50% WP @ 2g per liter should be advised."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Mastitis disease is observed in some animals at present condition, so preventive and control measures like specified applications and practices should be taken to control this disease.",
+            "Fresh water availability should be ensured in the farm for better health and production of animals."
+         ]
+      }
+   },
+   "date": "06-09-2024"
+}

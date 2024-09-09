@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "2024-09-07": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 70,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "2024-09-08": {
+         "rainfall": 25,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 71,
+         "wind_speed": 8,
+         "wind_direction": 288,
+         "cloud_cover": 8
+      },
+      "2024-09-09": {
+         "rainfall": 30,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 95,
+         "rh_min": 76,
+         "wind_speed": 9,
+         "wind_direction": 288,
+         "cloud_cover": 8
+      },
+      "2024-09-10": {
+         "rainfall": 35,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 94,
+         "rh_min": 75,
+         "wind_speed": 11,
+         "wind_direction": 288,
+         "cloud_cover": 8
+      },
+      "2024-09-11": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 73,
+         "wind_speed": 13,
+         "wind_direction": 270,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cotton",
+      "pumpkin",
+      "cow",
+      "chicken"
+   ],
+   "general_advisory": "Maintain 2-3 cm standing water during tillering stage in paddy. Do not practice Beushaning in rice, if the crop is more than 45 days old.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "To manage Blast disease, spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 1 1.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre. To manage Leaf Folder and Case Worm pests in paddy spray Bifenthrin 10% EC @ 200 ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 1 1.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Due to high temperature and humidity, there are reports of incidence of sucking pest like Aphids and Jassids in Cotton crop. Go for regular monitoring of the crop for incidence of pest and diseases. If there is infestation of sucking pest like Aphids and Jassids cotton crop go for spraying of neem-based pesticide (Neem Oil 1500 PPM) @600-ml/acre by mixing it in 200-litre of water. Use yellow sticky trap @ 8/acre. If the sucking pest population found to be above ETL, spray Flonicamid 50% WG @ 60-gram/acre or Thiamethoxam 25% WG @ 40-gram /acre or Dinotefuran 20 % SG @ 80-gram/ acre."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "After heavy rainfall, Semilooper pest incidence is common in Cucurbits like Ridge gourd and snake Guard. Go for spraying of neem-based pesticide (Neem Oil 15000 PPM) Azadiractin @ 600 ml/acre or Bacillus Thuringiensis @ 400 gm/acre by mixing it in 200-litre of water. To manage the pest chemically, spray AlphaCyhalothrin @ 50-ml/acre or Thiachloprid @ 120 ml/acre during afternoon hours by mixing it with 200 litres of water."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Keep barns well-ventilated and leak-free to prevent moisture buildup and harmful fungi growth. Vaccinate cows & buffalo against FMD, HS & BQ and establish a deworming plan to control internal parasites in moist environments."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, droppings of birds. Sometimes it can spread from affected birds to human beings. During this time please clean poultry houses every day and change the feed and water of poultry birds frequently. Don’t throw the dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitise the place with bleaching powder. Don’t bring poultry birds or eggs to home from the affected area."
+         ]
+      }
+   },
+   "date": "06-09-2024"
+}

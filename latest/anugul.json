@@ -1,6 +1,6 @@
 {
    "weather_details": {
-      "2024-09-07": {
+      "06-09-2024": {
          "rainfall": 10,
          "t_max": 33,
          "t_min": 24,
@@ -10,7 +10,7 @@
          "wind_direction": 135,
          "cloud_cover": 5
       },
-      "2024-09-08": {
+      "07-09-2024": {
          "rainfall": 12,
          "t_max": 32,
          "t_min": 23,
@@ -20,7 +20,7 @@
          "wind_direction": 112,
          "cloud_cover": 7
       },
-      "2024-09-09": {
+      "08-09-2024": {
          "rainfall": 20,
          "t_max": 30,
          "t_min": 21,
@@ -30,7 +30,7 @@
          "wind_direction": 236,
          "cloud_cover": 8
       },
-      "2024-09-10": {
+      "09-09-2024": {
          "rainfall": 25,
          "t_max": 29,
          "t_min": 21,
@@ -40,7 +40,7 @@
          "wind_direction": 249,
          "cloud_cover": 8
       },
-      "2024-09-11": {
+      "10-09-2024": {
          "rainfall": 10,
          "t_max": 31,
          "t_min": 22,
@@ -59,12 +59,12 @@
    "crops_data": {
       "rice": {
          "advisory": [
-            "The transplanted paddy is at one to five week stage in main field. The direct seeded crop is at seven to nine week stage. The minimum temperature and relative humidity is favorable for out break of blast disease. To Manage Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-ml/acre or Azoxystrobin + Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre. After receding of rain water there is chance of infestation Swarming Caterpillar in paddy . To manage this spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre. As the pest is nocturnal in behavior spraying of pesticide should be done in the evening hours for better result. (go for application when weather is clear)"
+            "The transplanted paddy is at one to five week stage in the main field. The direct seeded crop is at seven to nine-week stage. The minimum temperature and relative humidity are favorable for the outbreak of blast disease. To manage Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-ml/acre or Azoxystrobin + Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre. After receding of rainwater, there is a chance of infestation Swarming Caterpillar in paddy. To manage this spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre. As the pest is nocturnal in behavior, spraying of pesticide should be done in the evening hours for better results. (go for application when the weather is clear)"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Wilting in Brinjal might be triggered in rainy season due to high soil moisture and high humidity . Destroy the infested plant as well as residue by burning , disinfect the tool before going to another field. Provide good drainage to the field. For chemical treatment use Streptocyclin 6g + Bavistin 15 g for soil drenching in 15 litre of water . (go for application when weather is clear)"
+            "Wilting in Brinjal might be triggered in the rainy season due to high soil moisture and high humidity. Destroy the infested plant as well as residue by burning, disinfect the tool before going to another field. Provide good drainage to the field. For chemical treatment use Streptocyclin 6g + Bavistin 15 g for soil drenching in 15 liters of water. (go for application when the weather is clear)"
          ]
       }
    },

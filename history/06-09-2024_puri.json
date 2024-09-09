@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "07/09/2024": {
+         "rainfall": 20,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 67,
+         "wind_speed": 13,
+         "wind_direction": 105,
+         "cloud_cover": 8
+      },
+      "08/09/2024": {
+         "rainfall": 25,
+         "t_max": 31,
+         "t_min": 26,
+         "rh_max": 85,
+         "rh_min": 69,
+         "wind_speed": 13,
+         "wind_direction": 75,
+         "cloud_cover": 8
+      },
+      "09/09/2024": {
+         "rainfall": 30,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 71,
+         "wind_speed": 13,
+         "wind_direction": 338,
+         "cloud_cover": 8
+      },
+      "10/09/2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 82,
+         "rh_min": 68,
+         "wind_speed": 17,
+         "wind_direction": 283,
+         "cloud_cover": 7
+      },
+      "11/09/2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 70,
+         "wind_speed": 18,
+         "wind_direction": 249,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "vegetables",
+      "tomato",
+      "papaya",
+      "banana"
+   ],
+   "general_advisory": "Puri district is likely to receive light to moderate rainfall for the next five days. Keeping rainfall forecast in mind, farmers are advised not to do any type of spray and do proper drainage management in pulse crops and vegetable nurseries.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Tillering to Panicle Initiation Swarming Caterpillar: After receding of rain water there is a chance of infestation of Swarming Caterpillar. To manage this, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Vegetative Fall Army Worm: Rainfall after a dry spell may aggravate infestations of fall army worm in maize. To manage the pest, spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200-liter of water."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Nursery Damping off disease: There are chances of damping off disease in vegetable nurseries like tomato, brinjal, and chili. To manage it, drench nursery bed with 2-gram Captan/liter of water or 2.5-gram Copper Oxychloride/liter of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "September is the optimum time for nursery raising of tomato. Grow resistant varieties like BT-2, BT-10, BT-12, Niladri, Sadabahar, Madhuri, Maharathi, Rasmi, Naveen, etc."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Vegetative to Fruiting Crown rot: To control papaya Crown rot, spray Copper Oxychloride @3 g/liter of water or Carbendazim @1 g/liter or Thiophanate Methyl @1 g/liter at 15 days intervals."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Vegetative to Fruiting Leaf spot or Sigatoka: Provide drainage. Give staking to plants. For Sigatoka disease, spray Mancozeb 75% WP (@ 400-g or Zineb 75% WP @ 400g or Carbendazim 12% + Mancozeb 63% WP @ 400g per acre with 200-liter of water as a precautionary measure."
+         ]
+      }
+   },
+   "date": "06-09-2024"
+}

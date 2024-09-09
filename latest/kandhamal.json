@@ -61,14 +61,14 @@
       "ginger",
       "poultry"
    ],
-   "general_advisory": "For better agriculture benefits use, OUAT KALINGA products ( Seedling, Sampling & QPM, Tissue Culture Plants, Fruits and Vegetables, Value added products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushroom and Spawns, Bio -fertilizers, Bio -pesticides, Vermi & Vermi Compost).",
+   "general_advisory": "Seeing the wind pesticide application may be delayed or sprayed along the wind direction if required. Staking should be done in crops like maize (earthing up) and in fruit crops to prevent them from toppling. It is important to keep the rainwater in the rice field to protect it from various diseases. Drain out excess of rainwater from the vegetable fields to protect from root rot and other diseases. Sheds of cattle and goats should be clean and provide fresh feeds and water.",
    "crops_data": {
       "brinjal": {
          "advisory": [
             "Stage - Fruiting",
             "Wilting",
             "Drain out excess of water after the rainfall.",
-            "Apply Plantomycin  @ 2gram/liter along with Tebuconazole@ 1gram/liter"
+            "Apply Plantomycin @ 2gram/liter along with Tebuconazole@ 1gram/liter"
          ]
       },
       "okra": {
@@ -77,35 +77,34 @@
             "Shoot and fruit borer",
             "Set up pheromone trap @ 12/ha.",
             "Collection and destruction of affected fruits.",
-            "Spray any one of the insecticides Azadirachtin 0.03% WSP (300 ppm)  @ 5.0 g/lit, Buprofezin 70 DF @5.5 ml/10 lit , Quinalphos 25 % EC @ 8.0 ml/10 lit , Emamectin benzoate 5 % SG @3.0 g/10 lit."
+            "Spray Azadirachtin 0.03% WSP (300 ppm) @ 5.0 g/lit, Buprofezin 70 DF @5.5 ml/10 lit, Quinalphos 25% EC @ 8.0 ml/10 lit, Emamectin benzoate 5 % SG @3.0 g/10 lit."
          ]
       },
       "rice": {
          "advisory": [
             "Stage - Tillering",
-            "Blast disease may occur due to alternate drying and wetting condition so it is necessary to keep standing water in rice field.",
-            "Spray Hexaconazole or Tricyclazole@0.7gram/ liter) at 15 days interval regularly."
+            "Blast disease may occur due to alternate drying and wetting conditions so it is necessary to keep standing water in the rice field.",
+            "Spray Hexaconazole or Tricyclazole@0.7gram/liter) at 15 days interval regularly."
          ]
       },
       "maize": {
          "advisory": [
             "Stage - Tasselling",
-            "To manage the fall army worm pest, spray Emamectin Benzoate 5 % S.G @ 80 -gram/acre or Chlorantraniliprole 18.5% S.C @ 80 -ml/acre by mixing in 200-litre of water.",
-            "Use 10 -12 bird perches per acre and remove them before tasselling stage."
+            "To manage the fall armyworm pest, spray Emamectin Benzoate 5% S.G @ 80-gram/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water",
+            "Use 10-12 bird perches per acre and remove them before tasselling stage."
          ]
       },
       "chilli": {
          "advisory": [
             "Stage - fruiting - fusarium wilt",
-            "Fusarium wilt is characterized by wilting of the plant and upward and inward rolling of the leaves.",
-            "Uproot the infected plants and dispose it safely.",
+            "Uproot the infected plants and dispose of them safely.",
             "Drenching with 1% Bordeaux mixture or blue copper or Fytolan 0.25% may give protection."
          ]
       },
       "niger": {
          "advisory": [
-            "In Niger crop, apply 25% of Nitrogen at pre flowering stage.",
-            "Fertilizer dose is 40:40:20 kg/ha of N PK."
+            "In Niger crop, apply 25% of Nitrogen at pre-flowering stage.",
+            "Fertilizer dose is 40:40:20 kg/ha of NPK."
          ]
       },
       "ginger": {

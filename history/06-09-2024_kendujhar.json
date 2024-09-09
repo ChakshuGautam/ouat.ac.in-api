@@ -1,0 +1,134 @@
+{
+   "weather_details": {
+      "07-09-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 56,
+         "wind_speed": 8,
+         "wind_direction": 198,
+         "cloud_cover": 6
+      },
+      "08-09-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 94,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 69,
+         "cloud_cover": 8
+      },
+      "09-09-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 64,
+         "wind_speed": 8,
+         "wind_direction": 90,
+         "cloud_cover": 8
+      },
+      "10-09-2024": {
+         "rainfall": 20,
+         "t_max": 31,
+         "t_min": 21,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 6,
+         "wind_direction": 75,
+         "cloud_cover": 8
+      },
+      "11-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 7,
+         "wind_direction": 285,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "greengram",
+      "lady finger",
+      "chilli",
+      "pumpkin",
+      "bitter gourd",
+      "banana",
+      "papaya"
+   ],
+   "general_advisory": "Due to the low-pressure formation over Odisha coast, rainfall activities may gear up in upcoming days. Farmers are advised to make bunds to store rainwater and remove excess water from the field. Regularly monitor the field for disease and pests. Insecticides and pesticides spray can be resumed. Spraying activities should be done in early morning or evening hours. Do not spray during bright sunshine hours.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "In upland, before the heading stage, apply 16 kg Urea and 10 kg Potash per acre and in medium and low land, apply 20 kg Urea and 13 kg Potash per acre as a second dose of fertilizer."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Matured fruit should be harvested and kept at safe places.",
+            "The FAW infestation in Keonjhar district has been rising alarmingly.",
+            "To manage the attack of fall army worm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water or 8 g in a drum (15 lt water).",
+            "For managing aphids and other sucking bugs, spray Imidachloprid 17.8% SL @ 2 ml/lt.",
+            "Protect the maize crop from monkeys by providing barbed wire fencing."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Harvest the matured pods.",
+            "Dry it under the sun to reduce its moisture percentage.",
+            "To reduce the sucking bug insects attack, spray Progress Plus (Profenophos+Cypermethrin) @ 1 ml/lt.",
+            "To reduce the infestation of pod borer in green gram and black gram crop, apply flubendiamide 20% @ 150 g or Chlorantrinilipole 0.4% G @ 10 g in 500 litres of water per hectare."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "Harvest the matured fruit and keep them at safe places.",
+            "Yellow vein mosaic virus may spread through whitefly. To manage it, spray Quinalphos 25EC @ 2 lt/ha.",
+            "Fruit and shoot borer can be controlled by spraying Emamectin benzoate @ 4g/10 lt."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Harvest the matured chili and reduce its moisture content through sun-drying.",
+            "To control White fly and Thrips, spray Malathion @ 1 ml/lt or Metasystox @ 2 ml/lt."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Do not allow the fruits to touch the ground as it may lead to rotting of fruits.",
+            "Keep some gunny bag or polythene under the fruits and allow it to grow.",
+            "Alternaria leaf blight can be managed by spraying Carbendazim or Mancozeb @ 2 g/lt.",
+            "Remove the weeds growing near the plants."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Hadda beetle may cause leaf scrapping and defoliation of it. Spray Carbaryl 50 WP @ 3 g/lt.",
+            "To control fruit fly infestation spray Endosulphan @ 6 ml/4.5 lt.",
+            "For managing aphid population, spray with Malathion @ 1ml/lt or Metasystox @ 2 ml/lt."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Application of FYM and vermicompost will help in better plant growth.",
+            "Use of Chloropyriphos or Carbofuran 3G will help to kill the ants and larva of the pests.",
+            "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves.",
+            "If rainfall is deficient and irrigation is possible, one irrigation can be given."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Papaya plant is sensitive to water stagnation. Therefore, remove excess water from the root zone.",
+            "Add or apply vermicompost to the soil for better nutrient availability.",
+            "To control White fly, spray Malathion @ 1 ml/lt or Metasystox @ 2 ml/lt."
+         ]
+      }
+   },
+   "date": "06-09-2024"
+}

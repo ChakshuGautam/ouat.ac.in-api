@@ -58,36 +58,36 @@
       "banana",
       "cow/buffalo"
    ],
-   "general_advisory": "There is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places with thunderstorm and lightning in upcoming days. Farmers are advised to wait some days for irrigation and spraying operations should be conducted before that. Keep animals away from any electrical equipment. Prevailing weather conditions are favorable for various diseases and sucking insect pest attacks in different crops, so regular monitoring is advised.",
+   "general_advisory": "There is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places with thunderstorm and lightning in upcoming days so farmers are advised to wait some days for irrigation and spraying operation should be conducted before that and keep their animal away from any electrical equipment. Prevailing weather condition is favourable for various diseases and sucking insect pest attack in different crops so its regular monitoring should be advised.",
    "crops_data": {
       "rice": {
          "advisory": [
             "In case of no rainfall condition, farmers should apply one irrigation at this stage to maintain 5 cm water level in rice field.",
-            "After rainfall, there may be a chance of infestation of sheath blight and sheath rot disease in rice field, so to control these diseases farmers should spray Trifloxystrobin 25% + Tebuconazole 50% WG @ 80 g or other specified chemicals."
+            "Disease Management: After rainfall, there may be a chance of infestation of sheath blight and sheath rot disease in rice field so to control these diseases farmers should spray Trifloxystrobin 25% + Tebuconazole 50% WG @ 80 g or, Propiconazole 25% @ 200 ml or, Hexaconazole 5 % SC @ 250 ml in 200 litres of water per acre. Repeat the spray at 7-10 days’ interval. In-case of brown spot, spraying of Propiconazole 25 EC @ 1ml or Mancozeb 75 WP or Carbendazim 64% + Mancozeb 8% 75WP @ 1.5 g per litre of water should be advised.",
+            "Pest Management: Keep 3 pheromone traps per acre of rice field for monitoring the stem borer and leaf folder infestations. Whenever the number of male moths/trap reaches 4 or 5, apply Azadirachtin 0.15% EC @ 800 ml/acre or, Chlorantraniliprole 0.4% GR @ 4 kg/acre mixing with sand at 1:1 Gramin Krishi Mausam Sewa India Meteorological Department Orissa University of Agriculture and Technology RRTTS, Chiplima, Sambalpur. Cloudy weather along with high humidity favour the gall midge attack in rice field and mostly observed in late sown crop. Previous weather condition was favourable for the incidence of this insect due to which an onion leaf or silver shoot like structure are formed so for its control farmers should spray thiamethoxam 25% WG @ 40g or Fipronil 5% SC @ 400 ml or Chloropyriphos 20 EC @ 500 ml in 200 liter water per acre in clear and calm weather condition."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control flower drop in cotton crop, application of Planofix @ 90 ml in 200 liters of water per acre after 60-65 days after sowing of seed.",
-            "To control sucking insect pest attack in cotton crop, application of Neem based pesticide like Neem oil @ specified amount should be advised at specified crop stage."
+            "To control the flower drop in cotton crop, application of Planofix @ 90 ml in 200 liters of water per acre after 60 -65 days after sowing of seed.",
+            "To control sucking insect pest (Aphid, Thrips etc.) attack in cotton crop, application of Neem based pesticide like Neem oil @ 600 -800 ml + 200g detergent powder per acre by mixing with 200 liters of water should be advised at 30 -45 days crop stage under clear weather.",
+            "At the initial stage of flowering, farmers should avoid any chemical application in cotton crop."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "If sucking insect pest attack is noticed, then spraying of specified chemicals should be advised.",
-            "For controlling some diseases like wilt, root rot etc., farmers should use Carbendazim @ 2g or copper oxicloride @ 3ml per liter water under specified conditions."
+            "If sucking insect pest attack is noticed, then spraying of thiamethoxam @ 0.2 g or imidacloprid @ 0.33 ml per liter of water should be advised.",
+            "For controlling some diseases like wilt, root rot etc. farmers should use Carbendazim @ 2g or copper oxicloride @ 3ml per liter of water under no rainfall condition."
          ]
       },
       "banana": {
          "advisory": [
-            "Prevailing weather condition is favorable for thrip attack in Banana plant, so specified control measures should be taken.",
-            "For chemical control, spraying of Diafenthiuron 50% WP @ 2g per liter should be advised."
+            "Prevailing weather condition is favourable for thrip attack in Banana plant so at the initial stage cover or wrap the bundle with a jute bag, area should be weed free and use 15 -20 no. of blue sticky card per acre should be advised to control this insect. For chemical control, spraying of Diafenthiuron 50% WP @ 2g per liter (twice at 15 days interval) should be advised."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Mastitis disease is observed in some animals at present condition, so preventive and control measures like specified applications and practices should be taken to control this disease.",
-            "Fresh water availability should be ensured in the farm for better health and production of animals."
+            "Mastitis disease is also observed in some animals at present condition due to which milk production and quality may hamper, so some preventive as well as control measures like pre and post dipping with antiseptic liquids, proper sanitation, preventing wet floor surface, feeding during and just after milking to avoid sitting of animals before closure of teat sphincters, lime application on the resting floor, provide a mixture of 2 lemons and 200g sugar in one liter water at morning and evening hours etc. should be taken to control this disease. Fresh water availability should be ensured in the farm."
          ]
       }
    },

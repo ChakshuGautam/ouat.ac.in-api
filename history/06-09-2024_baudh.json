@@ -1,0 +1,97 @@
+{
+   "weather_details": {
+      "07-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 52,
+         "wind_speed": 7,
+         "wind_direction": 75,
+         "cloud_cover": 6
+      },
+      "08-09-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 57,
+         "wind_speed": 6,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "09-09-2024": {
+         "rainfall": 25,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 95,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 250,
+         "cloud_cover": 8
+      },
+      "10-09-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 12,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "11-09-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 92,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "vegetable crops",
+      "banana",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Farmers are advised to wait for irrigation due to expected rainfall. Disease and pest management should be regularly monitored. Specific advice for different crops and livestock is provided below.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply irrigation to maintain water level in the rice field.",
+            "Implement disease management strategies.",
+            "Monitor and manage pest infestations."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Control flower drop in cotton crop.",
+            "Address sucking insect pest attack.",
+            "Avoid chemical application at initial flowering stage."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Address sucking insect pest attack.",
+            "Use appropriate fungicides for disease control."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Protect banana plants from thrip attack.",
+            "Implement chemical control measures when necessary."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Implement measures to control mastitis disease.",
+            "Ensure fresh water availability in the farm."
+         ]
+      }
+   },
+   "date": "06-09-2024"
+}

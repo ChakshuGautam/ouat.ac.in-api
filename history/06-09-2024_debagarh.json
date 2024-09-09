@@ -1,0 +1,136 @@
+{
+   "weather_details": {
+      "07/09/2024": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 50,
+         "wind_speed": 7,
+         "wind_direction": 135,
+         "cloud_cover": 6
+      },
+      "08/09/2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 56,
+         "wind_speed": 6,
+         "wind_direction": 30,
+         "cloud_cover": 7
+      },
+      "09/09/2024": {
+         "rainfall": 12,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 56,
+         "wind_speed": 5,
+         "wind_direction": 195,
+         "cloud_cover": 8
+      },
+      "10/09/2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 54,
+         "wind_speed": 7,
+         "wind_direction": 245,
+         "cloud_cover": 8
+      },
+      "11/09/2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 69,
+         "wind_speed": 9,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "kharif paddy",
+      "kharif pulses",
+      "arhar",
+      "turmeric",
+      "ragi",
+      "maize",
+      "groundnut",
+      "papaya",
+      "mango",
+      "vegetables",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Due to forecast of light to moderate rainfall, farmers are advised not to apply fertilizer & chemicals. Strengthen the bunds of paddy field and check for any rat holes or leakage. After rain, trim the bund and keep clean to avoid insect multiplication.",
+   "crops_data": {
+      "kharif paddy": {
+         "advisory": [
+            "Regular monitoring of the crop for incidence of pests and diseases should be done.",
+            "After rain, there is a chance of infestation of leaf folder and yellow stem borer, apply Cartap hydrochloride 50SP @ 400g/acre or Fipronil 5 SC @ 400ml/acre."
+         ]
+      },
+      "kharif pulses": {
+         "advisory": [
+            "After rain, there is a chance of insect pest attack, survey regularly and take action by consulting department personnel."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Go for intercultivation."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Go for intercultural operation and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Do not allow water to remain stagnant in the field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Due to weather conditions, there is a chance of aphids in maize, to manage apply Dimethoate @ 2 ml/liter of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Due to weather, tikka disease is seen, to manage spray Carbendazim @ 2 g/liter of water."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Do not allow stagnation of water as papaya plant is sensitive to waterlogging.",
+            "Drench Carbendazim or Mancozeb @ 2 g/lt of water near the root zone to avoid fungal diseases."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Do not allow rainwater to remain stagnant near the base of the plant.",
+            "Provide stakings to newly planted saplings to avoid wind damage."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To manage Thrips population in chili, spray Imidachloprid or Dimethoate @ 2ml/lt of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Provide regular feeding @ 0.35 of body mass."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide clean drinking water to poultry.",
+            "Take preventive action for any disease in consultation with department personnel."
+         ]
+      }
+   },
+   "date": "06-09-2024"
+}
