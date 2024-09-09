@@ -1,8 +1,138 @@
 {
-   "date": "06-09-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "07/09/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 54,
+         "wind_speed": 7,
+         "wind_direction": 101,
+         "cloud_cover": 6
+      },
+      "08/09/2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 8,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "09/09/2024": {
+         "rainfall": 30,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 59,
+         "wind_speed": 7,
+         "wind_direction": 150,
+         "cloud_cover": 8
+      },
+      "10/09/2024": {
+         "rainfall": 35,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 57,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "11/09/2024": {
+         "rainfall": 25,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 70,
+         "wind_speed": 8,
+         "wind_direction": 249,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "direct sown paddy",
+      "ragi",
+      "sesamum",
+      "maize",
+      "groundnut",
+      "turmeric",
+      "mango",
+      "vegetables",
+      "papaya",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Due to Forecast of Light to Moderate rainfall from 7th Sept. Farmers are advised to don't apply fertilizer & chemical during this period.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "After rain, go for applying Nitrogen @ 12-16 kg/acre as per the variety."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "After rain there is chances of mealy bug attack, to manage this spray Dimethoate @ 2 ml/liter of water."
+         ]
+      },
+      "direct sown paddy": {
+         "advisory": [
+            "Maintain 2 inches of water till grand growth stage. Go for regular survey of the crop for any insect pest infestation."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "After rain, go for intercultivation and top dress with 12 kg Nitrogen/ac."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "In upland, go for sowing sesamum. Good varieties are Amrit, GT 10, Kanak, Kalika, Prachi @ 2-3 kg/acre. Go for line sowing at spacing 30 cm X 10 cm. At final land preparation, apply basal fertilizer dose @ 6 kg Nitrogen, 8 kg Phosphorus, and 8 kg potas per acre."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Due to weather there is chances of Aphids in Maize, to manage this, apply Dimethoate @ 2 ml/liter of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Due to weather Leaf blight disease is seen, to manage this spray Mancozeb @ 4 ml/liter of water."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Keep provision of drainage of excess water."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Provide staking to the newly planted saplings to avoid from wind damage. Go for intercropping with pulses in newly developed orchard."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to weather there is chances of Brinjal Fruit & Shoot Borer attack, to manage this apply T. chilonis @ 20000 per acre."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "After rainfall, drench Carbendazim or Mancozeb @ 2 g/l of water near the root zone to avoid any type of fungal diseases."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Provide regular feeding @ 0.35% of body mass."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide mineral mixture to increase milk productivity in animals."
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

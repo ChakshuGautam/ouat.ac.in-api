@@ -1,8 +1,56 @@
 {
-   "date": "06-09-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "06.09.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "arhar",
+      "sugar cane",
+      "cucurbits",
+      "okra",
+      "tomato",
+      "cowpea"
+   ],
+   "general_advisory": "The weather is expected to be hot and humid with moderate rainfall. Specific measures to control pests and diseases in crops are recommended.",
+   "crops_data": {
+      "arhar": {
+         "advisory": [
+            "There are chances of Leaf webber infestation in Arhar crop. To manage leaf webber in Arhar spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Profenophos 50 % EC @ 400-ml/acre."
+         ]
+      },
+      "sugar cane": {
+         "advisory": [
+            "To control Leaf hopper- pyrilla and Mealy Bug in sugarcane crop spray Imidacloprid 17.8 % SL @ 60- ml/acre or Thiamethoxam 25 % WG @ 40-gram/acre or Profenophos 50 % EC @ 400-ml/acre by mixing it in 200 litre of water ."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Deficit rainfall may leads to infestation of Epilachna Beetle in cucurbit crops. To manage Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation.To manage Epilachna Beetle chemically spray Chlorpyriphos 20 % EC @ 2-ml/litre of water or Profenophos 50 % EC @ 2- ml/litre of water ."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Present hot and humid weather conditions are congenial for sucking pests like Aphids, White fly and leaf hopper in Okra. To control this spray Imidacloprid 17.8% SL @ 50 ml / acre or Thiamethoxam 25% WG @ 40 g/acre by mixing in 200-litre of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "For cultivation of an acre of Tomato crop 200-gram of improved variety and 50-gram of hybrid seed is required. Apply 20 kg of completely decomposed FYM to each nursery bed ten days before sowing. Treat 1-kg of seeds with 2-gram Carbendazim 50% WP or Carboxin 37.5%+ Thiram 37.5% D.S before sowing."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "To manage gram pad borer in cowpea spraying of Emam actin benzoate @ 80-gram/ acre by mixing it in 200 litre of water."
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

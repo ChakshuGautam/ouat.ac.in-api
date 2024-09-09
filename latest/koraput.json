@@ -1,8 +1,124 @@
 {
-   "date": "06-09-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "07-09-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 95,
+         "rh_min": 74,
+         "wind_speed": 8,
+         "wind_direction": 251,
+         "cloud_cover": 7
+      },
+      "08-09-2024": {
+         "rainfall": 30,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 79,
+         "wind_speed": 11,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "09-09-2024": {
+         "rainfall": 35,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 84,
+         "wind_speed": 14,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "10-09-2024": {
+         "rainfall": 25,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 82,
+         "wind_speed": 16,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "11-09-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 91,
+         "rh_min": 81,
+         "wind_speed": 17,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "groundnut",
+      "ragi",
+      "brinjal",
+      "cucumber",
+      "ginger",
+      "black pepper",
+      "turmeric",
+      "coffee"
+   ],
+   "general_advisory": "Rainfall is expected during the next five days. Farmers are advised to do proper arrangement for storing rainwater in the field. Take plant protection measures for pest and disease build-up. Ensure proper drainage system in non-paddy crop fields.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Keep the rice plots weed-free.",
+            "Apply low quantity of nitrogen fertilizer to reduce the blast disease.",
+            "Complete the transplanting. Use 4-5 seedlings/hill in age-old seedlings with closed spacing."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop a better drainage system to avoid waterlogging conditions due to excess rainfall.",
+            "Root and stalk rot may observe in maize field, to control it spray Validamycin 3% L."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Prepare the field and raise groundnut of high-yielding varieties. Treat the seeds before sowing."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Condition is favorable for blast incidence in ragi, if observed, spray Zineb 75% WP when the sky becomes clear."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Transplant 25-35 days old seedlings in the main field.",
+            "Make necessary drainage channels to prevent waterlogging conditions."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "There is a chance of downy mildew attack in cucumber. If observed, spray Metalaxyl."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Go for weeding and apply urea per acre at 45 days after planting."
+         ]
+      },
+      "black pepper": {
+         "advisory": [
+            "If Leaf gall and thrips occur, spray Monocrotophos or neem oil."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Go for weeding and apply urea per acre at 45 days after planting."
+         ]
+      },
+      "coffee": {
+         "advisory": [
+            "Maintain/creating optimum shade for stem borer management."
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

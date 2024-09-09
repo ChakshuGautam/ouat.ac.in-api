@@ -1,29 +1,84 @@
 {
-   "date": "03-09-2024",
-   "error": "Error in getting the document.",
    "weather_details": {
-      "01-09-2024": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 85,
-         "rh_min": 60,
-         "wind_speed": 10,
-         "wind_direction": 180,
-         "cloud_cover": 5
+      "2024-09-04": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 70,
+         "wind_speed": 8,
+         "wind_direction": 158,
+         "cloud_cover": 6
       },
-      "02-09-2024": {
-         "rainfall": 2,
-         "t_max": 28,
-         "t_min": 22,
-         "rh_max": 80,
-         "rh_min": 55,
-         "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 3
+      "2024-09-05": {
+         "rainfall": 20,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 7,
+         "wind_direction": 158,
+         "cloud_cover": 8
+      },
+      "2024-09-06": {
+         "rainfall": 20,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 8,
+         "wind_direction": 108,
+         "cloud_cover": 8
+      },
+      "2024-09-07": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 65,
+         "wind_speed": 7,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "2024-09-08": {
+         "rainfall": 20,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 66,
+         "wind_speed": 7,
+         "wind_direction": 338,
+         "cloud_cover": 7
       }
    },
-   "names_of_crops": [],
-   "general_advisory": "No specific advisory available.",
-   "crops_data": {}
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "brinjal",
+      "tomato"
+   ],
+   "general_advisory": "Vaccination should be given with tablet for worms. Provide calcium, magnesium and salts along with fodder crops to the animals in these days.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "For high yielding paddy varieties, apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage. For hybrids apply 42 kg of Urea per acre at 3 weeks after transplanting at active tillering stage. Keeping in view of present weather, farmers are advised to monitor crop regularly for blast, leaf folder or stem borer in paddy crop."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "For Red rot and wilt disease, spray the crop with Mancozeb 0.3% or carbendazim 0.1% or Azoxystrobin 18.2%SC/ Difenoconazole 11.45SC @ 1ml per liter water in dry days."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "In vegetables (brinjal, tomato etc), for monitoring of borer insect, farmers are advised to use pheromone trap @ 3-4/acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "In vegetables (brinjal, tomato etc), for monitoring of borer insect, farmers are advised to use pheromone trap @ 3-4/acre."
+         ]
+      }
+   },
+   "date": "03-09-2024"
 }

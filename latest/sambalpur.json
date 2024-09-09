@@ -1,8 +1,90 @@
 {
-   "date": "06-09-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "07-09-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 87,
+         "rh_min": 52,
+         "wind_speed": 6,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "08-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 58,
+         "wind_speed": 6,
+         "wind_direction": 289,
+         "cloud_cover": 7
+      },
+      "09-09-2024": {
+         "rainfall": 20,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 61,
+         "wind_speed": 7,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "10-09-2024": {
+         "rainfall": 30,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 95,
+         "rh_min": 61,
+         "wind_speed": 8,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "11-09-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 71,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "vegetable crops",
+      "banana"
+   ],
+   "general_advisory": "There is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places with thunderstorm and lightning in upcoming days so farmers are advised to wait some days for irrigation and spraying operation should be conducted before that and keep their animal away from any electrical equipment. Prevailing weather condition is favourable for various diseases and sucking insect pest attack in different crops so its regular monitoring should be advised.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In case of no rainfall condition, farmers should apply one irrigation at this stage to maintain 5 cm water level in rice field.",
+            "After rainfall, there may be a chance of infestation of sheath blight and sheath rot disease in rice field so to control these diseases farmers should spray Trifloxystrobin 25% + Tebuconazole 50% WG @ 80 g or, Propiconazole 25% @ 200 ml or, Hexaconazole 5 % SC @ 250 ml in 200 litres of water per acre. Repeat the spray at 7-10 days’ interval.",
+            "Keep 3 pheromone traps per acre of rice field for monitoring the stem borer and leaf folder infestations. Whenever the number of male moths/trap reaches 4 or 5, apply Azadirachtin 0.15% EC @ 800 ml/acre or, Chlorantraniliprole 0.4% GR @ 4 kg/acre mixing with sand at 1:1 ratio or, spray Chlorantraniliprole 18.5% SC @ 60 ml/acre in 200 litres of water when sky is clear.",
+            "Cloudy weather along with high humidity favours the gall midge attack in rice field and mostly observed in late sown crop. For its control farmers should spray thiamethoxam 25% WG @ 40g or Fipronil 5% SC @ 400 ml or Chloropyriphos 20 EC @ 500 ml in 200 liter water per acre in clear and calm weather condition."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control the flower drop in cotton crop, application of Planofix @ 90 ml in 200 liters of water per acre after 60 -65 days after sowing of seed.",
+            "To control sucking insect pest (Aphid, Thrips etc.) attack in cotton crop, application of Neem based pesticide like Neem oil @ 600 -800 ml + 200g detergent powder per acre by mixing with 200 liters of water should be advised at 30 -45 days crop stage under clear weather.",
+            "At initial stage of flowering farmers should avoid any chemical application in cotton crop."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "If sucking insect pest attack noticed, then spraying of thiamethoxam @ 0.2 g or imidacloprid @ 0.33 ml per liter of water should be advised.",
+            "For controlling of some diseases like wilt, root rot etc. farmers should use Carbendazim @ 2g or copper oxicloride @ 3ml per liter water under no rainfall condition."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Prevailing weather condition is favourable for thrip attack in Banana plant so at initial stage cover or wrap the bundle with jute bag, area should be weed free and use 15 -20 no. of blue sticky card per acre should be advised to control this insect. For chemical control, spraying of Diafenthiuron 50% WP @ 2g per liter (twice at 15 days interval) should be advised."
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

@@ -1,8 +1,72 @@
 {
-   "date": "06-09-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "2024-09-07": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 54,
+         "wind_speed": 7,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "2024-09-08": {
+         "rainfall": 12,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 60,
+         "wind_speed": 6,
+         "wind_direction": 112,
+         "cloud_cover": 7
+      },
+      "2024-09-09": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 6,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      },
+      "2024-09-10": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "2024-09-11": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 94,
+         "rh_min": 69,
+         "wind_speed": 11,
+         "wind_direction": 270,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "brinjal"
+   ],
+   "general_advisory": "District is likely to experience light to moderate rainfall so don't go for application any plant protection chemical, you may go for application in other days only in addition to sticker with plant protection chemical.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The transplanted paddy is at one to five week stage in main field. The direct seeded crop is at seven to nine week stage. The minimum temperature and relative humidity is favorable for out break of blast disease. To Manage Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-ml/acre or Azoxystrobin + Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre. After receding of rain water there is chance of infestation Swarming Caterpillar in paddy . To manage this spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre. As the pest is nocturnal in behavior spraying of pesticide should be done in the evening hours for better result. (go for application when weather is clear)"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Wilting in Brinjal might be triggered in rainy season due to high soil moisture and high humidity . Destroy the infested plant as well as residue by burning , disinfect the tool before going to another field. Provide good drainage to the field. For chemical treatment use Streptocyclin 6g + Bavistin 15 g for soil drenching in 15 litre of water . (go for application when weather is clear)"
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

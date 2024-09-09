@@ -1,8 +1,134 @@
 {
-   "date": "06-09-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "07-09-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 65,
+         "wind_speed": 7,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "08-09-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 283,
+         "cloud_cover": 7
+      },
+      "09-09-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 76,
+         "wind_speed": 13,
+         "wind_direction": 283,
+         "cloud_cover": 8
+      },
+      "10-09-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 74,
+         "wind_speed": 16,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "11-09-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 78,
+         "wind_speed": 14,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli",
+      "tomato",
+      "cow & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread rain/thundershower is very likely over districts of Odisha during the week -1 (6th - 12th September, 2024) with isolated heavy rainfall very likely in the districts of South Odisha on 6th Sept; isolated heavy to very heavy rainfall very likely in the districts of South Odisha on 7th Sept; isolated heavy to very heavy rainfall very likely in the districts of Central Odisha on 8th Sept, heavy rainfall very likely over the districts of north Odisha on 9th and 10th Sept. Scattered to fairly widespread rain/thundershower very likely in the district of Odisha state during week 2 (13th - 19th September, 2024). In view of five days weather forecast received from IMD, farmers are advised to withhold application of fertilizers and plant protection chemicals for the time being. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. To prevent this, ensure proper rotation between insecticides and use mixtures. Use light trap to monitor insect population so that timely control measure can be taken.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Farmers are advised to spray of leaf extracts of Bael (25 g fresh leaves) or Tulsi (25 g fresh leaves) or Neem (200g fresh leaves) per litre of water for reducing the incidence of insects & diseases.",
+            "Spray Tebuconazole 50% + Trifloxystrobin 25% WG (Nativo) @ 80 g/acre or Isoprothiolane 40 EC (Sultan/Fujita/Fujione) @ 300 ml/acre by mixing with 200 liters of water for blast infestation."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Install Pheromone traps @ 8nos./acre and light trap @1no./acre to monitor and control the population of stem borer, leaf folder and rice ear eating caterpillar and replace the lure after three weeks.",
+            "Release egg parasitoid Trichogramma japonicum (Tricho card) @ 60000 eggs (3 card) /acre in stem borer endemic areas."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Application of plant hormone Planofix @ 7 ml mixing with 15 liters of water is advisable at 60-65 DAS for improving the seed cotton yield.",
+            "Apply total killer herbicide glyphosate or Glufosinate Ammonium 13.5% @ 50ml/10 litre water as directed spray using hoods to control all types of weeds."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "To control leaf webber infestation spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC @ 2 ml/lit of water."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply Urea @ 25kg/ac if crop is at tasseling stage and irrigate if water is not sufficient.",
+            "For effective control of stem borer spray Fipronil 5% SC or Profenophos 50% EC @ 400ml/acre by mixing with 200 liters of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Wilting: Spray Tebuconazole 25 .9% EC @ 200 -ml/acre + Streptocycline @ 30g/acre at the root zone by mixing with 200 liters of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Prevailing weather condition is favorable for thrips attack. If symptoms are seen spray neem bases pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at initial stage of infestation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Now, it is a suitable time for raising tomato seedlings.",
+            "Seed rate: 150 to 200 gram/acre"
+         ]
+      },
+      "cow & buffalo": {
+         "advisory": [
+            "As grasses are high in moisture content during rainy days, the cattle don’t get adequate dry matter from those. So, give 1 kg if concentrate for every 2 kg of milk to dairy animals."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Keep dry fodder and straw ready at home for sheep and goat in the rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goat one month before kidding and lambing."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, and droppings of birds. Sometimes it can spread from affected birds to human beings.",
+            "During this time please clean poultry houses every day and change the feed and water of poultry birds frequently.",
+            "Don’t throw the dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitize the place with bleaching powder.",
+            "Don’t bring poultry birds or eggs home from the affected area."
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

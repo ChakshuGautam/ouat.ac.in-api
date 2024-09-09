@@ -1,8 +1,136 @@
 {
-   "date": "06-09-2024",
-   "error": "Error in getting the document.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "07-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "08-09-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 8,
+         "wind_direction": 257,
+         "cloud_cover": 7
+      },
+      "09-09-2024": {
+         "rainfall": 25,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 73,
+         "wind_speed": 9,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "10-09-2024": {
+         "rainfall": 25,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 74,
+         "wind_speed": 11,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "11-09-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 75,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli",
+      "tomato",
+      "cow & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread rain/thundershower is very likely over districts of Odisha during the week -1 (6th - 12th September, 2024) with isolated heavy rainfall very likely in the districts of South Odisha on 6th Sept; isolated heavy to very heavy rainfall very likely in the districts of South Odisha on 7th Sept; isolated heavy to very heavy rainfall very likely in the districts of Central Odisha on 8th Sept, heavy rainfall very likely over the districts of north Odisha on 9th and 10th Sept. Scattered to fairly widespread rain/thundershower very likely in the district of Odisha state during week 2 (13th - 19th September, 2024). In view of five days weather forecast received from IMD, farmers are advised to withhold application of fertilizers and plant protection chemicals for the time being. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. To prevent this, ensure proper rotation between insecticides and use mixtures. Use light trap to monitor insect population so that timely control measure can be taken. SMS Advisory - Apply Urea @ 25kg/ac if crop is at tasseling stage (9 week) in Maize.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Farmers are advised to spray of leaf extracts of Bael, Tulsi, or Neem per litre of water for reducing the incidence of insects & diseases.",
+            "Spray Tebuconazole + Trifloxystrobin or Isoprothiolane for blast infestation."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Install Pheromone traps and light trap to monitor and control the population of pests.",
+            "Release egg parasitoid Trichogramma japonicum in stem borer endemic areas."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Application of plant hormone Planofix for improving seed cotton yield.",
+            "Apply total killer herbicide glyphosate or Glufosinate Ammonium for weed control."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Spray Profenophos or Chlorpyriphos for leaf webber infestation.",
+            "Monitor field regularly for pest infestation and spray neem-based pesticide for sucking pests."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply Urea if crop is at tasseling stage and monitor field for pests.",
+            "For effective control of stem borer, spray Fipronil or Profenophos."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Install yellow sticky trap to monitor sucking pests.",
+            "Spray Tebuconazole at the root zone for wilting."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Install Blue sticky trap to monitor thrips infestation.",
+            "Spray neem-based pesticide for thrips control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Now is suitable time for raising tomato seedlings.",
+            "Apply recommended seed rate and plant varieties."
+         ]
+      },
+      "cow & buffalo": {
+         "advisory": [
+            "Provide concentrate for adequate dry matter intake during rainy days."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Keep dry fodder and straw ready for sheep and goat in rainy season.",
+            "Ensure balanced concentrate one month prior to kidding or lambing."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Clean poultry houses daily and change feed and water frequently.",
+            "Dispose of dead poultry birds properly to prevent disease spread."
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }
