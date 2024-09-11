@@ -58,38 +58,36 @@
       "banana",
       "cow/buffalo"
    ],
-   "general_advisory": "Farmers are advised to wait for irrigation due to expected rainfall. Disease and pest management should be regularly monitored. Specific advice for different crops and livestock is provided below.",
+   "general_advisory": "There is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places with thunderstorm and lightning in upcoming days so farmers are advised to wait some days for irrigation and spraying operation should be conducted before that and keep their animal away from any electrical equipment. Prevailing weather condition is favourable for various diseases and sucking insect pest attack in different crops so its regular monitoring should be advised.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Apply irrigation to maintain water level in the rice field.",
-            "Implement disease management strategies.",
-            "Monitor and manage pest infestations."
+            "In case of no rainfall condition, farmers should apply one irrigation at this stage to maintain 5 cm water level in rice field.",
+            "Disease Management: After rainfall, there may be a chance of infestation of sheath blight and sheath rot disease in rice field. To control these diseases, farmers should spray Trifloxystrobin 25% + Tebuconazole 50% WG @ 80 g or other recommended substances.",
+            "Pest Management: Keep pheromone traps per acre of rice field for monitoring the stem borer and leaf folder infestations. Apply recommended pesticides when necessary."
          ]
       },
       "cotton": {
          "advisory": [
-            "Control flower drop in cotton crop.",
-            "Address sucking insect pest attack.",
-            "Avoid chemical application at initial flowering stage."
+            "To control the flower drop in cotton crop, application of Planofix @ 90 ml in 200 liters of water per acre after 60-65 days after sowing of seed.",
+            "To control sucking insect pest attack in cotton crop, application of Neem based pesticide like Neem oil @ 600-800 ml + 200g detergent powder per acre by mixing with water should be advised at the appropriate crop stage.",
+            "At the initial stage of flowering, farmers should avoid any chemical application in cotton crop."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Address sucking insect pest attack.",
-            "Use appropriate fungicides for disease control."
+            "If sucking insect pest attack is noticed, then spraying of thiamethoxam @ 0.2 g or imidacloprid @ 0.33 ml per liter of water should be advised.",
+            "For controlling diseases like wilt, root rot, etc., farmers should use Carbendazim @ 2g or copper oxicloride @ 3ml per liter of water under no rainfall conditions."
          ]
       },
       "banana": {
          "advisory": [
-            "Protect banana plants from thrip attack.",
-            "Implement chemical control measures when necessary."
+            "Prevailing weather condition is favourable for thrip attack in Banana plant so at the initial stage cover or wrap the bundle with a jute bag, area should be weed-free and use blue sticky cards per acre should be advised to control this insect. For chemical control, spraying of Diafenthiuron 50% WP @ 2g per liter should be advised."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Implement measures to control mastitis disease.",
-            "Ensure fresh water availability in the farm."
+            "Mastitis disease is observed in some animals at present condition, so preventative and control measures should be taken to control this disease. Freshwater availability should be ensured in the farm."
          ]
       }
    },

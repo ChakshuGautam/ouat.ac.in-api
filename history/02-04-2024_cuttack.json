@@ -53,12 +53,12 @@
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
+      "sugarcan",
       "maize",
       "tomato",
       "brinjal",
       "coconut",
-      "vegetable",
+      "vegetables",
       "fingerlings",
       "black gram",
       "green gram",
@@ -66,71 +66,73 @@
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect...",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation to reduce heat effect. High temperature increases water requirement of maize crop. Use polythene in irrigation channels. Apply Streptocyclin in tomato and brinjal to prevent wilting.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical stages. Water deficit during these stages should be avoided."
+            "Yellow stem borer management - Use appropriate chemicals for management.",
+            "Blast Disease Management - Use recommended fungicides."
          ]
       },
-      "sugarcane": {
+      "sugarcan": {
          "advisory": [
-            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect crop from water scarcity during summer."
+            "Early Shoot Borer - Irrigate frequently and timely cut affected shoots."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases the water requirement of maize crop. Irrigate the crop and avoid stagnant water for more than six hours."
+            "High temperature increases water requirement. Avoid stagnant water in the field."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature in day hours may lead to wilting in tomato. Apply 1g Streptocyclin in 10-liter water in the root zone."
+            "Apply Streptocyclin in root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage brinjal shoot and fruit borer, install pheromone traps and consider spraying neem-based pesticide."
+            "Install pheromone traps and use neem-based pesticide.",
+            "Apply chemical control if necessary."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves around a coconut tree to reduce water loss."
+            "Mulch coconut leaves around trees to reduce water loss."
          ]
       },
-      "vegetable": {
+      "vegetables": {
          "advisory": [
-            "Cover with paper caps on the newly planted vegetable seedlings during daytime."
+            "Cover newly planted seedlings with paper caps during the day."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "In shallow ponds, harvest fingerlings if water temperature rises above 30°C. Ensure enough water depth before introducing fingerlings."
+            "Harvest fingerlings from shallow ponds if water temperature rises."
          ]
       },
       "black gram": {
          "advisory": [
-            "Check the migration of caterpillars and consider dusting with Chlorpyriphos."
+            "Manage Tobacco Caterpillar by dusting and spraying appropriate insecticides."
          ]
       },
       "green gram": {
          "advisory": [
-            "Check the migration of caterpillars and consider dusting with Chlorpyriphos."
+            "Manage Tobacco Caterpillar as in black gram."
          ]
       },
       "okra": {
          "advisory": [
-            "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation."
+            "Treat seeds with Imidacloprid and use yellow sticky traps."
          ]
       },
       "onion": {
          "advisory": [
-            "After harvesting onions, cut the tops and dry bulbs in a well-ventilated room for storage."
+            "Dry harvested bulbs in well-ventilated rooms."
          ]
       },
       "mango": {
          "advisory": [
-            "To control mango hoppers, spray recommended insecticides and use smoke below the plants."
+            "Control Mango hopper with recommended insecticides and smoke application."
          ]
       }
    },

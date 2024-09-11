@@ -1,96 +1,92 @@
 {
    "weather_details": {
-      "07/09/2024": {
-         "rainfall": 20,
-         "t_max": 33,
-         "t_min": 27,
-         "rh_max": 81,
-         "rh_min": 67,
-         "wind_speed": 13,
-         "wind_direction": 105,
-         "cloud_cover": 8
-      },
-      "08/09/2024": {
-         "rainfall": 25,
-         "t_max": 31,
-         "t_min": 26,
-         "rh_max": 85,
-         "rh_min": 69,
-         "wind_speed": 13,
-         "wind_direction": 75,
-         "cloud_cover": 8
-      },
-      "09/09/2024": {
-         "rainfall": 30,
-         "t_max": 30,
-         "t_min": 25,
-         "rh_max": 85,
-         "rh_min": 71,
-         "wind_speed": 13,
-         "wind_direction": 338,
-         "cloud_cover": 8
-      },
-      "10/09/2024": {
-         "rainfall": 20,
-         "t_max": 30,
-         "t_min": 25,
-         "rh_max": 82,
-         "rh_min": 68,
-         "wind_speed": 17,
-         "wind_direction": 283,
-         "cloud_cover": 7
-      },
       "11/09/2024": {
-         "rainfall": 10,
-         "t_max": 32,
-         "t_min": 26,
-         "rh_max": 80,
-         "rh_min": 70,
-         "wind_speed": 18,
-         "wind_direction": 249,
-         "cloud_cover": 7
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 28,
+         "rh_max": 63,
+         "rh_min": 81,
+         "wind_speed": 15,
+         "wind_direction": 223,
+         "cloud_cover": 6
+      },
+      "12/09/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 65,
+         "rh_min": 80,
+         "wind_speed": 15,
+         "wind_direction": 228,
+         "cloud_cover": 6
+      },
+      "13/09/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 58,
+         "rh_min": 77,
+         "wind_speed": 17,
+         "wind_direction": 234,
+         "cloud_cover": 6
+      },
+      "14/09/2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 60,
+         "rh_min": 75,
+         "wind_speed": 16,
+         "wind_direction": 233,
+         "cloud_cover": 5
+      },
+      "15/09/2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 59,
+         "rh_min": 73,
+         "wind_speed": 17,
+         "wind_direction": 221,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
+      "cucurbits",
       "vegetables",
-      "tomato",
-      "papaya",
-      "banana"
+      "fishery"
    ],
-   "general_advisory": "Puri district is likely to receive light to moderate rainfall for the next five days. Keeping rainfall forecast in mind farmers are advised not to do any type of spray and do proper drainage management in pulse crops and vegetable nurseries. After rainfall recedes apply top dressing of fertilizers either in transplanted or direct seeded rice. In case of transplanted rice in low/ medium land where top dressing of urea has not been applied, spray 2% urea after rainfall. There are chances of appearance of iron toxicity symptoms like lesser tillering, yellowing of leaves and stunted growth due to stagnant water. In such cases drain out stagnant water and apply 10-kg of MOP and 10-kg of Zinc Sulphate 21% per acre. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended.",
+   "general_advisory": "Keeping the rainfall forecast in mind farmers are advised to keep bunding water in medium land for beushaning. Maintain 2-3 cm standing water during tillering and 5-10cm standing water during panicle initiation stage. Remove the weeds and keep the field clean. There are chances of appearance of iron toxicity symptoms like lesser tillering, yellowing of leaves and stunted growth due to stagnant water. In such cases drain out stagnant water and apply 10-kg of MOP and 10-kg of Zinc Sulphate 21% per acre. Provide support to the standing crops damaged by lodging due to heavy rain. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Tillering to Panicle Initiation: Swarming Caterpillar - After receding of rain water there is chance of infestation of Swarming Caterpillar. To manage this spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre."
+            "Tillering to Panicle Initiation: Swarming Caterpillar - After receding of rain water there is chance of infestation of Swarming Caterpillar. To manage this spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre.",
+            "Sheath rot and sheath blight: There is chance of sheath rot and sheath blight in paddy. To manage this disease spray Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80- gram/acre or Propiconazole 25% EC @ 200ml/acre."
          ]
       },
       "maize": {
          "advisory": [
-            "Vegetative: Fall Army Worm - Rainfall after a dry spell may aggravate infestation of Fall Army Worm in maize. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Dust mixture of sand, soil and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves."
+            "Maturity to Harvesting: Fall Army Worm - Rainfall after a dry spell may aggravate infestation of fall army worm in maize. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Dust mixture of sand, soil and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5% S.G@ 80- gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre. 200 litre of water per acre is required to spray the insecticide."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Vegetative to Fruiting: Downy Mildew - There are chances of infestation of Downy Mildew disease in cucurbit vegetables after the heavy rainfall. To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77% WP @ 3-gram/litre or Fosetyl -AL 80% WP @ 3-gram/litre or Carbendazim 12% + Mancozeb 63% WP @ 2-gram/litre."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Nursery: Damping off disease - There are chances of damping off disease in vegetable nursery like tomato, brinjal, chilli. To manage it drench nursery bed with 2-gram Captan/litre of water or 2.5-gram Copper Oxychloride/litre of water."
+            "Nursery/Vegetative to Fruiting: Damping off disease - There are chances of damping off disease in vegetable nursery like tomato, brinjal, chilli. To manage it drench nursery bed with 2-gram Captan/litre of water or 2.5-gram Copper Oxychloride/litre of water.",
+            "Wilt and rot - To manage wilt and rot disease in vegetable crops, drench the root zone with a solution of 1.5-gram Streptocycline and 20-gram Metalaxyl 8% + Mancozeb 64% WP mixed in 10 lit of water."
          ]
       },
-      "tomato": {
+      "fishery": {
          "advisory": [
-            "September is the optimum time for nursery raising of tomato. Grow resistant varieties like BT-2, BT-10, BT-12, Niladri, Sadabahar, Madhuri, Maharathi, Rasmi, Naveen, etc."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Vegetative to Fruiting: Crown rot - To control papaya Crown rot, spray Copper Oxychloride @3 g/litre of water or Carbendazim @1 g/lit or Thiophanate Methyl @1 g/lit at 15 days interval."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Vegetative to Fruiting: Leaf spot or Sigatoka - Provide drainage. Give staking to plants. For Sigatoka disease, spray Mancozeb 75% WP (@ 400-g or Zineb 75% WP @ 400g or Carbendazim 12% + Mancozeb 63% WP @ 400g per acre with 200 liter of water as a precautionary measures."
+            "Heavy rainfall might have decreased the salinity of water in the pond. Farmers are advised to apply alky-dimethyl-benzyl ammonium chloride (3ppm) as a disinfectant after cessation of rain."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "10-09-2024"
 }

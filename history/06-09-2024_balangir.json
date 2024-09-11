@@ -2,48 +2,48 @@
    "weather_details": {
       "2022-01-01": {
          "rainfall": 5,
-         "t_max": 28,
-         "t_min": 15,
-         "rh_max": 80,
-         "rh_min": 50,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 60,
          "wind_speed": 15,
          "wind_direction": 180,
-         "cloud_cover": 4
+         "cloud_cover": 5
       },
       "2022-01-02": {
-         "rainfall": 0,
-         "t_max": 30,
+         "rainfall": 10,
+         "t_max": 28,
          "t_min": 18,
-         "rh_max": 75,
-         "rh_min": 45,
-         "wind_speed": 10,
-         "wind_direction": 220,
-         "cloud_cover": 3
+         "rh_max": 90,
+         "rh_min": 65,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "wheat",
       "maize",
-      "cattle"
+      "chicken"
    ],
-   "general_advisory": "Sow wheat and maize, maintain proper nutrition for cattle.",
+   "general_advisory": "Prepare for heavy rainfall between 2nd-5th January. Secure crops and animals.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Ensure proper irrigation",
-            "Monitor for pests and diseases"
+            "Water the wheat fields regularly to ensure proper growth",
+            "Protect wheat from heavy rainfall by covering the fields"
          ]
       },
       "maize": {
          "advisory": [
-            "Apply fertilizer as per schedule",
-            "Protect from weeds"
+            "Maize crops need adequate sunlight for photosynthesis",
+            "Check for signs of pests and take necessary measures"
          ]
       },
-      "cattle": {
+      "chicken": {
          "advisory": [
-            "Provide clean water daily",
-            "Ensure proper shelter"
+            "Ensure chickens have adequate shelter during heavy rainfall",
+            "Check for any signs of disease in the poultry"
          ]
       }
    },

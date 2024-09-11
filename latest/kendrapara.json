@@ -1,96 +1,93 @@
 {
    "weather_details": {
-      "07/09/2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 82,
-         "rh_min": 59,
-         "wind_speed": 15,
-         "wind_direction": 64,
-         "cloud_cover": 7
-      },
-      "08/09/2024": {
-         "rainfall": 12,
-         "t_max": 31,
-         "t_min": 25,
-         "rh_max": 86,
-         "rh_min": 65,
-         "wind_speed": 12,
-         "wind_direction": 66,
-         "cloud_cover": 7
-      },
-      "09/09/2024": {
-         "rainfall": 20,
-         "t_max": 29,
-         "t_min": 24,
-         "rh_max": 86,
-         "rh_min": 66,
-         "wind_speed": 12,
-         "wind_direction": 68,
-         "cloud_cover": 8
-      },
-      "10/09/2024": {
-         "rainfall": 25,
-         "t_max": 29,
-         "t_min": 24,
-         "rh_max": 87,
-         "rh_min": 64,
-         "wind_speed": 14,
-         "wind_direction": 281,
-         "cloud_cover": 8
-      },
       "11/09/2024": {
-         "rainfall": 15,
-         "t_max": 31,
+         "rainfall": 5,
+         "t_max": 32,
          "t_min": 25,
-         "rh_max": 84,
-         "rh_min": 67,
-         "wind_speed": 8,
+         "rh_max": 59,
+         "rh_min": 85,
+         "wind_speed": 14,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "12/09/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 63,
+         "rh_min": 85,
+         "wind_speed": 15,
          "wind_direction": 248,
-         "cloud_cover": 7
+         "cloud_cover": 6
+      },
+      "13/09/2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 54,
+         "rh_min": 84,
+         "wind_speed": 15,
+         "wind_direction": 251,
+         "cloud_cover": 8
+      },
+      "14/09/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 55,
+         "rh_min": 82,
+         "wind_speed": 12,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "15/09/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 57,
+         "rh_min": 81,
+         "wind_speed": 8,
+         "wind_direction": 231,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
+      "cucurbits",
       "vegetables",
-      "tomato",
-      "papaya",
-      "banana"
+      "fishery"
    ],
-   "general_advisory": "Kendrapara district is likely to receive light to moderate rainfall for the next five days. Keeping rainfall forecast in mind farmers are advised not to do any type of spray and do proper drainage management in pulse crops and vegetable nurseries.",
+   "general_advisory": "Keeping the rainfall forecast in mind farmers are advised to keep bunding water in medium land for beushaning. Maintain 2-3 cm standing water during tillering and 5-10cm standing water during panicle initiation stage. Remove the weeds and keep the field clean. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Tillering to Panicle Initiation - Swarming caterpillar: After receding of rain water there is chance of infestation of Swarming Caterpillar. To manage this spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre."
+            "After receding of rain water there is chance of infestation of Swarming Caterpillar. To manage this spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre.",
+            "There is chance of sheath rot and sheath blight in paddy. To manage this disease spray Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80- gram/acre or Propiconazole 25% EC @ 200ml/acre."
          ]
       },
       "maize": {
          "advisory": [
-            "Vegetative - Fall Army Worm: Rainfall after a dry spell may aggravate infestation of Fall Army Worm in maize. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200-litre of water. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5% S.G @ 80-gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre. 200 litre of water per acre is required to spray the insecticide."
+            "Rainfall after a dry spell may aggravate infestation of fall army worm in maize. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Dust mixture of sand, soil and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves.",
+            "To manage the pest chemically , spray Emamectin Benzoate 5 % S.G@ 80- gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre. 200 litre of water per acre is required to spray the insecticide."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "There are chances of infestation of Downy Mildew disease in cucurbit vegetables after the heavy rainfall. To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3-gram/litre or Fosetyl -AL 80 % WP @ 3-gram/litre or Carbendazim 12 % + Mancozeb 63 % WP @ 2-gram/litre."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Nursery - Damping Off Disease: There are chances of damping off disease in vegetable nursery like tomato, brinjal, chilli. To manage it drench nursery bed with 2-gram Captan/litre of water or 2.5-gram Copper Oxychloride/litre of water."
+            "There are chances of damping off disease in vegetable nursery like tomato, brinjal, chilli. To manage it drench nursery bed with 2- gram Captan/litre of water or 2.5-gram Copper Oxychloride/litre of water.",
+            "To manage wilt and rot disease in vegetable crops, drench the root zone with a solution of 1.5-gram Streptocycline and 20-gram Metalaxyl 8% + Mancozeb 64 % WP mixed in 10 lit of water."
          ]
       },
-      "tomato": {
+      "fishery": {
          "advisory": [
-            "September is the optimum time for nursery raising of tomato. Grow resistant varieties like BT-2, BT-10, BT-12, Niladri, Sadabahar, Madhuri, Maharathi, Rasmi, Naveen, etc."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Vegetative to Fruiting - Crown Rot: To control papaya Crown rot, spray Copper Oxychloride @3 g/litre of water or Carbendazim @1 g/lit or Thiophanate Methyl @1 g/lit at 15 days interval."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Vegetative to Fruiting - Leaf Spot or Sigatoka: Provide drainage. Give staking to plants. For Sigatoka disease, spray Mancozeb 75% WP (@ 400-g or Zineb 75% WP @ 400g or Carbendazim 12% + Mancozeb 63% WP @ 400g per acre with 200 liter of water as precautionary measures."
+            "Heavy rainfall might have decreased the salinity of water in the pond. Farmers are advised to apply alky-dimethyl-benzyl ammonium chloride (3ppm) as a disinfectant after cessation of rain."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "10-09-2024"
 }

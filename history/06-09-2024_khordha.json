@@ -59,7 +59,7 @@
       "papaya",
       "banana"
    ],
-   "general_advisory": "Khordha district is likely to receive light to moderate rainfall for the next five days. Keeping rainfall forecast in mind farmers are advised not to do any type of spray and do proper drainage management in pulse crops and vegetable nurseries.",
+   "general_advisory": "Khordha district is likely to receive light to moderate rainfall for the next five days. Keeping rainfall forecast in mind farmers are advised not to do any type of spray and do proper drainage management in pulse crops and vegetable nurseries. After rainfall recedes apply top dressing of fertilizers either in transplanted or direct seeded rice. In case of transplanted rice in low/ medium land where top dressing of urea has not been applied, spray 2% urea after rainfall. There are chances of appearance of iron toxicity symptoms like lesser tillering, yellowing of leaves and stunted growth due to stagnant water. In such cases drain out stagnant water and apply 10-kg of MOP and 10-kg of Zinc Sulphate 21% per acre. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended.",
    "crops_data": {
       "paddy": {
          "advisory": [
@@ -68,7 +68,7 @@
       },
       "maize": {
          "advisory": [
-            "Vegetative Fall Army Worm - Rainfall after a dry spell may aggravate infestation of fall army worm in maize. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Dust mixture of sand, soil and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves."
+            "Vegetative Fall Army Worm - Rainfall after a dry spell may aggravate infestation of fall army worm in maize. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Dust mixture of sand, soil and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically , spray Emamectin Benzoate 5 % S.G@ 80- gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre. 200 litre of water per acre is required to spray the insecticide."
          ]
       },
       "vegetables": {
@@ -83,12 +83,12 @@
       },
       "papaya": {
          "advisory": [
-            "Vegetative to Fruiting Crown rot - To control papaya Crown rot Spray Copper Oxychloride @3 g/litre of water or Carbendazim @1 g/lit or Thiophanate Methyl @1 g/lit at 15 days interval."
+            "To control papaya Crown rot Spray Copper Oxychloride @3 g/litre of water or Carbendazim @1 g/lit or Thiophanate Methyl @1 g/lit at 15 days interval."
          ]
       },
       "banana": {
          "advisory": [
-            "Vegetative to Fruiting Leaf spot or Sigatoka - Provide drainage. Give staking to plants. For sigatoka disease, spray Mancozeb 75% WP (@ 400-g or Zineb 75% WP @ 400g or Carbendazim 12% + Mancozeb 63% WP @ 400g per acre with 200 liter of water as a precautionary measures."
+            "Leaf spot or Sigatoka - Provide drainage. Give staking to plants. For sigatoka disease, spray Mancozeb 75% WP (@ 400-g or Zineb 75% WP @ 400g or Carbendazim 12% + Mancozeb 63% WP @ 400g per acre with 200 liter of water as a precautionary measures."
          ]
       }
    },

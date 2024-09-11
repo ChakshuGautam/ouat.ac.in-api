@@ -1,138 +1,140 @@
 {
-    "weather_details": {
-        "03/04/2024": {
-            "rainfall": 0,
-            "t_max": 40,
-            "t_min": 26,
-            "rh_max": 57,
-            "rh_min": 13,
-            "wind_speed": 12,
-            "wind_direction": 205,
-            "cloud_cover": 0
-        },
-        "04/04/2024": {
-            "rainfall": 0,
-            "t_max": 40,
-            "t_min": 26,
-            "rh_max": 80,
-            "rh_min": 15,
-            "wind_speed": 11,
-            "wind_direction": 180,
-            "cloud_cover": 1
-        },
-        "05/04/2024": {
-            "rainfall": 0,
-            "t_max": 41,
-            "t_min": 27,
-            "rh_max": 70,
-            "rh_min": 23,
-            "wind_speed": 15,
-            "wind_direction": 207,
-            "cloud_cover": 1
-        },
-        "06/04/2024": {
-            "rainfall": 0,
-            "t_max": 41,
-            "t_min": 27,
-            "rh_max": 67,
-            "rh_min": 15,
-            "wind_speed": 13,
-            "wind_direction": 210,
-            "cloud_cover": 0
-        },
-        "07/04/2024": {
-            "rainfall": 0,
-            "t_max": 42,
-            "t_min": 27,
-            "rh_max": 55,
-            "rh_min": 10,
-            "wind_speed": 12,
-            "wind_direction": 242,
-            "cloud_cover": 2
-        }
-    },
-    "names_of_crops": [
-        "\u0b27\u0b3e\u0b28\u0964",
-        "\u0b06\u0b16\u0b41",
-        "\u0b2e\u0b15\u0b3e",
-        "\u0b1f\u0b2e\u0b3e\u0b1f\u0b4b",
-        "\u0b2c\u0b3e\u0b07\u0b17\u0b23",
-        "\u0b28\u0b21\u0b3c\u0b3f\u0b06",
-        "\u0b2a\u0b28\u0b3f\u0b2a\u0b30\u0b3f\u0b2c\u0b3e",
-        "\u0b2b\u0b3f\u0b19\u0b4d\u0b17\u0b30\u0b32\u0b3f\u0b19\u0b4d\u0b17\u0b4d",
-        "\u0b15\u0b33\u0b3e \u0b1a\u0b23\u0b3e",
-        "\u0b38\u0b2c\u0b41\u0b1c \u0b1a\u0b23\u0b3e",
-        "\u0b13\u0b15\u0b4d\u0b30\u0b3e",
-        "\u0b30\u0b38\u0b41\u0b23",
-        "\u0b06\u0b2e\u0b4d\u0b2c"
-    ],
-    "general_advisory": "\u0b27\u0b3e\u0b28 \u0b2b\u0b38\u0b32\u0b30\u0b47, \u0b2a\u0b47\u0b28\u0b3f\u0b15\u0b32\u0b4d \u0b06\u0b30\u0b2e\u0b4d\u0b2d, \u0b2a\u0b47\u0b28\u0b3f\u0b15\u0b32\u0b4d \u0b09\u0b26\u0b4d\u0b2d\u0b2c, \u0b2b\u0b41\u0b32, \u0b0f\u0b2c\u0b02 \u0b15\u0b4d\u0b37\u0b40\u0b30 \u0b26\u0b4b\u0b07\u0b2c\u0b3e \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b5f \u0b17\u0b41\u0b30\u0b41\u0b24\u0b4d\u0b71\u0b2a\u0b42\u0b30\u0b4d\u0b23\u0b4d\u0b23 \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b5f | \u0b06\u0b16\u0b41\u0b30\u0b47 \u0b36\u0b41\u0b16\u0b3f\u0b32\u0b3e \u0b2a\u0b24\u0b4d\u0b30\u0b30\u0b47 \u0b27\u0b3e\u0b21\u0b3c\u0b3f\u0b17\u0b41\u0b21\u0b3c\u0b3f\u0b15\u0b41 \u0b22\u0b3e\u0b19\u0b4d\u0b15\u0b3f \u0b26\u0b3f\u0b05\u0b28\u0b4d\u0b24\u0b41\u0964 \u0b09\u0b24\u0b4d\u0b24\u0b3e\u0b2a \u0b2a\u0b4d\u0b30\u0b2d\u0b3e\u0b2c\u0b15\u0b41 \u0b39\u0b4d\u0b30\u0b3e\u0b38 \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01 \u0b38\u0b4d\u0b2a\u0b4d\u0b30\u0b3f\u0b02\u0b15\u0b32\u0b30 \u0b1c\u0b33\u0b38\u0b47\u0b1a\u0b28 \u0b2a\u0b4d\u0b30\u0b5f\u0b4b\u0b17 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964",
-    "crops_data": {
-        "paddy": {
-            "advisory": [
-                "\u0b27\u0b3e\u0b28 \u0b2b\u0b38\u0b32\u0b30\u0b47, \u0b2a\u0b47\u0b28\u0b3f\u0b15\u0b32\u0b4d \u0b06\u0b30\u0b2e\u0b4d\u0b2d, \u0b2a\u0b47\u0b28\u0b3f\u0b15\u0b32\u0b4d \u0b09\u0b26\u0b4d\u0b2d\u0b2c, \u0b2b\u0b41\u0b32, \u0b0f\u0b2c\u0b02 \u0b15\u0b4d\u0b37\u0b40\u0b30 \u0b26\u0b4b\u0b07\u0b2c\u0b3e \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b5f \u0b17\u0b41\u0b30\u0b41\u0b24\u0b4d\u0b71\u0b2a\u0b42\u0b30\u0b4d\u0b23\u0b4d\u0b23 \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b5f | \u0b0f\u0b39\u0b3f \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b5f\u0b17\u0b41\u0b21\u0b3c\u0b3f\u0b15\u0b30\u0b47 \u0b1c\u0b33\u0b30 \u0b05\u0b2d\u0b3e\u0b2c\u0b15\u0b41 \u0b0f\u0b21\u0b3c\u0b3e\u0b07\u0b2c\u0b3e \u0b09\u0b1a\u0b3f\u0b24\u0964"
-            ]
-        },
-        "sugarcane": {
-            "advisory": [
-                "\u0b06\u0b16\u0b41\u0b30\u0b47 \u0b36\u0b41\u0b16\u0b3f\u0b32\u0b3e \u0b2a\u0b24\u0b4d\u0b30\u0b30\u0b47 \u0b27\u0b3e\u0b21\u0b3c\u0b3f\u0b17\u0b41\u0b21\u0b3c\u0b3f\u0b15\u0b41 \u0b22\u0b3e\u0b19\u0b4d\u0b15\u0b3f \u0b26\u0b3f\u0b05\u0b28\u0b4d\u0b24\u0b41\u0964 \u0b17\u0b4d\u0b30\u0b40\u0b37\u0b4d\u0b2e \u0b0b\u0b24\u0b41\u0b30\u0b47 \u0b2a\u0b3e\u0b23\u0b3f\u0b30 \u0b05\u0b2d\u0b3e\u0b2c\u0b30\u0b41 \u0b2b\u0b38\u0b32\u0b15\u0b41 \u0b30\u0b15\u0b4d\u0b37\u0b3e \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01 4 \u0b2a\u0b4d\u0b30\u0b24\u0b3f\u0b36\u0b24 \u0b2a\u0b4b\u0b1f\u0b3e\u0b38\u0b3f\u0b5f\u0b2e \u0b38\u0b39\u0b3f\u0b24 \u0b09\u0b2a\u0b30 \u0b2a\u0b4b\u0b37\u0b3e\u0b15 \u0b2a\u0b3f\u0b28\u0b4d\u0b27\u0b28\u0b4d\u0b24\u0b41 |"
-            ]
-        },
-        "maize": {
-            "advisory": [
-                "\u0b05\u0b27\u0b3f\u0b15 \u0b24\u0b3e\u0b2a\u0b2e\u0b3e\u0b24\u0b4d\u0b30\u0b3e \u0b2e\u0b15\u0b3e \u0b2b\u0b38\u0b32\u0b30 \u0b1c\u0b33\u0b30 \u0b06\u0b2c\u0b36\u0b4d\u0b5f\u0b15\u0b24\u0b3e\u0b15\u0b41 \u0b2c\u0b22\u0b3c\u0b3e\u0b07\u0b25\u0b3e\u0b0f\u0964 \u0b2b\u0b38\u0b32\u0b15\u0b41 \u0b1c\u0b33\u0b38\u0b47\u0b1a\u0b28 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 \u0b0f\u0b2c\u0b02 \u0b1b\u0b05 \u0b18\u0b23\u0b4d\u0b1f\u0b3e\u0b30\u0b41 \u0b05\u0b27\u0b3f\u0b15 \u0b38\u0b2e\u0b5f \u0b27\u0b30\u0b3f \u0b2a\u0b3e\u0b23\u0b3f \u0b05\u0b1f\u0b15\u0b3e\u0b07 \u0b30\u0b16\u0b28\u0b4d\u0b24\u0b41 \u0b28\u0b3e\u0b39\u0b3f\u0b01\u0964"
-            ]
-        },
-        "tomato": {
-            "advisory": [
-                "\u0b26\u0b3f\u0b28\u0b30 \u0b09\u0b1a\u0b4d\u0b1a \u0b24\u0b3e\u0b2a\u0b2e\u0b3e\u0b24\u0b4d\u0b30\u0b3e \u0b1f\u0b2e\u0b3e\u0b1f\u0b4b\u0b30\u0b47 \u0b36\u0b41\u0b37\u0b4d\u0b15\u0b24\u0b3e \u0b38\u0b43\u0b37\u0b4d\u0b1f\u0b3f \u0b15\u0b30\u0b3f\u0b2a\u0b3e\u0b30\u0b47\u0964 \u0b2e\u0b42\u0b33 \u0b05\u0b1e\u0b4d\u0b1a\u0b33\u0b30\u0b47 10 \u0b32\u0b3f\u0b1f\u0b30 \u0b2a\u0b3e\u0b23\u0b3f\u0b30\u0b47 1 \u0b17\u0b4d\u0b30\u0b3e\u0b2e\u0b4d \u0b38\u0b4d\u0b1f\u0b4d\u0b30\u0b47\u0b2a\u0b4d\u0b1f\u0b4b\u0b38\u0b3e\u0b07\u0b15\u0b4d\u0b32\u0b3f\u0b28\u0b4d \u0b32\u0b17\u0b3e\u0b28\u0b4d\u0b24\u0b41\u0964"
-            ]
-        },
-        "brinjal": {
-            "advisory": [
-                "\u0b2c\u0b3e\u0b07\u0b17\u0b23 \u0b05\u0b19\u0b4d\u0b15\u0b41\u0b30 \u0b0f\u0b2c\u0b02 \u0b2b\u0b33 \u0b1b\u0b47\u0b26\u0b15\u0b15\u0b41 \u0b2a\u0b30\u0b3f\u0b1a\u0b3e\u0b33\u0b28\u0b3e \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01, \u0b2b\u0b47\u0b30\u0b4b\u0b2e\u0b4b\u0b28\u0b4d \u0b1f\u0b4d\u0b30\u0b3e\u0b2a\u0b4d \u0b38\u0b4d\u0b25\u0b3e\u0b2a\u0b28 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 \u0b0f\u0b2c\u0b02 \u0b28\u0b3f\u0b2e-\u0b06\u0b27\u0b3e\u0b30\u0b3f\u0b24 \u0b15\u0b40\u0b1f\u0b28\u0b3e\u0b36\u0b15 \u0b38\u0b3f\u0b1e\u0b4d\u0b1a\u0b28 \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2c\u0b3f\u0b37\u0b5f\u0b30\u0b47 \u0b2c\u0b3f\u0b1a\u0b3e\u0b30 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 |"
-            ]
-        },
-        "coconut": {
-            "advisory": [
-                "\u0b1c\u0b33\u0b15\u0b4d\u0b37\u0b5f \u0b39\u0b4d\u0b30\u0b3e\u0b38 \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01 \u0b28\u0b21\u0b3c\u0b3f\u0b06 \u0b17\u0b1b \u0b1a\u0b3e\u0b30\u0b3f\u0b2a\u0b3e\u0b16\u0b30\u0b47 \u0b28\u0b21\u0b3c\u0b3f\u0b06 \u0b2a\u0b24\u0b4d\u0b30\u0b15\u0b41 \u0b2e\u0b32\u0b4d\u0b1a \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964"
-            ]
-        },
-        "vegetable": {
-            "advisory": [
-                "\u0b26\u0b3f\u0b28\u0b30\u0b47 \u0b28\u0b42\u0b24\u0b28 \u0b2d\u0b3e\u0b2c\u0b30\u0b47 \u0b30\u0b4b\u0b2a\u0b23 \u0b15\u0b30\u0b3e\u0b2f\u0b3e\u0b07\u0b25\u0b3f\u0b2c\u0b3e \u0b2a\u0b28\u0b3f\u0b2a\u0b30\u0b3f\u0b2c\u0b3e \u0b1a\u0b3e\u0b30\u0b3e \u0b09\u0b2a\u0b30\u0b47 \u0b15\u0b3e\u0b17\u0b1c \u0b15\u0b4d\u0b5f\u0b3e\u0b2a\u0b4d \u0b38\u0b39\u0b3f\u0b24 \u0b06\u0b1a\u0b4d\u0b1b\u0b3e\u0b26\u0b28 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 |"
-            ]
-        },
-        "fingerlings": {
-            "advisory": [
-                "\u0b05\u0b17\u0b2d\u0b40\u0b30 \u0b2a\u0b4b\u0b16\u0b30\u0b40\u0b30\u0b47, \u0b2f\u0b26\u0b3f \u0b1c\u0b33 \u0b24\u0b3e\u0b2a\u0b2e\u0b3e\u0b24\u0b4d\u0b30\u0b3e 30 \u0b21\u0b3f\u0b17\u0b4d\u0b30\u0b40 \u0b38\u0b47\u0b32\u0b38\u0b3f\u0b5f\u0b38\u0b30\u0b41 \u0b05\u0b27\u0b3f\u0b15 \u0b39\u0b41\u0b0f, \u0b24\u0b47\u0b2c\u0b47 \u0b2b\u0b3f\u0b19\u0b4d\u0b17\u0b30\u0b32\u0b3f\u0b02 \u0b05\u0b2e\u0b33 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964 \u0b2b\u0b3f\u0b19\u0b4d\u0b17\u0b30\u0b32\u0b3f\u0b02 \u0b32\u0b17\u0b3e\u0b07\u0b2c\u0b3e \u0b2a\u0b42\u0b30\u0b4d\u0b2c\u0b30\u0b41 \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b2a\u0b4d\u0b24 \u0b1c\u0b33 \u0b17\u0b2d\u0b40\u0b30\u0b24\u0b3e \u0b38\u0b41\u0b28\u0b3f\u0b36\u0b4d\u0b1a\u0b3f\u0b24 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964"
-            ]
-        },
-        "black gram": {
-            "advisory": [
-                "\u0b15\u0b4d\u0b5f\u0b3e\u0b1f\u0b30\u0b4d\u0b2a\u0b3f\u0b32\u0b30 \u0b38\u0b4d\u0b25\u0b3e\u0b28\u0b3e\u0b28\u0b4d\u0b24\u0b30\u0b23 \u0b2f\u0b3e\u0b1e\u0b4d\u0b1a \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 \u0b0f\u0b2c\u0b02 \u0b15\u0b4d\u0b32\u0b4b\u0b30\u0b2a\u0b3f\u0b30\u0b3f\u0b2b\u0b38\u0b4d \u0b38\u0b39\u0b3f\u0b24 \u0b27\u0b42\u0b33\u0b3f \u0b09\u0b21\u0b3c\u0b3e\u0b07\u0b2c\u0b3e \u0b2c\u0b3f\u0b37\u0b5f\u0b30\u0b47 \u0b1a\u0b3f\u0b28\u0b4d\u0b24\u0b3e \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 |"
-            ]
-        },
-        "green gram": {
-            "advisory": [
-                "\u0b15\u0b4d\u0b5f\u0b3e\u0b1f\u0b30\u0b4d\u0b2a\u0b3f\u0b32\u0b30 \u0b38\u0b4d\u0b25\u0b3e\u0b28\u0b3e\u0b28\u0b4d\u0b24\u0b30\u0b23 \u0b2f\u0b3e\u0b1e\u0b4d\u0b1a \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 \u0b0f\u0b2c\u0b02 \u0b15\u0b4d\u0b32\u0b4b\u0b30\u0b2a\u0b3f\u0b30\u0b3f\u0b2b\u0b38\u0b4d \u0b38\u0b39\u0b3f\u0b24 \u0b27\u0b42\u0b33\u0b3f \u0b09\u0b21\u0b3c\u0b3e\u0b07\u0b2c\u0b3e \u0b2c\u0b3f\u0b37\u0b5f\u0b30\u0b47 \u0b1a\u0b3f\u0b28\u0b4d\u0b24\u0b3e \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 |"
-            ]
-        },
-        "okra": {
-            "advisory": [
-                "\u0b27\u0b33\u0b3e \u0b2e\u0b3e\u0b1b\u0b3f \u0b38\u0b02\u0b15\u0b4d\u0b30\u0b2e\u0b23\u0b15\u0b41 \u0b30\u0b4b\u0b15\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01 \u0b2c\u0b41\u0b23\u0b3f\u0b2c\u0b3e \u0b2a\u0b42\u0b30\u0b4d\u0b2c\u0b30\u0b41 \u0b2d\u0b47\u0b23\u0b4d\u0b21\u0b3f \u0b2e\u0b1e\u0b4d\u0b1c\u0b3f \u0b38\u0b39\u0b3f\u0b24 \u0b07\u0b2e\u0b3f\u0b21\u0b3e\u0b15\u0b4d\u0b32\u0b4b\u0b2a\u0b4d\u0b30\u0b3f\u0b21\u0b4d \u0b38\u0b39\u0b3f\u0b24 \u0b1a\u0b3f\u0b15\u0b3f\u0b24\u0b4d\u0b38\u0b3e \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 |"
-            ]
-        },
-        "onion": {
-            "advisory": [
-                "\u0b2a\u0b3f\u0b06\u0b1c\u0b4d \u0b05\u0b2e\u0b33 \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b30\u0b47, \u0b37\u0b4d\u0b1f\u0b4b\u0b30\u0b47\u0b1c\u0b4d \u0b2a\u0b3e\u0b07\u0b01 \u0b0f\u0b15 \u0b2d\u0b32 \u0b2c\u0b3e\u0b5f\u0b41\u0b1a\u0b3e\u0b33\u0b3f\u0b24 \u0b15\u0b4b\u0b20\u0b30\u0b40\u0b30\u0b47 \u0b09\u0b2a\u0b30 \u0b0f\u0b2c\u0b02 \u0b36\u0b41\u0b16\u0b3f\u0b32\u0b3e \u0b15\u0b28\u0b4d\u0b26 \u0b15\u0b3e\u0b1f\u0b3f \u0b26\u0b3f\u0b05\u0b28\u0b4d\u0b24\u0b41 |"
-            ]
-        },
-        "mango": {
-            "advisory": [
-                "\u0b06\u0b2e\u0b4d\u0b2c \u0b39\u0b2a\u0b30\u0b15\u0b41 \u0b28\u0b3f\u0b5f\u0b28\u0b4d\u0b24\u0b4d\u0b30\u0b23 \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01, \u0b38\u0b41\u0b2a\u0b3e\u0b30\u0b3f\u0b36 \u0b15\u0b30\u0b3e\u0b2f\u0b3e\u0b07\u0b25\u0b3f\u0b2c\u0b3e \u0b15\u0b40\u0b1f\u0b28\u0b3e\u0b36\u0b15 \u0b38\u0b3f\u0b1e\u0b4d\u0b1a\u0b28 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41 \u0b0f\u0b2c\u0b02 \u0b17\u0b1b \u0b24\u0b33\u0b47 \u0b27\u0b42\u0b06\u0b01 \u0b2c\u0b4d\u0b5f\u0b2c\u0b39\u0b3e\u0b30 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964"
-            ]
-        }
-    },
-    "date": "02-04-2024"
+   "weather_details": {
+      "03/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 57,
+         "rh_min": 13,
+         "wind_speed": 12,
+         "wind_direction": 205,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 15,
+         "wind_speed": 11,
+         "wind_direction": 180,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 70,
+         "rh_min": 23,
+         "wind_speed": 15,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 67,
+         "rh_min": 15,
+         "wind_speed": 13,
+         "wind_direction": 210,
+         "cloud_cover": 0
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 55,
+         "rh_min": 10,
+         "wind_speed": 12,
+         "wind_direction": 242,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "ଧାନ।",
+      "ସୁଗାର୍କାନ୍",
+      "ମକା",
+      "ଟମାଟୋ",
+      "ବାଇଗଣ",
+      "ନଡ଼ିଆ",
+      "ପନିପରିବା",
+      "ଫିଙ୍ଗରଲିଙ୍ଗ୍",
+      "କଳା ଚଣା",
+      "ସବୁଜ ଚଣା",
+      "ଓକ୍ରା",
+      "ରସୁଣ",
+      "ଆମ୍ବ"
+   ],
+   "general_advisory": "ଧାନ ଫସଲରେ, ପେନିକଲ୍ ଆରମ୍ଭ, ପେନିକଲ୍ ଉଦ୍ଭବ, ଫୁଲ ଏବଂ କ୍ଷୀର ଦୋଇବା ପର୍ଯ୍ୟାୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ | ଆଖୁରେ ଶୁଖିଲା ପତ୍ରରେ ଧାଡ଼ିଗୁଡ଼ିକୁ ଘୋଡାଇ ରଖନ୍ତୁ। ଉତ୍ତାପ ପ୍ରଭାବ ହ୍ରାସ କରିବା ପାଇଁ ସ୍ପ୍ରିଂକଲର ଜଳସେଚନ ପ୍ରୟୋଗ କରନ୍ତୁ। ଅଧିକ ତାପମାତ୍ରା ମକା ଫସଲ ପାଇଁ ଜଳର ଆବଶ୍ୟକତାକୁ ବଢ଼ାଇଥାଏ। ଜଳସେଚନ ଚ୍ୟାନେଲରେ ପଲିଥିନ୍ ବ୍ୟବହାର କରନ୍ତୁ। ଶୁଖିବାକୁ ରୋକିବା ପାଇଁ ଟମାଟୋ ଏବଂ ବାଇଗଣରେ ସ୍ଟ୍ରେପ୍ଟୋସାଇକ୍ଲିନ୍ ଲଗାନ୍ତୁ।",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "ହଳଦିଆ କାଣ୍ଡ ଛେଦକ ପରିଚାଳନା-ପରିଚାଳନା ପାଇଁ ଉପଯୁକ୍ତ ରାସାୟନିକ ପଦାର୍ଥ ବ୍ୟବହାର କରନ୍ତୁ।",
+            "ବିସ୍ଫୋରଣ ରୋଗ ପରିଚାଳନା-ସୁପାରିଶ କରାଯାଇଥିବା କବକନାଶକ ବ୍ୟବହାର କରନ୍ତୁ।"
+         ]
+      },
+      "sugarcan": {
+         "advisory": [
+            "ପ୍ରାରମ୍ଭିକ ଶୁଟ୍ ବୋରର୍-ବାରମ୍ବାର ଜଳସେଚନ କରନ୍ତୁ ଏବଂ ସମୟୋଚିତ ଭାବରେ ପ୍ରଭାବିତ ଶୁଟ୍ କାଟି ଦିଅନ୍ତୁ |"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "ଅଧିକ ତାପମାତ୍ରା ଜଳର ଆବଶ୍ୟକତାକୁ ବଢ଼ାଇଥାଏ। କ୍ଷେତରେ ପାଣି ଜମା ହେବା ଠାରୁ ଦୂରେଇ ରୁହନ୍ତୁ।"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "ମୂଳ ଅଞ୍ଚଳରେ ସ୍ଟ୍ରେପ୍ଟୋସାଇକ୍ଲିନ୍ ଲଗାନ୍ତୁ।"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "ଫେରୋମୋନ୍ ଫାନ୍ଦ ଲଗାନ୍ତୁ ଏବଂ ନିମ୍ବ ଆଧାରିତ କୀଟନାଶକ ବ୍ୟବହାର କରନ୍ତୁ।",
+            "ଆବଶ୍ୟକ ହେଲେ ରାସାୟନିକ ନିୟନ୍ତ୍ରଣ ପ୍ରୟୋଗ କରନ୍ତୁ।"
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "ଜଳକ୍ଷୟ ହ୍ରାସ କରିବା ପାଇଁ ଗଛ ଚାରିପାଖରେ ନଡ଼ିଆ ପତ୍ରକୁ ମଲ୍ଚ କରନ୍ତୁ।"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "ଦିନରେ ନୂତନ ରୋପଣ କରାଯାଇଥିବା ଚାରା ଗୁଡ଼ିକୁ କାଗଜ ଟୋପି ଦ୍ୱାରା ଢାଙ୍କି ଦିଅନ୍ତୁ।"
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "ଯଦି ଜଳର ତାପମାତ୍ରା ବୃଦ୍ଧି ପାଏ, ତେବେ ଅଗଭୀର ପୋଖରୀରୁ ଫିଙ୍ଗରଲିଂ ଅମଳ କରନ୍ତୁ।"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "ତମାଖୁ କ୍ୟାଟରପିଲରକୁ ଧୂଳି ଉଡ଼ାଇ ଏବଂ ଉପଯୁକ୍ତ କୀଟନାଶକ ସିଞ୍ଚନ କରି ପରିଚାଳନା କରନ୍ତୁ।"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "ତମାଖୁ କ୍ୟାଟରପିଲରକୁ କଳା ଚଣା ଭଳି ପରିଚାଳନା କରନ୍ତୁ।"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "ମଞ୍ଜିଗୁଡ଼ିକୁ ଇମିଡାକ୍ଲୋପ୍ରିଡ୍ ସହିତ ଚିକିତ୍ସା କରନ୍ତୁ ଏବଂ ହଳଦିଆ ଚଟପଟା ଜାଲ ବ୍ୟବହାର କରନ୍ତୁ।"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "ଭଲ ବାୟୁଚାଳିତ କୋଠରୀରେ ଶୁଖିଲା ଅମଳ ହୋଇଥିବା କନ୍ଦ।"
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "ସୁପାରିଶ କରାଯାଇଥିବା କୀଟନାଶକ ଏବଂ ଧୂଆଁ ପ୍ରୟୋଗ ଦ୍ୱାରା ଆମ୍ବ ହପରକୁ ନିୟନ୍ତ୍ରଣ କରନ୍ତୁ।"
+         ]
+      }
+   },
+   "date": "02-04-2024"
 }

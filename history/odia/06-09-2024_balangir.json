@@ -1,51 +1,51 @@
 {
-    "weather_details": {
-        "2022-01-01": {
-            "rainfall": 5,
-            "t_max": 28,
-            "t_min": 15,
-            "rh_max": 80,
-            "rh_min": 50,
-            "wind_speed": 15,
-            "wind_direction": 180,
-            "cloud_cover": 4
-        },
-        "2022-01-02": {
-            "rainfall": 0,
-            "t_max": 30,
-            "t_min": 18,
-            "rh_max": 75,
-            "rh_min": 45,
-            "wind_speed": 10,
-            "wind_direction": 220,
-            "cloud_cover": 3
-        }
-    },
-    "names_of_crops": [
-        "\u0b17\u0b39\u0b2e",
-        "\u0b2e\u0b15\u0b3e",
-        "\u0b17\u0b4b\u0b30\u0b41\u0964"
-    ],
-    "general_advisory": "\u0b17\u0b39\u0b2e \u0b0f\u0b2c\u0b02 \u0b2e\u0b15\u0b3e \u0b2c\u0b41\u0b23\u0b28\u0b4d\u0b24\u0b41, \u0b17\u0b4b\u0b30\u0b41\u0b2e\u0b3e\u0b28\u0b19\u0b4d\u0b15 \u0b2a\u0b3e\u0b07\u0b01 \u0b09\u0b2a\u0b2f\u0b41\u0b15\u0b4d\u0b24 \u0b2a\u0b4b\u0b37\u0b23 \u0b2c\u0b1c\u0b3e\u0b5f \u0b30\u0b16\u0b28\u0b4d\u0b24\u0b41 |",
-    "crops_data": {
-        "wheat": {
-            "advisory": [
-                "\u0b09\u0b2a\u0b2f\u0b41\u0b15\u0b4d\u0b24 \u0b1c\u0b33\u0b38\u0b47\u0b1a\u0b28 \u0b38\u0b41\u0b28\u0b3f\u0b36\u0b4d\u0b1a\u0b3f\u0b24 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41",
-                "\u0b15\u0b40\u0b1f\u0b2a\u0b24\u0b19\u0b4d\u0b17 \u0b0f\u0b2c\u0b02 \u0b30\u0b4b\u0b17 \u0b09\u0b2a\u0b30\u0b47 \u0b28\u0b1c\u0b30 \u0b30\u0b16\u0b28\u0b4d\u0b24\u0b41"
-            ]
-        },
-        "maize": {
-            "advisory": [
-                "\u0b15\u0b3e\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b38\u0b42\u0b1a\u0b40 \u0b05\u0b28\u0b41\u0b2f\u0b3e\u0b5f\u0b40 \u0b38\u0b3e\u0b30 \u0b2a\u0b4d\u0b30\u0b5f\u0b4b\u0b17 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964",
-                "\u0b18\u0b3e\u0b38\u0b30\u0b41 \u0b30\u0b15\u0b4d\u0b37\u0b3e \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41"
-            ]
-        },
-        "cattle": {
-            "advisory": [
-                "\u0b2a\u0b4d\u0b30\u0b24\u0b3f\u0b26\u0b3f\u0b28 \u0b2a\u0b30\u0b3f\u0b37\u0b4d\u0b15\u0b3e\u0b30 \u0b2a\u0b3e\u0b23\u0b3f \u0b2f\u0b4b\u0b17\u0b3e\u0b07 \u0b26\u0b3f\u0b05\u0b28\u0b4d\u0b24\u0b41\u0964",
-                "\u0b09\u0b2a\u0b2f\u0b41\u0b15\u0b4d\u0b24 \u0b06\u0b36\u0b4d\u0b30\u0b5f\u0b38\u0b4d\u0b25\u0b33\u0b40 \u0b38\u0b41\u0b28\u0b3f\u0b36\u0b4d\u0b1a\u0b3f\u0b24 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41"
-            ]
-        }
-    },
-    "date": "06-09-2024"
+   "weather_details": {
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 180,
+         "cloud_cover": 5
+      },
+      "2022-01-02": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 90,
+         "rh_min": 65,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "ଗହମ",
+      "ମକା",
+      "ଚିକେନ୍"
+   ],
+   "general_advisory": "ଜାନୁଆରୀ 2 ରୁ 5 ମଧ୍ୟରେ ପ୍ରବଳ ବର୍ଷା ପାଇଁ ପ୍ରସ୍ତୁତ ରୁହନ୍ତୁ। ଫସଲ ଏବଂ ପଶୁମାନଙ୍କୁ ସୁରକ୍ଷିତ ରଖନ୍ତୁ।",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "ଉପଯୁକ୍ତ ବୃଦ୍ଧି ସୁନିଶ୍ଚିତ କରିବା ପାଇଁ ନିୟମିତ ଭାବେ ଗହମ କ୍ଷେତକୁ ପାଣି ଦିଅନ୍ତୁ।",
+            "କ୍ଷେତକୁ ଢାଙ୍କି ଗହମକୁ ପ୍ରବଳ ବର୍ଷାରୁ ରକ୍ଷା କରନ୍ତୁ।"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "ମକା ଫସଲ ଆଲୋକ ସଂଶ୍ଳେଷଣ ପାଇଁ ପର୍ଯ୍ୟାପ୍ତ ସୂର୍ଯ୍ୟାଲୋକ ଆବଶ୍ୟକ କରେ |",
+            "କୀଟପତଙ୍ଗର ଲକ୍ଷଣଗୁଡ଼ିକୁ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ଆବଶ୍ୟକ ପଦକ୍ଷେପ ନିଅନ୍ତୁ।"
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "ପ୍ରବଳ ବର୍ଷା ସମୟରେ କୁକୁଡ଼ାଙ୍କ ପାଇଁ ପର୍ଯ୍ୟାପ୍ତ ଆଶ୍ରୟସ୍ଥଳୀ ସୁନିଶ୍ଚିତ କରନ୍ତୁ।",
+            "କୁକୁଡ଼ାରେ ରୋଗର କୌଣସି ଲକ୍ଷଣ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରନ୍ତୁ।"
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

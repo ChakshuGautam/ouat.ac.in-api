@@ -52,8 +52,8 @@
       }
    },
    "names_of_crops": [
-      "kharif paddy",
-      "kharif pulses",
+      "paddy",
+      "pulses",
       "arhar",
       "turmeric",
       "ragi",
@@ -65,27 +65,27 @@
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "Due to forecast of light to moderate rainfall, farmers are advised not to apply fertilizer & chemicals. Strengthen the bunds of paddy field and check for any rat holes or leakage. After rain, trim the bund and keep clean to avoid insect multiplication.",
+   "general_advisory": "Due to forecast of light to moderate rainfall, farmers are advised not to apply fertilizer & chemicals. Strengthen bunds of paddy fields and check for any rat holes or leakage. After rain, trim and clean bunds to avoid insect multiplication.",
    "crops_data": {
-      "kharif paddy": {
+      "paddy": {
          "advisory": [
             "Regular monitoring of the crop for incidence of pests and diseases should be done.",
-            "After rain, there is a chance of infestation of leaf folder and yellow stem borer, apply Cartap hydrochloride 50SP @ 400g/acre or Fipronil 5 SC @ 400ml/acre."
+            "Apply Cartap hydrocloride 50SP @ 400g/acre or Fipronil 5 SC @ 400ml/acre after rain."
          ]
       },
-      "kharif pulses": {
+      "pulses": {
          "advisory": [
-            "After rain, there is a chance of insect pest attack, survey regularly and take action by consulting department personnel."
+            "After rain, there is a chance of insect pest attack. Survey regularly and take action by consulting department personnel."
          ]
       },
       "arhar": {
          "advisory": [
-            "Go for intercultivation."
+            "Go for intercultivation. Consult Gramin Krishi Mausam Sewa for advice."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Go for intercultural operation and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre."
+            "Go for intercultural operation and apply 26kg urea per acre at 45 days after planting. Apply mulching @ 2t/acre."
          ]
       },
       "ragi": {
@@ -95,24 +95,22 @@
       },
       "maize": {
          "advisory": [
-            "Due to weather conditions, there is a chance of aphids in maize, to manage apply Dimethoate @ 2 ml/liter of water."
+            "Due to weather conditions, there is a chance of Aphids in Maize. Apply Dimethoate @ 2ml/liter of water to manage."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Due to weather, tikka disease is seen, to manage spray Carbendazim @ 2 g/liter of water."
+            "Due to weather, Tikka disease is seen. Manage by spraying Carbendazim @ 2g/liter of water."
          ]
       },
       "papaya": {
          "advisory": [
-            "Do not allow stagnation of water as papaya plant is sensitive to waterlogging.",
-            "Drench Carbendazim or Mancozeb @ 2 g/lt of water near the root zone to avoid fungal diseases."
+            "Do not allow water stagnation near the root zone to avoid fungal diseases. Drench Carbendazim or Mancozeb @ 2g/lt of water."
          ]
       },
       "mango": {
          "advisory": [
-            "Do not allow rainwater to remain stagnant near the base of the plant.",
-            "Provide stakings to newly planted saplings to avoid wind damage."
+            "Do not allow rainwater to remain stagnant near the base of the plant. Provide stakings to new saplings to prevent wind damage."
          ]
       },
       "vegetables": {
@@ -127,8 +125,7 @@
       },
       "livestock": {
          "advisory": [
-            "Provide clean drinking water to poultry.",
-            "Take preventive action for any disease in consultation with department personnel."
+            "Provide clean drinking water to poultry and take preventive action against diseases with help from department personnel."
          ]
       }
    },

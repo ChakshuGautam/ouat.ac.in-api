@@ -1,124 +1,101 @@
 {
    "weather_details": {
-      "07-09-2024": {
-         "rainfall": 15,
-         "t_max": 31,
+      "11-09-2024": {
+         "rainfall": 2,
+         "t_max": 29,
          "t_min": 22,
-         "rh_max": 91,
-         "rh_min": 66,
-         "wind_speed": 6,
-         "wind_direction": 158,
+         "rh_max": 96,
+         "rh_min": 75,
+         "wind_speed": 9,
+         "wind_direction": 244,
          "cloud_cover": 7
       },
-      "08-09-2024": {
-         "rainfall": 20,
+      "12-09-2024": {
+         "rainfall": 2,
          "t_max": 30,
          "t_min": 19,
-         "rh_max": 95,
-         "rh_min": 66,
-         "wind_speed": 6,
-         "wind_direction": 292,
+         "rh_max": 93,
+         "rh_min": 68,
+         "wind_speed": 11,
+         "wind_direction": 259,
          "cloud_cover": 7
       },
-      "09-09-2024": {
-         "rainfall": 25,
-         "t_max": 29,
-         "t_min": 20,
-         "rh_max": 96,
-         "rh_min": 77,
-         "wind_speed": 8,
-         "wind_direction": 291,
-         "cloud_cover": 8
-      },
-      "10-09-2024": {
-         "rainfall": 20,
-         "t_max": 29,
-         "t_min": 20,
-         "rh_max": 94,
-         "rh_min": 74,
-         "wind_speed": 10,
-         "wind_direction": 252,
-         "cloud_cover": 8
-      },
-      "11-09-2024": {
-         "rainfall": 10,
+      "13-09-2024": {
+         "rainfall": 5,
          "t_max": 30,
-         "t_min": 21,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 11,
+         "wind_direction": 264,
+         "cloud_cover": 6
+      },
+      "14-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 23,
          "rh_max": 94,
-         "rh_min": 73,
+         "rh_min": 64,
+         "wind_speed": 13,
+         "wind_direction": 262,
+         "cloud_cover": 6
+      },
+      "15-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 89,
+         "rh_min": 63,
          "wind_speed": 12,
-         "wind_direction": 270,
-         "cloud_cover": 8
+         "wind_direction": 258,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "brinjal",
       "okra",
+      "brinjal",
       "rice",
-      "maize",
       "chilli",
-      "niger",
       "ginger",
-      "poultry"
+      "fishery"
    ],
-   "general_advisory": "Seeing the wind pesticide application may be delayed or sprayed along the wind direction if required. Staking should be done in crops like maize (earthing up) and in fruit crops to prevent them from toppling. It is important to keep the rainwater in the rice field to protect it from various diseases. Drain out excess of rainwater from the vegetable fields to protect from root rot and other diseases. Sheds of cattle and goats should be clean and provide fresh feeds and water.",
+   "general_advisory": "Staking should be done in crops like maize (earthing up) and in fruit crops to prevent them from toppling. It is important to keep the rainwater in the rice field to protect it from various diseases. Sheds of cattle and goats should be made clean and provide fresh feeds and water. Feeding to fish should be in a regulated manner, if the water seems cloudy then stop feeding for the day.",
    "crops_data": {
-      "brinjal": {
-         "advisory": [
-            "Stage - Fruiting",
-            "Wilting",
-            "Drain out excess of water after the rainfall.",
-            "Apply Plantomycin @ 2gram/liter along with Tebuconazole@ 1gram/liter"
-         ]
-      },
       "okra": {
          "advisory": [
             "Stage - Fruiting",
-            "Shoot and fruit borer",
-            "Set up pheromone trap @ 12/ha.",
-            "Collection and destruction of affected fruits.",
-            "Spray Azadirachtin 0.03% WSP (300 ppm) @ 5.0 g/lit, Buprofezin 70 DF @5.5 ml/10 lit, Quinalphos 25% EC @ 8.0 ml/10 lit, Emamectin benzoate 5 % SG @3.0 g/10 lit."
+            "Shoot and fruit borer: Set up pheromone trap @ 12/ha. Collection and destruction of affected fruits. Spray any one of the insecticides Azadirachtin 0.03% WSP (300 ppm) @ 5.0 g/lit, Buprofezin 70 DF @5.5 ml/10 lit, Quinalphos 25 % EC @ 8.0 ml/10 lit, Emamectin benzoate 5 % SG @3.0 g/10 lit."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Stage - Fruiting.",
+            "Wilting: Drain out excess of water after the rainfall. Apply Plantomycin @ 2gram/liter along with Tebuconazole@ 1gram/liter."
          ]
       },
       "rice": {
          "advisory": [
-            "Stage - Tillering",
-            "Blast disease may occur due to alternate drying and wetting conditions so it is necessary to keep standing water in the rice field.",
-            "Spray Hexaconazole or Tricyclazole@0.7gram/liter) at 15 days interval regularly."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Stage - Tasselling",
-            "To manage the fall armyworm pest, spray Emamectin Benzoate 5% S.G @ 80-gram/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water",
-            "Use 10-12 bird perches per acre and remove them before tasselling stage."
+            "Stage - Tillering.",
+            "Blast disease may occur due to alternate drying and wetting conditions, so it is necessary to keep standing water in the rice field. Spray Hexaconazole or Tricyclazole@0.7gram/liter) at 15 days interval regularly."
          ]
       },
       "chilli": {
          "advisory": [
-            "Stage - fruiting - fusarium wilt",
-            "Uproot the infected plants and dispose of them safely.",
-            "Drenching with 1% Bordeaux mixture or blue copper or Fytolan 0.25% may give protection."
-         ]
-      },
-      "niger": {
-         "advisory": [
-            "In Niger crop, apply 25% of Nitrogen at pre-flowering stage.",
-            "Fertilizer dose is 40:40:20 kg/ha of NPK."
+            "Stage - fruiting - fusarium wilt.",
+            "Fusarium wilt is characterized by wilting of the plant and upward and inward rolling of the leaves. Uproot the infected plants and dispose of them safely. Drenching with 1% Bordeaux mixture or blue copper or Fytolan 0.25% may give protection."
          ]
       },
       "ginger": {
          "advisory": [
             "Rhizome rot.",
-            "Apply Tagmycin @ 1.5 packets and Neem oil @ 75 ml/15 liter of water as curative measures."
+            "Apply Tagmycin @ 1.5 packets and Neem oil @ 75 ml/15 liters of water as curative measures."
          ]
       },
-      "poultry": {
+      "fishery": {
          "advisory": [
-            "Close and cover the holes on the floor as it may reside the snakes or rats which can kill the chicks.",
-            "Provide optimum amount of food and clean drinking water."
+            "If the pond water looks cloudy then stop feeding the fish for the day and resume feeding again tomorrow."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "10-09-2024"
 }

@@ -1,103 +1,63 @@
 {
    "weather_details": {
-      "02-09-2024": {
+      "11-09-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 78,
+         "rh_min": 94,
+         "wind_speed": 15,
+         "wind_direction": 250,
+         "cloud_cover": 6
+      },
+      "12-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 71,
+         "rh_min": 92,
+         "wind_speed": 15,
+         "wind_direction": 249,
+         "cloud_cover": 6
+      },
+      "13-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 70,
+         "rh_min": 95,
+         "wind_speed": 15,
+         "wind_direction": 256,
+         "cloud_cover": 6
+      },
+      "14-09-2024": {
          "rainfall": 2,
          "t_max": 31,
          "t_min": 20,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "03-09-2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 21,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "04-09-2024": {
-         "rainfall": 4,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "05-09-2024": {
-         "rainfall": 20,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "07-09-2024": {
-         "rainfall": 25,
-         "t_max": 29,
-         "t_min": 20,
-         "rh_max": 95,
-         "rh_min": 74,
-         "wind_speed": 8,
-         "wind_direction": 251,
-         "cloud_cover": 7
-      },
-      "08-09-2024": {
-         "rainfall": 30,
-         "t_max": 29,
-         "t_min": 19,
-         "rh_max": 94,
-         "rh_min": 79,
-         "wind_speed": 11,
-         "wind_direction": 252,
-         "cloud_cover": 8
-      },
-      "09-09-2024": {
-         "rainfall": 35,
-         "t_max": 29,
-         "t_min": 18,
-         "rh_max": 93,
-         "rh_min": 84,
-         "wind_speed": 14,
-         "wind_direction": 257,
-         "cloud_cover": 8
-      },
-      "10-09-2024": {
-         "rainfall": 25,
-         "t_max": 30,
-         "t_min": 18,
-         "rh_max": 93,
-         "rh_min": 82,
-         "wind_speed": 16,
-         "wind_direction": 252,
-         "cloud_cover": 8
-      },
-      "11-09-2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 91,
-         "rh_min": 81,
+         "rh_max": 73,
+         "rh_min": 93,
          "wind_speed": 17,
-         "wind_direction": 252,
-         "cloud_cover": 7
+         "wind_direction": 262,
+         "cloud_cover": 6
+      },
+      "15-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 63,
+         "rh_min": 93,
+         "wind_speed": 17,
+         "wind_direction": 259,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
       "maize",
-      "kharif groundnut",
+      "groundnut",
       "ragi",
       "brinjal",
-      "cucumber",
+      "potato",
       "ginger",
       "black pepper",
       "turmeric",
@@ -105,83 +65,83 @@
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "Rainfall is expected during next five days. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. Due to high humidity, possibilities of pest and disease buildup in already sown crop. Make proper drainage systems in non-paddy crop fields for removing excess water.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build-up in already sown crop. Take plant protection measures depending on the crop and weather condition. Make proper drainage system in non-paddy crop field for removing excess water.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Keep the rice plots weed-free.",
-            "Apply low quantity of Nitrogen fertilizer to reduce the blast disease.",
-            "Spray chlorantraniliprole @ 6 ml /15 liter of water to control the stem borer.",
-            "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
-            "Complete the transplanting. Use 4 -5 seedlings / hill in age-old seedlings with closed spacing."
+            "Apply 35 kg urea/acre for high yielding varieties and 42 kg of urea/acre for hybrids at tillering stage.",
+            "Current weather may favour blast disease in rice. To control it spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water or Tricyclazole 45% + Hexaconazole 10% WG @ 1 g/litre of water.",
+            "There is a chance of stem borer and leaf folder infestation. If found in field then spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Flubendiamide 20% WG @ 0.25 g/litre of water."
          ]
       },
       "maize": {
          "advisory": [
-            "Develop a better drainage system to avoid water logging conditions due to excess rainfall.",
-            "Root and stalk rot may observe in maize field, to control it spray Validamycin 3% L @ 2 ml/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water."
+            "Develop better drainage system to avoid waterlogging condition due to excess rainfall.",
+            "There may be aphids incidence in maize due to high humidity and cloudy condition, if observed spray Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC @ 0.25 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water in sunny days.",
+            "Root and stalk rot may be observed in maize field, to control it spray Validamycin 3% L @ 2 ml/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water.",
+            "Fall army worm may be observed in field, to control it spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water."
          ]
       },
-      "kharif groundnut": {
+      "groundnut": {
          "advisory": [
-            "Prepare the field and raise Kharif groundnut of high yielding varieties.",
-            "Treat the seeds with Trichoderma viridae, Pseudomonas fluorescence, and Rhizobium culture per kg of seed before sowing."
+            "Prepare the field and raise Kharif groundnut of high yielding varieties. Treat the seeds with Trichoderma viridae (10 gm.), Pseudomonas fluorescence (10 gm.) and Rhizobium culture (20 gm.) per kg of seed before sowing."
          ]
       },
       "ragi": {
          "advisory": [
-            "Condition is favorable for blast incidence in ragi, if observed spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when the sky becomes clear."
+            "Condition is favorable for blast incidence in ragi, if observed spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when sky becomes clear."
          ]
       },
       "brinjal": {
          "advisory": [
             "Transplant 25-35 days old seedlings in the main field.",
-            "Make necessary drainage channels to prevent water-logging conditions.",
+            "Make necessary drainage channels to prevent waterlogging condition.",
             "Identify and fill gaps in the main field to maintain plant population.",
             "Wilting in brinjal can be managed by spraying Tabuconazole @ 1 g/lt."
          ]
       },
-      "cucumber": {
+      "potato": {
          "advisory": [
-            "There is a chance of downy mildew attack in cucumber. If observed spray Metalaxyl 8% + Mancozeb 64% @ 2 g/litre of water on sunny days."
+            "In the Potato crop, if late blight disease is observed manage this disease by foliar application of Mancozeb @ 2 g/l or Chlorothalonil @ 2 g/l on 45, 60, and 75 days after planting."
          ]
       },
       "ginger": {
          "advisory": [
-            "Go for weeding and apply urea per acre at 45 days after planting and apply mulching.",
-            "To manage soft rot disease of ginger, apply Tagmycin or Neem oil.",
-            "Bacterial wilt once noticed in the field all beds should be drenched with Bordeaux mixture 1% or copper oxychloride 0.2%."
+            "Go for weeding and apply 54 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre.",
+            "To manage soft rot disease of ginger apply Tagmycin @ 1.5 packets or Neem oil @ 75ml per 15ltr barrel tank sprayer.",
+            "Bacterial wilt Once noticed in the field all beds should be drenched with Bordeaux mixture 1% or copper oxychloride 0.2%."
          ]
       },
       "black pepper": {
          "advisory": [
-            "If Leaf gall and thrips occur, spray Monocrotophos, Dimethoate, Chlorpyriphos, or neem oil three rounds at monthly intervals starting from new flush formation."
+            "If Leaf gall and thrips occur Spray Monocrotophos 36 WSC 1.5 ml/lit or Dimethoate 30 EC @ 2 ml/lit or Chlorpyriphos 2 ml/lit or neem oil 3% (30ml/lit) three rounds at monthly intervals starting from new flush formation."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Go for weeding and apply urea per acre at 45 days after planting and apply mulching.",
-            "To manage Rhizome rot disease of turmeric, apply Tagmycin or Neem oil."
+            "Go for weeding and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre.",
+            "To manage Rhizome rot disease of turmeric apply Tagmycin @ 1.5 packets or Neem oil @ 75ml per 15ltr barrel tank sprayer."
          ]
       },
       "coffee": {
          "advisory": [
-            "Maintain/creating optimum shade.",
+            "Stem borer management",
+            "Maintain/creating optimum shade",
             "Borer infested plants should be thoroughly traced, uprooted burnt to avoid economic loss during the subsequent years.",
-            "Installation of pheromone traps @ 25 / ha, if the incidence is high.",
+            "Installation of pheromone traps @ 25 /ha, if the incidence is high.",
             "Pad with chlorpyriphos 25% EC @ 5 ml by making a window in the stem at 5 cm x 5 cm and fill it with absorbent cotton dipped in insecticide solution and close it."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Keep dry fodder and straw ready at home for sheep and goat in rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
+            "Keep dry fodder and straw ready at home for sheep and goat in the rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
          ]
       },
       "poultry": {
          "advisory": [
-            "Please ensure filling of holes and crevices of poultry house in rainy days otherwise that will facilitate the entry of snakes and reptiles, which may kill the birds."
+            "Please ensure filling of holes and crevices of the poultry house in rainy days, otherwise, that will facilitate the entry of snakes and reptiles, which may kill the birds."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "10-09-2024"
 }

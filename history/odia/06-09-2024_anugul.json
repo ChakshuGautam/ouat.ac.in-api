@@ -1,72 +1,72 @@
 {
-    "weather_details": {
-        "2024-09-07": {
-            "rainfall": 10,
-            "t_max": 33,
-            "t_min": 24,
-            "rh_max": 87,
-            "rh_min": 54,
-            "wind_speed": 7,
-            "wind_direction": 135,
-            "cloud_cover": 5
-        },
-        "2024-09-08": {
-            "rainfall": 12,
-            "t_max": 32,
-            "t_min": 23,
-            "rh_max": 92,
-            "rh_min": 60,
-            "wind_speed": 6,
-            "wind_direction": 112,
-            "cloud_cover": 7
-        },
-        "2024-09-09": {
-            "rainfall": 20,
-            "t_max": 30,
-            "t_min": 21,
-            "rh_max": 94,
-            "rh_min": 63,
-            "wind_speed": 6,
-            "wind_direction": 236,
-            "cloud_cover": 8
-        },
-        "2024-09-10": {
-            "rainfall": 25,
-            "t_max": 29,
-            "t_min": 21,
-            "rh_max": 94,
-            "rh_min": 58,
-            "wind_speed": 9,
-            "wind_direction": 249,
-            "cloud_cover": 8
-        },
-        "2024-09-11": {
-            "rainfall": 10,
-            "t_max": 31,
-            "t_min": 22,
-            "rh_max": 94,
-            "rh_min": 69,
-            "wind_speed": 11,
-            "wind_direction": 270,
-            "cloud_cover": 7
-        }
-    },
-    "names_of_crops": [
-        "\u0b1a\u0b3e\u0b09\u0b33",
-        "\u0b2c\u0b3e\u0b07\u0b17\u0b23"
-    ],
-    "general_advisory": "\u0b1c\u0b3f\u0b32\u0b4d\u0b32\u0b3e\u0b30\u0b47 \u0b39\u0b3e\u0b32\u0b41\u0b15\u0b3e \u0b30\u0b41 \u0b2e\u0b27\u0b4d\u0b5f\u0b2e \u0b2c\u0b30\u0b4d\u0b37\u0b3e \u0b39\u0b47\u0b2c\u0b3e\u0b30 \u0b38\u0b2e\u0b4d\u0b2d\u0b3e\u0b2c\u0b28\u0b3e \u0b05\u0b1b\u0b3f \u0b24\u0b47\u0b23\u0b41 \u0b15\u0b4c\u0b23\u0b38\u0b3f \u0b09\u0b26\u0b4d\u0b2d\u0b3f\u0b26 \u0b38\u0b41\u0b30\u0b15\u0b4d\u0b37\u0b3e \u0b30\u0b3e\u0b38\u0b3e\u0b5f\u0b28\u0b3f\u0b15 \u0b2a\u0b4d\u0b30\u0b5f\u0b4b\u0b17 \u0b2a\u0b3e\u0b07\u0b01 \u0b2f\u0b3e\u0b06\u0b28\u0b4d\u0b24\u0b41 \u0b28\u0b3e\u0b39\u0b3f\u0b01, \u0b06\u0b2a\u0b23 \u0b05\u0b28\u0b4d\u0b5f \u0b26\u0b3f\u0b28\u0b30\u0b47 \u0b15\u0b47\u0b2c\u0b33 \u0b09\u0b26\u0b4d\u0b2d\u0b3f\u0b26 \u0b38\u0b41\u0b30\u0b15\u0b4d\u0b37\u0b3e \u0b30\u0b3e\u0b38\u0b3e\u0b5f\u0b28\u0b3f\u0b15 \u0b38\u0b39\u0b3f\u0b24 \u0b37\u0b4d\u0b1f\u0b3f\u0b15\u0b30 \u0b2c\u0b4d\u0b5f\u0b24\u0b40\u0b24 \u0b2a\u0b4d\u0b30\u0b5f\u0b4b\u0b17 \u0b2a\u0b3e\u0b07\u0b01 \u0b2f\u0b3e\u0b07\u0b2a\u0b3e\u0b30\u0b3f\u0b2c\u0b47 |",
-    "crops_data": {
-        "rice": {
-            "advisory": [
-                "\u0b30\u0b4b\u0b2a\u0b23 \u0b15\u0b30\u0b3e\u0b2f\u0b3e\u0b07\u0b25\u0b3f\u0b2c\u0b3e \u0b27\u0b3e\u0b28 \u0b2e\u0b41\u0b16\u0b4d\u0b5f \u0b15\u0b4d\u0b37\u0b47\u0b24\u0b30\u0b47 \u0b0f\u0b15\u0b30\u0b41 \u0b2a\u0b3e\u0b1e\u0b4d\u0b1a \u0b38\u0b2a\u0b4d\u0b24\u0b3e\u0b39 \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b28\u0b4d\u0b24 \u0b30\u0b39\u0b3f\u0b25\u0b3e\u0b0f\u0964 \u0b38\u0b3f\u0b27\u0b3e\u0b38\u0b33\u0b16 \u0b2c\u0b3f\u0b39\u0b28 \u0b2c\u0b41\u0b23\u0b3e\u0b2f\u0b3e\u0b07\u0b25\u0b3f\u0b2c\u0b3e \u0b2b\u0b38\u0b32 \u0b38\u0b3e\u0b24\u0b30\u0b41 \u0b28\u0b05 \u0b38\u0b2a\u0b4d\u0b24\u0b3e\u0b39\u0b30 \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b5f\u0b30\u0b47 \u0b39\u0b4b\u0b07\u0b25\u0b3e\u0b0f\u0964 \u0b38\u0b30\u0b4d\u0b2c\u0b28\u0b3f\u0b2e\u0b4d\u0b28 \u0b24\u0b3e\u0b2a\u0b2e\u0b3e\u0b24\u0b4d\u0b30\u0b3e \u0b0f\u0b2c\u0b02 \u0b06\u0b2a\u0b47\u0b15\u0b4d\u0b37\u0b3f\u0b15 \u0b06\u0b30\u0b4d\u0b26\u0b4d\u0b30\u0b24\u0b3e \u0b2c\u0b3f\u0b38\u0b4d\u0b2b\u0b4b\u0b30\u0b23 \u0b30\u0b4b\u0b17\u0b30 \u0b2a\u0b4d\u0b30\u0b3e\u0b26\u0b41\u0b30\u0b4d\u0b2d\u0b3e\u0b2c \u0b2a\u0b3e\u0b07\u0b01 \u0b05\u0b28\u0b41\u0b15\u0b42\u0b33 | \u0b2c\u0b3f\u0b38\u0b4d\u0b2b\u0b4b\u0b30\u0b23 \u0b1c\u0b28\u0b3f\u0b24 \u0b30\u0b4b\u0b17\u0b15\u0b41 \u0b28\u0b3f\u0b5f\u0b28\u0b4d\u0b24\u0b4d\u0b30\u0b23 \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01 \u0b2a\u0b4d\u0b30\u0b25\u0b2e\u0b47 \u0b27\u0b3e\u0b28 \u0b15\u0b4d\u0b37\u0b47\u0b24\u0b30\u0b41 \u0b05\u0b24\u0b3f\u0b30\u0b3f\u0b15\u0b4d\u0b24 \u0b2a\u0b3e\u0b23\u0b3f \u0b2c\u0b3e\u0b39\u0b3e\u0b30 \u0b15\u0b30\u0b3f\u0b26\u0b3f\u0b05\u0b28\u0b4d\u0b24\u0b41\u0964 \u0b39\u0b47\u0b15\u0b4d\u0b1f\u0b30 \u0b2a\u0b3f\u0b1b\u0b3e 400-\u0b2e\u0b3f\u0b32\u0b3f \u0b39\u0b47\u0b15\u0b4d\u0b38\u0b3e\u0b15\u0b4b\u0b28\u0b3e\u0b1c\u0b4b\u0b32\u0b4d \u0b15\u0b3f\u0b2e\u0b4d\u0b2c\u0b3e \u0b0f\u0b15\u0b30 \u0b2a\u0b3f\u0b1b\u0b3e 200-\u0b2e\u0b3f\u0b32\u0b3f \u0b06\u0b1c\u0b4b\u0b15\u0b4d\u0b38\u0b3f\u0b38\u0b4d\u0b1f\u0b4d\u0b30\u0b4b\u0b2c\u0b3f\u0b28\u0b4d + \u0b21\u0b3f\u0b2b\u0b47\u0b28\u0b4b\u0b15\u0b3e\u0b28\u0b3e\u0b1c\u0b4b\u0b32\u0b4d \u0b15\u0b3f\u0b2e\u0b4d\u0b2c\u0b3e \u0b0f\u0b15\u0b30 \u0b2a\u0b3f\u0b1b\u0b3e 80-\u0b17\u0b4d\u0b30\u0b3e\u0b2e\u0b4d \u0b1f\u0b47\u0b2c\u0b41\u0b15\u0b4b\u0b28\u0b3e\u0b1c\u0b4b\u0b32\u0b4d + \u0b1f\u0b4d\u0b30\u0b3e\u0b07\u0b2b\u0b4d\u0b32\u0b4b\u0b15\u0b4d\u0b38\u0b3f\u0b38\u0b4d\u0b1f\u0b4d\u0b30\u0b4b\u0b2c\u0b3f\u0b28\u0b4d \u0b38\u0b4d\u0b2a\u0b4d\u0b30\u0b47 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964 \u0b2c\u0b30\u0b4d\u0b37\u0b3e \u0b1c\u0b33 \u0b39\u0b4d\u0b30\u0b3e\u0b38 \u0b2a\u0b3e\u0b07\u0b2c\u0b3e \u0b2a\u0b30\u0b47 \u0b27\u0b3e\u0b28\u0b30\u0b47 \u0b38\u0b4d\u0b71\u0b3e\u0b30\u0b4d\u0b2e\u0b3f\u0b19\u0b4d\u0b17 \u0b15\u0b4d\u0b5f\u0b3e\u0b1f\u0b30\u0b2a\u0b3f\u0b32\u0b30 \u0b38\u0b02\u0b15\u0b4d\u0b30\u0b2e\u0b23 \u0b39\u0b47\u0b2c\u0b3e\u0b30 \u0b38\u0b2e\u0b4d\u0b2d\u0b3e\u0b2c\u0b28\u0b3e \u0b30\u0b39\u0b3f\u0b1b\u0b3f\u0964 \u0b0f\u0b39\u0b3f \u0b38\u0b4d\u0b2a\u0b4d\u0b30\u0b47\u0b15\u0b41 \u0b2a\u0b30\u0b3f\u0b1a\u0b3e\u0b33\u0b28\u0b3e \u0b15\u0b30\u0b3f\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01 \u0b15\u0b4d\u0b32\u0b4b\u0b30\u0b2a\u0b3f\u0b30\u0b3f\u0b2b\u0b38\u0b4d 50 \u0b2a\u0b4d\u0b30\u0b24\u0b3f\u0b36\u0b24 + \u0b38\u0b3e\u0b07\u0b2a\u0b30\u0b4d\u0b2e\u0b47\u0b25\u0b4d\u0b30\u0b3f\u0b28\u0b4d 5 \u0b2a\u0b4d\u0b30\u0b24\u0b3f\u0b36\u0b24 \u0b07\u0b38\u0b3f @400-\u0b2e\u0b3f\u0b32\u0b3f/\u0b0f\u0b15\u0b30 \u0b15\u0b3f\u0b2e\u0b4d\u0b2c\u0b3e \u0b32\u0b3e\u0b2e\u0b4d\u0b2c\u0b21\u0b3e-\u0b38\u0b3e\u0b07\u0b39\u0b3e\u0b32\u0b4b\u0b25\u0b4d\u0b30\u0b3f\u0b28\u0b4d @400-\u0b2e\u0b3f\u0b32\u0b3f/\u0b0f\u0b15\u0b30\u0964 \u0b06\u0b1a\u0b30\u0b23\u0b30\u0b47 \u0b15\u0b40\u0b1f \u0b28\u0b3f\u0b36\u0b3e\u0b1a\u0b30 \u0b39\u0b4b\u0b07\u0b25\u0b3f\u0b2c\u0b3e\u0b30\u0b41 \u0b09\u0b24\u0b4d\u0b24\u0b2e \u0b2b\u0b33\u0b3e\u0b2b\u0b33 \u0b2a\u0b3e\u0b07\u0b01 \u0b38\u0b28\u0b4d\u0b27\u0b4d\u0b5f\u0b3e\u0b30\u0b47 \u0b15\u0b40\u0b1f\u0b28\u0b3e\u0b36\u0b15 \u0b38\u0b3f\u0b1e\u0b4d\u0b1a\u0b28 \u0b15\u0b30\u0b3e\u0b2f\u0b3f\u0b2c\u0b3e \u0b09\u0b1a\u0b3f\u0b24\u0964 (\u0b2a\u0b3e\u0b23\u0b3f\u0b2a\u0b3e\u0b17 \u0b38\u0b4d\u0b71\u0b1a\u0b4d\u0b1b \u0b25\u0b3f\u0b2c\u0b3e\u0b2c\u0b47\u0b33\u0b47 \u0b2a\u0b4d\u0b30\u0b5f\u0b4b\u0b17 \u0b2a\u0b3e\u0b07\u0b01 \u0b2f\u0b3e\u0b06\u0b28\u0b4d\u0b24\u0b41)"
-            ]
-        },
-        "brinjal": {
-            "advisory": [
-                "\u0b05\u0b27\u0b3f\u0b15 \u0b2e\u0b43\u0b24\u0b4d\u0b24\u0b3f\u0b15\u0b3e \u0b06\u0b30\u0b4d\u0b26\u0b4d\u0b30\u0b24\u0b3e \u0b0f\u0b2c\u0b02 \u0b05\u0b27\u0b3f\u0b15 \u0b06\u0b30\u0b4d\u0b26\u0b4d\u0b30\u0b24\u0b3e \u0b15\u0b3e\u0b30\u0b23\u0b30\u0b41 \u0b2c\u0b30\u0b4d\u0b37\u0b3e \u0b0b\u0b24\u0b41\u0b30\u0b47 \u0b2c\u0b3e\u0b07\u0b17\u0b23 \u0b24\u0b30\u0b33\u0b3f\u0b2c\u0b3e\u0b30 \u0b15\u0b3e\u0b30\u0b23 \u0b39\u0b4b\u0b07\u0b2a\u0b3e\u0b30\u0b47\u0964 \u0b38\u0b02\u0b15\u0b4d\u0b30\u0b2e\u0b3f\u0b24 \u0b17\u0b1b \u0b0f\u0b2c\u0b02 \u0b05\u0b2c\u0b36\u0b3f\u0b37\u0b4d\u0b1f\u0b3e\u0b02\u0b36\u0b15\u0b41 \u0b1c\u0b3e\u0b33\u0b3f \u0b28\u0b37\u0b4d\u0b1f \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41, \u0b05\u0b28\u0b4d\u0b5f \u0b15\u0b4d\u0b37\u0b47\u0b24\u0b15\u0b41 \u0b2f\u0b3f\u0b2c\u0b3e \u0b2a\u0b42\u0b30\u0b4d\u0b2c\u0b30\u0b41 \u0b09\u0b2a\u0b15\u0b30\u0b23\u0b15\u0b41 \u0b1c\u0b40\u0b2c\u0b3e\u0b23\u0b41\u0b2e\u0b41\u0b15\u0b4d\u0b24 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964 \u0b15\u0b4d\u0b37\u0b47\u0b24\u0b15\u0b41 \u0b2d\u0b32 \u0b1c\u0b33 \u0b28\u0b3f\u0b37\u0b4d\u0b15\u0b3e\u0b38\u0b28 \u0b2c\u0b4d\u0b5f\u0b2c\u0b38\u0b4d\u0b25\u0b3e \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964 \u0b30\u0b3e\u0b38\u0b3e\u0b5f\u0b28\u0b3f\u0b15 \u0b1a\u0b3f\u0b15\u0b3f\u0b24\u0b4d\u0b38\u0b3e \u0b2a\u0b3e\u0b07\u0b01 15 \u0b32\u0b3f\u0b1f\u0b30 \u0b2a\u0b3e\u0b23\u0b3f\u0b30\u0b47 \u0b2e\u0b3e\u0b1f\u0b3f \u0b2c\u0b41\u0b21\u0b3c\u0b3e\u0b07\u0b2c\u0b3e \u0b2a\u0b3e\u0b07\u0b01 \u0b38\u0b4d\u0b1f\u0b4d\u0b30\u0b47\u0b2a\u0b4d\u0b1f\u0b4b\u0b38\u0b3e\u0b07\u0b15\u0b4d\u0b32\u0b3f\u0b28\u0b4d 6 \u0b17\u0b4d\u0b30\u0b3e\u0b2e\u0b4d + \u0b2c\u0b3e\u0b2d\u0b3f\u0b37\u0b4d\u0b1f\u0b3f\u0b28\u0b4d 15 \u0b17\u0b4d\u0b30\u0b3e\u0b2e\u0b4d \u0b2c\u0b4d\u0b5f\u0b2c\u0b39\u0b3e\u0b30 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41\u0964 (\u0b2a\u0b3e\u0b23\u0b3f\u0b2a\u0b3e\u0b17 \u0b38\u0b4d\u0b71\u0b1a\u0b4d\u0b1b \u0b25\u0b3f\u0b2c\u0b3e\u0b2c\u0b47\u0b33\u0b47 \u0b2a\u0b4d\u0b30\u0b5f\u0b4b\u0b17 \u0b15\u0b30\u0b28\u0b4d\u0b24\u0b41)"
-            ]
-        }
-    },
-    "date": "06-09-2024"
+   "weather_details": {
+      "06-09-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 54,
+         "wind_speed": 7,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "07-09-2024": {
+         "rainfall": 12,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 60,
+         "wind_speed": 6,
+         "wind_direction": 112,
+         "cloud_cover": 7
+      },
+      "08-09-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 6,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      },
+      "09-09-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "10-09-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 94,
+         "rh_min": 69,
+         "wind_speed": 11,
+         "wind_direction": 270,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "ଚାଉଳ",
+      "ବାଇଗଣ"
+   ],
+   "general_advisory": "ଜିଲ୍ଲାରେ ହାଲୁକା ରୁ ମଧ୍ୟମ ବର୍ଷା ହେବାର ସମ୍ଭାବନା ଅଛି ତେଣୁ କୌଣସି ଉଦ୍ଭିଦ ସୁରକ୍ଷା ରାସାୟନିକ ପ୍ରୟୋଗ ପାଇଁ ଯାଆନ୍ତୁ ନାହିଁ, ଆପଣ ଅନ୍ୟ ଦିନରେ କେବଳ ଉଦ୍ଭିଦ ସୁରକ୍ଷା ରାସାୟନିକ ସହିତ ଷ୍ଟିକର ବ୍ୟତୀତ ପ୍ରୟୋଗ ପାଇଁ ଯାଇପାରିବେ |",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "ରୋପଣ କରାଯାଇଥିବା ଧାନ ମୁଖ୍ୟ କ୍ଷେତରେ ଏକରୁ ପାଞ୍ଚ ସପ୍ତାହ ପର୍ଯ୍ୟାୟରେ ହୋଇଥାଏ। ସିଧାସଳଖ ବିହନ ବୁଣାଯାଇଥିବା ଫସଲ ସାତରୁ ନଅ ସପ୍ତାହର ପର୍ଯ୍ୟାୟରେ ହୋଇଥାଏ। ସର୍ବନିମ୍ନ ତାପମାତ୍ରା ଏବଂ ଆପେକ୍ଷିକ ଆର୍ଦ୍ରତା ବିସ୍ଫୋରଣ ରୋଗର ପ୍ରାଦୁର୍ଭାବ ପାଇଁ ଅନୁକୂଳ | ବିସ୍ଫୋରଣ ଜନିତ ରୋଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ପ୍ରଥମେ ଧାନ କ୍ଷେତରୁ ଅତିରିକ୍ତ ପାଣି ବାହାର କରିଦିଅନ୍ତୁ। ହେକ୍ଟର ପିଛା 400-ମିଲି ହେକ୍ସାକୋନାଜୋଲ୍ କିମ୍ବା ଏକର ପିଛା 200-ମିଲି ଆଜୋକ୍ସିସ୍ଟ୍ରୋବିନ୍ + ଡିଫେନୋକାନାଜୋଲ୍ କିମ୍ବା ଏକର ପିଛା 80-ଗ୍ରାମ୍ ଟେବୁକୋନାଜୋଲ୍ + ଟ୍ରାଇଫ୍ଲୋକ୍ସିସ୍ଟ୍ରୋବିନ୍ ସ୍ପ୍ରେ କରନ୍ତୁ। ବର୍ଷା ଜଳ ହ୍ରାସ ପାଇବା ପରେ ଧାନରେ କ୍ୟାଟରପିଲର ସଂକ୍ରମଣ ହେବାର ସମ୍ଭାବନା ରହିଛି। ଏହି ସ୍ପ୍ରେକୁ ପରିଚାଳନା କରିବା ପାଇଁ କ୍ଲୋରପିରିଫସ୍ 50 ପ୍ରତିଶତ + ସାଇପର୍ମେଥ୍ରିନ୍ 5 ପ୍ରତିଶତ ଇସି @400-ମିଲି/ଏକର କିମ୍ବା ଲାମ୍ବଡା-ସାଇହାଲୋଥ୍ରିନ୍ @400-ମିଲି/ଏକର। ଯେହେତୁ କୀଟ ଆଚରଣରେ ନିଶାଚର, ଉତ୍ତମ ଫଳାଫଳ ପାଇଁ ସନ୍ଧ୍ୟାରେ କୀଟନାଶକ ସିଞ୍ଚନ କରାଯିବା ଉଚିତ | (ପାଣିପାଗ ସ୍ୱଚ୍ଛ ଥିବାବେଳେ ପ୍ରୟୋଗ ପାଇଁ ଯାଆନ୍ତୁ)"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "ଅଧିକ ମୃତ୍ତିକା ଆର୍ଦ୍ରତା ଏବଂ ଅଧିକ ଆର୍ଦ୍ରତା କାରଣରୁ ବର୍ଷା ଋତୁରେ ବାଇଗଣ ତରଳିବାର କାରଣ ହୋଇପାରେ। ସଂକ୍ରମିତ ଗଛ ଏବଂ ଅବଶିଷ୍ଟାଂଶକୁ ଜାଳି ନଷ୍ଟ କରନ୍ତୁ, ଅନ୍ୟ କ୍ଷେତକୁ ଯିବା ପୂର୍ବରୁ ଉପକରଣକୁ ଜୀବାଣୁମୁକ୍ତ କରନ୍ତୁ। କ୍ଷେତକୁ ଭଲ ଜଳ ନିଷ୍କାସନ ବ୍ୟବସ୍ଥା କରନ୍ତୁ। ରାସାୟନିକ ଚିକିତ୍ସା ପାଇଁ 15 ଲିଟର ପାଣିରେ ମାଟି ବୁଡ଼ାଇବା ପାଇଁ ସ୍ଟ୍ରେପ୍ଟୋସାଇକ୍ଲିନ୍ 6 ଗ୍ରାମ୍ + ବାଭିଷ୍ଟିନ୍ 15 ଗ୍ରାମ୍ ବ୍ୟବହାର କରନ୍ତୁ। (ପାଗ ସଫା ଥିବାବେଳେ ପ୍ରୟୋଗ ପାଇଁ ଯାଆନ୍ତୁ)"
+         ]
+      }
+   },
+   "date": "06-09-2024"
 }

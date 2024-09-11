@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "07/09/2024": {
-         "rainfall": 6,
+      "11/09/2024": {
+         "rainfall": 2,
          "t_max": 31,
          "t_min": 25,
-         "rh_max": 88,
-         "rh_min": 50,
-         "wind_speed": 7,
-         "wind_direction": 135,
+         "rh_max": 91,
+         "rh_min": 66,
+         "wind_speed": 8,
+         "wind_direction": 225,
          "cloud_cover": 6
       },
-      "08/09/2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 24,
+      "12/09/2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 10,
+         "wind_direction": 260,
+         "cloud_cover": 6
+      },
+      "13/09/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 61,
+         "wind_speed": 10,
+         "wind_direction": 162,
+         "cloud_cover": 6
+      },
+      "14/09/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 26,
          "rh_max": 92,
-         "rh_min": 56,
-         "wind_speed": 6,
-         "wind_direction": 30,
-         "cloud_cover": 7
-      },
-      "09/09/2024": {
-         "rainfall": 12,
-         "t_max": 29,
-         "t_min": 23,
-         "rh_max": 92,
-         "rh_min": 56,
-         "wind_speed": 5,
-         "wind_direction": 195,
-         "cloud_cover": 8
-      },
-      "10/09/2024": {
-         "rainfall": 25,
-         "t_max": 29,
-         "t_min": 23,
-         "rh_max": 95,
-         "rh_min": 54,
-         "wind_speed": 7,
-         "wind_direction": 245,
-         "cloud_cover": 8
-      },
-      "11/09/2024": {
-         "rainfall": 15,
-         "t_max": 30,
-         "t_min": 24,
-         "rh_max": 95,
          "rh_min": 69,
+         "wind_speed": 12,
+         "wind_direction": 255,
+         "cloud_cover": 6
+      },
+      "15/09/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 67,
          "wind_speed": 9,
-         "wind_direction": 252,
-         "cloud_cover": 8
+         "wind_direction": 245,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
@@ -65,27 +65,28 @@
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "Due to forecast of light to moderate rainfall, farmers are advised not to apply fertilizer & chemicals. Strengthen bunds of paddy fields and check for any rat holes or leakage. After rain, trim and clean bunds to avoid insect multiplication.",
+   "general_advisory": "Strengthen bunds of paddy field, monitor crop for pests, manage insect pest attacks, prevent diseases, provide clean drinking water to poultry, and consult department personnel for disease prevention.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Regular monitoring of the crop for incidence of pests and diseases should be done.",
-            "Apply Cartap hydrocloride 50SP @ 400g/acre or Fipronil 5 SC @ 400ml/acre after rain."
+            "Regular monitoring of the crop for incidence of pest and diseases should be done.",
+            "Apply Cartap hydrocloride 50SP or Fipronil 5 SC after rain."
          ]
       },
       "pulses": {
          "advisory": [
-            "After rain, there is a chance of insect pest attack. Survey regularly and take action by consulting department personnel."
+            "Survey regularly for insect pest attacks and take action advised by department personnel."
          ]
       },
       "arhar": {
          "advisory": [
-            "Go for intercultivation. Consult Gramin Krishi Mausam Sewa for advice."
+            "Go for intercultivation."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Go for intercultural operation and apply 26kg urea per acre at 45 days after planting. Apply mulching @ 2t/acre."
+            "Go for intercultivation.",
+            "Apply 26 kg urea per acre at 45 days after planting and mulching."
          ]
       },
       "ragi": {
@@ -95,39 +96,39 @@
       },
       "maize": {
          "advisory": [
-            "Due to weather conditions, there is a chance of Aphids in Maize. Apply Dimethoate @ 2ml/liter of water to manage."
+            "Apply Dimethoate to manage Aphids."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Due to weather, Tikka disease is seen. Manage by spraying Carbendazim @ 2g/liter of water."
+            "Spray Carbendazim to manage tikka disease."
          ]
       },
       "papaya": {
          "advisory": [
-            "Do not allow water stagnation near the root zone to avoid fungal diseases. Drench Carbendazim or Mancozeb @ 2g/lt of water."
+            "Avoid waterlogging, drench Carbendazim or Mancozeb near root zone."
          ]
       },
       "mango": {
          "advisory": [
-            "Do not allow rainwater to remain stagnant near the base of the plant. Provide stakings to new saplings to prevent wind damage."
+            "Prevent water stagnation near the base of the plant and provide stakings to newly planted saplings."
          ]
       },
       "vegetables": {
          "advisory": [
-            "To manage Thrips population in chili, spray Imidachloprid or Dimethoate @ 2ml/lt of water."
+            "Manage Thrips population in chilli by spraying Imidachloprid or Dimethoate."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Provide regular feeding @ 0.35 of body mass."
+            "Provide regular feeding at 0.35 of body mass."
          ]
       },
       "livestock": {
          "advisory": [
-            "Provide clean drinking water to poultry and take preventive action against diseases with help from department personnel."
+            "Provide clean drinking water to poultry and take preventive action for diseases."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "10-09-2024"
 }

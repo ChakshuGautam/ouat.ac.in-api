@@ -2,12 +2,12 @@
    "weather_details": {
       "06.09.2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 24,
+         "t_max": 34,
+         "t_min": 25,
          "rh_max": 90,
-         "rh_min": 65,
+         "rh_min": 70,
          "wind_speed": 10,
-         "wind_direction": 120,
+         "wind_direction": 150,
          "cloud_cover": 5
       }
    },
@@ -19,7 +19,7 @@
       "tomato",
       "cowpea"
    ],
-   "general_advisory": "The weather is expected to be hot and humid with moderate rainfall. Specific measures to control pests and diseases in crops are recommended.",
+   "general_advisory": "Hot and humid weather conditions are present, leading to potential infestations. Management strategies recommended.",
    "crops_data": {
       "arhar": {
          "advisory": [
@@ -33,7 +33,7 @@
       },
       "cucurbits": {
          "advisory": [
-            "Deficit rainfall may leads to infestation of Epilachna Beetle in cucurbit crops. To manage Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation.To manage Epilachna Beetle chemically spray Chlorpyriphos 20 % EC @ 2-ml/litre of water or Profenophos 50 % EC @ 2- ml/litre of water ."
+            "Deficit rainfall may lead to infestation of Epilachna Beetle in cucurbit crops. To manage Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation. To manage Epilachna Beetle chemically spray Chlorpyriphos 20 % EC @ 2-ml/litre of water or Profenophos 50 % EC @ 2- ml/litre of water ."
          ]
       },
       "okra": {

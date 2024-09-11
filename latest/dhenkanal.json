@@ -1,56 +1,86 @@
 {
    "weather_details": {
-      "06.09.2024": {
+      "10.09.2024": {
          "rainfall": 0,
-         "t_max": 34,
+         "t_max": 32,
          "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 70,
+         "rh_max": 85,
+         "rh_min": 65,
          "wind_speed": 10,
-         "wind_direction": 150,
-         "cloud_cover": 5
+         "wind_direction": 140,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "arhar",
-      "sugar cane",
-      "cucurbits",
-      "okra",
+      "sesame",
+      "ground nut",
+      "brinjal",
       "tomato",
-      "cowpea"
+      "chilli",
+      "cucurbits",
+      "cowpea",
+      "papaya",
+      "banana",
+      "fishery"
    ],
-   "general_advisory": "Hot and humid weather conditions are present, leading to potential infestations. Management strategies recommended.",
+   "general_advisory": "Farmers are advised to take precautionary measures against pests and diseases following heavy rainfall. Proper drainage and timely application of fertilizers are recommended.",
    "crops_data": {
       "arhar": {
          "advisory": [
-            "There are chances of Leaf webber infestation in Arhar crop. To manage leaf webber in Arhar spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Profenophos 50 % EC @ 400-ml/acre."
+            "Blister beetles feed on the flowers and reduce the number of pods setting. Manual collection and disposal of insects is recommended."
          ]
       },
-      "sugar cane": {
+      "sesame": {
          "advisory": [
-            "To control Leaf hopper- pyrilla and Mealy Bug in sugarcane crop spray Imidacloprid 17.8 % SL @ 60- ml/acre or Thiamethoxam 25 % WG @ 40-gram/acre or Profenophos 50 % EC @ 400-ml/acre by mixing it in 200 litre of water ."
+            "Gull fly infestation noticed in Sesame crop. Remove infested capsule and use neem-based pesticide."
          ]
       },
-      "cucurbits": {
+      "ground nut": {
          "advisory": [
-            "Deficit rainfall may lead to infestation of Epilachna Beetle in cucurbit crops. To manage Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation. To manage Epilachna Beetle chemically spray Chlorpyriphos 20 % EC @ 2-ml/litre of water or Profenophos 50 % EC @ 2- ml/litre of water ."
+            "Chance of Stem rot after heavy rainfall. Use Validamycin or Captan + Hexaconazole fungicide."
          ]
       },
-      "okra": {
+      "brinjal": {
          "advisory": [
-            "Present hot and humid weather conditions are congenial for sucking pests like Aphids, White fly and leaf hopper in Okra. To control this spray Imidacloprid 17.8% SL @ 50 ml / acre or Thiamethoxam 25% WG @ 40 g/acre by mixing in 200-litre of water."
+            "Wilt and Root rot possible after heavy rainfall. Drench root zone with Streptocycline and Metalaxyl + Mancozeb solution."
          ]
       },
       "tomato": {
          "advisory": [
-            "For cultivation of an acre of Tomato crop 200-gram of improved variety and 50-gram of hybrid seed is required. Apply 20 kg of completely decomposed FYM to each nursery bed ten days before sowing. Treat 1-kg of seeds with 2-gram Carbendazim 50% WP or Carboxin 37.5%+ Thiram 37.5% D.S before sowing."
+            "Wilt and Root rot possible after heavy rainfall. Drench root zone with Streptocycline and Metalaxyl + Mancozeb solution."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Wilt and Root rot possible after heavy rainfall. Drench root zone with Streptocycline and Metalaxyl + Mancozeb solution."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Risk of Downy Mildew disease after heavy rainfall. Control with specified fungicides."
          ]
       },
       "cowpea": {
          "advisory": [
-            "To manage gram pad borer in cowpea spraying of Emam actin benzoate @ 80-gram/ acre by mixing it in 200 litre of water."
+            "Gram pod borer management by spraying Emamactin benzoate."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Provide drainage and staking. Control Papaya Crown rot with specified fungicides."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Drain excess water and earth up newly planted banana after rain. Control Sigatoka disease with specified fungicides."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Heavy rainfall may decrease water salinity in the pond. Apply disinfectant after rain cessation."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "10-09-2024"
 }

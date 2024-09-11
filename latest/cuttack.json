@@ -53,12 +53,12 @@
    },
    "names_of_crops": [
       "paddy",
-      "sugarcan",
+      "sugarcane",
       "maize",
       "tomato",
       "brinjal",
       "coconut",
-      "vegetables",
+      "vegetable",
       "fingerlings",
       "black gram",
       "green gram",
@@ -66,73 +66,72 @@
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation to reduce heat effect. High temperature increases water requirement of maize crop. Use polythene in irrigation channels. Apply Streptocyclin in tomato and brinjal to prevent wilting.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels and more.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management - Use appropriate chemicals for management.",
-            "Blast Disease Management - Use recommended fungicides."
+            "Yellow stem borer management advice.",
+            "Blast disease management advice."
          ]
       },
-      "sugarcan": {
+      "sugarcane": {
          "advisory": [
-            "Early Shoot Borer - Irrigate frequently and timely cut affected shoots."
+            "Early shoot borer management advice."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement. Avoid stagnant water in the field."
+            "High temperature increases water requirement advice."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply Streptocyclin in root zone."
+            "Wilting management advice."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps and use neem-based pesticide.",
-            "Apply chemical control if necessary."
+            "Shoot and fruit borer management advice."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves around trees to reduce water loss."
+            "Water loss reduction advice."
          ]
       },
-      "vegetables": {
+      "vegetable": {
          "advisory": [
-            "Cover newly planted seedlings with paper caps during the day."
+            "Seedlings protection advice."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "Harvest fingerlings from shallow ponds if water temperature rises."
+            "Harvesting advisory."
          ]
       },
       "black gram": {
          "advisory": [
-            "Manage Tobacco Caterpillar by dusting and spraying appropriate insecticides."
+            "Tobacco caterpillar management advice."
          ]
       },
       "green gram": {
          "advisory": [
-            "Manage Tobacco Caterpillar as in black gram."
+            "Tobacco caterpillar management advice."
          ]
       },
       "okra": {
          "advisory": [
-            "Treat seeds with Imidacloprid and use yellow sticky traps."
+            "Whitefly infestation prevention advice."
          ]
       },
       "onion": {
          "advisory": [
-            "Dry harvested bulbs in well-ventilated rooms."
+            "Post-harvest management advice."
          ]
       },
       "mango": {
          "advisory": [
-            "Control Mango hopper with recommended insecticides and smoke application."
+            "Mango hopper control advice."
          ]
       }
    },
