@@ -1,0 +1,147 @@
+{
+   "weather_details": {
+      "11-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 68,
+         "wind_speed": 14,
+         "wind_direction": 233,
+         "cloud_cover": 7
+      },
+      "12-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 61,
+         "wind_speed": 13,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "13-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 61,
+         "wind_speed": 13,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "14-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 63,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "15-09-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 58,
+         "wind_speed": 15,
+         "wind_direction": 245,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli",
+      "tomato",
+      "cow & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "In view of five days weather forecast received from IMD, farmers can resume agronomic practices and application of fertilizer. Farmers are advised to apply pesticides with sticker by keeping in view of real-time weather condition. Apply balanced and appropriate fertilizers according to crop’s growth stage.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Farmers are advised to spray of leaf extracts of Bael, Tulsi, or Neem per liter of water for reducing the incidence of insects & diseases.",
+            "Current weather is favorable for blast infestation. If leaf blast is observed, spray specific fungicides at recommended rates.",
+            "There is a chance of infestation of sheath rot and sheath blight in paddy. To manage this disease, spray specific fungicides at recommended rates.",
+            "Presently Bacterial Leaf Blight (BLB) infestation has been observed in few places. Spray specific fungicides at recommended rates to control BLB.",
+            "Install Pheromone traps and light traps to monitor and control the population of stem borer & leaf folder."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Install Pheromone traps and light traps to monitor and control the population of stem borer, leaf folder, and rice ear-eating caterpillar.",
+            "Release egg parasitoid Trichogramma japonicum in stem borer endemic areas.",
+            "Infestation of rice case worm has been noticed. Apply specific insecticides at recommended rates to control the infestation."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Application of plant hormone Planofix is advisable for improving seed cotton yield.",
+            "Apply specific herbicides for weed management.",
+            "Apply specified amounts of urea and magnesium sulfate for nutrient management.",
+            "Apply Neem-based pesticide to control sucking pests complex.",
+            "Install yellow sticky traps to control & monitor sucking pests complex."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "To control leaf webber infestation, spray specific insecticides at recommended rates.",
+            "Monitor fields regularly for signs of pest infestation.",
+            "To prevent sucking pests like aphids, jassids, and thrips, spray neem-based pesticide at the initial stage of infestation.",
+            "Apply specific fungicides for wilting control."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply urea at specified rates and irrigate if water is not sufficient.",
+            "Monitor fields for stem borer, Fall Armyworm (FAW), and banded leaf and sheath blight infestations.",
+            "Apply specific insecticides for effective pest control.",
+            "Apply specific fungicides for disease control."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Install yellow sticky traps to monitor sucking pests.",
+            "Spray specific fungicides at the root zone to control wilting."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Install Blue sticky traps to monitor thrips infestation.",
+            "If thrips symptoms are observed, spray neem-based pesticide at the initial stage of infestation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Now is a suitable time for raising tomato seedlings.",
+            "Use suitable tomato varieties and seed rates."
+         ]
+      },
+      "cow & buffalo": {
+         "advisory": [
+            "Provide concentrate to dairy animals due to high moisture in grasses during rainy days."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Keep dry fodder and straw ready for sheep and goat during rainy season."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Clean poultry houses daily and change feed and water frequently.",
+            "Properly dispose of dead poultry birds.",
+            "Prevent bringing poultry birds or eggs from affected areas."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

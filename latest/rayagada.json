@@ -1,113 +1,90 @@
 {
    "weather_details": {
-      "2024-09-07": {
-         "rainfall": 15,
-         "t_max": 32,
+      "2024-09-21": {
+         "rainfall": 5,
+         "t_max": 33,
          "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 70,
-         "wind_speed": 6,
-         "wind_direction": 225,
+         "rh_max": 93,
+         "rh_min": 66,
+         "wind_speed": 4,
+         "wind_direction": 195,
+         "cloud_cover": 5
+      },
+      "2024-09-22": {
+         "rainfall": 7,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 135,
+         "cloud_cover": 6
+      },
+      "2024-09-23": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 59,
+         "wind_speed": 4,
+         "wind_direction": 165,
          "cloud_cover": 7
       },
-      "2024-09-08": {
-         "rainfall": 25,
-         "t_max": 30,
-         "t_min": 23,
-         "rh_max": 95,
-         "rh_min": 71,
-         "wind_speed": 8,
-         "wind_direction": 288,
-         "cloud_cover": 8
-      },
-      "2024-09-09": {
-         "rainfall": 30,
-         "t_max": 29,
-         "t_min": 22,
-         "rh_max": 95,
-         "rh_min": 76,
-         "wind_speed": 9,
-         "wind_direction": 288,
-         "cloud_cover": 8
-      },
-      "2024-09-10": {
-         "rainfall": 35,
-         "t_max": 29,
-         "t_min": 22,
+      "2024-09-24": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 25,
          "rh_max": 94,
-         "rh_min": 75,
-         "wind_speed": 11,
-         "wind_direction": 288,
+         "rh_min": 70,
+         "wind_speed": 4,
+         "wind_direction": 158,
          "cloud_cover": 8
       },
-      "2024-09-11": {
+      "2024-09-25": {
          "rainfall": 15,
          "t_max": 31,
-         "t_min": 23,
-         "rh_max": 92,
-         "rh_min": 73,
-         "wind_speed": 13,
-         "wind_direction": 270,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 77,
+         "wind_speed": 5,
+         "wind_direction": 156,
          "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "rice",
       "maize",
-      "cotton",
-      "pumpkin",
-      "cow",
-      "chicken"
+      "horticulture",
+      "livestock",
+      "poultry"
    ],
-   "general_advisory": "Maintain 2-3 cm standing water during tillering stage in paddy. Do not practice Beushaning in rice, if the crop is more than 45 days old.",
+   "general_advisory": "Rainy and humid weather, high morning RH (>85%) & water saturated soil favours Downy Mildew disease in cucurbit vegetables. To manage Downy Mildew disease in cucurbits spray Metalaxyl @ 2-gram/litre or Azoxystrobin @ 1-gram/litre or Copper oxychloride 50 % WP @ 3-gram/litre twice in 10 days intervals. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "To manage Blast disease, spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre.",
-            "To manage Leaf Folder and Case Worm pests in paddy spray Bifenthrin 10% EC @ 200 ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
+            "Apply herbicide Bispyribac Sodium 10 SC @ 120 ml/acre at 10-12 DAT (2-3 leaf stage of weed) or spray ready mix Penoxulam + Cyhalofop butyl @ 900 ml/acre or spray tank mix Fenoxapropp-ethyl 240g + Ethoxysulfuron 50g per acre at 15-20 DAT in 8 tanks of 16 litre capacity sprayer at 15-20 days after transplanting. In shallow lowland/medium land transplanted rice, apply 35 kg urea/acre for HYV and 42 kg of urea/acre for hybrids at tillering stage."
          ]
       },
       "maize": {
          "advisory": [
-            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water.",
-            "Use 10-12 bird perches per acre and remove them before tasseling stage.",
-            "Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves.",
-            "To manage the pest chemically, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
+            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200-litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 1 1.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
          ]
       },
-      "cotton": {
+      "horticulture": {
          "advisory": [
-            "Due to high temperature and humidity, there are reports of incidence of sucking pest like Aphids and Jassids in Cotton crop.",
-            "Go for regular monitoring of the crop for incidence of pests and diseases.",
-            "If there is infestation of sucking pest like Aphids and Jassids in cotton crop go for spraying of neem-based pesticide (Neem Oil 1500 PPM) @600-ml/acre by mixing it in 200-litre of water.",
-            "Use yellow sticky trap @ 8/acre.",
-            "If the sucking pest population found to be above ETL, spray Flonicamid 50% WG @ 60-gram/acre or Thiamethoxam 25% WG @ 40-gram/acre or Dinotefuran 20% SG @ 80-gram/acre."
+            "There are chances for guava to be infested by fruit rot. Rain or irrigation water must not allow standing near basin of plant. Prune the infected plant part and spray Blitax 3g/1lt of water, repeat it after 20 days of fruit set and continue till maturity. The fallen rotten and mummified guava must be collected and buried. Go for application when weather is clear."
          ]
       },
-      "pumpkin": {
+      "livestock": {
          "advisory": [
-            "After heavy rainfall, Semilooper pest incidence is common in Cucurbits like Ridge gourd and snake Guard.",
-            "Go for spraying of neem-based pesticide (Neem Oil 15000 PPM) Azadiractin @ 600 ml/acre or Bacillus Thuringiensis @ 400 gm/acre by mixing it with 200-litre of water.",
-            "To manage the pest chemically, spray AlphaCyhalothrin @ 50-ml/acre or Thiachloprid @ 120 ml/acre during afternoon hours by mixing it with 200 litres of water."
+            "Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites. Keep animals indoor during rainy hours and provide clean and wholesome water and keep dry fodder and straw ready at home for sheep and goat in rainy season. Please ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
          ]
       },
-      "cow": {
+      "poultry": {
          "advisory": [
-            "Keep barns well-ventilated and leak-free to prevent moisture buildup and harmful fungi growth.",
-            "Vaccinate cows & buffalo against FMD, HS & BQ and establish a deworming plan to control internal parasites in moist environments."
-         ]
-      },
-      "chicken": {
-         "advisory": [
-            "Bird flu is a viral disease of poultry.",
-            "It spreads through contaminated feathers, saliva, droppings of birds.",
-            "Sometimes it can spread from affected birds to human beings.",
-            "During this time please clean poultry houses every day and change the feed and water of poultry birds frequently.",
-            "Don't throw the dead poultry birds here and there.",
-            "Please bury them by wearing gloves and masks and sanitize the place with bleaching powder.",
-            "Don't bring poultry birds or eggs home from the affected area."
+            "In rainy season chicken might experience Coccidiosis, give Coccidiostat in chicken feed with recommendation of nearest veterinary expert."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "20-09-2024"
 }

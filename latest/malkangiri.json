@@ -1,54 +1,94 @@
 {
    "weather_details": {
-      "11-09-2024": {
-         "rainfall": 5,
-         "t_max": 29,
-         "t_min": 24,
-         "rh_max": 74,
-         "rh_min": 96,
-         "wind_speed": 8,
-         "wind_direction": 228,
-         "cloud_cover": 6
-      },
-      "12-09-2024": {
-         "rainfall": 2,
-         "t_max": 30,
-         "t_min": 24,
-         "rh_max": 67,
-         "rh_min": 89,
-         "wind_speed": 8,
-         "wind_direction": 223,
-         "cloud_cover": 6
-      },
-      "13-09-2024": {
-         "rainfall": 5,
-         "t_max": 30,
+      "16.09.2024": {
+         "rainfall": 0,
+         "t_max": 34,
          "t_min": 25,
-         "rh_max": 64,
-         "rh_min": 90,
-         "wind_speed": 8,
-         "wind_direction": 231,
-         "cloud_cover": 6
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
-      "14-09-2024": {
-         "rainfall": 5,
-         "t_max": 30,
+      "17.09.2024": {
+         "rainfall": 7,
+         "t_max": 32,
          "t_min": 25,
-         "rh_max": 66,
-         "rh_min": 89,
-         "wind_speed": 8,
-         "wind_direction": 242,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "18.09.2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "19.09.2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "21.09.2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 3,
+         "wind_direction": 112,
+         "cloud_cover": 7
+      },
+      "22.09.2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 62,
+         "wind_speed": 4,
+         "wind_direction": 72,
+         "cloud_cover": 7
+      },
+      "23.09.2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 60,
+         "wind_speed": 4,
+         "wind_direction": 153,
          "cloud_cover": 8
       },
-      "15-09-2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 25,
-         "rh_max": 59,
-         "rh_min": 92,
-         "wind_speed": 9,
-         "wind_direction": 244,
-         "cloud_cover": 4
+      "24.09.2024": {
+         "rainfall": 20,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 68,
+         "wind_speed": 3,
+         "wind_direction": 160,
+         "cloud_cover": 8
+      },
+      "25.09.2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 65,
+         "wind_speed": 4,
+         "wind_direction": 135,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
@@ -56,98 +96,57 @@
       "maize",
       "kharif groundnut",
       "black gram",
-      "ragi",
-      "brinjal",
+      "sesame",
       "cucumber",
       "tomato",
-      "chilli",
-      "cattles",
-      "goat & sheep",
-      "poultry"
+      "chilli"
    ],
-   "general_advisory": "Watch for rain before applying pesticides. In fallow uplands, utilize recent rainfall for short duration crops. Regular surveillance for insect pests. High humidity may lead to pest and disease build up.",
+   "general_advisory": "Watch for rain before applying pesticides. If necessary spray only when the sky becomes clear and use a sticker to the spray solution. In fallow uplands, utilizing recent rainfall, farmers should take up short-duration low water-requiring crops like black gram, green gram, sesame, fodder crops, etc. Regular surveillance work should be taken up in all crops to know the incidence of various insect pests and initiate the control strategies. Due to high humidity, there are possibilities of pest and disease buildup in already sown crops. Take plant protection measures depending on the crop and weather conditions.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Keep the rice plots weed free.",
-            "Apply low quantity of Nitrogen fertilizer to reduce blast disease.",
-            "Spray chlorantraniliprole to control steam borer.",
-            "Spray Imidachloprid to control BPH."
+            "Current weather may favor blast disease in rice. To control it, spray Tebuconazole 50% + Trifloxystrobin 25% WG at 0.4 g/litre of water or Tricyclazole 45% + Hexaconazole 10% WG at 1 g/litre of water.",
+            "There is a chance of stem borer and leaf folder infestation. If found in the field, then spray Chlorantraniliprole 18.5% SC at 0.3 ml/litre of water or Flubendiamide 20% WG at 0.25 g/litre of water."
          ]
       },
       "maize": {
          "advisory": [
-            "Develop better drainage system.",
-            "Spray Emamectin benzoate for fall army worm.",
-            "Spray Validamycin or Carbendazim for rot control.",
-            "Spray Thiamethoxam or Imidacloprid for aphids."
+            "Develop a better drainage system to avoid waterlogging conditions due to excess rainfall.",
+            "There may be aphids incidence in maize due to high humidity and cloudy conditions if observed. Spray Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC at 0.25 ml/litre of water or Imidacloprid 17.8% SL at 0.3 ml/litre of water on sunny days.",
+            "Fall armyworm may be observed in the field. To control it, spray Emamectin benzoate 5% SG at 0.4 g/litre of water or Chlorantraniliprole 18.5% SC at 0.4 ml/litre of water."
          ]
       },
       "kharif groundnut": {
          "advisory": [
-            "Prepare field and raise high yielding varieties.",
-            "Treat seeds before sowing."
+            "Prepare the field and raise Kharif groundnut of high-yielding varieties. Treat the seeds with Trichoderma viridae (10 gm.), Pseudomonas fluorescence (10 gm.), and Rhizobium culture (20 gm.) per kg of seed before sowing."
          ]
       },
       "black gram": {
          "advisory": [
-            "Sow pre-rabi Black gram and Green gram.",
-            "Treat seeds with Rhizobium culture.",
-            "Apply urea, DAP, and MOP during land preparation."
+            "This is the time for sowing of pre-rabi Black gram (Biri) and Green gram (Mung). Use 10 kg seeds/acre. Before sowing, seeds are to be treated with Rhizobium culture. Apply 4 kg urea, 35 kg DAP, and 13 kg MOP per acre during final land preparation. Sow the seeds in a line of 30 cm apart with a 10-15 cm plant to plant distance."
          ]
       },
-      "ragi": {
+      "sesame": {
          "advisory": [
-            "Apply urea at specific intervals.",
-            "Spray Zineb or Tricyclazole for blast.",
-            "Line sown or broadcasted crop instructions."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Transplant seedlings.",
-            "Ensure drainage channels.",
-            "Fill gaps to maintain plant population.",
-            "Spray to manage wilting."
+            "This is the optimum time for sowing of pre-rabi sesame. Sow the seeds in lines of 30 cm apart and 10 cm between plants using 3 kg seed/acre. Apply 6.5 kg urea, 17 kg DAP, and 13 kg MoP per acre during final land preparation."
          ]
       },
       "cucumber": {
          "advisory": [
-            "Monitor for downy mildew attack.",
-            "Spray Metalaxyl + Mancozeb when needed."
+            "There is a chance of downy mildew attack in cucumber. If observed, spray Metalaxyl 8% + Mancozeb 64% at 2 g/litre of water on sunny days."
          ]
       },
       "tomato": {
          "advisory": [
-            "Complete nursery sowing.",
-            "Use high yielding varieties.",
-            "Use polythene cover for excess rainfall."
+            "In upland well-drained soil complete the nursery sowing for tomato. Use high-yielding varieties at 150-200 g seed/acre. Use a low-cost polythene cover above the nursery to avoid the seedlings from excess rainfall.",
+            "Present climate is suitable for bacterial spot and speck of tomato. To manage at an early stage, go for organic treatment by submerging seeds for one minute in sodium hypochlorite or in hot water (50oC) for 25 minutes to reduce the incidence of both diseases."
          ]
       },
       "chilli": {
          "advisory": [
-            "Manage leaf curl and mosaic diseases.",
-            "Control insect vectors."
-         ]
-      },
-      "cattles": {
-         "advisory": [
-            "Disinfect animal farms regularly.",
-            "Monitor ticks and flies."
-         ]
-      },
-      "goat & sheep": {
-         "advisory": [
-            "Keep fodder ready.",
-            "Practice flushing for balanced concentrate."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Fill holes in the poultry house.",
-            "Prevent entry of snakes and reptiles."
+            "If leaf curl and mosaic diseases are observed in the chilli field, to manage this disease, spray dimethoate 30 EC at 500 ml/ha or imidacloprid 17.8 SL at 100 ml/ha to control insect vectors and to destroy the infected plants immediately after noticing the initial symptoms. Repeat the spray 15 days later if necessary."
          ]
       }
    },
-   "date": "10-09-2024"
+   "date": "20-09-2024"
 }

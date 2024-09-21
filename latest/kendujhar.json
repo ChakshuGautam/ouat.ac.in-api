@@ -1,103 +1,108 @@
 {
    "weather_details": {
-      "11-09-2024": {
-         "rainfall": 2,
-         "t_max": 30,
+      "21-09-2024": {
+         "rainfall": 4,
+         "t_max": 34,
          "t_min": 23,
-         "rh_max": 94,
-         "rh_min": 66,
-         "wind_speed": 8,
-         "wind_direction": 232,
-         "cloud_cover": 6
+         "rh_max": 89,
+         "rh_min": 55,
+         "wind_speed": 5,
+         "wind_direction": 158,
+         "cloud_cover": 5
       },
-      "12-09-2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 91,
-         "rh_min": 68,
-         "wind_speed": 12,
-         "wind_direction": 262,
-         "cloud_cover": 6
-      },
-      "13-09-2024": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 92,
-         "rh_min": 68,
-         "wind_speed": 12,
-         "wind_direction": 261,
-         "cloud_cover": 8
-      },
-      "14-09-2024": {
-         "rainfall": 20,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 87,
-         "rh_min": 64,
-         "wind_speed": 15,
-         "wind_direction": 259,
-         "cloud_cover": 8
-      },
-      "15-09-2024": {
+      "22-09-2024": {
          "rainfall": 5,
-         "t_max": 32,
+         "t_max": 34,
          "t_min": 24,
-         "rh_max": 91,
-         "rh_min": 66,
-         "wind_speed": 11,
-         "wind_direction": 243,
+         "rh_max": 86,
+         "rh_min": 54,
+         "wind_speed": 6,
+         "wind_direction": 124,
+         "cloud_cover": 5
+      },
+      "23-09-2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 61,
+         "wind_speed": 5,
+         "wind_direction": 90,
          "cloud_cover": 6
+      },
+      "24-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 63,
+         "wind_speed": 5,
+         "wind_direction": 135,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 12,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 96,
+         "rh_min": 66,
+         "wind_speed": 7,
+         "wind_direction": 112,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
+      "greengram",
       "paddy",
       "maize",
-      "greengram",
       "pumpkin",
       "bitter gourd",
       "lady finger",
       "papaya",
       "banana"
    ],
-   "general_advisory": "Because of the low pressure, rainfall activities may continue at isolated places of Keonjhar. Farmers are advised to remove excess water from the field. Make a watch on paddy field to maintain a water level of 2-3 cm. Insecticides and pesticides spray can be resumed when no rainfall occurs. Monitor the field for pest attacks.",
+   "general_advisory": "Farmers are advised to remove excess water from the vegetable field. Make a watch on paddy field to maintain a water level of 2 -3 cm. Insecticides and pesticides spray can be resumed when no rainfall occurs. Monitor the field for pest attacks especially in paddy fields. Keep the field weed-free and remove excess grasses from the root zone.",
    "crops_data": {
-      "paddy": {
-         "advisory": [
-            "Make bunds to store water in the field.",
-            "Maintain a water level of 2-3 cm in the field.",
-            "Regularly check for any disease and pest attack.",
-            "Take immediate action to prevent pest infestations."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Remove excess water from the field.",
-            "Harvest the matured fruits and sell them at nearby market at a good price."
-         ]
-      },
       "greengram": {
          "advisory": [
             "Harvest the matured pods and keep them at safe and dry places.",
             "Dry it under the sun to reduce its moisture percentage.",
-            "To reduce the sucking bug insect attack, spray Progress Plus (Profenophos+Cypermethrin) @ 40 ml/15lt.",
-            "To reduce the infestation of pod borer in green gram and black gram crop, apply flubendi amide 20% @ 150 g or Chlorantrinilipole 0.4% G @ 10 g in 500 litres of water per hectare."
+            "To reduce the infestation of pod borer in greengram and blackgram crop, apply flubendiamide 20% @ 150 g or Chlorantranilipole 0.4% G @ 10 g in 500 litres of water per hectare.",
+            "After harvesting, incorporate the plants in the soil to decompose."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Maintain a water level of 2 -3 cm in the field.",
+            "Regularly check out for any disease and pest attack.",
+            "Take immediate action to prevent the given pest infestation.",
+            "To manage and reduce the BPH attack, spray Pyremetrizine 50% WG @ 120 g or Imidachloprid 17.8% SL @ 50 ml in 200 litres of water in an acre.",
+            "If Stem borer attack is observed, stop application of urea.",
+            "Spray Neem oil 1500 ppm @ 1.5 ml/lt.",
+            "In case of severe infestation, apply granular insecticide Chlorantraniliprole 0.4% GR @ 4 kg/acre or Fipronil 0.6% GR @ 4 kg/acre within 20 -25 days of transplanting.",
+            "This pest is mainly seen from Tillering to Heading stage.",
+            "To minimize its incidence, spray Chloropyriphos 20 EC @ 500 ml or Quinalophos 25% EC @ 800 ml in 200 lt of water per acre."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Harvest the matured fruits and sell them at nearby market at good price.",
+            "To manage the attack of fall army worm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water or 8 g in a drum (15 lt water).",
+            "For managing aphids and other sucking bugs, spray Imidachloprid 17.8% SL @ 2 ml/lt.",
+            "Protect the maize crop from monkeys by providing barbed wire fencing."
          ]
       },
       "pumpkin": {
          "advisory": [
             "Keep some gunny bag or polythene under the fruits and allow it to grow on it.",
-            "Protect the fruit from rainfall damage.",
-            "Make drainage to remove excess water.",
-            "Alternaria leaf blight can be managed by spraying Carbendazim or Mancozeb @ 2 g/l."
+            "Alternaria leaf blight can be managed by spraying Carbendazim or Mancozeb @ 2 g/lt.",
+            "Remove the weeds growing near the plants."
          ]
       },
       "bitter gourd": {
          "advisory": [
-            "Hadda beetle may cause leaf scrapping and defoliation of it. Spray Carbaryl 50 WP @ 3g/l.",
-            "To control fruit fly infestation spray Endosulphan @ 6 ml/4.5 lt.",
-            "For managing aphid population, spray with Malathion @ 1ml/l or Metasystox @ 2 ml/l."
+            "Hadda beetle may cause leaf scrapping and defoliation of it. Spray Carbaryl 50 WP @ 3 g/lt.",
+            "To control fruit fly infestation spray Endosulphan @ 6 ml/4.5 lt."
          ]
       },
       "lady finger": {
@@ -106,16 +111,16 @@
             "Yellow vein mosaic virus may spread through whitefly. To manage it, spray Quinalphos 25EC @ 2 lt/ha.",
             "Fruit and shoot borer can be controlled by spraying Emamectin benzoate @ 4g/10 lt.",
             "Keep the field weed free.",
-            "Sell the matured fruits at the market at suitable prices."
+            "Sell the matured fruits at market at suitable prices."
          ]
       },
       "papaya": {
          "advisory": [
             "Papaya plant is sensitive to water stagnation. Therefore, remove excess water from the root zone.",
             "Add or apply vermicompost to the soil for better nutrient availability.",
-            "To control White fly, spray Malathion @ 1ml/l or Metasystox @ 2 ml/l.",
-            "Do not grow cucurbits near to the papaya crop cultivation.",
-            "Papaya ring spot virus may spread through aphids. Spray Imidachloprid 17.8% SL @ 1-2 ml/l to manage the disease."
+            "To control White fly, spray Malathion @ 1 ml/lt or Metasystox @ 2 ml/lt.",
+            "Do not grow cucurbits near the papaya crop cultivation.",
+            "Papaya ring spot virus may spread through aphids. Spray Imidachloprid 17.8% SL @ 1 -2 ml/lt to manage the disease."
          ]
       },
       "banana": {
@@ -125,5 +130,5 @@
          ]
       }
    },
-   "date": "10-09-2024"
+   "date": "20-09-2024"
 }

@@ -1,0 +1,153 @@
+{
+   "weather_details": {
+      "11-09-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 74,
+         "rh_min": 96,
+         "wind_speed": 8,
+         "wind_direction": 228,
+         "cloud_cover": 6
+      },
+      "12-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 67,
+         "rh_min": 89,
+         "wind_speed": 8,
+         "wind_direction": 223,
+         "cloud_cover": 6
+      },
+      "13-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 64,
+         "rh_min": 90,
+         "wind_speed": 8,
+         "wind_direction": 231,
+         "cloud_cover": 6
+      },
+      "14-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 66,
+         "rh_min": 89,
+         "wind_speed": 8,
+         "wind_direction": 242,
+         "cloud_cover": 8
+      },
+      "15-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 59,
+         "rh_min": 92,
+         "wind_speed": 9,
+         "wind_direction": 244,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "kharif groundnut",
+      "black gram",
+      "ragi",
+      "brinjal",
+      "cucumber",
+      "tomato",
+      "chilli",
+      "cattles",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Watch for rain before applying pesticides. In fallow uplands, utilize recent rainfall for short duration crops. Regular surveillance for insect pests. High humidity may lead to pest and disease build up.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Keep the rice plots weed free.",
+            "Apply low quantity of Nitrogen fertilizer to reduce blast disease.",
+            "Spray chlorantraniliprole to control steam borer.",
+            "Spray Imidachloprid to control BPH."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop better drainage system.",
+            "Spray Emamectin benzoate for fall army worm.",
+            "Spray Validamycin or Carbendazim for rot control.",
+            "Spray Thiamethoxam or Imidacloprid for aphids."
+         ]
+      },
+      "kharif groundnut": {
+         "advisory": [
+            "Prepare field and raise high yielding varieties.",
+            "Treat seeds before sowing."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Sow pre-rabi Black gram and Green gram.",
+            "Treat seeds with Rhizobium culture.",
+            "Apply urea, DAP, and MOP during land preparation."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Apply urea at specific intervals.",
+            "Spray Zineb or Tricyclazole for blast.",
+            "Line sown or broadcasted crop instructions."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Transplant seedlings.",
+            "Ensure drainage channels.",
+            "Fill gaps to maintain plant population.",
+            "Spray to manage wilting."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Monitor for downy mildew attack.",
+            "Spray Metalaxyl + Mancozeb when needed."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Complete nursery sowing.",
+            "Use high yielding varieties.",
+            "Use polythene cover for excess rainfall."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Manage leaf curl and mosaic diseases.",
+            "Control insect vectors."
+         ]
+      },
+      "cattles": {
+         "advisory": [
+            "Disinfect animal farms regularly.",
+            "Monitor ticks and flies."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Keep fodder ready.",
+            "Practice flushing for balanced concentrate."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Fill holes in the poultry house.",
+            "Prevent entry of snakes and reptiles."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

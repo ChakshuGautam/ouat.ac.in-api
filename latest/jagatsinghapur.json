@@ -1,96 +1,99 @@
 {
    "weather_details": {
-      "11/09/2024": {
+      "21/09/2024": {
          "rainfall": 2,
-         "t_max": 33,
+         "t_max": 37,
          "t_min": 27,
-         "rh_max": 61,
-         "rh_min": 85,
-         "wind_speed": 14,
-         "wind_direction": 229,
-         "cloud_cover": 6
-      },
-      "12/09/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 63,
-         "rh_min": 82,
-         "wind_speed": 15,
-         "wind_direction": 240,
-         "cloud_cover": 6
-      },
-      "13/09/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 56,
-         "rh_min": 81,
-         "wind_speed": 16,
-         "wind_direction": 245,
-         "cloud_cover": 6
-      },
-      "14/09/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 56,
-         "rh_min": 78,
-         "wind_speed": 15,
-         "wind_direction": 241,
+         "rh_max": 84,
+         "rh_min": 56,
+         "wind_speed": 9,
+         "wind_direction": 135,
          "cloud_cover": 5
       },
-      "15/09/2024": {
-         "rainfall": 2,
+      "22/09/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 57,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 6
+      },
+      "23/09/2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 135,
+         "cloud_cover": 7
+      },
+      "24/09/2024": {
+         "rainfall": 10,
          "t_max": 34,
-         "t_min": 26,
-         "rh_max": 57,
-         "rh_min": 78,
-         "wind_speed": 15,
-         "wind_direction": 228,
-         "cloud_cover": 5
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 72,
+         "cloud_cover": 8
+      },
+      "25/09/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 195,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "paddy",
-      "maize",
+      "groundnut",
+      "arhar",
       "cucurbits",
-      "vegetables",
-      "fishery"
+      "papaya",
+      "pisciculture"
    ],
-   "general_advisory": "Keeping the rainfall forecast in mind farmers are advised to keep bunding water in medium land for beushaning. Maintain standing water levels as per crop stage. Remove weeds, provide support to standing crops, and monitor insects and diseases regularly.",
+   "general_advisory": "For HYVs of rice apply 17 kg of Urea per acre at PI stage. In case of Light sandy soil, apply 17 kg Urea and 15 Kg of MOP per acre. For Hybrids apply 20 kg of Urea along with 20-kg of MOP at PI stage. To manage fungal and bacterial diseases (leaf blight, wilt, and rot) in different standing crops, spray (Metalaxyl+ Mancozeb) @ 2-gram/litre of water or (Carbendazim+ Mancozeb) @ 2-gram/litre of water along with Plantomycin @ 1-gram/ litre of water. Keep the poultry farm neat & clean, select disease-free chicks for farming & Provide adequate poultry feed & clean water to avoid Poultry bird diseases. September is the optimum time for nursery raising of tomato. Grow resistant varieties like BT-2, BT-10, BT-12, Niladri, Sadabahar, Madhuri, Maharathi, Rasmi, Naveen, etc. For monitoring of sucking pests, fruit fly, and borer insect in vegetables farmers are advised to use pheromone trap @ 8nos./acre.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Swarming Caterpillar management",
-            "Sheath rot and sheath blight management",
-            "Iron toxicity symptoms management",
-            "Support standing crops damaged by lodging",
-            "Monitor for insects and diseases"
+            "Panicle Initiation to flowering initiation - Brown plant hopper - There is a chance of BPH infestation in paddy. If >10-15 hoppers/hill noticed, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Flonicamid 50% WG @ 60-gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant.",
+            "Panicle Initiation to flowering initiation - Bacterial Leaf Blight - There is a chance of Bacterial Leaf Blight disease infestation in paddy. If noticed, spray Copper Hydroxide 53.8% DF @ 600-gram/acre or 200-gram Plantomycin along with Copper Oxy Chloride 50% WP @ 600-gram/acre."
          ]
       },
-      "maize": {
+      "groundnut": {
          "advisory": [
-            "Fall Army Worm management",
-            "Chemical pest control options"
+            "Reproductive stage - Stem Rot disease - The disease incidence is maximum after rainfall. To prevent the disease Seed treatment should be done with Carbendazim 50% WP @ 2-gm/kg of seeds or Carboxin 37.5% + Thiram 37.5% D.S WP @ 3-gm/kg of seeds. To manage Stem Rot disease in groundnut spray Validamycin 3% L @ 400-ml/acre or Captan 70%+ Hexaconazole 5% @ 300-gram/acre. To spray the fungicide 200-litre of water per acre is required."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Vegetative stage - Leaf webber - Spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC @ 2 ml/lit @ 2ml/lit of water.",
+            "Vegetative stage - Sucking Pests (Aphid, Jassids, Thrips, Whitefly) - Sucking pests are generally more active in prevailing weather condition. Neem-based pesticide (1500 ppm) may be sprayed @ 3ml/ lit of water at initial stage of infestation.",
+            "Vegetative stage - Wilt - Wilting may be observed after receding of rain. Apply Metiram 75% WG @ 1.5g/liter at root zone of the plant as a control measure."
          ]
       },
       "cucurbits": {
          "advisory": [
-            "Downy Mildew management"
+            "Vegetative to Fruiting - Epilachna Beetle - To manage Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation. To manage Epilachna Beetle chemically spray Chlorpyriphos 20% EC @ 2-ml/litre of water or Profenophos 50% EC @ 2- ml/litre of water."
          ]
       },
-      "vegetables": {
+      "papaya": {
          "advisory": [
-            "Damping off disease management",
-            "Wilt and rot management"
+            "Vegetative to Fruiting - Mealy bug - To manage mealy bug at the early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water or insecticidal soap. In case of severe infestation spray Profenophos 50% EC @ 20-ml/10-litre of water or Thiamethoxam 25% WG @ 3-gram/10-litre of water."
          ]
       },
-      "fishery": {
+      "pisciculture": {
          "advisory": [
-            "Maintain water salinity in the pond"
+            "When there is a lack of oxygen in the pond, the fish will come up to the surface water and start gulping through their mouths. The ideal dissolved oxygen is about 5 mg/l. This can be maintained by using an aerator. A simple way of aeration is to circulate the pond water using a pump."
          ]
       }
    },
-   "date": "10-09-2024"
+   "date": "20-09-2024"
 }

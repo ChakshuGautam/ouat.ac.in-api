@@ -1,0 +1,134 @@
+{
+   "weather_details": {
+      "11/09/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 66,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "12/09/2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 10,
+         "wind_direction": 260,
+         "cloud_cover": 6
+      },
+      "13/09/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 61,
+         "wind_speed": 10,
+         "wind_direction": 162,
+         "cloud_cover": 6
+      },
+      "14/09/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 12,
+         "wind_direction": 255,
+         "cloud_cover": 6
+      },
+      "15/09/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 245,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "arhar",
+      "turmeric",
+      "ragi",
+      "maize",
+      "groundnut",
+      "papaya",
+      "mango",
+      "vegetables",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Strengthen bunds of paddy field, monitor crop for pests, manage insect pest attacks, prevent diseases, provide clean drinking water to poultry, and consult department personnel for disease prevention.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Regular monitoring of the crop for incidence of pest and diseases should be done.",
+            "Apply Cartap hydrocloride 50SP or Fipronil 5 SC after rain."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Survey regularly for insect pest attacks and take action advised by department personnel."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Go for intercultivation."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Go for intercultivation.",
+            "Apply 26 kg urea per acre at 45 days after planting and mulching."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Do not allow water to remain stagnant in the field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Apply Dimethoate to manage Aphids."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spray Carbendazim to manage tikka disease."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Avoid waterlogging, drench Carbendazim or Mancozeb near root zone."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Prevent water stagnation near the base of the plant and provide stakings to newly planted saplings."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Manage Thrips population in chilli by spraying Imidachloprid or Dimethoate."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Provide regular feeding at 0.35 of body mass."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide clean drinking water to poultry and take preventive action for diseases."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

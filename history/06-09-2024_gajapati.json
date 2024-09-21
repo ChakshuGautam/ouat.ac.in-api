@@ -40,7 +40,7 @@
          "wind_direction": 292,
          "cloud_cover": 8
       },
-      "2024-09-1": {
+      "2024-09-11": {
          "rainfall": 10,
          "t_max": 34,
          "t_min": 25,
@@ -62,51 +62,51 @@
       "common fish",
       "chicken"
    ],
-   "general_advisory": "According to the weather forecast, light to moderate rain is expected with generally cloudy sky. Temperature ranges from 31.0°C to 35.0°C for maximum and 24.0°C to 25.0°C for minimum. Relative humidity varies from 90% to 95% in the morning and 67% to 76% in the afternoon.",
+   "general_advisory": "According to the weather forecast, light to moderate rain is expected with a generally cloudy sky. The temperature range may vary between 31.0°C to 35.0°C and 24.0°C to 25.0°C. Relative humidity will range from 67% to 95%. Farmers are advised to withhold application of fertilizers and plant protection chemicals.",
    "crops_data": {
       "maize": {
          "advisory": [
-            "To manage fall armyworm pest, use biopesticide Beauveria bassiana or chemical sprays like Emamectin Benzoate, Spinetoram, or Chlorantraniliprole"
+            "To manage the fall army worm pest, spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl to prevent caterpillars from feeding on the leaves. For chemical control, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
          ]
       },
       "rice": {
          "advisory": [
-            "To manage Blast disease, use Hexaconazole, Azoxystrobin + Difenoconazole, or Tebuconazole + Trifloxystrobin"
+            "To manage Blast disease, spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre. To manage Leaf Folder and Case Worm pests in paddy, spray Bifenthrin 10% EC @ 200 ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
          ]
       },
       "finger millet": {
          "advisory": [
-            "To manage Pink stem borer, use Trichogramma chilonis card, Bacillus thuringiensis, or Metarhizium anisopilae"
+            "Pink stem borer management: Early transplant seedlings, remove and destroy affected bushes, use traps and sticks, apply beneficial insects and natural sprays."
          ]
       },
       "cotton": {
          "advisory": [
-            "To manage Aphids and Jassids, use neem-based pesticide or chemicals like Flonicamid, Thiamethoxam, or Dinotefuran"
+            "Due to high temperature and humidity, there are reports of incidence of sucking pest like Aphids and Jassids in Cotton crop. Regular monitoring and neem-based pesticide sprays recommended."
          ]
       },
       "papaya": {
          "advisory": [
-            "To manage Mealy bug infestation, use neem-based pesticide Azadiractin or Profenophos"
+            "In prevailing weather conditions, infestation of Mealy bug may be observed. Spray neem-based pesticide at initial stage of infestation."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage Shoot and fruit borer, remove affected terminals and fruits, use pheromone traps, and alternate chemical sprays like Emamectin Benzoate, Chlorantraniliprole, or Spinetoram"
+            "To manage Shoot and fruit borer, remove affected parts, install traps, and use chemical control with specified insecticides at intervals."
          ]
       },
       "cow": {
          "advisory": [
-            "Provide concentrate to dairy animals due to high moisture content in grasses during rainy days"
+            "As grasses are high in moisture content during rainy days, provide adequate dry matter to dairy animals."
          ]
       },
       "common fish": {
          "advisory": [
-            "Feed groundnut oil cake and rice bran, add vitamin and mineral mixture, regularly check pH and water temperature, apply lime and cow dung for pond purification"
+            "After stocking, provide proper feed, check pH and water temperature, purify pond water regularly."
          ]
       },
       "chicken": {
          "advisory": [
-            "Prevent bird flu by maintaining cleanliness, changing feed and water frequently, and proper disposal of affected birds"
+            "To prevent bird flu, maintain cleanliness, change feed and water frequently, and dispose of dead birds properly."
          ]
       }
    },

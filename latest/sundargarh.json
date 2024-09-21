@@ -1,138 +1,120 @@
 {
    "weather_details": {
-      "11/09/2024": {
-         "rainfall": 10,
-         "t_max": 30,
+      "21/09/2024": {
+         "rainfall": 4,
+         "t_max": 36,
          "t_min": 25,
-         "rh_max": 94,
-         "rh_min": 67,
-         "wind_speed": 10,
-         "wind_direction": 206,
-         "cloud_cover": 8
+         "rh_max": 88,
+         "rh_min": 56,
+         "wind_speed": 4,
+         "wind_direction": 144,
+         "cloud_cover": 5
       },
-      "12/09/2024": {
-         "rainfall": 5,
-         "t_max": 31,
-         "t_min": 26,
-         "rh_max": 96,
-         "rh_min": 71,
-         "wind_speed": 11,
-         "wind_direction": 237,
+      "22/09/2024": {
+         "rainfall": 3,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 56,
+         "wind_speed": 4,
+         "wind_direction": 126,
+         "cloud_cover": 5
+      },
+      "23/09/2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 57,
+         "wind_speed": 5,
+         "wind_direction": 124,
          "cloud_cover": 6
       },
-      "13/09/2024": {
-         "rainfall": 5,
-         "t_max": 31,
-         "t_min": 26,
+      "24/09/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 108,
+         "cloud_cover": 7
+      },
+      "25/09/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 24,
          "rh_max": 95,
-         "rh_min": 68,
-         "wind_speed": 11,
-         "wind_direction": 245,
-         "cloud_cover": 6
-      },
-      "14/09/2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 26,
-         "rh_max": 95,
-         "rh_min": 77,
-         "wind_speed": 13,
-         "wind_direction": 233,
-         "cloud_cover": 6
-      },
-      "15/09/2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 26,
-         "rh_max": 93,
-         "rh_min": 73,
-         "wind_speed": 11,
-         "wind_direction": 222,
-         "cloud_cover": 6
+         "rh_min": 61,
+         "wind_speed": 8,
+         "wind_direction": 103,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "direct sown paddy",
-      "kharif pulses",
-      "kharif paddy",
+      "paddy",
+      "pulses",
+      "transplanted paddy",
       "ragi",
       "sesamum",
       "maize",
       "groundnut",
-      "turmeric",
-      "mango",
+      "ginger",
       "vegetables",
-      "papaya",
-      "pisciculture",
-      "livestock"
+      "papaya"
    ],
-   "general_advisory": "Kharif crop 2024: 1. Due to Forecast of Light rainfall from 11th Sept. Farmers are advised to don't apply fertilizer & chemical during this period. 2. Strengthen the bunds of paddy field and check any rat holes or leakage from the bund. 3. After rain trim the bund and keep clean to avoid any insect multiplication.",
+   "general_advisory": "Kharif crop 2024: Only maintain 3-5 cm water in the field up to flowering stage in paddy. Provide drainage facility to drain out excess water from the field. Due to high humidity, survey for any insect pest in kharif crops and take action as suggested.",
    "crops_data": {
-      "direct sown paddy": {
+      "paddy": {
          "advisory": [
-            "If BPH is seen, then spray with Pyometrizine 50% @ 120 g/ha. If the BPH attack is seen, postpone application of nitrogenous fertilizer."
+            "Due to weather, there is a chance of sheath blight in paddy. To manage this disease, spray Validamycin @ 2 ml/liter of water."
          ]
       },
-      "kharif pulses": {
+      "pulses": {
          "advisory": [
-            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 -gram/ acre or Chlorantraniliprole 18.5 % SC @80 -ml/acre or Profenophos 50 % EC @ 400 -ml/acre."
+            "To manage Pod borer in green gram and black gram crop, spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5% SC @ 80-ml/acre or Profenophos 50% EC @ 400-ml/acre."
          ]
       },
-      "kharif paddy": {
+      "transplanted paddy": {
          "advisory": [
-            "After rain, go for applying Nitrogen @ 12 -16 kg /acre as per the variety. There is a chance of Bacterial Leaf Blight disease infestation in paddy. If noticed, spray Copper Hydroxide 53.8% DF @ 600 -gram/acre or 200 -gram Plantomycin along with Copper Oxy Chloride 50% WP @ 600 - gram/acre."
+            "Due to the weather condition, there is a chance of Bacterial Leaf Blight. To manage this, spray 1 g Streptomycin and 30 g copper oxychloride per 10 liters of water. Apply 20 kg urea and 13 kg MOP in Medium and low land conditions."
          ]
       },
       "ragi": {
          "advisory": [
-            "Condition is favorable for blast incidence in ragi, if observe spray Tricyclazole 75% WP @ 1 g/litre of water when sky becomes clear."
+            "Due to the weather effect, there is a chance of stem borer attack. To manage this, spray Fipronil @ 2 g/liter of water."
          ]
       },
       "sesamum": {
          "advisory": [
-            "Go for the thinning operation and maintain optimum plant population."
+            "Due to the weather effect, there is leaf webber seen. To manage this, spray Carbaryl @ 4 g/liter of water and to be sprayed on the leaf surface."
          ]
       },
       "maize": {
          "advisory": [
-            "Due to weather there is chances of Aphids in Maize, to manage this, apply Dimethoate @ 2 ml/liter of water."
+            "Due to weather effect, there is a chance of Aphids infestation. To manage this, spray Imidachloprid @ 0.4 ml/liter of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Due to weather Leaf blight disease is seen, to manage this spray Mancozeb @ 4 ml/liter of water."
+            "The early sown crop is at maturity stage. Go for harvesting and dry it under the sun for 2-3 days."
          ]
       },
-      "turmeric": {
+      "ginger": {
          "advisory": [
-            "Keep provision of drainage of excess water."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Provide staking to the newly planted saplings to avoid from wind damage. Go for intercropping with pulses in newly developed orchard."
+            "Go for intercultivation and apply 55 kg Urea and 33 kg MOP per acre."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Due to weather there is chances of Brinjal Fruit & Shoot Borer attack, to manage this apply T. chilonis @ 20 ,000 per acre."
+            "Go for tomato sowing. Collect good varieties like Arka Rakshak. The spacing between lines should be 60 cm."
          ]
       },
       "papaya": {
          "advisory": [
-            "Due to rainfall, do not allow water to stagnant near the base of the crop."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "Provide regular feeding @ 0.35% of body mass."
-         ]
-      },
-      "livestock": {
-         "advisory": [
-            "Provide mineral mixture to increase milk productivity in animals."
+            "Due to rainfall, do not allow water to remain stagnant near the base of the crop."
          ]
       }
    },
-   "date": "10-09-2024"
+   "date": "20-09-2024"
 }

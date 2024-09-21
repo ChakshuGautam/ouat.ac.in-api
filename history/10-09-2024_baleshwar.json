@@ -1,0 +1,142 @@
+{
+   "weather_details": {
+      "11-09-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 62,
+         "wind_speed": 10,
+         "wind_direction": 200,
+         "cloud_cover": 6
+      },
+      "12-09-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 84,
+         "rh_min": 76,
+         "wind_speed": 8,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      },
+      "13-09-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 63,
+         "wind_speed": 12,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "14-09-2024": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 57,
+         "wind_speed": 15,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "15-09-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 224,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "jute",
+      "sugarcane",
+      "okra",
+      "chilli",
+      "bitter gourd",
+      "cucumber",
+      "pumpkin",
+      "brinjal",
+      "papaya",
+      "coconut",
+      "poultry",
+      "animals"
+   ],
+   "general_advisory": "Due to prevailing cloudy weather associated with high humidity, farmers are advised to monitor the incidence of Yellow Stem Bore, Leaf folder & Incidence of BLB & Blast disease in rice crop.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Infestation of leaf folder will increase after the rain so apply Cartap hydrocloride @ 400g/acre or Lambada cyhalothrin 4.9 CS @ 300ml/acre or Flubendiamide 20WG 50g/acre in 200 litres of water recommended.",
+            "To manage Bacterial Leaf Blight, organically mix 20-kg of fresh cow dung with 200 litres of water. Filter it with fine cloth and spray the solution in one acre. To manage this disease chemically, spray 200-gram Plantomycin along with Copper Oxy Chloride 50% WP @ 600-gram/acre.",
+            "As the crop is in tillering stage maintain 2-3 cm of standing water in the field. Apply 35 kg Urea/acre as top dressing after weed management in paddy field."
+         ]
+      },
+      "jute": {
+         "advisory": [
+            "As the crop is in maturity stage and approaching for harvesting clear the nearby retting area and store the rainwater."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To manage Red Rot disease in Sugarcane spray Carbendazim 12%+ Mancozeb 63% WP @ 400-gram/acre or Metalaxyl 8% + Mancozeb 64% @ 400-gram/acre by mixing it in 200-litre of water."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Yellow vein mosaic virus in okra transmit through whitefly, thus spray Methyl demeton 25 EC @ 1.6 ml or Thiomethoxam 25 WG @ 2 gm/lt of water to manage it."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage Thrips population in chilli, spray Imidachloprid or Dimethoate @ 2ml/lt of water."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "To control different viral & phytoplasma diseases in Bitter gourd, Cucumber and Pumpkin apply 120 ml Abamectin or 30 g Fipronil 80 WG per acre."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "To control different viral & phytoplasma diseases in Bitter gourd, Cucumber and Pumpkin apply 120 ml Abamectin or 30 g Fipronil 80 WG per acre."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "To control different viral & phytoplasma diseases in Bitter gourd, Cucumber and Pumpkin apply 120 ml Abamectin or 30 g Fipronil 80 WG per acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @70ml/acre and Emamectin benzoate @ 80 g /acre at 15 days interval."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
+            "Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Monitor the activity of the Red palm weevil and Rhinocerous beetle by placing pheromone trap. Spray Lambda cyhalothrin @1.2ml/lit of water to the nearby manure pits for killing the developing stages of Rhinocerous beetle.",
+            "To prevent Stem bleeding and Gummosis clean the infected areas and apply the paste of Copper Oxy Chloride & Copper hydroxide."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide clean drinking water to poultry. Keep clean and dry the poultry shed."
+         ]
+      },
+      "animals": {
+         "advisory": [
+            "Provide clean drinking water to animals. Keep clean and dry the animal shed. No rainwater should enter into the shed."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

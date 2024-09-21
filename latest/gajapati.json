@@ -1,114 +1,98 @@
 {
    "weather_details": {
-      "2024-09-07": {
-         "rainfall": 10,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 93,
-         "rh_min": 67,
-         "wind_speed": 5,
-         "wind_direction": 288,
-         "cloud_cover": 7
-      },
-      "2024-09-08": {
-         "rainfall": 15,
-         "t_max": 33,
+      "2024-09-18": {
+         "rainfall": 20,
+         "t_max": 34,
          "t_min": 25,
          "rh_max": 93,
          "rh_min": 68,
-         "wind_speed": 6,
-         "wind_direction": 288,
+         "wind_speed": 5,
+         "wind_direction": 279,
          "cloud_cover": 8
       },
-      "2024-09-09": {
-         "rainfall": 25,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 76,
-         "wind_speed": 7,
-         "wind_direction": 291,
-         "cloud_cover": 8
-      },
-      "2024-09-10": {
+      "2024-09-19": {
          "rainfall": 15,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 76,
-         "wind_speed": 8,
-         "wind_direction": 292,
-         "cloud_cover": 8
-      },
-      "2024-09-11": {
-         "rainfall": 10,
          "t_max": 34,
          "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 69,
-         "wind_speed": 10,
-         "wind_direction": 291,
-         "cloud_cover": 7
+         "rh_max": 93,
+         "rh_min": 66,
+         "wind_speed": 3,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "2024-09-20": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 74,
+         "wind_speed": 3,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      },
+      "2024-09-21": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 96,
+         "rh_min": 67,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 8
+      },
+      "2024-09-22": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 97,
+         "rh_min": 63,
+         "wind_speed": 5,
+         "wind_direction": 112,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "maize",
       "rice",
-      "finger millet",
+      "maize",
       "cotton",
-      "papaya",
       "brinjal",
-      "cow",
-      "common fish",
-      "chicken"
+      "banana"
    ],
-   "general_advisory": "According to the weather forecast, light to moderate rain is expected with a generally cloudy sky. The temperature range may vary between 31.0°C to 35.0°C and 24.0°C to 25.0°C. Relative humidity will range from 67% to 95%. Farmers are advised to withhold application of fertilizers and plant protection chemicals.",
+   "general_advisory": "According to the weather forecast received from India Meteorological Department, the district is likely to receive light to moderate rain up to Saturday with generally to cloudy sky. The wind speed is likely to remain within 03.0 to 05.0 kmph for the next five days. The daily maximum and minimum temperature may range from 34.0°C to 35.0°C and 25.0°C to 26.0°C respectively. Relative humidity during the morning and the afternoon may range between 92 to 97 percent and 63 to 74 percent respectively.",
    "crops_data": {
-      "maize": {
-         "advisory": [
-            "To manage the fall army worm pest, spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl to prevent caterpillars from feeding on the leaves. For chemical control, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
-         ]
-      },
       "rice": {
          "advisory": [
-            "To manage Blast disease, spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre. To manage Leaf Folder and Case Worm pests in paddy, spray Bifenthrin 10% EC @ 200 ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
+            "Due to prevailing wet and humid conditions, the attack of pests like Yellow stem borer and leaf folder may increase in the crop.",
+            "To manage Leaf Folder and Case Worm pests in paddy, spray Bifenthrin 10% EC @ 200 ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre.",
+            "Yellow stem borer management: To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4%G @ 18.45-kg/ha or Chlorantraniliprole 0.4 % GR @ 10-kg/ha or Imidacloprid 0.3% G @ 15-kg/ha by mixing with sand at 1:1 ratio."
          ]
       },
-      "finger millet": {
+      "maize": {
          "advisory": [
-            "Pink stem borer management: Early transplant seedlings, remove and destroy affected bushes, use traps and sticks, apply beneficial insects and natural sprays."
+            "To manage the fall army worm pest, spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water.",
+            "Use 10-12 bird perches per acre and remove them before tasselling stage."
          ]
       },
       "cotton": {
          "advisory": [
-            "Due to high temperature and humidity, there are reports of incidence of sucking pest like Aphids and Jassids in Cotton crop. Regular monitoring and neem-based pesticide sprays recommended."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "In prevailing weather conditions, infestation of Mealy bug may be observed. Spray neem-based pesticide at initial stage of infestation."
+            "Due to high temperature and humidity, there are reports of incidence of sucking pest like Aphids and Jassids in Cotton crop.",
+            "Go for regular monitoring of the crop for incidence of pest and diseases.",
+            "If there is infestation of sucking pest like Aphids and Jassids cotton crop, go for spraying of neem-based pesticide (Neem Oil 1500 PPM) @600-ml/acre by mixing it in 200-litre of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage Shoot and fruit borer, remove affected parts, install traps, and use chemical control with specified insecticides at intervals."
+            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is a chance of increasing in day & night temperature and morning relative humidity more than 70% favoring Shoot and fruit borer in Brinjal.",
+            "To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits.",
+            "To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre."
          ]
       },
-      "cow": {
+      "banana": {
          "advisory": [
-            "As grasses are high in moisture content during rainy days, provide adequate dry matter to dairy animals."
-         ]
-      },
-      "common fish": {
-         "advisory": [
-            "After stocking, provide proper feed, check pH and water temperature, purify pond water regularly."
-         ]
-      },
-      "chicken": {
-         "advisory": [
-            "To prevent bird flu, maintain cleanliness, change feed and water frequently, and dispose of dead birds properly."
+            "To manage stem weevil, install Cosmolure pheromone traps @ 10/acre in banana garden.",
+            "Dip the banana stem in warm water for 30 minutes before planting."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "17-09-2024"
 }

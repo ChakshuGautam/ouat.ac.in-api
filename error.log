@@ -241,3 +241,7 @@ ERROR:root:Error downloading PDF: Cannot connect to host ouat.ac.in:443 ssl:defa
 ERROR:root:Error downloading PDF for bargarh
 ERROR:root:Error downloading PDF: Cannot connect to host ouat.ac.in:443 ssl:default [None]
 ERROR:root:Error downloading PDF for puri
+ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/04/Cuttack_IAAS_English_02.04.2024_14_27.pdf: 504
+ERROR:root:Error downloading PDF for cuttack
+ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/09/Bhadrak_IAAS_Eng_20.09.2024_38_76.pdf: 504
+ERROR:root:Error downloading PDF for bhadrak

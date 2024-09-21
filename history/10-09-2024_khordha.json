@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "11/09/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 59,
+         "rh_min": 85,
+         "wind_speed": 10,
+         "wind_direction": 223,
+         "cloud_cover": 6
+      },
+      "12/09/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 60,
+         "rh_min": 86,
+         "wind_speed": 10,
+         "wind_direction": 232,
+         "cloud_cover": 6
+      },
+      "13/09/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 55,
+         "rh_min": 83,
+         "wind_speed": 12,
+         "wind_direction": 242,
+         "cloud_cover": 8
+      },
+      "14/09/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 56,
+         "rh_min": 82,
+         "wind_speed": 11,
+         "wind_direction": 240,
+         "cloud_cover": 6
+      },
+      "15/09/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 57,
+         "rh_min": 80,
+         "wind_speed": 11,
+         "wind_direction": 223,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "cucurbits",
+      "vegetables",
+      "fishery"
+   ],
+   "general_advisory": "Keeping the rainfall forecast in mind, farmers are advised to take necessary precautions such as bunding water, maintaining standing water levels, removing weeds, providing support to damaged crops, and monitoring for insects and diseases.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Swarming Caterpillar infestation management",
+            "Sheath rot and sheath blight disease management"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Fall Army Worm infestation management"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Downy Mildew disease management"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Damping off disease management",
+            "Wilt and rot disease management"
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Maintaining water salinity levels"
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

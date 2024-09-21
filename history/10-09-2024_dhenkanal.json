@@ -1,0 +1,86 @@
+{
+   "weather_details": {
+      "10.09.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 140,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "arhar",
+      "sesame",
+      "ground nut",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "cucurbits",
+      "cowpea",
+      "papaya",
+      "banana",
+      "fishery"
+   ],
+   "general_advisory": "Farmers are advised to take precautionary measures against pests and diseases following heavy rainfall. Proper drainage and timely application of fertilizers are recommended.",
+   "crops_data": {
+      "arhar": {
+         "advisory": [
+            "Blister beetles feed on the flowers and reduce the number of pods setting. Manual collection and disposal of insects is recommended."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Gull fly infestation noticed in Sesame crop. Remove infested capsule and use neem-based pesticide."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Chance of Stem rot after heavy rainfall. Use Validamycin or Captan + Hexaconazole fungicide."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Wilt and Root rot possible after heavy rainfall. Drench root zone with Streptocycline and Metalaxyl + Mancozeb solution."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Wilt and Root rot possible after heavy rainfall. Drench root zone with Streptocycline and Metalaxyl + Mancozeb solution."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Wilt and Root rot possible after heavy rainfall. Drench root zone with Streptocycline and Metalaxyl + Mancozeb solution."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Risk of Downy Mildew disease after heavy rainfall. Control with specified fungicides."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Gram pod borer management by spraying Emamactin benzoate."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Provide drainage and staking. Control Papaya Crown rot with specified fungicides."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Drain excess water and earth up newly planted banana after rain. Control Sigatoka disease with specified fungicides."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Heavy rainfall may decrease water salinity in the pond. Apply disinfectant after rain cessation."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

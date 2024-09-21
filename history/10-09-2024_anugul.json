@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "11-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 234,
+         "cloud_cover": 6
+      },
+      "12-09-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 63,
+         "wind_speed": 10,
+         "wind_direction": 269,
+         "cloud_cover": 7
+      },
+      "13-09-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 62,
+         "wind_speed": 11,
+         "wind_direction": 269,
+         "cloud_cover": 6
+      },
+      "14-09-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 63,
+         "wind_speed": 13,
+         "wind_direction": 266,
+         "cloud_cover": 6
+      },
+      "15-09-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 64,
+         "wind_speed": 10,
+         "wind_direction": 258,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sheep"
+   ],
+   "general_advisory": "In the prevailing weather after cessation of rainfall fungal infestation might spread in vegetable crops, if the infestation prevails go for application of Carbendazim and Mancozeb 2 gram/litre of water.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "The transplanted paddy is at one to five week stage in main field. The directseeded crop is at seven to nine week stage. The minimum temperature and relative humidity is favorable for outbreak of blast disease. To Manage Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400 -ml/acre or Azoxystrobin + Difenoconazole @ 200 - ml/acre or Tebuconazole + Trifloxystrobin @ 80 -gram/acre. After receding of rain water there is chance of infestation Swarming Caterpillar in paddy. To manage this spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400 - ml/acre or Lambda -cyhalothrin @ 400 -ml/acre. As the pest is nocturnal in behavior spraying of pesticide should be done in the evening hours for better result. (go for application when weather is clear)"
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites. Keep animals indoor during rainy hours and provide clean and wholesome water."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

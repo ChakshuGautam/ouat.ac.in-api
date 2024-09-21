@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "11/09/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 28,
+         "rh_max": 63,
+         "rh_min": 81,
+         "wind_speed": 15,
+         "wind_direction": 223,
+         "cloud_cover": 6
+      },
+      "12/09/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 65,
+         "rh_min": 80,
+         "wind_speed": 15,
+         "wind_direction": 228,
+         "cloud_cover": 6
+      },
+      "13/09/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 58,
+         "rh_min": 77,
+         "wind_speed": 17,
+         "wind_direction": 234,
+         "cloud_cover": 6
+      },
+      "14/09/2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 60,
+         "rh_min": 75,
+         "wind_speed": 16,
+         "wind_direction": 233,
+         "cloud_cover": 5
+      },
+      "15/09/2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 59,
+         "rh_min": 73,
+         "wind_speed": 17,
+         "wind_direction": 221,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "cucurbits",
+      "vegetables",
+      "fishery"
+   ],
+   "general_advisory": "Keeping the rainfall forecast in mind farmers are advised to keep bunding water in medium land for beushaning. Maintain 2-3 cm standing water during tillering and 5-10cm standing water during panicle initiation stage. Remove the weeds and keep the field clean. There are chances of appearance of iron toxicity symptoms like lesser tillering, yellowing of leaves and stunted growth due to stagnant water. In such cases drain out stagnant water and apply 10-kg of MOP and 10-kg of Zinc Sulphate 21% per acre. Provide support to the standing crops damaged by lodging due to heavy rain. Due to the prevailing cloudy weather associated with high humidity, regular monitoring for occurrence of insects and diseases in crops is highly recommended.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Tillering to Panicle Initiation: Swarming Caterpillar - After receding of rain water there is chance of infestation of Swarming Caterpillar. To manage this spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400-ml/acre or Lambda-cyhalothrin @ 400-ml/acre.",
+            "Sheath rot and sheath blight: There is chance of sheath rot and sheath blight in paddy. To manage this disease spray Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80- gram/acre or Propiconazole 25% EC @ 200ml/acre."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Maturity to Harvesting: Fall Army Worm - Rainfall after a dry spell may aggravate infestation of fall army worm in maize. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water. Dust mixture of sand, soil and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5% S.G@ 80- gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre. 200 litre of water per acre is required to spray the insecticide."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Vegetative to Fruiting: Downy Mildew - There are chances of infestation of Downy Mildew disease in cucurbit vegetables after the heavy rainfall. To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77% WP @ 3-gram/litre or Fosetyl -AL 80% WP @ 3-gram/litre or Carbendazim 12% + Mancozeb 63% WP @ 2-gram/litre."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Nursery/Vegetative to Fruiting: Damping off disease - There are chances of damping off disease in vegetable nursery like tomato, brinjal, chilli. To manage it drench nursery bed with 2-gram Captan/litre of water or 2.5-gram Copper Oxychloride/litre of water.",
+            "Wilt and rot - To manage wilt and rot disease in vegetable crops, drench the root zone with a solution of 1.5-gram Streptocycline and 20-gram Metalaxyl 8% + Mancozeb 64% WP mixed in 10 lit of water."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Heavy rainfall might have decreased the salinity of water in the pond. Farmers are advised to apply alky-dimethyl-benzyl ammonium chloride (3ppm) as a disinfectant after cessation of rain."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}

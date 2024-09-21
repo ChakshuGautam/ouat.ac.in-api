@@ -1,147 +1,106 @@
 {
    "weather_details": {
-      "11-09-2024": {
-         "rainfall": 5,
-         "t_max": 29,
-         "t_min": 19,
-         "rh_max": 78,
-         "rh_min": 94,
-         "wind_speed": 15,
-         "wind_direction": 250,
-         "cloud_cover": 6
-      },
-      "12-09-2024": {
-         "rainfall": 2,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 71,
-         "rh_min": 92,
-         "wind_speed": 15,
-         "wind_direction": 249,
-         "cloud_cover": 6
-      },
-      "13-09-2024": {
-         "rainfall": 2,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 70,
-         "rh_min": 95,
-         "wind_speed": 15,
-         "wind_direction": 256,
-         "cloud_cover": 6
-      },
-      "14-09-2024": {
-         "rainfall": 2,
+      "21-09-2024": {
+         "rainfall": 15,
          "t_max": 31,
          "t_min": 20,
-         "rh_max": 73,
-         "rh_min": 93,
-         "wind_speed": 17,
-         "wind_direction": 262,
-         "cloud_cover": 6
+         "rh_max": 91,
+         "rh_min": 69,
+         "wind_speed": 5,
+         "wind_direction": 208,
+         "cloud_cover": 7
       },
-      "15-09-2024": {
-         "rainfall": 2,
+      "22-09-2024": {
+         "rainfall": 15,
          "t_max": 31,
          "t_min": 20,
-         "rh_max": 63,
-         "rh_min": 93,
-         "wind_speed": 17,
-         "wind_direction": 259,
-         "cloud_cover": 4
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 5,
+         "wind_direction": 195,
+         "cloud_cover": 7
+      },
+      "23-09-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 92,
+         "rh_min": 56,
+         "wind_speed": 6,
+         "wind_direction": 75,
+         "cloud_cover": 8
+      },
+      "24-09-2024": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 91,
+         "rh_min": 65,
+         "wind_speed": 4,
+         "wind_direction": 198,
+         "cloud_cover": 8
+      },
+      "25-09-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 5,
+         "wind_direction": 193,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "rice",
       "maize",
-      "groundnut",
       "ragi",
-      "brinjal",
-      "potato",
+      "black gram",
+      "sesame",
       "ginger",
-      "black pepper",
-      "turmeric",
-      "coffee",
-      "goat & sheep",
-      "poultry"
+      "turmeric"
    ],
-   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build-up in already sown crop. Take plant protection measures depending on the crop and weather condition. Make proper drainage system in non-paddy crop field for removing excess water.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution.\nFarmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell.\nDue to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.\nDue to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Apply 35 kg urea/acre for high yielding varieties and 42 kg of urea/acre for hybrids at tillering stage.",
             "Current weather may favour blast disease in rice. To control it spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water or Tricyclazole 45% + Hexaconazole 10% WG @ 1 g/litre of water.",
-            "There is a chance of stem borer and leaf folder infestation. If found in field then spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Flubendiamide 20% WG @ 0.25 g/litre of water."
+            "There is a chance of stem borer and leaf folder infestation. If found in the field then spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Flubendiamide 20% WG @ 0.25 g/litre of water.",
+            "To control bacterial leaf blight spray Copper oxycloride 50% WP @ 3 g and Streptomycin + Tetracycline (90+10) @ 0.15 g/litre of water when the sky becomes clear."
          ]
       },
       "maize": {
          "advisory": [
             "Develop better drainage system to avoid waterlogging condition due to excess rainfall.",
             "There may be aphids incidence in maize due to high humidity and cloudy condition, if observed spray Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC @ 0.25 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water in sunny days.",
-            "Root and stalk rot may be observed in maize field, to control it spray Validamycin 3% L @ 2 ml/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water.",
-            "Fall army worm may be observed in field, to control it spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Prepare the field and raise Kharif groundnut of high yielding varieties. Treat the seeds with Trichoderma viridae (10 gm.), Pseudomonas fluorescence (10 gm.) and Rhizobium culture (20 gm.) per kg of seed before sowing."
+            "Fall armyworm may observe in the field, to control it spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water."
          ]
       },
       "ragi": {
          "advisory": [
-            "Condition is favorable for blast incidence in ragi, if observed spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when sky becomes clear."
+            "If blast incidence observed in ragi spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when the sky becomes clear."
          ]
       },
-      "brinjal": {
+      "black gram": {
          "advisory": [
-            "Transplant 25-35 days old seedlings in the main field.",
-            "Make necessary drainage channels to prevent waterlogging condition.",
-            "Identify and fill gaps in the main field to maintain plant population.",
-            "Wilting in brinjal can be managed by spraying Tabuconazole @ 1 g/lt."
+            "This is the time for sowing of pre-rabi Black gram (Biri) and Green gram (Mung). Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Apply 4 kg urea, 35 kg DAP and 13 kg MOP per acre during final land preparation. Sow the seeds in the line of 30 cm apart with 10 -15 cm plant to plant distance."
          ]
       },
-      "potato": {
+      "sesame": {
          "advisory": [
-            "In the Potato crop, if late blight disease is observed manage this disease by foliar application of Mancozeb @ 2 g/l or Chlorothalonil @ 2 g/l on 45, 60, and 75 days after planting."
+            "This is the optimum time for sowing of pre-rabi sesame. Sow the seeds in lines of 30 cm apart and 10 cm between plants using 3 kg seed/acre. Apply 6.5 kg urea, 17 kg DAP and 13 kg MOP per acre during final land preparation."
          ]
       },
       "ginger": {
          "advisory": [
-            "Go for weeding and apply 54 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre.",
-            "To manage soft rot disease of ginger apply Tagmycin @ 1.5 packets or Neem oil @ 75ml per 15ltr barrel tank sprayer.",
-            "Bacterial wilt Once noticed in the field all beds should be drenched with Bordeaux mixture 1% or copper oxychloride 0.2%."
-         ]
-      },
-      "black pepper": {
-         "advisory": [
-            "If Leaf gall and thrips occur Spray Monocrotophos 36 WSC 1.5 ml/lit or Dimethoate 30 EC @ 2 ml/lit or Chlorpyriphos 2 ml/lit or neem oil 3% (30ml/lit) three rounds at monthly intervals starting from new flush formation."
+            "Go for weeding and apply 54 kg urea and 33 kg MOP per acre at 90 days after planting and apply mulching @ 2 t/acre."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Go for weeding and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre.",
-            "To manage Rhizome rot disease of turmeric apply Tagmycin @ 1.5 packets or Neem oil @ 75ml per 15ltr barrel tank sprayer."
-         ]
-      },
-      "coffee": {
-         "advisory": [
-            "Stem borer management",
-            "Maintain/creating optimum shade",
-            "Borer infested plants should be thoroughly traced, uprooted burnt to avoid economic loss during the subsequent years.",
-            "Installation of pheromone traps @ 25 /ha, if the incidence is high.",
-            "Pad with chlorpyriphos 25% EC @ 5 ml by making a window in the stem at 5 cm x 5 cm and fill it with absorbent cotton dipped in insecticide solution and close it."
-         ]
-      },
-      "goat & sheep": {
-         "advisory": [
-            "Keep dry fodder and straw ready at home for sheep and goat in the rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Please ensure filling of holes and crevices of the poultry house in rainy days, otherwise, that will facilitate the entry of snakes and reptiles, which may kill the birds."
+            "Go for weeding and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre."
          ]
       }
    },
-   "date": "10-09-2024"
+   "date": "20-09-2024"
 }

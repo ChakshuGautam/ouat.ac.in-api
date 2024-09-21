@@ -1,102 +1,105 @@
 {
    "weather_details": {
-      "2024-09-07": {
+      "2024-09-18": {
          "rainfall": 10,
-         "t_max": 33,
-         "t_min": 27,
-         "rh_max": 85,
-         "rh_min": 57,
-         "wind_speed": 8,
-         "wind_direction": 90,
-         "cloud_cover": 7
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 72,
+         "wind_speed": 11,
+         "wind_direction": 156,
+         "cloud_cover": 3
       },
-      "2024-09-08": {
-         "rainfall": 15,
+      "2024-09-19": {
+         "rainfall": 1,
          "t_max": 32,
-         "t_min": 27,
-         "rh_max": 93,
-         "rh_min": 66,
-         "wind_speed": 9,
-         "wind_direction": 72,
-         "cloud_cover": 7
-      },
-      "2024-09-09": {
-         "rainfall": 25,
-         "t_max": 30,
-         "t_min": 26,
+         "t_min": 25,
          "rh_max": 91,
-         "rh_min": 66,
-         "wind_speed": 8,
-         "wind_direction": 112,
+         "rh_min": 62,
+         "wind_speed": 7,
+         "wind_direction": 116,
+         "cloud_cover": 6
+      },
+      "2024-09-20": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 54,
+         "wind_speed": 6,
+         "wind_direction": 116,
          "cloud_cover": 7
       },
-      "2024-09-10": {
-         "rainfall": 20,
-         "t_max": 30,
+      "2024-09-21": {
+         "rainfall": 5,
+         "t_max": 33,
          "t_min": 26,
-         "rh_max": 92,
-         "rh_min": 63,
+         "rh_max": 88,
+         "rh_min": 60,
          "wind_speed": 7,
-         "wind_direction": 79,
-         "cloud_cover": 8
-      },
-      "2024-09-11": {
-         "rainfall": 10,
-         "t_max": 32,
-         "t_min": 26,
-         "rh_max": 90,
-         "rh_min": 64,
-         "wind_speed": 7,
-         "wind_direction": 270,
+         "wind_direction": 116,
          "cloud_cover": 7
+      },
+      "2024-09-22": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 58,
+         "wind_speed": 7,
+         "wind_direction": 124,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
-      "finger millet",
-      "pumpkin",
-      "menacinakahi",
-      "chilli",
+      "maize",
       "brinjal",
-      "chicken"
+      "okra/ladyfinger",
+      "cucumber",
+      "cow",
+      "fresh water"
    ],
-   "general_advisory": "As per extended range of forecast received from IMD, fairly widespread rain/thundershower is very likely over districts of Odisha during the week-1 (6th - 12th September , 2024) with isolated heavy rainfall very likely in the districts of South Odisha on 6th Sept; isolated heavy to very heavy rainfall very likely in the districts of South Odisha on 7th Sept; isolated heavy to very heavy rainfall very likely in the districts of Central Odisha on 8th Sept, heavy rainfall very likely over the districts of north Odisha on 9th and 10th Sept. Scattered to fairly widespread rain/thundershower very likely in the district of Odisha state during week 2 (13th - 19th September , 2024). In view of five days weather forecast received from IMD, farmers are advised to withhold application of fertilizers and plant protection chemicals for the time being. Apply balanced and appropriate fertilizers according to crop's growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. To prevent this, ensure proper rotation between insecticides and use mixtures.",
+   "general_advisory": "Drain out excess water from the paddy and non-paddy crops. Harvest the matured vegetables & flowers and keep in safe place...",
    "crops_data": {
       "rice": {
          "advisory": [
-            "The crop is at active tillering stage. After receding of rain water, the low temperature below 28°C and relative humidity more than 70% favours infestation of Swarming caterpillar and Yellow stem borer in rice. To manage Swarming caterpillar, first remove the weeds from the field and bunds. If the crop is in Beushaning stage then complete Beushaning immediately. When the ETL reaches 1 damaged tiller/hill or 2 larvae/m2, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400-ml/acre or Quinalphos 20% E.C. + Cypermethrin 3% E.C. @ 400-ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours. To manage stem borer in paddy at the early stage of the crop, apply Cartap Hydrochloride 4 % G @ 8-kg/acre or Chlorantraniliprole 0.4 % GR @ 4-kg/acre or Imidacloprid 0.3% GR @ 6-kg/acre by mixing it with sand at 1:1 ratio."
+            "Due to prevailing wet and humid conditions the attack of pests like Yellow stem borer and leaf folder may increase in the crop...",
+            "....."
          ]
       },
-      "finger millet": {
+      "maize": {
          "advisory": [
-            "There is a chance of leaf spot and leaf blight disease in finger millet crop. Brown lesions appear on the young leaves. Severely affected seedlings may be killed. Dark brown spots appear on the leaves of grown-up plants. The leaves give a blightening appearance. Breakdown of neck occurs and ears hang down from the plant. To control this disease, spray Mancozeb 63%WP+Carbendazim 12% @400 gm/acre. To spray the fungicide 200-litre of water per acre is required."
-         ]
-      },
-      "pumpkin": {
-         "advisory": [
-            "Rainy and humid weather, high morning RH (>85%) & water-saturated soil favours Downy Mildew disease in cucurbit vegetables. To manage Downy Mildew disease in cucurbits spray Metalaxyl @ 2-gram/litre or Azoxystrobin @ 1-gram/litre or Copper oxychloride 50 % WP @ 3-gram/litre twice in 10 days intervals."
-         ]
-      },
-      "menacinakahi": {
-         "advisory": [
-            "Chilli crop is at seedling stage. High soil moisture & moderate soil temperature (<28°C), high RH, high rainfall and poor drainage during this rainy season may cause damping of f disease. Drench the soil with Mancozeb @ 3g/ltr or foliar spray with Metalaxyl @ 2g/ltr or Metalaxyl+Mancozeb @ 3g/ltr."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Chilli crop is at seedling stage. High soil moisture & moderate soil temperature (<28°C), high RH, high rainfall and poor drainage during this rainy season may cause damping of f disease. Drench the soil with Mancozeb @ 3g/ltr or foliar spray with Metalaxyl @ 2g/ltr or Metalaxyl+Mancozeb @ 3g/ltr."
+            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200 litre of water... ",
+            "...."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal is at the flowering to fruiting stage. After receding of rainfall and there is a chance of increasing in day & night temperature and morning relative humidity more than 70% favours Shoot and fruit borer in Brinjal. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre. Use chemical control if there is 4% withering of the terminal shoot or 14% fruits infested with borers. For chemical control, spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. There should be a gap of 7-10 days between pesticide application and harvest. Use any of the above insecticides alternately at 15-days interval."
+            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is chance of increasing in day & night temperature..."
          ]
       },
-      "chicken": {
+      "okra/ladyfinger": {
          "advisory": [
-            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, droppings of birds. Sometimes it can spread from affected birds to human beings. During this time please clean poultry houses every day and change the feed and water of poultry birds frequently. Don't throw the dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitize the place with bleaching powder. Don't bring poultry birds or eggs to home from the affected area."
+            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra due to present weather condition...."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Rainy and humid weather , high morning RH (>85%) & water saturated soil favoursDowny Mildew disease in cucurbit vegetables..."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Monsoon rain might lead to dampness and lack of drainage, use sand and ash to get rid of the excess moisture...",
+            "...."
+         ]
+      },
+      "fresh water": {
+         "advisory": [
+            "After stocking of Fingerling, groundnut oil cake and rice bran at 1:1 ratio as feed given @ 5% of their body weight twice a day..."
          ]
       }
    },
-   "date": "06-09-2024"
+   "date": "17-09-2024"
 }

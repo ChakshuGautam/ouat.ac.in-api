@@ -1,0 +1,129 @@
+{
+   "weather_details": {
+      "11-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 8,
+         "wind_direction": 232,
+         "cloud_cover": 6
+      },
+      "12-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 68,
+         "wind_speed": 12,
+         "wind_direction": 262,
+         "cloud_cover": 6
+      },
+      "13-09-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 12,
+         "wind_direction": 261,
+         "cloud_cover": 8
+      },
+      "14-09-2024": {
+         "rainfall": 20,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 64,
+         "wind_speed": 15,
+         "wind_direction": 259,
+         "cloud_cover": 8
+      },
+      "15-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 66,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "greengram",
+      "pumpkin",
+      "bitter gourd",
+      "lady finger",
+      "papaya",
+      "banana"
+   ],
+   "general_advisory": "Because of the low pressure, rainfall activities may continue at isolated places of Keonjhar. Farmers are advised to remove excess water from the field. Make a watch on paddy field to maintain a water level of 2-3 cm. Insecticides and pesticides spray can be resumed when no rainfall occurs. Monitor the field for pest attacks.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Make bunds to store water in the field.",
+            "Maintain a water level of 2-3 cm in the field.",
+            "Regularly check for any disease and pest attack.",
+            "Take immediate action to prevent pest infestations."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Remove excess water from the field.",
+            "Harvest the matured fruits and sell them at nearby market at a good price."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Harvest the matured pods and keep them at safe and dry places.",
+            "Dry it under the sun to reduce its moisture percentage.",
+            "To reduce the sucking bug insect attack, spray Progress Plus (Profenophos+Cypermethrin) @ 40 ml/15lt.",
+            "To reduce the infestation of pod borer in green gram and black gram crop, apply flubendi amide 20% @ 150 g or Chlorantrinilipole 0.4% G @ 10 g in 500 litres of water per hectare."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Keep some gunny bag or polythene under the fruits and allow it to grow on it.",
+            "Protect the fruit from rainfall damage.",
+            "Make drainage to remove excess water.",
+            "Alternaria leaf blight can be managed by spraying Carbendazim or Mancozeb @ 2 g/l."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Hadda beetle may cause leaf scrapping and defoliation of it. Spray Carbaryl 50 WP @ 3g/l.",
+            "To control fruit fly infestation spray Endosulphan @ 6 ml/4.5 lt.",
+            "For managing aphid population, spray with Malathion @ 1ml/l or Metasystox @ 2 ml/l."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "Harvest the matured fruit and keep them at safe places.",
+            "Yellow vein mosaic virus may spread through whitefly. To manage it, spray Quinalphos 25EC @ 2 lt/ha.",
+            "Fruit and shoot borer can be controlled by spraying Emamectin benzoate @ 4g/10 lt.",
+            "Keep the field weed free.",
+            "Sell the matured fruits at the market at suitable prices."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Papaya plant is sensitive to water stagnation. Therefore, remove excess water from the root zone.",
+            "Add or apply vermicompost to the soil for better nutrient availability.",
+            "To control White fly, spray Malathion @ 1ml/l or Metasystox @ 2 ml/l.",
+            "Do not grow cucurbits near to the papaya crop cultivation.",
+            "Papaya ring spot virus may spread through aphids. Spray Imidachloprid 17.8% SL @ 1-2 ml/l to manage the disease."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Use of Chloropyriphos or Carbofuran 3G will help to kill the ants and larva of the pests.",
+            "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves."
+         ]
+      }
+   },
+   "date": "10-09-2024"
+}
