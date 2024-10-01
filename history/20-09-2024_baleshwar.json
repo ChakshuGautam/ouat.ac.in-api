@@ -1,0 +1,97 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 57,
+         "wind_speed": 9,
+         "wind_direction": 120,
+         "cloud_cover": 3
+      },
+      "22-09-2024": {
+         "rainfall": 3,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 80,
+         "rh_min": 54,
+         "wind_speed": 9,
+         "wind_direction": 243,
+         "cloud_cover": 4
+      },
+      "23-09-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 66,
+         "wind_speed": 7,
+         "wind_direction": 243,
+         "cloud_cover": 5
+      },
+      "24-09-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 85,
+         "rh_min": 67,
+         "wind_speed": 7,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 150,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "vegetables",
+      "fruit",
+      "livestock"
+   ],
+   "general_advisory": "General advisory: Don’t spray pesticide & apply fertilizer during rainy hours. Complete the first top dressing of fertilizer i.e urea @35kg /acre in late transplanted rice as soon as possible. Due to prevailing cloudy weather associated with high humidity, farmers are advised to monitor the incidence of Yellow Stem Borer, Leaf folder & Incidence of BLB & Blast disease in rice crop.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Monitor the activity of YSB by making frequent visit to field by installing Pheromone and Light Trap.",
+            "Complete the first top dressing of fertilizer i.e urea @35kg /acre or 16kg nitrogen /acre in late transplanted rice as soon as possible.",
+            "Incidence of BLB and Blast disease are noticed in some areas, spray Copper Oxychloride @ 500gm along with Plantomycin @ 200gm/acre or (Tebuconazole 50%+ Trifloxystrobin 25% WG) or Soil application of additional dose of MOP 12 Kg/acre recommended.",
+            "Infestation of leaf folder & stem borer will increase after the rain so apply Cartap hydrochloride @ 400g/acre or soil application of Flubendiamide 0.7G 5kg/acre recommended."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To manage Red Rot disease in Sugarcane spray (Metalaxyl 8 % + Mancozeb 64 %) @ 400-gram/acre by mixing it in 200 -litre of water."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To control different viral & phytoplasma diseases in Bitter gourd, Cucumber and Pumpkin apply 120 ml Abamectin or 30 g Fipronil 80 WG per acre.",
+            "To control Fruit and shoot borer in Brinjal Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @70ml/acre and Emamectin benzoate @ 80 g /acre at 15 days interval.",
+            "Yellow vein mosaic virus in okra transmit through whitefly, thus spray Methyl demeton 25 EC @ 1.6 ml or Thiomethoxam 25 WG @ 2 gm/lt of water to manage it."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
+            "Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly.",
+            "Coconut -Monitor the activity of the Red palm weevil and Rhinocerous beetle by placing pheromone trap. Spray Lambda cyhalothrin @1.2ml/lit of water to the nearby manure pits for killing the developing stages of Rhinocerous beetle."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide clean drinking water to poultry and animals. Keep clean and dry the animal shed. No rainwater should enter into the shed."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

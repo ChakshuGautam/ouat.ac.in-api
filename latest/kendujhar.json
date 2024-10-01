@@ -1,134 +1,100 @@
 {
    "weather_details": {
-      "21-09-2024": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 89,
-         "rh_min": 55,
-         "wind_speed": 5,
-         "wind_direction": 158,
-         "cloud_cover": 5
+      "28-09-2024": {
+         "rainfall": 15,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 97,
+         "rh_min": 79,
+         "wind_speed": 11,
+         "wind_direction": 167,
+         "cloud_cover": 8
       },
-      "22-09-2024": {
+      "29-09-2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 68,
+         "wind_speed": 7,
+         "wind_direction": 212,
+         "cloud_cover": 8
+      },
+      "30-09-2024": {
          "rainfall": 5,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 86,
-         "rh_min": 54,
-         "wind_speed": 6,
-         "wind_direction": 124,
-         "cloud_cover": 5
-      },
-      "23-09-2024": {
-         "rainfall": 6,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 88,
-         "rh_min": 61,
-         "wind_speed": 5,
-         "wind_direction": 90,
+         "t_max": 29,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 72,
+         "wind_speed": 7,
+         "wind_direction": 248,
          "cloud_cover": 6
       },
-      "24-09-2024": {
-         "rainfall": 10,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 93,
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 92,
          "rh_min": 63,
-         "wind_speed": 5,
-         "wind_direction": 135,
-         "cloud_cover": 7
+         "wind_speed": 9,
+         "wind_direction": 248,
+         "cloud_cover": 4
       },
-      "25-09-2024": {
-         "rainfall": 12,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 96,
-         "rh_min": 66,
-         "wind_speed": 7,
-         "wind_direction": 112,
-         "cloud_cover": 7
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 71,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "greengram",
       "paddy",
+      "greengram",
       "maize",
+      "brinjal",
       "pumpkin",
-      "bitter gourd",
-      "lady finger",
-      "papaya",
-      "banana"
+      "lady finger"
    ],
-   "general_advisory": "Farmers are advised to remove excess water from the vegetable field. Make a watch on paddy field to maintain a water level of 2 -3 cm. Insecticides and pesticides spray can be resumed when no rainfall occurs. Monitor the field for pest attacks especially in paddy fields. Keep the field weed-free and remove excess grasses from the root zone.",
+   "general_advisory": "Remove excess water from the field. Fertilisers and pesticides spray can be resumed in the early morning or evening hours. The prevailing weather condition may attract the sucking pests. Therefore, regularly monitor the field for pest and disease infestation. Keep the field weed-free to minimize disease infestation.",
    "crops_data": {
-      "greengram": {
-         "advisory": [
-            "Harvest the matured pods and keep them at safe and dry places.",
-            "Dry it under the sun to reduce its moisture percentage.",
-            "To reduce the infestation of pod borer in greengram and blackgram crop, apply flubendiamide 20% @ 150 g or Chlorantranilipole 0.4% G @ 10 g in 500 litres of water per hectare.",
-            "After harvesting, incorporate the plants in the soil to decompose."
-         ]
-      },
       "paddy": {
          "advisory": [
-            "Maintain a water level of 2 -3 cm in the field.",
-            "Regularly check out for any disease and pest attack.",
-            "Take immediate action to prevent the given pest infestation.",
-            "To manage and reduce the BPH attack, spray Pyremetrizine 50% WG @ 120 g or Imidachloprid 17.8% SL @ 50 ml in 200 litres of water in an acre.",
-            "If Stem borer attack is observed, stop application of urea.",
-            "Spray Neem oil 1500 ppm @ 1.5 ml/lt.",
-            "In case of severe infestation, apply granular insecticide Chlorantraniliprole 0.4% GR @ 4 kg/acre or Fipronil 0.6% GR @ 4 kg/acre within 20 -25 days of transplanting.",
-            "This pest is mainly seen from Tillering to Heading stage.",
-            "To minimize its incidence, spray Chloropyriphos 20 EC @ 500 ml or Quinalophos 25% EC @ 800 ml in 200 lt of water per acre."
+            "Remove excess water from the field and keep 2-3 cm water level in the paddy field. The cloudy weather and intermittent rainfall may lead to the infestation of BPH, Rice stem borer, Leaf folder, and Gundhi bug. Therefore, regularly visit the field for the inspection of these pests.",
+            "Pests Management:",
+            "Rice stem borer: Spray Neem oil 1500 ppm @ 1.5 -2 ml/lt. In case of severe infestation, apply granular insecticide Chlorantraniliprole 0.4% GR @ 4 kg/acre or Fipronil 0.6% GR @ 4 kg/acre within 20-25 days of transplanting.",
+            "Brown Plant Hopper (BPH): BPH infestation may rise in the near future. Keep a watch on the crops. For controlling BPH infestation, set up light traps during the night. In severe cases of infestation, spray Chlorantriniliprole 0.4% G @ 4 kg/acre."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Before storage, make sure to use celphos tablets to avoid store grain pests. After harvesting, incorporate the plants into the soil for decomposition."
          ]
       },
       "maize": {
          "advisory": [
-            "Harvest the matured fruits and sell them at nearby market at good price.",
-            "To manage the attack of fall army worm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water or 8 g in a drum (15 lt water).",
-            "For managing aphids and other sucking bugs, spray Imidachloprid 17.8% SL @ 2 ml/lt.",
-            "Protect the maize crop from monkeys by providing barbed wire fencing."
+            "Harvest the matured cobs and sell at the nearby market. Regularly monitor the infestation of FAW and aphids in the field.",
+            "Fall army worm (FAW): To manage the attack of fall army worm, spray Emamectin benzoate 5% SG @ 4 g/10lt of water or 8 g in a drum (15 lt water)."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Phomopsis blight: To reduce the Phomopsis blight disease in brinjal, spray Metalaxyl + Mancozeb combination @ 400 g/acre or Zineb 75% WP @ 500 g/acre in 200 litres of water."
          ]
       },
       "pumpkin": {
          "advisory": [
-            "Keep some gunny bag or polythene under the fruits and allow it to grow on it.",
-            "Alternaria leaf blight can be managed by spraying Carbendazim or Mancozeb @ 2 g/lt.",
-            "Remove the weeds growing near the plants."
-         ]
-      },
-      "bitter gourd": {
-         "advisory": [
-            "Hadda beetle may cause leaf scrapping and defoliation of it. Spray Carbaryl 50 WP @ 3 g/lt.",
-            "To control fruit fly infestation spray Endosulphan @ 6 ml/4.5 lt."
+            "Drain out excess water from the field. Alternaria leaf blight can be managed by spraying Carbendazim or Mancozeb @ 2 g/lt."
          ]
       },
       "lady finger": {
          "advisory": [
-            "Harvest the matured fruit and keep them at safe places.",
-            "Yellow vein mosaic virus may spread through whitefly. To manage it, spray Quinalphos 25EC @ 2 lt/ha.",
-            "Fruit and shoot borer can be controlled by spraying Emamectin benzoate @ 4g/10 lt.",
-            "Keep the field weed free.",
-            "Sell the matured fruits at market at suitable prices."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Papaya plant is sensitive to water stagnation. Therefore, remove excess water from the root zone.",
-            "Add or apply vermicompost to the soil for better nutrient availability.",
-            "To control White fly, spray Malathion @ 1 ml/lt or Metasystox @ 2 ml/lt.",
-            "Do not grow cucurbits near the papaya crop cultivation.",
-            "Papaya ring spot virus may spread through aphids. Spray Imidachloprid 17.8% SL @ 1 -2 ml/lt to manage the disease."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Use of Chloropyriphos or Carbofuran 3G will help to kill the ants and larva of the pests.",
-            "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves."
+            "Harvest the matured fruit and keep them at safe places or sell them at suitable prices. Regularly monitor the field for disease and pest. Yellow vein mosaic virus may spread through whitefly. To manage it, spray Quinalphos 25EC @ 2 lt/ha. Fruit and shoot borer can be controlled by spraying Emamectin benzoate @ 4g/10 lt."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

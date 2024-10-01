@@ -1,71 +1,77 @@
 {
    "weather_details": {
-      "21-09-2024": {
-         "rainfall": 3,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 91,
-         "rh_min": 60,
-         "wind_speed": 5,
-         "wind_direction": 112,
-         "cloud_cover": 5
+      "28-09-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 96,
+         "rh_min": 74,
+         "wind_speed": 7,
+         "wind_direction": 167,
+         "cloud_cover": 8
       },
-      "22-09-2024": {
-         "rainfall": 3,
-         "t_max": 32,
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 29,
          "t_min": 20,
-         "rh_max": 91,
-         "rh_min": 60,
-         "wind_speed": 5,
-         "wind_direction": 72,
+         "rh_max": 94,
+         "rh_min": 70,
+         "wind_speed": 6,
+         "wind_direction": 199,
          "cloud_cover": 6
       },
-      "23-09-2024": {
-         "rainfall": 6,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 90,
-         "rh_min": 58,
-         "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 7
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 216,
+         "cloud_cover": 6
       },
-      "24-09-2024": {
-         "rainfall": 7,
+      "01-10-2024": {
+         "rainfall": 2,
          "t_max": 31,
-         "t_min": 23,
-         "rh_max": 91,
+         "t_min": 22,
+         "rh_max": 94,
          "rh_min": 70,
-         "wind_speed": 4,
-         "wind_direction": 158,
-         "cloud_cover": 7
+         "wind_speed": 7,
+         "wind_direction": 238,
+         "cloud_cover": 6
       },
-      "25-09-2024": {
-         "rainfall": 10,
-         "t_max": 31,
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
          "t_min": 23,
-         "rh_max": 95,
-         "rh_min": 71,
-         "wind_speed": 5,
-         "wind_direction": 148,
-         "cloud_cover": 8
+         "rh_max": 93,
+         "rh_min": 70,
+         "wind_speed": 7,
+         "wind_direction": 238,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
+      "turmeric",
       "pigeon pea",
-      "finger millet",
-      "maize",
       "banana",
-      "animal husbandry",
-      "fishery"
+      "papaya",
+      "animal husbandry"
    ],
-   "general_advisory": "In Rice crop, if Zinc sulphate (ZnSO4) has not been applied during final land preparation, then Zn-EDTA @ 0.5 g/liter of water can be applied at 30 and 45 days after transplanting. Sheds of cattle and goats are made clean and provide fresh feeds and water.",
+   "general_advisory": "Due to humidity and cloudy weather condition, there is a fair chance of occurring various diseases. So, monitor the field regularly and take measures.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Stage - Panicle initiation",
             "The rest amount of fertilizer (nitrogen and phosphorus) that was not applied during basal should be applied in split dose now."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Disease - Rhizome rot",
+            "Lower portion of the infected plants becomes soft and rots.",
+            "To control the infection, drain the excess of water from the soil and drench the soil with copper oxychloride @2.5 gram/1000 lt of water."
          ]
       },
       "pigeon pea": {
@@ -76,20 +82,6 @@
             "To control this, apply Flubendiamide 20%WG @150gram/ha along with 500lt of water."
          ]
       },
-      "finger millet": {
-         "advisory": [
-            "Stage - Maturity",
-            "Blast disease may occur due to alternate drying and wetting condition.",
-            "Spray Hexaconazole or Tricyclazole@0.7gram/liter at 15 days interval regularly."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Stage - tasselling - silking",
-            "To control fall army worm, 10-12 bird perches can be used per acre and removed before tasselling so that the birds do not eat the cobs.",
-            "Spray Emamectin Benzoate 5 % S.G @ 80 -gram/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
-         ]
-      },
       "banana": {
          "advisory": [
             "To manage stem weevil in banana crop, install pheromone traps @ 10/acre.",
@@ -97,17 +89,19 @@
             "Sanitize the field and remove the infected plants."
          ]
       },
-      "animal husbandry": {
+      "papaya": {
          "advisory": [
-            "Cattle should be dewormed at regular time interval and vaccinated properly."
+            "Leaf curl virus",
+            "Leaves may curl, wrinkle, and become deformed, with thickened veins and yellow margins",
+            "To control the LCV, apply Fipronil@5gram/plant."
          ]
       },
-      "fishery": {
+      "animal husbandry": {
          "advisory": [
-            "Clean the water before releasing the fishes.",
-            "Apply lime 5-10kg/ha according to the size of the pond."
+            "Cattle should be dewormed at regular time interval and vaccinated properly.",
+            "Keep the shed clean and dry to prevent any type of infection."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

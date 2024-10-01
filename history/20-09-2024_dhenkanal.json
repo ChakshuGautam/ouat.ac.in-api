@@ -1,0 +1,56 @@
+{
+   "weather_details": {
+      "20.09.2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "arhar",
+      "vegetables",
+      "okra",
+      "cucurbits",
+      "cole crops",
+      "livestock"
+   ],
+   "general_advisory": "During rainy season conduct regular health checks on livestock to identify any signs of stress or illness early. Ensure a clean and adequate water supply, avoiding stagnant water which can be a breeding ground for pathogens. Regularly check water sources for contamination and maintain proper hygiene.",
+   "crops_data": {
+      "arhar": {
+         "advisory": [
+            "Blister beetles feed on the flowers and reduce the number of pods setting, affecting crop yield. To manage, manually collect insects and put them in kerosene or cover them in a pit with soil."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "There are chances of sucking pests like Aphids, Jassids, Thrips, and Whiteflies in vegetables due to present weather conditions. To manage pests, spray neem-based pesticide early on. Install Yellow sticky traps per acre. Chemical spray alternatives include Thiamethoxam, Acetamiprid, Fenobucarb, or Tolfenpyrad."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Apply Emamectin benzoate or spinosad to control Fruit and Shoot borer in Okra."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "To control Red Pumpkin Beetle in Cucurbit crops, spray Cyantraniliprole, Imidacloprid, or Chlorpyrifos."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "For Cauliflower, cabbage, and Broccoli, use specific seed rates for improved varieties and hybrid seeds. Prepare nursery beds with appropriate dimensions and apply compost before sowing."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "During rainy season conduct regular health checks on livestock to identify any signs of stress or illness early. Ensure a clean and adequate water supply, avoiding stagnant water which can be a breeding ground for pathogens. Regularly check water sources for contamination and maintain proper hygiene."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

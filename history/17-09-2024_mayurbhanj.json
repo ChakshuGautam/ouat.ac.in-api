@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "2024-09-18": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 72,
+         "wind_speed": 11,
+         "wind_direction": 156,
+         "cloud_cover": 3
+      },
+      "2024-09-19": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 62,
+         "wind_speed": 7,
+         "wind_direction": 116,
+         "cloud_cover": 6
+      },
+      "2024-09-20": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 54,
+         "wind_speed": 6,
+         "wind_direction": 116,
+         "cloud_cover": 7
+      },
+      "2024-09-21": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 60,
+         "wind_speed": 7,
+         "wind_direction": 116,
+         "cloud_cover": 7
+      },
+      "2024-09-22": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 58,
+         "wind_speed": 7,
+         "wind_direction": 124,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "brinjal",
+      "okra/ladyfinger",
+      "cucumber",
+      "cow",
+      "fresh water"
+   ],
+   "general_advisory": "Drain out excess water from the paddy and non-paddy crops. Harvest the matured vegetables & flowers and keep in safe place...",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Due to prevailing wet and humid conditions the attack of pests like Yellow stem borer and leaf folder may increase in the crop...",
+            "....."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200 litre of water... ",
+            "...."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is chance of increasing in day & night temperature..."
+         ]
+      },
+      "okra/ladyfinger": {
+         "advisory": [
+            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra due to present weather condition...."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Rainy and humid weather , high morning RH (>85%) & water saturated soil favoursDowny Mildew disease in cucurbit vegetables..."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Monsoon rain might lead to dampness and lack of drainage, use sand and ash to get rid of the excess moisture...",
+            "...."
+         ]
+      },
+      "fresh water": {
+         "advisory": [
+            "After stocking of Fingerling, groundnut oil cake and rice bran at 1:1 ratio as feed given @ 5% of their body weight twice a day..."
+         ]
+      }
+   },
+   "date": "17-09-2024"
+}

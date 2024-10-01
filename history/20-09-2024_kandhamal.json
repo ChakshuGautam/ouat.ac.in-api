@@ -1,0 +1,113 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 112,
+         "cloud_cover": 5
+      },
+      "22-09-2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 72,
+         "cloud_cover": 6
+      },
+      "23-09-2024": {
+         "rainfall": 6,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "24-09-2024": {
+         "rainfall": 7,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 70,
+         "wind_speed": 4,
+         "wind_direction": 158,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 71,
+         "wind_speed": 5,
+         "wind_direction": 148,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "pigeon pea",
+      "finger millet",
+      "maize",
+      "banana",
+      "animal husbandry",
+      "fishery"
+   ],
+   "general_advisory": "In Rice crop, if Zinc sulphate (ZnSO4) has not been applied during final land preparation, then Zn-EDTA @ 0.5 g/liter of water can be applied at 30 and 45 days after transplanting. Sheds of cattle and goats are made clean and provide fresh feeds and water.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Stage - Panicle initiation",
+            "The rest amount of fertilizer (nitrogen and phosphorus) that was not applied during basal should be applied in split dose now."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Stage - Fruiting",
+            "Pod borer",
+            "The caterpillar eats the pod and rots it.",
+            "To control this, apply Flubendiamide 20%WG @150gram/ha along with 500lt of water."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "Stage - Maturity",
+            "Blast disease may occur due to alternate drying and wetting condition.",
+            "Spray Hexaconazole or Tricyclazole@0.7gram/liter at 15 days interval regularly."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Stage - tasselling - silking",
+            "To control fall army worm, 10-12 bird perches can be used per acre and removed before tasselling so that the birds do not eat the cobs.",
+            "Spray Emamectin Benzoate 5 % S.G @ 80 -gram/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To manage stem weevil in banana crop, install pheromone traps @ 10/acre.",
+            "Dip the banana stem in warm water for 30 minutes before planting.",
+            "Sanitize the field and remove the infected plants."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Cattle should be dewormed at regular time interval and vaccinated properly."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Clean the water before releasing the fishes.",
+            "Apply lime 5-10kg/ha according to the size of the pond."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

@@ -1,80 +1,84 @@
 {
    "weather_details": {
-      "2024-09-18": {
-         "rainfall": 10,
-         "t_max": 31,
+      "2024-09-28": {
+         "rainfall": 5,
+         "t_max": 29,
          "t_min": 22,
-         "rh_max": 96,
-         "rh_min": 75,
-         "wind_speed": 8,
-         "wind_direction": 153,
+         "rh_max": 97,
+         "rh_min": 76,
+         "wind_speed": 9,
+         "wind_direction": 156,
          "cloud_cover": 8
       },
-      "2024-09-19": {
-         "rainfall": 10,
-         "t_max": 33,
+      "2024-09-29": {
+         "rainfall": 5,
+         "t_max": 30,
          "t_min": 23,
-         "rh_max": 96,
-         "rh_min": 69,
+         "rh_max": 92,
+         "rh_min": 67,
          "wind_speed": 6,
-         "wind_direction": 148,
+         "wind_direction": 225,
          "cloud_cover": 8
       },
-      "2024-09-20": {
+      "2024-09-30": {
          "rainfall": 2,
-         "t_max": 33,
+         "t_max": 31,
          "t_min": 23,
-         "rh_max": 91,
-         "rh_min": 58,
-         "wind_speed": 5,
-         "wind_direction": 144,
-         "cloud_cover": 7
+         "rh_max": 87,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 270,
+         "cloud_cover": 6
       },
-      "2024-09-21": {
-         "rainfall": 5,
-         "t_max": 33,
+      "2024-10-01": {
+         "rainfall": 2,
+         "t_max": 32,
          "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 58,
+         "rh_max": 90,
+         "rh_min": 64,
          "wind_speed": 8,
-         "wind_direction": 112,
-         "cloud_cover": 8
+         "wind_direction": 244,
+         "cloud_cover": 6
       },
-      "2024-09-22": {
-         "rainfall": 5,
+      "2024-10-02": {
+         "rainfall": 2,
          "t_max": 34,
-         "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 63,
-         "wind_speed": 8,
-         "wind_direction": 124,
-         "cloud_cover": 8
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 7,
+         "wind_direction": 238,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "groundnut",
-      "goat"
+      "sugarcane",
+      "bottle gourd",
+      "chicken"
    ],
-   "general_advisory": "Make provision for drainage in rice and non-rice crop. After rain vegetable crops might be infested with sucking pest, If infestation is seen, Go for application of 5 gram of Thiamethoxam 25% WG in 15 litre of water after cessation of rain. After rain vegetable crops might get infested with Fungal growth, Go for application of mixture of Carbendazim+ Mancozeb 2 gram/litre of water after cessation of rain in case the infestation is seen.",
+   "general_advisory": "Avoid application of fertilizers and spraying of chemicals. Due to waterlogged conditions or continuous saturated condition of soils, crops tend to show micronutrient deficiencies. Hence, take up foliar spray of micronutrients immediately after cessation of rainfall.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Transplanted rice is at maximum tillering to PI stage, The present condition (cloudy sky, high humidity, intermittent rainfall with high day temperature but low night temperature) is highly favorable for incidence of many diseases like Bacterial Blight, Bacterial Leaf Streak, Leaf Blast etc. So, keep vigil on your field.",
-            "Apply 200g Plantomycin + 200g Copper Oxychloride in 200 litres of water per acre for bacterial diseases.",
-            "In case of Blast incidence, spraying of Tebuconazole 50% + Trifloxystobin 25% @ 80g/acre or Carbendazim 50 WP @ 400g/acre may be done for controlling the disease after cessation of rain."
+            "Transplanted rice is at maximum tillering to PI stage. Make provision for drainage of excess water and stop the application of fertilizer and pesticides. Keep vigil on field for disease incidence and apply recommended treatments."
          ]
       },
-      "groundnut": {
+      "sugarcane": {
          "advisory": [
-            "There is chances of stem and rot root in Ground nut due rainfall in the district on previous week, go for spraying of Thiophanate-methyl 1 gram in 1 litre of water after cessation of rain."
+            "After the event is over, drain out excess water from the standing crop fields and carry out propping of sugarcane and other plants to minimize damage."
          ]
       },
-      "goat": {
+      "bottle gourd": {
          "advisory": [
-            "Pneumonia might infect the goat in rainy season, due to expose to rain. Do not let them soak in rain water."
+            "After rainfall, vegetables might be infested with fungal infection. Apply carbendazim + mancozeb 2g/litre of water."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Prevent feed ingredients from getting wet. Provide warm water periodically during rainy season for consumption and warmth."
          ]
       }
    },
-   "date": "17-09-2024"
+   "date": "27-09-2024"
 }

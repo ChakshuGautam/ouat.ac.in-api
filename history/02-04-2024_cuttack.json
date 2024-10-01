@@ -58,80 +58,50 @@
       "tomato",
       "brinjal",
       "coconut",
-      "vegetable",
-      "fingerlings",
-      "black gram",
-      "green gram",
-      "okra",
-      "onion",
-      "mango"
+      "vegetables",
+      "fingerlings"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels and more.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. In these stages water scarcity or deficit of water causes comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management advice.",
-            "Blast disease management advice."
+            "Yellow stem borer management - Due to rise in temperature there are chances of increase in stem borer infestation in paddy crop. To manage Yellow Stem Borer in paddy spray Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre.",
+            "Blast Disease Management - To manage blast disease spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Early shoot borer management advice."
+            "Early Shoot Borer: To manage early shoot borer in Sugarcane, irrigate the crop frequently during hot months. Timely cutting the attacked shoot at or just below the ground level ensures destruction of most of the caterpillar. Collect and destroy the egg masses manually. In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement advice."
+            "The high temperature increases the water requirement of maize crop. Irrigate the crop. Never allow water to remain stagnant for more than six hours in the field."
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting management advice."
+            "High temperature in day hours may lead to wilting in tomato and brinjal. Apply 1g Streptocyclin in 10 liter water in root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Shoot and fruit borer management advice."
+            "Brinjal shoot and fruit borer. To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Go for chemical control if there is 4% withering of the terminal shoot or 14% fruits infested with borers. For chemical control spray Spinosad 45 % SC @ 75-ml/acre or Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. Do not repeat the same insecticide. Use any of the above insecticides alternately at 15-days interval."
          ]
       },
       "coconut": {
          "advisory": [
-            "Water loss reduction advice."
+            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
          ]
       },
-      "vegetable": {
+      "vegetables": {
          "advisory": [
-            "Seedlings protection advice."
+            "Cover with paper caps on the newly planted vegetable seedlings during day time."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "Harvesting advisory."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Tobacco caterpillar management advice."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Tobacco caterpillar management advice."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Whitefly infestation prevention advice."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Post-harvest management advice."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Mango hopper control advice."
+            "In shallow ponds, harvest fingerlings, if water temperature rises to 30 0C. Ensure enough water depth before introducing fingerlings in a pond."
          ]
       }
    },

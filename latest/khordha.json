@@ -1,99 +1,79 @@
 {
    "weather_details": {
-      "21/09/2024": {
-         "rainfall": 4,
-         "t_max": 36,
-         "t_min": 27,
-         "rh_max": 84,
-         "rh_min": 53,
-         "wind_speed": 8,
-         "wind_direction": 198,
-         "cloud_cover": 5
+      "28/09/2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 72,
+         "wind_speed": 17,
+         "wind_direction": 201,
+         "cloud_cover": 8
       },
-      "22/09/2024": {
+      "29/09/2024": {
          "rainfall": 5,
-         "t_max": 36,
-         "t_min": 27,
-         "rh_max": 83,
-         "rh_min": 53,
-         "wind_speed": 8,
-         "wind_direction": 180,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 207,
          "cloud_cover": 6
       },
-      "23/09/2024": {
-         "rainfall": 6,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 82,
-         "rh_min": 52,
-         "wind_speed": 8,
-         "wind_direction": 75,
-         "cloud_cover": 7
-      },
-      "24/09/2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 26,
+      "30/09/2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 25,
          "rh_max": 87,
-         "rh_min": 57,
-         "wind_speed": 6,
-         "wind_direction": 135,
-         "cloud_cover": 8
+         "rh_min": 64,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 6
       },
-      "25/09/2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 90,
-         "rh_min": 62,
+      "01/10/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 67,
          "wind_speed": 9,
-         "wind_direction": 156,
-         "cloud_cover": 8
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "02/10/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 64,
+         "wind_speed": 12,
+         "wind_direction": 225,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "rice",
+      "autumn paddy",
       "maize",
-      "ragi",
-      "green gram",
-      "black gram",
-      "cotton"
+      "sugarcane"
    ],
-   "general_advisory": "For HYVs of rice apply 17 kg of Urea per acre at PI stage. In case of Light sandy soil, apply 17 kg Urea and 15 Kg of MOP per acre. For Hybrids apply 20 kg of Urea along with 20-kg of MOP at PI stage. To manage fungal and bacterial diseases (leaf blight, wilt, and rot) in different standing crops, spray (Metalaxyl+ Mancozeb) @ 2-gram/litre of water or (Carbendazim+ Mancozeb) @ 2-gram/litre of water along with Plantomycin @ 1-gram/ litre of water. Keep the poultry farm neat & clean, select disease free chick's for farming & Provide adequate poultry feed & clean water to avoid Poultry bird diseases. September is the optimum time for nursery raising of tomato. Grow resistant varieties like BT-2, BT-10, BT-12, Niladri, Sadabahar, Madhuri, Maharathi, Rasmi, Naveen, etc. For monitoring of sucking pests, fruit fly and borer insect in vegetables farmers are advised to use pheromone trap @ 8nos./acre.",
+   "general_advisory": "The district of Khordha may likely to receive very light to light rainfall for the next five days. Do proper field surveillance for pests and diseases regularly and take appropriate plant protection measures accordingly. Prevailing weather condition is favorable for infestation of sucking pests like aphid, jassids, whitefly, mealy bug and thrips. Apply neem based pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at initial stage to manage sucking pest infestation. Keep your crop field free from weed to minimize the incidence of diseases and pests. In uplands prepare seedlings for tomato and early variety cauliflower. For control Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation.",
    "crops_data": {
-      "rice": {
+      "autumn paddy": {
          "advisory": [
-            "Brown plant hopper - There is a chance of BPH infestation in paddy. If >10-15 hoppers/hill noticed, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20 % SG @ 80 g/acre or Flonicamid 50 % WG @ 60-gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant.",
-            "Bacterial Leaf Blight - There is a chance of Bacterial Leaf Blight disease infestation in paddy. If noticed, spray Copper Hydroxide 53.8% DF @ 600-gram/acre or 200-gram Plantomycin along with Copper Oxy Chloride 50% WP @ 600-gram/acre."
+            "Rice stem borer: To manage yellow stem borer in paddy spray Fipronil 5% SC @ 400-ml/acre or Flubendiamide 20 % SG @ 50-gram/acre or Chlorantraniliprole 18.5% SC @ 60-ml / acre or Chromafenozide 80%WP @ 50-gram /acre.",
+            "BPH and WBPH Management: The high humid weather condition is favorable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy. To manage BPH and WBPH in paddy avoid excess use of nitrogenous fertilizer. Do not keeping standing water in the field for longer period. Alter the micro-climate of the rice field by alternate wetting and drying technique. Make alleys at 6 feet spacing for sunlight entry and proper aeration below the crop zone."
          ]
       },
-      "groundnut": {
+      "maize": {
          "advisory": [
-            "Stem Rot disease - The disease incidence is maximum after rainfall. To prevent the disease Seed treatment should be done with Carbendazim 50 % WP @ 2-gm/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP @ 3-gm/kg of seeds. To manage Stem Rot disease in groundnut spray Validamycin 3 % L @ 400-ml/acre or Captan 70 %+ Hexaconazole 5 % @ 300-gram/acre. To spray the fungicide 200-litre of water per acre is required."
+            "To manage Tobacco caterpillar pest biologically, use Pheromone trap Spodolure @ 6/acre. Install light trap @ 8 nos. Apply Bacillus thuringenesis @ 400 g/acre or Beauveria bassiana @ 500 g/acre. For chemical control, spray Chlorpyriphos 50 % + Cypermethrin 5 % E.C @ 400-ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 litres of water."
          ]
       },
-      "arhar": {
+      "sugarcane": {
          "advisory": [
-            "Leaf webber - Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water.",
-            "Sucking Pests (Aphid, Jassids, Thrips, Whitefly) - Sucking pests are generally more active in prevailing weather conditions. Neem-based pesticide (1500 ppm) may be sprayed @ 3ml/ lit of water at initial stage of infestation.",
-            "Wilt - Wilting may be observed after receding of rain. Apply Metiram 75% WG @ 1.5g/liter at the root zone of the plant as a control measure."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "Epilachna Beetle - To manage Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at the early stage of infestation. To manage Epilachna Beetle chemically spray Chlorpyriphos 20 % EC @ 2-ml/litre of water or Profenophos 50 % EC @ 2-ml/litre of water."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Mealy bug - To manage mealy bug at the early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water or insecticidal soap. In case of severe infestation spray Profenphos 50 % EC @ 20-ml/10-litre of water or Thiamethoxam 25 % WG @ 3-gram/10-litre of water."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "When there is a lack of oxygen in the pond, the fish will come up to the surface water and start gulping through their mouths. The ideal dissolved oxygen is about 5 mg/l. This can be maintained by using an aerator. A simple way of aeration is to circulate the pond water. It can be done using a pump which can take water from the lower surface of the pond and splash it into the same pond."
+            "Black headed caterpillar: For control black headed caterpillar in coconut, install Bracon card in the front of the plant. Cut the affected leaves and burn it. To manage the pests chemically spray Chlorantraniliprole 18.5 % SC@ 4-ml/10- litre of water or Emamectin Benzoate 5 % SG @ 4-gram/10-litre of water."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

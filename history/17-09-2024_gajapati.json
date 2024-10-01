@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "2024-09-18": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 68,
+         "wind_speed": 5,
+         "wind_direction": 279,
+         "cloud_cover": 8
+      },
+      "2024-09-19": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 66,
+         "wind_speed": 3,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "2024-09-20": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 74,
+         "wind_speed": 3,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      },
+      "2024-09-21": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 96,
+         "rh_min": 67,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 8
+      },
+      "2024-09-22": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 97,
+         "rh_min": 63,
+         "wind_speed": 5,
+         "wind_direction": 112,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cotton",
+      "brinjal",
+      "banana"
+   ],
+   "general_advisory": "According to the weather forecast received from India Meteorological Department, the district is likely to receive light to moderate rain up to Saturday with generally to cloudy sky. The wind speed is likely to remain within 03.0 to 05.0 kmph for the next five days. The daily maximum and minimum temperature may range from 34.0°C to 35.0°C and 25.0°C to 26.0°C respectively. Relative humidity during the morning and the afternoon may range between 92 to 97 percent and 63 to 74 percent respectively.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Due to prevailing wet and humid conditions, the attack of pests like Yellow stem borer and leaf folder may increase in the crop.",
+            "To manage Leaf Folder and Case Worm pests in paddy, spray Bifenthrin 10% EC @ 200 ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre.",
+            "Yellow stem borer management: To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4%G @ 18.45-kg/ha or Chlorantraniliprole 0.4 % GR @ 10-kg/ha or Imidacloprid 0.3% G @ 15-kg/ha by mixing with sand at 1:1 ratio."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To manage the fall army worm pest, spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200- litre of water.",
+            "Use 10-12 bird perches per acre and remove them before tasselling stage."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Due to high temperature and humidity, there are reports of incidence of sucking pest like Aphids and Jassids in Cotton crop.",
+            "Go for regular monitoring of the crop for incidence of pest and diseases.",
+            "If there is infestation of sucking pest like Aphids and Jassids cotton crop, go for spraying of neem-based pesticide (Neem Oil 1500 PPM) @600-ml/acre by mixing it in 200-litre of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is a chance of increasing in day & night temperature and morning relative humidity more than 70% favoring Shoot and fruit borer in Brinjal.",
+            "To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits.",
+            "To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To manage stem weevil, install Cosmolure pheromone traps @ 10/acre in banana garden.",
+            "Dip the banana stem in warm water for 30 minutes before planting."
+         ]
+      }
+   },
+   "date": "17-09-2024"
+}

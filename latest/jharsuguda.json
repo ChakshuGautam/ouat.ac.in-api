@@ -1,93 +1,109 @@
 {
    "weather_details": {
-      "21-09-2024": {
-         "rainfall": 2,
-         "t_max": 37,
-         "t_min": 26,
-         "rh_max": 85,
-         "rh_min": 56,
-         "wind_speed": 4,
-         "wind_direction": 202,
-         "cloud_cover": 4
-      },
-      "22-09-2024": {
-         "rainfall": 4,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 82,
-         "rh_min": 57,
-         "wind_speed": 4,
-         "wind_direction": 105,
-         "cloud_cover": 4
-      },
-      "23-09-2024": {
-         "rainfall": 6,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 87,
-         "rh_min": 57,
-         "wind_speed": 5,
-         "wind_direction": 144,
-         "cloud_cover": 6
-      },
-      "24-09-2024": {
-         "rainfall": 7,
+      "27-09-2024": {
+         "rainfall": 0,
          "t_max": 35,
-         "t_min": 25,
-         "rh_max": 88,
-         "rh_min": 59,
-         "wind_speed": 6,
-         "wind_direction": 135,
-         "cloud_cover": 6
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 75,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
-      "25-09-2024": {
+      "28-09-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 75,
+         "wind_speed": 11,
+         "wind_direction": 159,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
          "rainfall": 10,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 93,
-         "rh_min": 59,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 66,
          "wind_speed": 9,
-         "wind_direction": 90,
-         "cloud_cover": 7
+         "wind_direction": 212,
+         "cloud_cover": 8
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 10,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 71,
+         "wind_speed": 9,
+         "wind_direction": 243,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "rice",
       "cotton",
+      "maize",
       "vegetable crops",
+      "mango",
       "cow/buffalo"
    ],
-   "general_advisory": "According to the weather forecast, farmers should take necessary irrigation measures and maintain drainage systems. Monitoring for pests like meal bug is advised, while avoiding excessive nitrogenous fertilizer use. Specific advisories for various crops are provided.",
+   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations due to expected rainfall. Good drainage systems should be in place for fruit orchards and vegetable fields. Regular monitoring for pests and diseases is recommended. Avoid excess use of nitrogenous fertilizer to prevent insect pests and diseases. Proper drainage and maintenance practices are essential for various crops and animal husbandry.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Farmers should maintain 5 cm water level in rice field for proper growth.",
-            "Disease Management: Bacterial leaf blight attack should be treated with spraying of Copper Oxychloride and Streptocycline in clear weather.",
-            "Pest Management: Case worm attack should be treated with spraying of Fipronil 5% SC or Profenofos 50% EC in clear weather.",
-            "For gall midge control, farmers should spray thiamethoxam 25% WG or Fipronil 5% SC in clear and calm weather conditions."
+            "In case of bacterial leaf blight disease, appropriate fertilizers and sprays should be applied.",
+            "Control measures for Case worm attack should be implemented."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control flower drop in cotton crop, application of Planofix is recommended after 60-65 days after sowing of seed.",
-            "To control sucking insect pest attack, application of Neem based pesticide like Neem oil should be advised at 30-45 days crop stage under clear weather.",
-            "At initial stage of flowering, avoid any chemical application in cotton crop."
+            "Neem-based pesticides should be used for controlling sucking insect pests in cotton crop."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing of urea fertilizer and control measures for fall army worm attack should be carried out."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "To control Fruit and shoot borer in Brinjal, Tomato, Okra etc., spraying of Neem based pesticide should be advised at initial stages.",
-            "If sucking insect pest attack noticed, then spraying of thiamethoxam or imidacloprid per liter of water should be advised.",
-            "For controlling diseases like wilt, root rot, use Carbendazim or copper oxicloride under no rainfall condition."
+            "Various spraying and control measures for fruit and shoot borers, sucking insect pests, and diseases should be implemented.",
+            "Proper drainage and excess water management is crucial."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Training, pruning, and pest control measures should be followed in both old and newly planted mango orchards."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "To control Mastitis disease, preventive measures like pre and post dipping with antiseptic liquids, proper sanitation should be taken.",
-            "Ensure fresh water availability in farm.",
-            "In severe cases, consult the doctor from nearby animal health center."
+            "Preventive measures for mastitis disease in cows and buffaloes should be implemented."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

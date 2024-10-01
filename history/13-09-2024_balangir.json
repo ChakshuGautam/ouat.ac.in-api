@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "14-09-2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 63,
+         "wind_speed": 10,
+         "wind_direction": 281,
+         "cloud_cover": 8
+      },
+      "15-09-2024": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 80,
+         "wind_speed": 13,
+         "wind_direction": 269,
+         "cloud_cover": 8
+      },
+      "16-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 64,
+         "wind_speed": 15,
+         "wind_direction": 244,
+         "cloud_cover": 6
+      },
+      "17-09-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 81,
+         "wind_speed": 13,
+         "wind_direction": 235,
+         "cloud_cover": 6
+      },
+      "18-09-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 81,
+         "wind_speed": 13,
+         "wind_direction": 235,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "chilli",
+      "brinjal"
+   ],
+   "general_advisory": "Drain out excess water from Ragi, Jowar, Bajra, millets, maize, cotton, brinjal, chilli, cowpea, beans, etc. Provide staking to the vegetable plants. Spray insecticides or pesticides in crops as per requirement mixing with sticker observing the rain.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The crop is at active tillering stage. After receding of rain water, the low temperature below 28°C and relative humidity more than 70% favors infestation Yellow stem borer in rice. To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4 % G @ 8 -kg/acre or Chlorantraniliprole 0.4 % GR @ 4 -kg/acre or Imidacloprid 0.3% GR @ 6 -kg/acre by mixing it with sand at 1:1 ratio."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Chilli crop is at seedling stage. High soil moisture & moderate soil temperature (<28°C), high RH, high rainfall and poor drainage during this rainy season may cause damping off disease. Drench the soil with Mancozeb @ 3g/ltr or foliar spray with Metalaxyl @ 2g/ltr or Metalaxyl+Mancozeb @ 3g/ltr."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is a chance of increasing in day & night temperature and morning relative humidity more than 70% favors Shoot and fruit borer in Brinjal. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre. Use chemical control if there is 4% withering of terminal shoot or 14% fruits infested with borers. For chemical control spray Emamectin Benzoate 5% SG @ 80 -gram/acre or Chlorantraniliprole 18.5 % SC @80 -ml/acre or Spinetoram 11.7 % SC @ 200 -ml /acre. There should be a gap of 7 -10 days between pesticide application and harvest. Use any of the above insecticides alternately at 15 -days interval."
+         ]
+      }
+   },
+   "date": "13-09-2024"
+}

@@ -1,0 +1,129 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 61,
+         "wind_speed": 4,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "22-09-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 62,
+         "wind_speed": 5,
+         "wind_direction": 72,
+         "cloud_cover": 6
+      },
+      "23-09-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 198,
+         "cloud_cover": 7
+      },
+      "24-09-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 12,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 68,
+         "wind_speed": 6,
+         "wind_direction": 150,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "vegetables",
+      "fruits",
+      "cow & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Prevailing weather condition is favorable for infestation of sucking pests like aphid, jassids, whitefly, mealy bug and thrips. Apply neem based pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at initial stage to manage sucking pest infestation. Install yellow sticky trap @ 8nos./acre to monitor sucking pests like aphid, jassids, whitefly, mealy bug and blue sticky traps @ 8nos./acre to monitor thrips. For monitoring of sucking pests, fruit fly and borer insect in vegetables farmers are advised to use pheromone trap @ 8nos. /acre. Keep your crop field free from weed to minimize the incidence of diseases and pests.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Pest Management: Blast: Current weather is favorable for blast infestation..."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Nutrient Management: Apply 16kg Urea + 10kg MOP per acre in upland condition and 20 kg urea + 13kg MOP per acre in medium and low land condition at panicle initiation stage as second top dressing.",
+            "Pest Management: Stem borer & Leaf folder: Install Pheromone traps @ 8nos./acre..."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Nutrient Management: Spraying may be done with 100 g Magnesium sulphate mixed with 100 g urea in 10 liter of water in waterlogged areas to reduce leaf reddening.",
+            "Pest Management: Sucking Pests (Aphid, Jassids, Thrips, Whitefly): Application of Neem based pesticide like Neem oil@ 600 -800 ml + 200 g detergent powder per acre..."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Pest Management: Leaf webber: Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water...",
+            "Sucking Pests (Aphid, Jassids, Thrips, Whitefly): Sucking pests are generally more active in prevailing weather condition. Neem-based pesticide (1500 ppm) may be sprayed..."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Nutrient Management: Apply Urea @ 25kg/ac if crop is at tasseling stage and irrigate if water is not sufficient.",
+            "Pest Management: Stem borer, FAW and banded leaf and sheath blight may appear due to present weather condition. Monitor the field regularly and remove infected plant parts..."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Brinjal: To control wilt, spray Tebuconazole 25.9% EC @ 200 -ml/acre + Streptocycline @ 30g/acre...",
+            "Tomato: Select suitable varieties like Utkal Kumari (BT -10), Utkal Deepti (BT -2), Utkal Raja, Utkal Pragyan and Swarna Sampad for raising in nursery..."
+         ]
+      },
+      "fruits": {
+         "advisory": [
+            "Banana: To manage Sigatoka leaf spot and Cigar end rot or Tip rot spray Mancozeb 75% WP @ 3g/liter of water...",
+            "Papaya: To control papaya leaf curl virus, install yellow sticky trap @ 8nos/acre and spray neem oil (1500 ppm) @ 3ml/liter of water..."
+         ]
+      },
+      "cow & buffalo": {
+         "advisory": [
+            "As grasses are high in moisture content during rainy days, the cattle don’t get adequate dry matter from those. So, give 1 kg if concentrate for every 2 kg of milk to dairy animals."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Keep dry fodder and straw ready at home for sheep and goat in rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, droppings of birds. Sometimes it can spread from affected birds to human beings...",
+            "During this time please clean poultry houses every day and change the feed and water of poultry birds frequently...",
+            "Don’t throw the dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitize the place with bleaching powder...",
+            "Don’t bring poultry birds or eggs to home from the affected area."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

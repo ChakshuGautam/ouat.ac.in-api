@@ -1,105 +1,114 @@
 {
    "weather_details": {
-      "2024-09-18": {
-         "rainfall": 10,
-         "t_max": 31,
+      "2024-09-28": {
+         "rainfall": 15,
+         "t_max": 29,
          "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 72,
-         "wind_speed": 11,
-         "wind_direction": 156,
-         "cloud_cover": 3
+         "rh_max": 93,
+         "rh_min": 75,
+         "wind_speed": 13,
+         "wind_direction": 198,
+         "cloud_cover": 8
       },
-      "2024-09-19": {
-         "rainfall": 1,
+      "2024-09-29": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 66,
+         "wind_speed": 9,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      },
+      "2024-09-30": {
+         "rainfall": 5,
          "t_max": 32,
          "t_min": 25,
-         "rh_max": 91,
-         "rh_min": 62,
-         "wind_speed": 7,
-         "wind_direction": 116,
-         "cloud_cover": 6
+         "rh_max": 88,
+         "rh_min": 68,
+         "wind_speed": 8,
+         "wind_direction": 246,
+         "cloud_cover": 4
       },
-      "2024-09-20": {
+      "2024-10-01": {
          "rainfall": 5,
-         "t_max": 33,
+         "t_max": 32,
          "t_min": 25,
-         "rh_max": 88,
-         "rh_min": 54,
-         "wind_speed": 6,
-         "wind_direction": 116,
-         "cloud_cover": 7
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 9,
+         "wind_direction": 248,
+         "cloud_cover": 4
       },
-      "2024-09-21": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 88,
-         "rh_min": 60,
-         "wind_speed": 7,
-         "wind_direction": 116,
-         "cloud_cover": 7
-      },
-      "2024-09-22": {
+      "2024-10-02": {
          "rainfall": 5,
          "t_max": 34,
          "t_min": 26,
-         "rh_max": 89,
-         "rh_min": 58,
-         "wind_speed": 7,
-         "wind_direction": 124,
+         "rh_max": 90,
+         "rh_min": 68,
+         "wind_speed": 9,
+         "wind_direction": 207,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
+      "pigeon pea",
       "maize",
       "brinjal",
-      "okra/ladyfinger",
       "cucumber",
+      "papaya",
+      "goat",
       "cow",
-      "fresh water"
+      "freshwater"
    ],
    "general_advisory": "Drain out excess water from the paddy and non-paddy crops. Harvest the matured vegetables & flowers and keep in safe place...",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Due to prevailing wet and humid conditions the attack of pests like Yellow stem borer and leaf folder may increase in the crop...",
-            "....."
+            "Due to prevailing wet and humid conditions the attack of pests like Yellow stem borer and leaf folder may increase in the crop. The present high humid weather condition and rainfall followed by clear sky is favourable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy. To manage BPH and WBPH in paddy avoid excess use of nitrogenous fertilizer. Do not keeping standing water in the field for longer period. Alter the micro-climate of the rice field by alternate wetting and drying technique..."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "The crop is at vegetative growth (seven to eight week) stage. Go for hoeing, weeding and earthing up at this stage of crop. Keep drainage arrangement to avoid water stagnation due to rain. There is a chance of infestation of Jassids. To manage Jassids, spray Imidacloprid 17.8% SL @ 140 ml/ha or Thiamethoxam 25 % WG @ 100 gm/ha or Clothianidin 50 % WDG @ 100gm/ha in 500 litre of water ..."
          ]
       },
       "maize": {
          "advisory": [
-            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200 litre of water... ",
-            "...."
+            "To manage the fall army worm pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200 litre of water. Use 10-12 bird perches per acre and remove them before tasselling stage. Apply Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5% S.G @ 80-gram/acre or Spinetoram 11.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water..."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is chance of increasing in day & night temperature..."
-         ]
-      },
-      "okra/ladyfinger": {
-         "advisory": [
-            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra due to present weather condition...."
+            "Brinjal is at flowering to fruiting stage. After receding of rainfall and there is chance of increasing in day & night temperature and morning relative humidity more than 70% favours Shoot and fruit borer in Brinjal. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre. Use chemical control if there is 4% withering of terminal shoot or 14% fruits infested with borers..."
          ]
       },
       "cucumber": {
          "advisory": [
-            "Rainy and humid weather , high morning RH (>85%) & water saturated soil favoursDowny Mildew disease in cucurbit vegetables..."
+            "Rainy and humid weather, high morning RH (>85%) & water saturated soil favours Downy Mildew disease in cucurbit vegetables. To manage Downy Mildew disease in cucurbits spray Metalaxyl @ 2-gram/litre or Azoxystrobin @ 1-gram/litre or Copper oxychloride 50 % WP @ 3-gram/litre twice in 10 days intervals..."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "To manage mealy bug at early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water or insecticidal soap. In case of severe infestation spray Profenphos 50 % EC @ 20-ml/10-litre of water or Thiamethoxam 25 % WG @ 3-gram/10-litre of water..."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed..."
          ]
       },
       "cow": {
          "advisory": [
-            "Monsoon rain might lead to dampness and lack of drainage, use sand and ash to get rid of the excess moisture...",
-            "...."
+            "Monsoon rain might lead to dampness and lack of drainage, use sand and ash to get rid of the excess moisture. Clean the shelter floor twice with phenyl to avoid the flies and diseases associated with them..."
          ]
       },
-      "fresh water": {
+      "freshwater": {
          "advisory": [
-            "After stocking of Fingerling, groundnut oil cake and rice bran at 1:1 ratio as feed given @ 5% of their body weight twice a day..."
+            "After stocking of Fingerling, groundnut oil cake and rice bran at 1:1 ratio as feed given @ 5% of their body weight twice a day. Add vitamine and mineral mixture @1% of the total feed given to the fish. Regularly check the pH and water temperature after stocking the fingerling. Add 40 kg of lime per acre to purify the pond water. To increase the amount of plankton in the pond, apply 200 kg of cow dung and 4 kg of super phosphate per acre twice a month..."
          ]
       }
    },
-   "date": "17-09-2024"
+   "date": "27-09-2024"
 }

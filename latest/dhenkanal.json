@@ -1,56 +1,137 @@
 {
    "weather_details": {
-      "20.09.2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 85,
-         "rh_min": 60,
+      "28-09-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 75,
          "wind_speed": 10,
-         "wind_direction": 120,
-         "cloud_cover": 3
+         "wind_direction": 167,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "30-09-2024": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 61,
+         "wind_speed": 9,
+         "wind_direction": 243,
+         "cloud_cover": 5
+      },
+      "01-10-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 66,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "arhar",
-      "vegetables",
-      "okra",
+      "paddy",
+      "maize",
+      "sugarcane",
+      "groundnut",
+      "sesame",
       "cucurbits",
-      "cole crops",
-      "livestock"
+      "brinjal",
+      "tomato",
+      "chilli",
+      "okra",
+      "animal husbandry",
+      "fishery"
    ],
-   "general_advisory": "During rainy season conduct regular health checks on livestock to identify any signs of stress or illness early. Ensure a clean and adequate water supply, avoiding stagnant water which can be a breeding ground for pathogens. Regularly check water sources for contamination and maintain proper hygiene.",
+   "general_advisory": "Drain out excess water from standing crops by keeping drain ends open. Continue application of fertilizer and plant protection. Do proper field surveillance for pests and diseases and take measures accordingly.",
    "crops_data": {
-      "arhar": {
+      "paddy": {
          "advisory": [
-            "Blister beetles feed on the flowers and reduce the number of pods setting, affecting crop yield. To manage, manually collect insects and put them in kerosene or cover them in a pit with soil."
+            "If Blast disease incidence seen then drain out excess water from the paddy field. Remove the weeds and keep the field clean. Foliar spray of Trichodermaviridae should be done @ 4 g/lit. of water. To manage this disease spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200- ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre.",
+            "Prevailing weather condition congenial for Bacterial Leaf Blight disease in Paddy. To control this chemically, spray Copper Hydroxide 53.8% DF @ 600g/acre or 200g Plantomycin along with Copper Oxy Chloride 50% WP @ 600g /acre."
          ]
       },
-      "vegetables": {
+      "maize": {
          "advisory": [
-            "There are chances of sucking pests like Aphids, Jassids, Thrips, and Whiteflies in vegetables due to present weather conditions. To manage pests, spray neem-based pesticide early on. Install Yellow sticky traps per acre. Chemical spray alternatives include Thiamethoxam, Acetamiprid, Fenobucarb, or Tolfenpyrad."
+            "Rainfall after a dry spell may aggravate infestation of worm in maize. For control the pest spray Beauveria bassiana @ 1200-gram/acre by mixing in 200 water. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5 S.G@ 80 g/acre or Spinetoram 11.7% S.C @ 100 Chlorantraniliprole 18.5% S.C @ 80 -ml/acre."
          ]
       },
-      "okra": {
+      "sugarcane": {
          "advisory": [
-            "Apply Emamectin benzoate or spinosad to control Fruit and Shoot borer in Okra."
+            "After receding of rainfall to manage Internode borer biological use Trichogramma chilonis card @ 1/acre at weekly interval for 6 times by splitting each card into 12 pieces at the given perforations.",
+            "To manage the pest chemically, spray Fipronil @ 600 -ml /acre or Profenophos @ 400-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200-litre of water. Instead of this, you can also apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage Tobacco caterpillar pest biologically, use Pheromone trap Spodolure @ 6/acre. Install light trap @ 8 nos. Apply Bacillus thuringenesis @ 400 g/acre or Beauveria bassiana @ 500 g/acre. For chemical control, spray Chlorpyriphos 50 % + Cypermethrin 5 % E.C @ 400-ml/ acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 liters of water."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "There are chances of Leaf webber infestation in Sesame crop after rain. To manage leaf webber spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400-ml/acre or Profenophos 50 % EC @ 400-ml/acre."
          ]
       },
       "cucurbits": {
          "advisory": [
-            "To control Red Pumpkin Beetle in Cucurbit crops, spray Cyantraniliprole, Imidacloprid, or Chlorpyrifos."
+            "After rainfall there are chances of infestation of Powdery Mildew disease in cucurbit vegetables. For control this disease in cucurbits spray Azoxystrobin 4.8% + Chlorothalonil 40%SC @ 3ml/litre or Carbendazim 12 % + Mancozeb 63 % WP @ 2 -gram/litre."
          ]
       },
-      "cole crops": {
+      "brinjal": {
          "advisory": [
-            "For Cauliflower, cabbage, and Broccoli, use specific seed rates for improved varieties and hybrid seeds. Prepare nursery beds with appropriate dimensions and apply compost before sowing."
+            "After rainfall Fusarium wilt disease may appear on solanaceous vegetables like Brinjal, Tomato and Chilli. To prevent this disease drain out excess water from the field. Uproot the affected plant and drench Metalaxyl8%+ Mancozeb64% WP @ 2gram per liter of water at root zone of the plant.",
+            "In nursery, application of Trichoderma harzianum 1% WP or Trichoderma viridae 1.5 % WP @ 50gm / square meter area before sowing of seeds."
          ]
       },
-      "livestock": {
+      "tomato": {
          "advisory": [
-            "During rainy season conduct regular health checks on livestock to identify any signs of stress or illness early. Ensure a clean and adequate water supply, avoiding stagnant water which can be a breeding ground for pathogens. Regularly check water sources for contamination and maintain proper hygiene."
+            "After rainfall Fusarium wilt disease may appear on solanaceous vegetables like Brinjal, Tomato and Chilli. To prevent this disease drain out excess water from the field. Uproot the affected plant and drench Metalaxyl8%+ Mancozeb64% WP @ 2gram per liter of water at the root zone of the plant.",
+            "In nursery, application of Trichoderma harzianum 1% WP or Trichoderma viridae 1.5 % WP @ 50gm / square meter area before sowing of seeds."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "After rainfall Fusarium wilt disease may appear on solanaceous vegetables like Brinjal, Tomato and Chilli. To prevent this disease drain out excess water from the field. Uproot the affected plant and drench Metalaxyl8%+ Mancozeb64% WP @ 2gram per liter of water at the root zone of the plant.",
+            "In nursery, application of Trichoderma harzianum 1% WP or Trichoderma viridae 1.5 % WP @ 50gm / square meter area before sowing of seeds."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To manage the vectors of Yellow vain mosaic disease in Okra, install 8-10 Nos of Yellow sticky traps starting from 10-12 DAS. Spray neem-based pesticide (Neem Oil 1500 PPM @600- ml/acre by mixing it in 200-litre of water starting from 15 -DAS. In case of severe infestation spray Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre by mixing it in 200-litre of water."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Vaccinate the animals against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxaemia, etc."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Apply mahua oil cake @ 2.5t/ha with 1 m depth of water to kill the predators and weed fishes in perennial ponds. If 'EUS' infection is observed in fish, apply 'Cifax' @ 400 ml mixed with 400 liters of water in one-acre pond."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

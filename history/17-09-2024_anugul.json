@@ -1,0 +1,80 @@
+{
+   "weather_details": {
+      "2024-09-18": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 96,
+         "rh_min": 75,
+         "wind_speed": 8,
+         "wind_direction": 153,
+         "cloud_cover": 8
+      },
+      "2024-09-19": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 96,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 148,
+         "cloud_cover": 8
+      },
+      "2024-09-20": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 144,
+         "cloud_cover": 7
+      },
+      "2024-09-21": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 58,
+         "wind_speed": 8,
+         "wind_direction": 112,
+         "cloud_cover": 8
+      },
+      "2024-09-22": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 63,
+         "wind_speed": 8,
+         "wind_direction": 124,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "goat"
+   ],
+   "general_advisory": "Make provision for drainage in rice and non-rice crop. After rain vegetable crops might be infested with sucking pest, If infestation is seen, Go for application of 5 gram of Thiamethoxam 25% WG in 15 litre of water after cessation of rain. After rain vegetable crops might get infested with Fungal growth, Go for application of mixture of Carbendazim+ Mancozeb 2 gram/litre of water after cessation of rain in case the infestation is seen.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanted rice is at maximum tillering to PI stage, The present condition (cloudy sky, high humidity, intermittent rainfall with high day temperature but low night temperature) is highly favorable for incidence of many diseases like Bacterial Blight, Bacterial Leaf Streak, Leaf Blast etc. So, keep vigil on your field.",
+            "Apply 200g Plantomycin + 200g Copper Oxychloride in 200 litres of water per acre for bacterial diseases.",
+            "In case of Blast incidence, spraying of Tebuconazole 50% + Trifloxystobin 25% @ 80g/acre or Carbendazim 50 WP @ 400g/acre may be done for controlling the disease after cessation of rain."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "There is chances of stem and rot root in Ground nut due rainfall in the district on previous week, go for spraying of Thiophanate-methyl 1 gram in 1 litre of water after cessation of rain."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Pneumonia might infect the goat in rainy season, due to expose to rain. Do not let them soak in rain water."
+         ]
+      }
+   },
+   "date": "17-09-2024"
+}

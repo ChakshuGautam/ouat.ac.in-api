@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "21/09/2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 56,
+         "wind_speed": 4,
+         "wind_direction": 144,
+         "cloud_cover": 5
+      },
+      "22/09/2024": {
+         "rainfall": 3,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 56,
+         "wind_speed": 4,
+         "wind_direction": 126,
+         "cloud_cover": 5
+      },
+      "23/09/2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 57,
+         "wind_speed": 5,
+         "wind_direction": 124,
+         "cloud_cover": 6
+      },
+      "24/09/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 108,
+         "cloud_cover": 7
+      },
+      "25/09/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 61,
+         "wind_speed": 8,
+         "wind_direction": 103,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "transplanted paddy",
+      "ragi",
+      "sesamum",
+      "maize",
+      "groundnut",
+      "ginger",
+      "vegetables",
+      "papaya"
+   ],
+   "general_advisory": "Kharif crop 2024: Only maintain 3-5 cm water in the field up to flowering stage in paddy. Provide drainage facility to drain out excess water from the field. Due to high humidity, survey for any insect pest in kharif crops and take action as suggested.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Due to weather, there is a chance of sheath blight in paddy. To manage this disease, spray Validamycin @ 2 ml/liter of water."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "To manage Pod borer in green gram and black gram crop, spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5% SC @ 80-ml/acre or Profenophos 50% EC @ 400-ml/acre."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Due to the weather condition, there is a chance of Bacterial Leaf Blight. To manage this, spray 1 g Streptomycin and 30 g copper oxychloride per 10 liters of water. Apply 20 kg urea and 13 kg MOP in Medium and low land conditions."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Due to the weather effect, there is a chance of stem borer attack. To manage this, spray Fipronil @ 2 g/liter of water."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "Due to the weather effect, there is leaf webber seen. To manage this, spray Carbaryl @ 4 g/liter of water and to be sprayed on the leaf surface."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Due to weather effect, there is a chance of Aphids infestation. To manage this, spray Imidachloprid @ 0.4 ml/liter of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "The early sown crop is at maturity stage. Go for harvesting and dry it under the sun for 2-3 days."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Go for intercultivation and apply 55 kg Urea and 33 kg MOP per acre."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Go for tomato sowing. Collect good varieties like Arka Rakshak. The spacing between lines should be 60 cm."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Due to rainfall, do not allow water to remain stagnant near the base of the crop."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

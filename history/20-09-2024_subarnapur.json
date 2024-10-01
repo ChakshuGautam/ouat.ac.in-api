@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 55,
+         "rh_min": 84,
+         "wind_speed": 4,
+         "wind_direction": 165,
+         "cloud_cover": 5
+      },
+      "22-09-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 52,
+         "rh_min": 83,
+         "wind_speed": 5,
+         "wind_direction": 150,
+         "cloud_cover": 5
+      },
+      "23-09-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 55,
+         "rh_min": 83,
+         "wind_speed": 5,
+         "wind_direction": 150,
+         "cloud_cover": 7
+      },
+      "24-09-2024": {
+         "rainfall": 7,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 56,
+         "rh_min": 84,
+         "wind_speed": 6,
+         "wind_direction": 108,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 52,
+         "rh_min": 90,
+         "wind_speed": 8,
+         "wind_direction": 103,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo"
+   ],
+   "general_advisory": "• Need based irrigation is applied in field in case of no rainfall condition. Make provision for good drainage system in orchard and vegetable field. Prevailing weather condition is favourable for mealy bug attack in all types of crops so its regular monitoring should be advised. Farmers should avoid excess use of nitrogenous fertilizer at crop because it may extend the vegetative growth period and also attract various insect pests.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "Disease Management: Bacterial leaf blight attack should be treated with Copper Oxychloride and Streptocycline under clear and calm weather.",
+            "Pest Management: Case worm attack should be treated with Fipronil or Profenofos under clear weather.",
+            "For gall midge attack, spray thiamethoxam, Fipronil, or Chloropyriphos under clear and calm weather condition."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control flower drop, use Plantofix after sowing.",
+            "To control sucking insect pests, apply Neem based pesticide at specified stages.",
+            "Avoid chemical application at initial flowering stage."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Use Neem based pesticide to control Fruit and shoot borer in various vegetables.",
+            "For sucking insect pests, spray thiamethoxam or imidacloprid per liter of water.",
+            "Use Carbendazim or copper oxicloride for wilt and root rot control under no rainfall condition."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Prevention and control measures for Mastitis disease include proper sanitation and feeding adjustments.",
+            "Ensure fresh water availability and consult a doctor from nearby animal health center in severe cases."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

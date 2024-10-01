@@ -1,0 +1,130 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 64,
+         "wind_speed": 5,
+         "wind_direction": 197,
+         "cloud_cover": 5
+      },
+      "22-09-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 75,
+         "cloud_cover": 5
+      },
+      "23-09-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 59,
+         "wind_speed": 5,
+         "wind_direction": 68,
+         "cloud_cover": 7
+      },
+      "24-09-2024": {
+         "rainfall": 12,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 5,
+         "wind_direction": 158,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 12,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 148,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "vegetables",
+      "fruits",
+      "cow & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Prevailing weather condition is favorable for infestation of sucking pests like aphid, jassids, whitefly, mealy bug and thrips. Apply neem bases pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at initial stage to manage sucking pest infestation. Install yellow sticky trap @ 8nos./acre to monitor sucking pests like aphid, jassids, whitefly, mealy bug and blue sticky traps @ 8nos./acre to monitor thrips. For monitoring of sucking pests, fruit fly and borer insect in vegetables farmers are advised to use pheromone trap @ 8nos. /acre. Keep your crop field free from weed to minimize the incidence of diseases and pests. SMS Advisory ▪ Drench the soil at root zone with Carbendazim 50 WP@ 2 g/litre of water to control symptomatic wilt and root rot diseases in cotton.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Pest Management: Blast - Spray Tebuconazole 50% + Trifloxystrobin 25% WG (Nativo) @ 80 g/acre or Isoprothiolane 40 EC (Sultan/Fujita/Fujione) @ 300 ml/acre by mixing with 200 liters of water. Repeat the spray at 7-10 days interval.",
+            "Pest Management: Sheath rot & Sheath blight - Spray Tebuconazole 50% + Trifloxystrobin 25 % WG (Nativo) @ 80 gram/acre or Propiconazole 25% EC (Tilt/Zerox/Dhan/Bumper) @ 200ml/acre by mixing with 200 liters of water."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Pest Management: Stem borer & Leaf folder - Install Pheromone traps @ 8nos./acre and light trap @1no./acre to monitor and control the population of stem borer, leaf folder and rice ear eating caterpillar and replace the lure after three weeks.",
+            "In stem borer endemic areas, release egg parasitoid Trichogramma japonicum (Tricho card) @ 60000 eggs (3 card)/acre is required."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Nutrient Management: Spraying may be done with 100 g Magnesium sulphate mixed with 100 g urea in 10 liter of water in waterlogged areas to reduce leaf reddening.",
+            "Pest Management: Sucking Pests (Aphid, Jassids, Thrips, Whitefly) - Application of Neem based pesticide like Neem oil@ 600-800 ml + 200 g detergent powder per acre by mixing with 200 liters of water is advisable If pest population is above ETL, spray Flonicamid 50% WG @ 80 g/acre or Buprofezin 25% SC @ 400 ml/acre or Thiomethoxam 25% WG @ 80 g/acre or Difenthiuron 50% WP @ 240 g/acre by mixing with 200 liters of water."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Pest Management: Leaf webber - Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water.",
+            "Sucking Pests (Aphid, Jassids, Thrips, Whitefly) - Sucking pests are generally more active in prevailing weather condition. Neem-based pesticide (1500 ppm) may be sprayed @ 3ml/ lit of water at initial stage of infestation."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Nutrient Management: Apply Urea @ 25kg/ac if crop is at tasseling stage and irrigate if water is not sufficient.",
+            "Pest Management: Stem borer, FAW and banded leaf and sheath blight may appear due to present weather condition. Monitor the field regularly and remove infected plant parts."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Brinjal: To control wilt, spray Tebuconazole 25 .9% EC @ 200-ml/acre + Streptocycline @ 30g/acre at the root zone mixed with 200 liters of water.",
+            "Tomato: Select suitable varieties like Utkal Kumari (BT-10), Utkal Deepti (BT-2), Utkal Raja, Utkal Pragyan and Swarna Sampad for raising in nursery. 150 to 200 gram of seed is required for planting in one acre area."
+         ]
+      },
+      "fruits": {
+         "advisory": [
+            "Banana: To manage Sigatoka leaf spot and Cigar end rot or Tip rot spray Mancozeb 75% WP @ 3g/liter of water.",
+            "Papaya: To control papaya leaf curl virus, install yellow sticky trap @ 8nos/acre and spray neem oil (1500 ppm) @ 3ml/liter of water."
+         ]
+      },
+      "cow & buffalo": {
+         "advisory": [
+            "As grasses are high in moisture content during rainy days, the cattle don’t get adequate dry matter from those. So, give 1 kg if concentrate for every 2 kg of milk to dairy animals."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Keep dry fodder and straw ready at home for sheep and goat in rainy season and ensure the practice of flushing to give balanced concentrate to sheep and goat one month prior to kidding and lambing."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Bird flu is a viral disease of poultry. It spreads through contaminated feathers, saliva, droppings of birds. Sometimes it can spread from affected birds to human beings.",
+            "During this time please clean poultry houses every day and change the feed and water of poultry birds frequently.",
+            "Don’t throw the dead poultry birds here and there. Please bury them by wearing gloves and masks and sanitize the place with bleaching powder.",
+            "Don’t bring poultry birds or eggs to home from the affected area."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

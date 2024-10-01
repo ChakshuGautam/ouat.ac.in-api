@@ -1,92 +1,113 @@
 {
    "weather_details": {
-      "21-09-2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 55,
-         "rh_min": 84,
-         "wind_speed": 4,
-         "wind_direction": 165,
-         "cloud_cover": 5
-      },
-      "22-09-2024": {
-         "rainfall": 2,
+      "27-09-2024": {
+         "rainfall": 0,
          "t_max": 35,
-         "t_min": 26,
-         "rh_max": 52,
-         "rh_min": 83,
-         "wind_speed": 5,
-         "wind_direction": 150,
-         "cloud_cover": 5
+         "t_min": 27,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 0
       },
-      "23-09-2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 55,
-         "rh_min": 83,
-         "wind_speed": 5,
-         "wind_direction": 150,
-         "cloud_cover": 7
-      },
-      "24-09-2024": {
-         "rainfall": 7,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 56,
-         "rh_min": 84,
-         "wind_speed": 6,
-         "wind_direction": 108,
-         "cloud_cover": 7
-      },
-      "25-09-2024": {
+      "28-09-2024": {
          "rainfall": 10,
          "t_max": 32,
-         "t_min": 24,
-         "rh_max": 52,
-         "rh_min": 90,
+         "t_min": 25,
+         "rh_max": 67,
+         "rh_min": 93,
          "wind_speed": 8,
-         "wind_direction": 103,
+         "wind_direction": 162,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 63,
+         "rh_min": 89,
+         "wind_speed": 9,
+         "wind_direction": 225,
          "cloud_cover": 7
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 60,
+         "rh_min": 85,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 62,
+         "rh_min": 92,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 65,
+         "rh_min": 88,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
       "cotton",
+      "maize",
       "vegetable crops",
+      "mango",
       "cow/buffalo"
    ],
-   "general_advisory": "• Need based irrigation is applied in field in case of no rainfall condition. Make provision for good drainage system in orchard and vegetable field. Prevailing weather condition is favourable for mealy bug attack in all types of crops so its regular monitoring should be advised. Farmers should avoid excess use of nitrogenous fertilizer at crop because it may extend the vegetative growth period and also attract various insect pests.",
+   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations as there is a chance of light to moderate rainfall in some places in the upcoming days. Provision for good drainage system in fruit orchards and vegetable fields is recommended. Regular monitoring for pests and diseases in crops is advised. Avoid excess use of nitrogenous fertilizers.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers should maintain 5 cm water level in rice field for proper growth.",
-            "Disease Management: Bacterial leaf blight attack should be treated with Copper Oxychloride and Streptocycline under clear and calm weather.",
-            "Pest Management: Case worm attack should be treated with Fipronil or Profenofos under clear weather.",
-            "For gall midge attack, spray thiamethoxam, Fipronil, or Chloropyriphos under clear and calm weather condition."
+            "Farmers should maintain 5 cm water level in rice field for proper growth."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control flower drop, use Plantofix after sowing.",
-            "To control sucking insect pests, apply Neem based pesticide at specified stages.",
-            "Avoid chemical application at initial flowering stage."
+            "Application of Neem based pesticide to control sucking insect pests like Aphids and Thrips.",
+            "Avoid chemical insecticides at initial stage of flowering."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing of urea fertilizer should be advised at this stage.",
+            "Spraying of Emamectin Benzoate to control fall army worm attack."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Use Neem based pesticide to control Fruit and shoot borer in various vegetables.",
-            "For sucking insect pests, spray thiamethoxam or imidacloprid per liter of water.",
-            "Use Carbendazim or copper oxicloride for wilt and root rot control under no rainfall condition."
+            "Use Neem based pesticide to control Fruit and shoot borer in Brinjal, Tomato, Okra etc.",
+            "Proper drainage of excess water from fields should be advised.",
+            "Regular monitoring and spraying for insect pests and diseases.",
+            "Use Carbendazim or copper oxicloride for controlling diseases like wilt, root rot, etc."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Training, pruning, and cleaning of weed, diseased branches in old Mango orchards.",
+            "Spraying of appropriate insecticides for pest control in newly planted mango orchards."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Prevention and control measures for Mastitis disease include proper sanitation and feeding adjustments.",
-            "Ensure fresh water availability and consult a doctor from nearby animal health center in severe cases."
+            "Preventive measures for Mastitis disease include pre and post dipping with antiseptic liquids, proper sanitation, preventing wet floor surface, feeding adjustments, lime application on the resting floor.",
+            "Sowing of green fodder in moist soil is recommended."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

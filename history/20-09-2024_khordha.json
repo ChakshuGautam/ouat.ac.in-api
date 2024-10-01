@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "21/09/2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 84,
+         "rh_min": 53,
+         "wind_speed": 8,
+         "wind_direction": 198,
+         "cloud_cover": 5
+      },
+      "22/09/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 53,
+         "wind_speed": 8,
+         "wind_direction": 180,
+         "cloud_cover": 6
+      },
+      "23/09/2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 82,
+         "rh_min": 52,
+         "wind_speed": 8,
+         "wind_direction": 75,
+         "cloud_cover": 7
+      },
+      "24/09/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 57,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      },
+      "25/09/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 62,
+         "wind_speed": 9,
+         "wind_direction": 156,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "ragi",
+      "green gram",
+      "black gram",
+      "cotton"
+   ],
+   "general_advisory": "For HYVs of rice apply 17 kg of Urea per acre at PI stage. In case of Light sandy soil, apply 17 kg Urea and 15 Kg of MOP per acre. For Hybrids apply 20 kg of Urea along with 20-kg of MOP at PI stage. To manage fungal and bacterial diseases (leaf blight, wilt, and rot) in different standing crops, spray (Metalaxyl+ Mancozeb) @ 2-gram/litre of water or (Carbendazim+ Mancozeb) @ 2-gram/litre of water along with Plantomycin @ 1-gram/ litre of water. Keep the poultry farm neat & clean, select disease free chick's for farming & Provide adequate poultry feed & clean water to avoid Poultry bird diseases. September is the optimum time for nursery raising of tomato. Grow resistant varieties like BT-2, BT-10, BT-12, Niladri, Sadabahar, Madhuri, Maharathi, Rasmi, Naveen, etc. For monitoring of sucking pests, fruit fly and borer insect in vegetables farmers are advised to use pheromone trap @ 8nos./acre.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Brown plant hopper - There is a chance of BPH infestation in paddy. If >10-15 hoppers/hill noticed, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20 % SG @ 80 g/acre or Flonicamid 50 % WG @ 60-gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant.",
+            "Bacterial Leaf Blight - There is a chance of Bacterial Leaf Blight disease infestation in paddy. If noticed, spray Copper Hydroxide 53.8% DF @ 600-gram/acre or 200-gram Plantomycin along with Copper Oxy Chloride 50% WP @ 600-gram/acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Stem Rot disease - The disease incidence is maximum after rainfall. To prevent the disease Seed treatment should be done with Carbendazim 50 % WP @ 2-gm/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP @ 3-gm/kg of seeds. To manage Stem Rot disease in groundnut spray Validamycin 3 % L @ 400-ml/acre or Captan 70 %+ Hexaconazole 5 % @ 300-gram/acre. To spray the fungicide 200-litre of water per acre is required."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Leaf webber - Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water.",
+            "Sucking Pests (Aphid, Jassids, Thrips, Whitefly) - Sucking pests are generally more active in prevailing weather conditions. Neem-based pesticide (1500 ppm) may be sprayed @ 3ml/ lit of water at initial stage of infestation.",
+            "Wilt - Wilting may be observed after receding of rain. Apply Metiram 75% WG @ 1.5g/liter at the root zone of the plant as a control measure."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Epilachna Beetle - To manage Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at the early stage of infestation. To manage Epilachna Beetle chemically spray Chlorpyriphos 20 % EC @ 2-ml/litre of water or Profenophos 50 % EC @ 2-ml/litre of water."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Mealy bug - To manage mealy bug at the early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water or insecticidal soap. In case of severe infestation spray Profenphos 50 % EC @ 20-ml/10-litre of water or Thiamethoxam 25 % WG @ 3-gram/10-litre of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "When there is a lack of oxygen in the pond, the fish will come up to the surface water and start gulping through their mouths. The ideal dissolved oxygen is about 5 mg/l. This can be maintained by using an aerator. A simple way of aeration is to circulate the pond water. It can be done using a pump which can take water from the lower surface of the pond and splash it into the same pond."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

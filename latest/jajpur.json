@@ -1,87 +1,95 @@
 {
    "weather_details": {
-      "21-09-2024": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 84,
-         "rh_min": 49,
-         "wind_speed": 6,
-         "wind_direction": 112,
-         "cloud_cover": 5
+      "28-09-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 75,
+         "wind_speed": 12,
+         "wind_direction": 193,
+         "cloud_cover": 8
       },
-      "22-09-2024": {
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 65,
+         "wind_speed": 11,
+         "wind_direction": 207,
+         "cloud_cover": 7
+      },
+      "30-09-2024": {
          "rainfall": 2,
-         "t_max": 36,
+         "t_max": 31,
          "t_min": 25,
-         "rh_max": 82,
-         "rh_min": 45,
-         "wind_speed": 7,
-         "wind_direction": 243,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 248,
          "cloud_cover": 6
       },
-      "23-09-2024": {
-         "rainfall": 4,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 85,
-         "rh_min": 56,
-         "wind_speed": 7,
-         "wind_direction": 108,
-         "cloud_cover": 7
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 90,
+         "rh_min": 61,
+         "wind_speed": 10,
+         "wind_direction": 244,
+         "cloud_cover": 4
       },
-      "24-09-2024": {
-         "rainfall": 10,
+      "02-10-2024": {
+         "rainfall": 2,
          "t_max": 34,
-         "t_min": 24,
-         "rh_max": 89,
-         "rh_min": 59,
-         "wind_speed": 7,
-         "wind_direction": 90,
-         "cloud_cover": 7
-      },
-      "25-09-2024": {
-         "rainfall": 15,
-         "t_max": 33,
-         "t_min": 24,
+         "t_min": 27,
          "rh_max": 91,
-         "rh_min": 60,
-         "wind_speed": 7,
-         "wind_direction": 135,
-         "cloud_cover": 8
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 225,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
       "sugarcane",
+      "tomato",
+      "brinjal",
       "bitter gourd",
       "cucumber",
       "pumpkin",
-      "brinjal",
       "okra",
       "papaya",
       "coconut"
    ],
-   "general_advisory": "Don’t spray pesticide & apply fertilizer during rainy hours. Complete the first top dressing of fertilizer i.e urea @35kg/acre in late transplanted rice as soon as possible. Due to prevailing cloudy weather associated with high humidity, farmers are advised to monitor the incidence of Yellow Stem Borer, Leaf folder & Incidence of BLB & Blast disease in rice crop.",
+   "general_advisory": "Due to continuous rain in last week there may be submergence condition in medium, shallow lowland & low lands, so farmers are advised to keep the drainage channels open to drain out excess rainwater from the field. Due to prevailing cloudy weather associated with high humidity, farmers are advised to monitor the incidence of Yellow Stem Borer, Leaf folder & Incidence of BLB & Blast disease in rice crop.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Monitor the activity of YSB by making frequent visit to field by installing Pheromone and Light Trap.",
-            "Complete the first top dressing of fertilizer i.e urea @35kg/acre or 16kg nitrogen/acre in late transplanted rice as soon as possible.",
-            "Incidence of BLB and Blast disease are noticed in some areas, spray Copper Oxychloride @ 500gm along with Plantomycin @ 200gm/acre or (Tebuconazole 50%+ Trifloxystrobin 25% WG ) or Soil application of additional dose of MOP 12 Kg/acre recommended.",
+            "Monitor the activity of YSB by making frequent visits to the field by installing Pheromone and Light Trap.",
+            "Incidence of BLB and Blast disease are noticed in some areas, spray Copper Oxychloride @ 500gm along with Plantomycin @ 200gm/acre or (Tebuconazole 50%+ Trifloxystrobin 25% WG) or Soil application of additional dose of MOP 12 Kg/acre recommended.",
             "Infestation of leaf folder & stem borer will increase after the rain so apply Cartap hydrochloride @ 400g/acre or soil application of Flubendiamide 0.7G 5kg/acre recommended."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "To manage Red Rot disease in Sugarcane spray (Metalaxyl 8% + Mancozeb 64%) @ 400-gram/acre by mixing it in 200-litre of water."
+            "To manage Red Rot disease in Sugarcane spray (Metalaxyl 8 % + Mancozeb 64 %) @ 400-gram/acre by mixing it in 200 -litre of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetables like tomato, brinjal are prone to attack of insects and pests after moderate rainfall. To manage it spray 1.5 g streptocyclin and 20 g (metalaxyl + mancozeb) WP in 10 liters of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal Spray Neem-based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @70ml/acre and Emamectin benzoate @ 80 g /acre at 15 days interval."
          ]
       },
       "bitter gourd": {
          "advisory": [
-            "To control different viral & phytoplasma diseases in Bitter gourd, Cucumber and Pumpkin apply 120 ml Abamectin or 30 g Fipronil 80 WG per acre.",
-            "To control Fruit and shoot borer in Brinjal Spray Neem based pesticide 1500ppm @ 600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @ 70ml/acre and Emamectin benzoate @ 80 g/acre at 15 days interval.",
-            "Yellow vein mosaic virus in okra transmit through whitefly, thus spray Methyl demeton 25 EC @ 1.6 ml or Thiomethoxam 25 WG @ 2 gm/lt of water to manage it."
+            "To control different viral & phytoplasma diseases in Bitter gourd, Cucumber and Pumpkin apply 120 ml Abamectin or 30 g Fipronil 80 WG per acre."
          ]
       },
       "cucumber": {
@@ -94,11 +102,6 @@
             "To control different viral & phytoplasma diseases in Bitter gourd, Cucumber and Pumpkin apply 120 ml Abamectin or 30 g Fipronil 80 WG per acre."
          ]
       },
-      "brinjal": {
-         "advisory": [
-            "To control Fruit and shoot borer in Brinjal Spray Neem based pesticide 1500ppm @ 600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @ 70ml/acre and Emamectin benzoate @ 80 g/acre at 15 days interval."
-         ]
-      },
       "okra": {
          "advisory": [
             "Yellow vein mosaic virus in okra transmit through whitefly, thus spray Methyl demeton 25 EC @ 1.6 ml or Thiomethoxam 25 WG @ 2 gm/lt of water to manage it."
@@ -106,15 +109,14 @@
       },
       "papaya": {
          "advisory": [
-            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
-            "Alternate spraying of Neem oil formulation 1500ppm @ 3ml/lit of water and spray flonicamid 50WG @ 0.3g/lit to control whitefly."
+            "Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
          ]
       },
       "coconut": {
          "advisory": [
-            "Monitor the activity of the Red palm weevil and Rhinoceros beetle by placing pheromone trap. Spray Lambda cyhalothrin @ 1.2ml/lit of water to the nearby manure pits for killing the developing stages of Rhinoceros beetle."
+            "Coconut - Monitor the activity of the Red palm weevil and Rhinoceros beetle by placing a pheromone trap. Spray Lambda cyhalothrin @1.2ml/lit of water to the nearby manure pits for killing the developing stages of Rhinocerous beetle."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

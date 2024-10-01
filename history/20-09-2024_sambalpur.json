@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 56,
+         "rh_min": 87,
+         "wind_speed": 3,
+         "wind_direction": 165,
+         "cloud_cover": 5
+      },
+      "22-09-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 55,
+         "rh_min": 84,
+         "wind_speed": 4,
+         "wind_direction": 150,
+         "cloud_cover": 5
+      },
+      "23-09-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 58,
+         "rh_min": 88,
+         "wind_speed": 5,
+         "wind_direction": 150,
+         "cloud_cover": 7
+      },
+      "24-09-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 59,
+         "rh_min": 91,
+         "wind_speed": 6,
+         "wind_direction": 108,
+         "cloud_cover": 7
+      },
+      "25-09-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 57,
+         "rh_min": 95,
+         "wind_speed": 8,
+         "wind_direction": 103,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Need based irrigation is applied in field in case of no rainfall condition. Make provision for good drainage system in orchard and vegetable field. Prevailing weather condition is favourable for mealy bug attack in all types of crops so its regular monitoring should be advised. Farmers should avoid excess use of nitrogenous fertilizer at crop because it may extend the vegetative growth period and also attract various insect pests.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "Disease Management: Bacterial leaf blight attack is also observed in some fields, so spraying of Copper Oxychloride 50% WP @ 600g and Streptocycline @ 30g in 200 liter of water per acre should be advised under clear and calm weather.",
+            "Pest Management: Case worm attack is observed in some farmers' fields and in severe cases farmers are advised to spray Fipronil 5% SC@ 400ml or Profenofos 50% EC @ 400ml per 200 liters of water per acre under clear weather."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control the flower drop in cotton crop, application of Planofix @ 90 ml in 200 liters of water per acre after 60-65 days after sowing of seed.",
+            "To control sucking insect pest (Aphid, Thrips etc.)  attack in cotton crop, application of Neem based pesticide like Neem oil @ 600-800 ml + 200g detergent powder per acre by mixing with 200 liters of water should be advised at 30-45 days crop stage under clear weather.",
+            "At initial stage of flowering farmers should avoid any chemical application in cotton crop."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal, Tomato, Okra etc. spraying of Neem based pesticide 1500 ppm @600ml per acre should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC @ 70ml and Emamectin benzoate @ 80 g per acre at 15 days interval should be advised.",
+            "If sucking insect pest attack is noticed, then spraying of thiamethoxam @ 0.2 g or imidacloprid @ 0.33 ml per liter of water should be advised.",
+            "For controlling some diseases like wilt, root rot etc. farmers should use Carbendazim @ 2g or copper oxicloride @ 3ml per liter of water under no rainfall condition."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Mastitis disease is also observed in some animals at present condition due to which milk production and quality may hamper, so some preventive as well as control measures like pre and post dipping with antiseptic liquids, proper sanitation, preventing wet floor surface, feeding adjustments should be taken to control this disease. Fresh water availability should be ensured in the farm. In severe cases, consult the doctor from a nearby animal health center."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

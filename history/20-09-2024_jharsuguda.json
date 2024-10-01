@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "21-09-2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 85,
+         "rh_min": 56,
+         "wind_speed": 4,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "22-09-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 82,
+         "rh_min": 57,
+         "wind_speed": 4,
+         "wind_direction": 105,
+         "cloud_cover": 4
+      },
+      "23-09-2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 57,
+         "wind_speed": 5,
+         "wind_direction": 144,
+         "cloud_cover": 6
+      },
+      "24-09-2024": {
+         "rainfall": 7,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 59,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 6
+      },
+      "25-09-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 9,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo"
+   ],
+   "general_advisory": "According to the weather forecast, farmers should take necessary irrigation measures and maintain drainage systems. Monitoring for pests like meal bug is advised, while avoiding excessive nitrogenous fertilizer use. Specific advisories for various crops are provided.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "Disease Management: Bacterial leaf blight attack should be treated with spraying of Copper Oxychloride and Streptocycline in clear weather.",
+            "Pest Management: Case worm attack should be treated with spraying of Fipronil 5% SC or Profenofos 50% EC in clear weather.",
+            "For gall midge control, farmers should spray thiamethoxam 25% WG or Fipronil 5% SC in clear and calm weather conditions."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control flower drop in cotton crop, application of Planofix is recommended after 60-65 days after sowing of seed.",
+            "To control sucking insect pest attack, application of Neem based pesticide like Neem oil should be advised at 30-45 days crop stage under clear weather.",
+            "At initial stage of flowering, avoid any chemical application in cotton crop."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal, Tomato, Okra etc., spraying of Neem based pesticide should be advised at initial stages.",
+            "If sucking insect pest attack noticed, then spraying of thiamethoxam or imidacloprid per liter of water should be advised.",
+            "For controlling diseases like wilt, root rot, use Carbendazim or copper oxicloride under no rainfall condition."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "To control Mastitis disease, preventive measures like pre and post dipping with antiseptic liquids, proper sanitation should be taken.",
+            "Ensure fresh water availability in farm.",
+            "In severe cases, consult the doctor from nearby animal health center."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}

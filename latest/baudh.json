@@ -1,91 +1,101 @@
 {
    "weather_details": {
-      "21-09-2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 86,
-         "rh_min": 58,
-         "wind_speed": 4,
-         "wind_direction": 135,
-         "cloud_cover": 4
-      },
-      "22-09-2024": {
+      "28-09-2024": {
          "rainfall": 5,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 84,
-         "rh_min": 53,
-         "wind_speed": 5,
-         "wind_direction": 154,
-         "cloud_cover": 4
-      },
-      "23-09-2024": {
-         "rainfall": 7,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 84,
-         "rh_min": 56,
-         "wind_speed": 5,
-         "wind_direction": 150,
-         "cloud_cover": 7
-      },
-      "24-09-2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 86,
-         "rh_min": 60,
-         "wind_speed": 6,
-         "wind_direction": 124,
-         "cloud_cover": 7
-      },
-      "25-09-2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 92,
-         "rh_min": 59,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 71,
          "wind_speed": 7,
-         "wind_direction": 112,
-         "cloud_cover": 7
+         "wind_direction": 159,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 66,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 62,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 238,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
       "cotton",
+      "maize",
       "vegetable crops",
+      "mango",
       "cow/buffalo"
    ],
-   "general_advisory": "Need based irrigation is applied in field in case of no rainfall condition. Make provision for good drainage system in orchard and vegetable field. Prevailing weather condition is favorable for mealy bug attack in all types of crops so its regular monitoring should be advised. Farmers should avoid excess use of nitrogenous fertilizer at crop because it may extend the vegetative growth period and also attract various insect pests.",
+   "general_advisory": "Farmers are advised take proper care during irrigation as well as spraying operations because there is a chance of occurrence of light to moderate rainfall somewhere in the upcoming one or two days. Make provision for good drainage system in fruit orchard and vegetable field. Regular monitoring against the incidence of insects and diseases in Rice crop should be advised. Prevailing weather condition is favorable for various pest attacks in different crops so regular monitoring should be advised. Avoid excess use of nitrogenous fertilizer at crops.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Farmers should maintain 5 cm water level in rice field for proper growth.",
-            "Bacterial leaf blight attack is also observed in some field, so spraying of Copper Oxychloride 50% WP @ 600g and Streptocycline @ 30g in 200 liter of water per acre should be advised under clear and calm weather.",
-            "Case worm attack is observed in some farmer’s field and in severe cases farmers are advised to spray Fipronil 5% SC@ 400ml or Profenofos 50% EC @ 400ml per 200 liters of water per acre under clear weather.",
-            "Previous weather condition was favorable for gall midge attack in rice field due to which an onion leaf or silver shoot like structure are formed so for its control farmers should spray thiamethoxam 25% WG @ 40g or Fipronil 5% SC @ 400 ml or Chloropyriphos 20 EC @ 500 ml in 200 liter water per acre in clear and calm weather condition."
+            "Stop top dressing of nitrogenous fertilizers if bacterial leaf blight disease appears and apply other specified fertilizers. Drain out stagnant water if possible."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control the flower drop in cotton crop, application of Planofix @ 90 ml in 200 liters of water per acre after 60-65 days after sowing of seed.",
-            "To control sucking insect pest (Aphid, Thrips etc.) attack in cotton crop, application of Neem based pesticide like Neem oil @ 600-800 ml + 200g detergent powder per acre by mixing with 200 liters of water should be advised at 30-45 days crop stage under clear weather.",
-            "At the initial stage of flowering, farmers should avoid any chemical application in cotton crop."
+            "Application of Neem based pesticide to control sucking insect pests in cotton crop and avoid chemical insecticides at initial stage of flowering."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing of urea fertilizer at this stage.",
+            "Spraying of specified pesticide to control fall army worm attack in Maize crop."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "To control Fruit and shoot borer in Brinjal, Tomato, Okra etc. spraying of Neem based pesticide 1500 ppm @600ml per acre should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC @ 70ml and Emamectin benzoate @ 80 g per acre at 15 days interval should be advised.",
-            "If sucking insect pest attack is noticed, then spraying of thiamethoxam @ 0.2 g or imidacloprid @ 0.33 ml per liter of water should be advised.",
-            "For controlling some diseases like wilt, root rot etc. farmers should use Carbendazim @ 2g or copper oxicloride @ 3ml per liter of water under no rainfall condition."
+            "Spraying of specified pesticides to control pests and diseases in various vegetable crops.",
+            "Ensure proper drainage of excess water from fields."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Training, pruning, and cleaning in old Mango orchard.",
+            "Spraying of specified pesticides to control insect attacks in Mango orchard."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Mastitis disease is observed in some animals at present condition, so some preventive as well as control measures like pre and post dipping with antiseptic liquids, proper sanitation, preventing wet floor surface, feeding should be adjusted to avoid sitting of animals before closure of teat sphincters after milking, lime application on the resting floor etc. should be taken to control this disease. Freshwater availability should be ensured on the farm. In severe cases, consult the doctor from nearby animal health center."
+            "Follow preventive and control measures for Mastitis disease in Cow and Buffalo.",
+            "Proper feeding and maintenance practices to prevent and control the disease."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

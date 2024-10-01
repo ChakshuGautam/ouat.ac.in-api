@@ -1,106 +1,115 @@
 {
    "weather_details": {
-      "21-09-2024": {
+      "28-09-2024": {
          "rainfall": 5,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 93,
-         "rh_min": 64,
-         "wind_speed": 6,
-         "wind_direction": 252,
-         "cloud_cover": 4
-      },
-      "22-09-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 93,
-         "rh_min": 59,
-         "wind_speed": 6,
-         "wind_direction": 68,
-         "cloud_cover": 4
-      },
-      "23-09-2024": {
-         "rainfall": 10,
-         "t_max": 31,
-         "t_min": 25,
-         "rh_max": 91,
-         "rh_min": 55,
-         "wind_speed": 6,
-         "wind_direction": 72,
-         "cloud_cover": 6
-      },
-      "24-09-2024": {
-         "rainfall": 12,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 91,
-         "rh_min": 58,
-         "wind_speed": 5,
-         "wind_direction": 112,
-         "cloud_cover": 7
-      },
-      "25-09-2024": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 64,
-         "wind_speed": 6,
-         "wind_direction": 197,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 71,
+         "wind_speed": 14,
+         "wind_direction": 202,
          "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 65,
+         "wind_speed": 12,
+         "wind_direction": 204,
+         "cloud_cover": 8
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 61,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 96,
+         "rh_min": 65,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 4
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 95,
+         "rh_min": 69,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
+      "arhar",
       "maize",
-      "ragi",
       "black gram",
       "sesame",
-      "ginger",
-      "turmeric"
+      "brinjal",
+      "chilli",
+      "papaya"
    ],
-   "general_advisory": "Rainfall is expected during the next five days, spray only when the sky becomes clear and use a sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during a dry spell. Due to high humidity, possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rain water at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Current weather may favour blast disease in rice. To control it spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water or Tricyclazole 45% + Hexaconazole 10% WG @ 1 g/litre of water.",
-            "There is a chance of stem borer and leaf folder infestation. If found in the field then spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Flubendiamide 20% WG @ 0.25 g/litre of water.",
-            "To control bacterial leaf blight spray Copper oxychloride 50% WP @ 3 g and Streptomycin + Tetracycline (90+10) @ 0.15 g/litre of water when the sky becomes clear."
+            "Apply 16kg Urea + 10kg MOP per acre in upland condition and 20kg urea + 13kg MOP per acre in medium and low land condition at panicle initiation stage as second top dressing.",
+            "Install Pheromone traps @ 8nos./acre and light trap @1no./acre to monitor and control the population of stem borer, leaf folder and rice ear eating caterpillar and replace the lure after three weeks.",
+            "In stem borer endemic areas, release egg parasitoid Trichogramma japonicum (Tricho card) @ 60000 eggs (3 card) /acre is required.",
+            "Current weather may favour blast disease in rice. To control it spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water or Tricyclazole 45% + Hexaconazole 10% WG @ 1 g/litre of water."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Leaf webber: Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water.",
+            "Wilt: Wilting may be observed after receding of rain. Apply Metiram 75% WG @ 1.5g/liter at root zone of the plant as control measure."
          ]
       },
       "maize": {
          "advisory": [
-            "Develop a better drainage system to avoid waterlogging condition due to excess rainfall.",
-            "There may be aphids incidence in maize due to high humidity and cloudy condition, if observed spray Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC @ 0.25 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water in sunny days.",
-            "Fall armyworm may be observed in the field, to control it spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water."
-         ]
-      },
-      "ragi": {
-         "advisory": [
-            "If blast incidence is observed in ragi spray Zineb 75% WP @ 2 g/litre of water or Tricyclazole 75% WP @ 1 g/litre of water when the sky becomes clear."
+            "Develop better drainage system to avoid water logging condition due to excess rainfall.",
+            "Apply Urea @ 25kg/ac if crop is at tasseling stage and irrigate if water is not sufficient.",
+            "Stem borer, FAW and banded leaf and sheath blight may appear due to present weather condition. Monitor the field regularly and remove infected plant parts.",
+            "To control Fall army worm  spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/Iitre of water."
          ]
       },
       "black gram": {
          "advisory": [
-            "This is the time for sowing of pre-rabi black gram (Biri) and green gram (Mung). Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Apply 4 kg urea, 35 kg DAP, and 13 kg MOP per acre during final land preparation. Sow the seeds in a line of 30 cm apart with 10 -15 cm plant to plant distance."
+            "This is the time for sowing of  pre-rabi Black gram (Biri) and Green gram (Mung). Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Apply 4 kg urea, 35 kg DAP and 13 kg MOP per acre during final land preparation. Sow the seeds in line of 30 cm apart with 10 -15 cm plant to plant distance."
          ]
       },
       "sesame": {
          "advisory": [
-            "This is the optimum time for sowing of pre-rabi sesame. Sow the seeds in lines of 30 cm apart and 10 cm between plants using 3 kg seed/acre. Apply 6.5 kg urea, 17 kg DAP, and 13 kg MOP per acre during final land preparation."
+            "This is the optimum time for sowing of pre -rabi sesame. Sow the seeds in lines of 30 cm apart and 10 cm between plants using 3 kg seed/acre. Apply 6.5 kg urea, 17 kg DAP and 13 kg MoP per acre during final land preparation."
          ]
       },
-      "ginger": {
+      "brinjal": {
          "advisory": [
-            "Go for weeding and apply 54 kg urea and 33 kg MOP per acre at 90 days after planting and apply mulching @ 2 t/acre."
+            "To control wilt, spray Tebuconazole 25.9% EC @ 200 -ml/acre + Streptocycline @ 30g/acre at the root zone mixed with 200 liters of water ."
          ]
       },
-      "turmeric": {
+      "chilli": {
          "advisory": [
-            "Go for weeding and apply 26 kg urea per acre at 45 days after planting and apply mulching @ 2 t/acre."
+            "To manage fruit borer, spray Cyntraniliprole 10.26% OD @ 240 ml/acre mixed with 200 liters of water ."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "To control papaya leaf curl virus, install yellow sticky trap @ 8nos/acre and spray neem oil (1500 ppm) @ 3ml/liter of water."
          ]
       }
    },
-   "date": "20-09-2024"
+   "date": "27-09-2024"
 }

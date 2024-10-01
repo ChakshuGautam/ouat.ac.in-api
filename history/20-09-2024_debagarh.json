@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "21/09/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 52,
+         "wind_speed": 4,
+         "wind_direction": 79,
+         "cloud_cover": 4
+      },
+      "22/09/2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 54,
+         "wind_speed": 5,
+         "wind_direction": 112,
+         "cloud_cover": 4
+      },
+      "23/09/2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 56,
+         "wind_speed": 5,
+         "wind_direction": 135,
+         "cloud_cover": 6
+      },
+      "24/09/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 58,
+         "wind_speed": 5,
+         "wind_direction": 116,
+         "cloud_cover": 7
+      },
+      "25/09/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 95,
+         "rh_min": 57,
+         "wind_speed": 8,
+         "wind_direction": 108,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "kharif pulses",
+      "ragi",
+      "sesamum",
+      "maize",
+      "groundnut",
+      "ginger",
+      "vegetables",
+      "cucurbits",
+      "flowers"
+   ],
+   "general_advisory": "Due to forecast of very light to light rainfall, postpone application of fertilizer & chemical. Maintain water levels in fields in paddy. Be aware of pest infestations due to high humidity.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Due to weather forecast, watch for sheath rot and blight. Apply recommended fungicides."
+         ]
+      },
+      "kharif pulses": {
+         "advisory": [
+            "To manage pod borer, apply recommended insecticides."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "If favorable for blast, apply Tricyclazole."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "Maintain optimum plant population."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Watch for aphids, apply Dimethoate if necessary."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage root rot, apply Carbendazim."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Apply curative measures for rhizome rot."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Ensure proper care and maintenance during planting."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Watch for Downy Mildew disease and apply recommended fungicides."
+         ]
+      },
+      "flowers": {
+         "advisory": [
+            "Follow nursery raising guidelines and planting instructions."
+         ]
+      }
+   },
+   "date": "20-09-2024"
+}
