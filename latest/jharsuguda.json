@@ -1,109 +1,92 @@
 {
    "weather_details": {
-      "27-09-2024": {
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 69,
+         "rh_min": 41,
+         "wind_speed": 6,
+         "wind_direction": 292,
+         "cloud_cover": 2
+      },
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 30,
+         "cloud_cover": 3
+      },
+      "07-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 76,
+         "rh_min": 47,
+         "wind_speed": 6,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "08-10-2024": {
          "rainfall": 0,
          "t_max": 35,
-         "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 75,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 51,
+         "wind_speed": 7,
+         "wind_direction": 135,
+         "cloud_cover": 5
       },
-      "28-09-2024": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 75,
-         "wind_speed": 11,
-         "wind_direction": 159,
-         "cloud_cover": 8
-      },
-      "29-09-2024": {
-         "rainfall": 10,
-         "t_max": 31,
+      "09-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
          "t_min": 24,
          "rh_max": 92,
-         "rh_min": 66,
-         "wind_speed": 9,
-         "wind_direction": 212,
-         "cloud_cover": 8
-      },
-      "30-09-2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 64,
-         "wind_speed": 10,
-         "wind_direction": 243,
+         "rh_min": 52,
+         "wind_speed": 8,
+         "wind_direction": 148,
          "cloud_cover": 6
-      },
-      "01-10-2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 94,
-         "rh_min": 66,
-         "wind_speed": 12,
-         "wind_direction": 248,
-         "cloud_cover": 6
-      },
-      "02-10-2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 89,
-         "rh_min": 71,
-         "wind_speed": 9,
-         "wind_direction": 243,
-         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "rice",
-      "cotton",
-      "maize",
-      "vegetable crops",
+      "ground nut",
+      "okra",
       "mango",
       "cow/buffalo"
    ],
-   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations due to expected rainfall. Good drainage systems should be in place for fruit orchards and vegetable fields. Regular monitoring for pests and diseases is recommended. Avoid excess use of nitrogenous fertilizer to prevent insect pests and diseases. Proper drainage and maintenance practices are essential for various crops and animal husbandry.",
+   "general_advisory": "As there are very less chance of occurrence of rainfall is expected in upcoming days, farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) with proper care. Sowing of green fodder should be advised in moist soil to avail proper diet to animals. Regular monitoring against the incidence of some insects i.e. YSB, Leaf folder, Case worm, Gall Midge, Leaf eating caterpillar etc. and diseases like BLB, Blast etc. in Rice crop should be advised. Prevailing weather condition is favourable for various sucking pest (aphids, jassids, mealy bug, thrips etc.) in different crops so its regular monitoring should be advised. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Farmers should maintain 5 cm water level in rice field for proper growth.",
-            "In case of bacterial leaf blight disease, appropriate fertilizers and sprays should be applied.",
-            "Control measures for Case worm attack should be implemented."
+            "In case of appearance of bacterial leaf blight disease, farmers should stop top dressing of nitrogenous fertilizers (Urea/DAP). If there is facility of draining, drain out stagnant water and apply 5 kg potassic fertilizer (MOP) per acre. Apply Streptomycin sulphate (9 %) + Tetracycline hydrochloride (1 %) @ 120 g/acre and Copper oxychloride @ 200 g/acre in 200 litre of water. Spraying should be done in the early morning or afternoon hour under clear weather condition.",
+            "To control gall midge attack in rice field (onion leaf or silver shoot like symptoms), farmers should spray Lambda-cyhalothrin 05 % EC @ 100 ml, thiamethoxam 25% WG @ 40g or Fipronil 5% SC @ 400 ml or Chlorpyriphos 20 EC @ 500 ml in 200 liter water per acre in clear and calm weather condition."
          ]
       },
-      "cotton": {
+      "ground nut": {
          "advisory": [
-            "Neem-based pesticides should be used for controlling sucking insect pests in cotton crop."
+            "To control Tikka disease in Ground nut, spraying of Chlorothalonil @ 400g or Hexaconazole 5 % EC @ 400 ml per 200 liters of water per acre should be advised under clear weather condition."
          ]
       },
-      "maize": {
+      "okra": {
          "advisory": [
-            "Top dressing of urea fertilizer and control measures for fall army worm attack should be carried out."
-         ]
-      },
-      "vegetable crops": {
-         "advisory": [
-            "Various spraying and control measures for fruit and shoot borers, sucking insect pests, and diseases should be implemented.",
-            "Proper drainage and excess water management is crucial."
+            "If yellow vein mosaic symptoms (which is a viral disease and whitefly is the carrier of this disease) are shown in the okra crop, then to control it, first remove the severely affected plants and bury them under the soil at a distance. Use 8 yellow cards per acre to control whiteflies and the field should be weed free. For its chemical control, spraying of Difenthiuron 50% WP @ 20 g or Acetamiprid 20% SP @ 2.5 g or Imidacloprid 17.8% SL @ 3 ml per 10 liters of water should be advised in the afternoon and repeat the same after a week of the first spray when the weather is dry. To control Fruit and shoot borer in Okra etc. spraying of Neem-based pesticide 1500 ppm @ 600ml per acre should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC @ 70ml and Emamectin benzoate @ 80 g per acre at 15 days interval should be advised. Farmers shouldn’t spray any chemical insecticides at the flowering period."
          ]
       },
       "mango": {
          "advisory": [
-            "Training, pruning, and pest control measures should be followed in both old and newly planted mango orchards."
+            "In the old Mango orchard, training, pruning, and cleaning of weed, diseased and infected branches and leaves should be advised. If leaf webber infestation occurs, then spraying of quinalfos 20 EC @ 2.5 ml per liter should be advised. In the newly planted mango orchard, if leaf-cutting weevil attack is observed then farmers should spray Lambda cyhalothrin 5% EC @ 0.5 - 1 ml per liter or Chlorpyriphos 20 EC @ 2ml per liter or Spinosad 45% SC @ 0.4 ml per liter or quinalfos 20 EC @ 2 ml per liter to control this insect."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Preventive measures for mastitis disease in cows and buffaloes should be implemented."
+            "FMD is a highly contagious viral disease which is characterized by fever and blister-like sores on the tongue and lips, in the mouth, on the teats and between the hooves. The disease is rarely fatal in adult animals, but there is often high mortality in young animals. So there are some preventive and control measures given below: - The primary vaccination should be given to cattle and buffalo calves when they are 4 – 5 months old and repeat the same every six months. Deworming should be advised. Mouth and feet of the affected animals should be washed with 1% potassium permanganate (KMnO4) antiseptic mouthwash 3-4 times a day. Glycerin may be applied over the lesions. Isolate the affected animals from healthy animals. Antibiotic treatment and consultation should be made with a qualified veterinary doctor."
          ]
       }
    },
-   "date": "27-09-2024"
+   "date": "04-10-2024"
 }

@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "23.09.2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 94,
+         "rh_min": 73,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "24.09.2024": {
+         "rainfall": 25,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 70,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25.09.2024": {
+         "rainfall": 19,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 96,
+         "rh_min": 66,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26.09.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 95,
+         "rh_min": 70,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "black gram",
+      "sesame",
+      "maize",
+      "tomato",
+      "chilli",
+      "brinjal"
+   ],
+   "general_advisory": "Watch for rain before applying pesticides. If necessary spray only when the sky becomes clear and use a sticker to the spray solution. Utilize recent rainfall for short duration low water requiring crops. Regularly survey all crops for insect pests and initiate control strategies.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply Urea and MOP per acre at panicle initiation stage. Install traps for stem borer, leaf folder, and rice ear eating caterpillar. In stem borer endemic areas, release egg parasitoid Trichogramma japonicum. Spray Tebuconazole to control blast disease."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Sow pre-rabi black gram using treated seeds. Apply urea, DAP, and MOP per acre during final land preparation."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Sow pre-rabi sesame using treated seeds. Apply urea, DAP, and MOP per acre during final land preparation."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Develop better drainage system to avoid water logging. Apply Urea at tasseling stage. Monitor field regularly for pests and diseases. To control Fall armyworm, spray Emamectin benzoate or Chlorantraniliprole."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Complete nursery sowing. Use high yielding varieties. Protect from excess rainfall. Manage bacterial spot and speck disease."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Manage fruit borer with Cyntraniliprole. Control leaf curl and mosaic diseases."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control wilt, spray Tebuconazole and Streptocycline."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

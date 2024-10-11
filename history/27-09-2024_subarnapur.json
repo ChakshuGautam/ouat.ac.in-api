@@ -1,0 +1,113 @@
+{
+   "weather_details": {
+      "27-09-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 0
+      },
+      "28-09-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 67,
+         "rh_min": 93,
+         "wind_speed": 8,
+         "wind_direction": 162,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 63,
+         "rh_min": 89,
+         "wind_speed": 9,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 60,
+         "rh_min": 85,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 62,
+         "rh_min": 92,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 65,
+         "rh_min": 88,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "vegetable crops",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations as there is a chance of light to moderate rainfall in some places in the upcoming days. Provision for good drainage system in fruit orchards and vegetable fields is recommended. Regular monitoring for pests and diseases in crops is advised. Avoid excess use of nitrogenous fertilizers.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Application of Neem based pesticide to control sucking insect pests like Aphids and Thrips.",
+            "Avoid chemical insecticides at initial stage of flowering."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing of urea fertilizer should be advised at this stage.",
+            "Spraying of Emamectin Benzoate to control fall army worm attack."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Use Neem based pesticide to control Fruit and shoot borer in Brinjal, Tomato, Okra etc.",
+            "Proper drainage of excess water from fields should be advised.",
+            "Regular monitoring and spraying for insect pests and diseases.",
+            "Use Carbendazim or copper oxicloride for controlling diseases like wilt, root rot, etc."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Training, pruning, and cleaning of weed, diseased branches in old Mango orchards.",
+            "Spraying of appropriate insecticides for pest control in newly planted mango orchards."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Preventive measures for Mastitis disease include pre and post dipping with antiseptic liquids, proper sanitation, preventing wet floor surface, feeding adjustments, lime application on the resting floor.",
+            "Sowing of green fodder in moist soil is recommended."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

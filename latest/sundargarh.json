@@ -1,53 +1,53 @@
 {
    "weather_details": {
-      "28/09/2024": {
-         "rainfall": 20,
-         "t_max": 29,
-         "t_min": 24,
-         "rh_max": 97,
-         "rh_min": 75,
-         "wind_speed": 10,
-         "wind_direction": 162,
-         "cloud_cover": 8
+      "05/10/2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 6,
+         "wind_direction": 292,
+         "cloud_cover": 2
       },
-      "29/09/2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 24,
-         "rh_max": 94,
-         "rh_min": 68,
-         "wind_speed": 8,
-         "wind_direction": 212,
-         "cloud_cover": 7
-      },
-      "30/09/2024": {
-         "rainfall": 5,
-         "t_max": 32,
+      "06/10/2024": {
+         "rainfall": 0,
+         "t_max": 36,
          "t_min": 25,
-         "rh_max": 92,
-         "rh_min": 66,
-         "wind_speed": 9,
-         "wind_direction": 238,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 158,
+         "cloud_cover": 3
+      },
+      "07/10/2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 46,
+         "wind_speed": 5,
+         "wind_direction": 158,
          "cloud_cover": 6
       },
-      "01/10/2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 95,
-         "rh_min": 64,
-         "wind_speed": 10,
-         "wind_direction": 243,
-         "cloud_cover": 6
+      "08/10/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 53,
+         "wind_speed": 6,
+         "wind_direction": 158,
+         "cloud_cover": 4
       },
-      "02/10/2024": {
+      "09/10/2024": {
          "rainfall": 5,
          "t_max": 34,
-         "t_min": 26,
-         "rh_max": 91,
-         "rh_min": 70,
-         "wind_speed": 8,
-         "wind_direction": 243,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 156,
          "cloud_cover": 6
       }
    },
@@ -55,90 +55,48 @@
       "paddy",
       "kharif pulses",
       "ragi",
-      "sesamum",
       "maize",
       "groundnut",
-      "ginger",
-      "brinjal",
-      "tomato",
-      "chilli",
-      "cucurbits",
-      "banana",
-      "papaya",
-      "cow & buffalo"
+      "vegetables",
+      "cucurbits"
    ],
-   "general_advisory": "Kharif crop 2024: Only maintain 3-5 cm water in the field up to flowering stage in paddy. Provide drainage facility to drain out excess water from the field. Due to high humidity, survey for any insect pest in kharif crops and take action as suggested.",
+   "general_advisory": "Kharif crop 2024: 1. Only maintain 3-5 cm water in the field up to flowering stage in paddy. Provide drainage facility to drain out excess water from the field. Due to high humidity survey for any insect pest in kharif crops and take action as suggested.",
    "crops_data": {
-      "paddy": {
+      "transplanted paddy": {
          "advisory": [
-            "Due to weather condition, there is chances of Stem borer & Leaf folder: If pest population is above ETL, spray Chlorantraniliprole 18.5% SC @ 60 ml/acre or Flubendiamide 20 WG 50 g/acre by mixing with 200 litres of water or apply Cartap hydrochloride 4G @ 10 kg/acre to control leaf folder as well as stem borer infestation."
+            "Incidence of BLB and Blast disease are noticed in some areas, spray Copper Oxychloride @ 500gm along with Plantomycin @ 200gm/acre or (Tebuconazole 50%+ Trifloxystrobin 25% WG) or Soil application of additional dose of MOP 12 Kg/acre recommended."
          ]
       },
       "kharif pulses": {
          "advisory": [
-            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 -gram/acre or Chlorantraniliprole 18.5 % SC @80 -ml/acre or Profenophos 50 % EC @ 400 -ml/acre."
+            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Profenophos 50 % EC @ 400-ml/acre."
          ]
       },
       "ragi": {
          "advisory": [
-            "Condition is favorable for blast incidence in ragi, if observed spray Tricyclazole 75% WP @ 1 g/litre of water when the sky becomes clear."
-         ]
-      },
-      "sesamum": {
-         "advisory": [
-            "Go for the thinning operation and maintain optimum plant population."
+            "When the crop turns 85% maturity go for harvesting and dry it under sun for 2-3 days."
          ]
       },
       "maize": {
          "advisory": [
-            "Due to weather there is chances of Aphids in Maize, to manage this, apply Dimethoate @ 2 ml/liter of water."
+            "The matured cobs are harvested and dried under sun for 2-3 days."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Due to weather root rot disease is seen, to manage this spray Carbendazim @ 2 g/liter of water."
+            "When the inner side of the pod turns black, go for harvesting the crop and sun dry for 3-4 days."
          ]
       },
-      "ginger": {
+      "vegetables": {
          "advisory": [
-            "Rhizome root may be seen, then apply Tagmycin @ 1.5 packets and Neem oil @ 75 ml/15 liter of water as curative measures."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "To control wilt, spray Tebuconazole 25.9% EC @ 200-ml/acre + Streptocycline @ 30g/acre at the root zone mixed with 200 liters of water."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Select suitable varieties like Utkal Kumari (BT-10), Utkal Deepti (BT-2), Utkal Raja, Utkal Pragyan and Swarna Sampad for raising in the nursery. 150 to 200 grams of seed is required for planting in one acre area."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "To manage fruit borer, spray Cyntraniliprole 10.26% OD @ 240 ml/acre mixed with 200 liters of water."
+            "To control Fruit and shoot borer in Brinjal spray Neem based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @70ml/acre and Emamectin benzoate @ 80 g/acre at 15 days interval."
          ]
       },
       "cucurbits": {
          "advisory": [
             "There are chances of infestation of Downy Mildew disease in cucurbit vegetables after the heavy rainfall. To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3 g/litre."
          ]
-      },
-      "banana": {
-         "advisory": [
-            "To manage Sigatoka leaf spot and Cigar end rot or Tip rot spray Mancozeb 75% WP @ 3g/liter of water."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "To control papaya leaf curl virus, install yellow sticky trap @ 8nos/acre and spray neem oil (1500 ppm) @ 3ml/liter of water."
-         ]
-      },
-      "cow & buffalo": {
-         "advisory": [
-            "As grasses are high in moisture content during rainy days, the cattle don’t get adequate dry matter from those. So, give 1 kg of concentrate for every 2 kg of milk to dairy animals."
-         ]
       }
    },
-   "date": "27-09-2024"
+   "date": "04-10-2024"
 }

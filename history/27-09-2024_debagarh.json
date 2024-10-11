@@ -1,0 +1,132 @@
+{
+   "weather_details": {
+      "28/09/2024": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 98,
+         "rh_min": 72,
+         "wind_speed": 9,
+         "wind_direction": 148,
+         "cloud_cover": 8
+      },
+      "29/09/2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 67,
+         "wind_speed": 6,
+         "wind_direction": 169,
+         "cloud_cover": 7
+      },
+      "30/09/2024": {
+         "rainfall": 3,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 63,
+         "wind_speed": 6,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "01/10/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 61,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "02/10/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 234,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "direct sown paddy",
+      "kharif pulses",
+      "kharif transplanted paddy",
+      "ragi",
+      "sesamum",
+      "cultivation of maize",
+      "groundnut",
+      "ginger",
+      "vegetables",
+      "papaya",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "1. Due to Forecast of Very light to Light rainfall from 28th Sept. farmers are advised to postpone application of fertilizer & chemical during this period. 2. Due to high humidity survey for any insect pest in kharif crops.",
+   "crops_data": {
+      "direct sown paddy": {
+         "advisory": [
+            "Due to weather, there is chance of sheath blight in paddy. To manage this disease spray Validamycin @ 2 ml/liter of water."
+         ]
+      },
+      "kharif pulses": {
+         "advisory": [
+            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 -gram/acre or Chlorantraniliprole 18.5 % SC @80 -ml/acre or Profenophos 50 % EC @ 400 -ml/acre."
+         ]
+      },
+      "kharif transplanted paddy": {
+         "advisory": [
+            "Due to the weather condition, there is chances of Bacterial Leaf Blight, to manage this spray 1 g Streptomycin and 30 g copper oxy chloride per 10 liter of water. Apply 20 kg urea and + 13 kg MOP in Medium and low land condition."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Due to the weather effect, there is chances of stem borer attack, to manage this spray Fipronil @ 2 g/ liter of water."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "Due to weather effect there is Leaf webber is seen, to manage this spray Carbaryl @ 4 g/Liter of water and to be sprayed on the leaf surface."
+         ]
+      },
+      "cultivation of maize": {
+         "advisory": [
+            "Due to weather effect, there is chances of Aphids infestation, to manage this spray Imidachloprid @ 0.4 ml/liter of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "The early sown crop is at maturity stage. Go for harvesting and dry it under sun for 2 -3 days."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Go for intercultivation and apply 55 kg Urea and 33 kg MOP per acre."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Go for tomato sowing. Collect good varieties are Arka Rakshak. The spacing between lines are 60 cm."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Due to rainfall, do not allow water to remain stagnant near the base of the crop."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Provide mineral mixture @ 3% of the body mass."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide sufficient Fodder to the milch animals."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

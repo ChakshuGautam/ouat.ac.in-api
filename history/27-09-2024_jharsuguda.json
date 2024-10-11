@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "27-09-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 75,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "28-09-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 75,
+         "wind_speed": 11,
+         "wind_direction": 159,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 66,
+         "wind_speed": 9,
+         "wind_direction": 212,
+         "cloud_cover": 8
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 10,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 71,
+         "wind_speed": 9,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "vegetable crops",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Farmers are advised to take proper care during irrigation and spraying operations due to expected rainfall. Good drainage systems should be in place for fruit orchards and vegetable fields. Regular monitoring for pests and diseases is recommended. Avoid excess use of nitrogenous fertilizer to prevent insect pests and diseases. Proper drainage and maintenance practices are essential for various crops and animal husbandry.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "In case of bacterial leaf blight disease, appropriate fertilizers and sprays should be applied.",
+            "Control measures for Case worm attack should be implemented."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Neem-based pesticides should be used for controlling sucking insect pests in cotton crop."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing of urea fertilizer and control measures for fall army worm attack should be carried out."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Various spraying and control measures for fruit and shoot borers, sucking insect pests, and diseases should be implemented.",
+            "Proper drainage and excess water management is crucial."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Training, pruning, and pest control measures should be followed in both old and newly planted mango orchards."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Preventive measures for mastitis disease in cows and buffaloes should be implemented."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

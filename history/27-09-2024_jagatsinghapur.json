@@ -1,0 +1,103 @@
+{
+   "weather_details": {
+      "28/09/2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 77,
+         "wind_speed": 21,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "29/09/2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 74,
+         "wind_speed": 21,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "30/09/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 69,
+         "wind_speed": 18,
+         "wind_direction": 243,
+         "cloud_cover": 4
+      },
+      "01/10/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 69,
+         "wind_speed": 15,
+         "wind_direction": 246,
+         "cloud_cover": 4
+      },
+      "02/10/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 69,
+         "wind_speed": 18,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "cucurbits",
+      "brinjal",
+      "cole crops",
+      "coconut",
+      "marigold"
+   ],
+   "general_advisory": "The district of Jagatsinghpur may likely to receive light rainfall for the next five days. Do proper field surveillance for pests and diseases regularly and take appropriate plant protection measures accordingly. Prevailing weather condition is favorable for infestation of sucking pests like aphid, jassids, whitefly, mealy bug, and thrips. Apply neem-based pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at the initial stage to manage sucking pest infestation. Keep your crop field free from weed to minimize the incidence of diseases and pests. In uplands prepare seedlings for tomato and early variety cauliflower. For control Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at the early stage of infestation.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Panicle Initiation to flowering initiation - To manage yellow stem borer in paddy spray Fipronil 5% SC @ 400-ml/acre or Flubendiamide 20% SG @ 50-gram/acre or Chlorantraniliprole 18.5% SC @ 60-ml / acre or Chromafenozide 80%WP @ 50-gram /acre.",
+            "BPH and WBPH Management - The high humid weather condition is favorable for Brown Plant Hopper (BPH) and White Backed Plan t Hopper (WBPH) infestation in paddy. To manage BPH and WBPH in paddy avoid excess use of nitrogenous fertilizer. Do not keep standing water in the field for a longer period. Alter the micro-climate of the rice field by alternate wetting and drying technique. Make alleys at 6 feet spacing for sunlight entry and proper aeration below the crop zone."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Pod formation stage - To manage Tobacco caterpillar pest biologically, use Pheromone trap Spodolure @ 6/acre. Install a light trap @ 8 nos. Apply Bacillus thuringenesis @ 400 g/acre or Beauveria bassiana @ 500 g/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400-ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 litres of water."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Flowering to Fruiting - After rainfall there are chances of infestation of Powdery Mildew disease in cucurbit vegetables. For control of this disease in cucurbits, spray Azoxystrobin 4.8% + Chlorothalonil 40%SC @ 3ml/litre or Carbendazim 12% + Mancozeb 63% WP @ 2-gram/litre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative to Fruiting - Fruit and Shoot borer - For controlling Fruit and Shoot borer in brinjal, apply Emamectin benzoate @ 60 gm or spinosad @ 70 ml per acre."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Pre-Sowing - Nursery management  - The seed rate for Cauliflower, cabbage, and Broccoli is 200g for improved varieties and 50g for hybrid seeds. For one-acre cultivation, prepare 10-12 nursery beds of 3m length, 1m breadth, and 10- 15 cm height. Apply 20 kg of completely decomposed FYM to each nursery bed ten days before sowing."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Control black headed caterpillar in coconut, install Bracon card in the front of the plant. Cut the affected leaves and burn it. To manage the pests chemically spray Chlorantraniliprole 18.5 % SC@ 4-ml/10- litre of water or Emamectin Benzoate 5 % SG @ 4-gram/10-litre of water."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Marigold and Rose, spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57 % EC (Omite/Mitekill/Super Dynamite) @ 2-ml/litre of water or Fenpyroximate 5 % EC (Seagate/ Mitigate/Formite) @ 2-ml/litre of water."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

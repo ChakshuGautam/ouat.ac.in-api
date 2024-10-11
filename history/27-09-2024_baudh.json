@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "28-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 71,
+         "wind_speed": 7,
+         "wind_direction": 159,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 66,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 62,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 64,
+         "wind_speed": 9,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "vegetable crops",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Farmers are advised take proper care during irrigation as well as spraying operations because there is a chance of occurrence of light to moderate rainfall somewhere in the upcoming one or two days. Make provision for good drainage system in fruit orchard and vegetable field. Regular monitoring against the incidence of insects and diseases in Rice crop should be advised. Prevailing weather condition is favorable for various pest attacks in different crops so regular monitoring should be advised. Avoid excess use of nitrogenous fertilizer at crops.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "Stop top dressing of nitrogenous fertilizers if bacterial leaf blight disease appears and apply other specified fertilizers. Drain out stagnant water if possible."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Application of Neem based pesticide to control sucking insect pests in cotton crop and avoid chemical insecticides at initial stage of flowering."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing of urea fertilizer at this stage.",
+            "Spraying of specified pesticide to control fall army worm attack in Maize crop."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Spraying of specified pesticides to control pests and diseases in various vegetable crops.",
+            "Ensure proper drainage of excess water from fields."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Training, pruning, and cleaning in old Mango orchard.",
+            "Spraying of specified pesticides to control insect attacks in Mango orchard."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Follow preventive and control measures for Mastitis disease in Cow and Buffalo.",
+            "Proper feeding and maintenance practices to prevent and control the disease."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

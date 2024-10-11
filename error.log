@@ -245,3 +245,5 @@ ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai
 ERROR:root:Error downloading PDF for cuttack
 ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai.samagra.io/ouat/wp-content/uploads/2024/09/Bhadrak_IAAS_Eng_20.09.2024_38_76.pdf: 504
 ERROR:root:Error downloading PDF for bhadrak
+ERROR:root:Error processing PDF for anugul: Connection error.
+ERROR:root:Error processing PDF for kalahandi: Connection error.

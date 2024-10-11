@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "28-09-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 73,
+         "wind_speed": 9,
+         "wind_direction": 159,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 68,
+         "wind_speed": 8,
+         "wind_direction": 201,
+         "cloud_cover": 6
+      },
+      "30-09-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 64,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      },
+      "01-10-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 65,
+         "wind_speed": 8,
+         "wind_direction": 212,
+         "cloud_cover": 4
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "vegetables",
+      "fruits",
+      "livestock"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can resume agronomic practices, application pesticides and fertilizers from Thursday. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. Topping (cutting of terminal bud of the main stem) should be done at 90 DAS or when the crop attains 100 cm height in cotton crop.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Gundhi bug infestation"
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Thrips infestation"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Pink bollworm and American bollworm management",
+            "Aphids and Jassids control",
+            "Shoot weevil control",
+            "Leaf spot disease management",
+            "Root rot & Wilt treatment"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Leaf webber /Leaf folder/Defoliators control",
+            "Wilting management"
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Stem borer, FAW and banded leaf and sheath blight control"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Management of diseases in Brinjal, Okra, and Chilli"
+         ]
+      },
+      "fruits": {
+         "advisory": [
+            "Disease management in Banana and Papaya"
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Preventive measures for rabies in domestic animals",
+            "Feeding recommendations for Cow & Buffalo and Goat & Sheep"
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "28-09-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 75,
+         "wind_speed": 11,
+         "wind_direction": 193,
+         "cloud_cover": 8
+      },
+      "29-09-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "30-09-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 62,
+         "wind_speed": 8,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "01-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "02-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 252,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "vegetables"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can resume agronomic practices, apply balanced and appropriate fertilizers, consider an integrated approach of preventive measures for pests, and perform topping in cotton crops at 90 DAS.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Pest management for Gundhi bug and BPH during milking stage.",
+            "Nutrient management and pest management for Thrips and Blast during PI to Flowering stage."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Topping should be done at 90 DAS.",
+            "Pest management for Pink bollworm, American bollworm, Aphids, Jassids, Shoot weevil, Leaf spot, and Root rot & Wilt."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Pest management for Leaf webber, Leaf folder, Defoliators, and Wilting."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Pest management for Stem borer, FAW, Banded leaf, and sheath blight."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Management of diseases in Brinjal, Okra, and Chilli.",
+            "Management of diseases in Banana and Papaya."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

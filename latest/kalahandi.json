@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "28-09-2024": {
-         "rainfall": 10,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 73,
-         "wind_speed": 9,
-         "wind_direction": 159,
-         "cloud_cover": 8
-      },
-      "29-09-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 68,
-         "wind_speed": 8,
-         "wind_direction": 201,
-         "cloud_cover": 6
-      },
-      "30-09-2024": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 64,
-         "wind_speed": 7,
-         "wind_direction": 225,
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 49,
+         "wind_speed": 6,
+         "wind_direction": 210,
          "cloud_cover": 4
       },
-      "01-10-2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
          "t_min": 25,
-         "rh_max": 94,
-         "rh_min": 65,
-         "wind_speed": 8,
-         "wind_direction": 212,
+         "rh_max": 72,
+         "rh_min": 47,
+         "wind_speed": 5,
+         "wind_direction": 216,
          "cloud_cover": 4
       },
-      "02-10-2024": {
-         "rainfall": 2,
-         "t_max": 33,
+      "07-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 82,
+         "rh_min": 51,
+         "wind_speed": 5,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "08-10-2024": {
+         "rainfall": 5,
+         "t_max": 34,
          "t_min": 24,
          "rh_max": 92,
-         "rh_min": 69,
-         "wind_speed": 8,
-         "wind_direction": 225,
-         "cloud_cover": 4
+         "rh_min": 54,
+         "wind_speed": 6,
+         "wind_direction": 153,
+         "cloud_cover": 6
+      },
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 56,
+         "wind_speed": 6,
+         "wind_direction": 156,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
@@ -57,58 +57,89 @@
       "cotton",
       "arhar",
       "hybrid maize",
-      "vegetables",
-      "fruits",
-      "livestock"
+      "brinjal",
+      "tomato",
+      "cole crops",
+      "banana",
+      "papaya",
+      "cattle",
+      "goat & sheep",
+      "poultry"
    ],
-   "general_advisory": "Based on five days weather forecast received from IMD, farmers can resume agronomic practices, application pesticides and fertilizers from Thursday. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand. Always consider an integrated approach of preventive measures together with biological treatment if available to protect the crop from pests. Extensive insecticide use can lead to resistance in the pest. Topping (cutting of terminal bud of the main stem) should be done at 90 DAS or when the crop attains 100 cm height in cotton crop.",
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue agronomic practices, irrigation, application of pesticides and fertilizers during the next four days as needed. Keep the fields weed free, plug the holes in the bunds, monitor the crop for pest and diseases, and use control measures as required.",
    "crops_data": {
       "direct seeded paddy": {
          "advisory": [
-            "Gundhi bug infestation"
+            "Gundhi bug infestation control measures",
+            "BPH infestation control measures"
          ]
       },
       "transplanted paddy": {
          "advisory": [
-            "Thrips infestation"
+            "Thrips infestation control measures",
+            "Blast infestation control measures"
          ]
       },
       "cotton": {
          "advisory": [
-            "Pink bollworm and American bollworm management",
-            "Aphids and Jassids control",
-            "Shoot weevil control",
-            "Leaf spot disease management",
-            "Root rot & Wilt treatment"
+            "Pest management measures including topping, monitoring for various pests, and disease control"
          ]
       },
       "arhar": {
          "advisory": [
-            "Leaf webber /Leaf folder/Defoliators control",
-            "Wilting management"
+            "Leaf webber/leaf folder/defoliators control measures",
+            "Wilt management measures"
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Stem borer, FAW and banded leaf and sheath blight control"
+            "Stem borer, FAW, and banded leaf and sheath blight control measures"
          ]
       },
-      "vegetables": {
+      "brinjal": {
          "advisory": [
-            "Management of diseases in Brinjal, Okra, and Chilli"
+            "Bacterial wilt management"
          ]
       },
-      "fruits": {
+      "tomato": {
          "advisory": [
-            "Disease management in Banana and Papaya"
+            "Seedling wilt prevention measures"
          ]
       },
-      "livestock": {
+      "cole crops": {
          "advisory": [
-            "Preventive measures for rabies in domestic animals",
-            "Feeding recommendations for Cow & Buffalo and Goat & Sheep"
+            "Nursery bed preparation guidelines"
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Sigatoka leaf spot and Cigar end rot or Tip rot management measures"
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "YVM monitoring and control measures"
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Proper ventilation in animal sheds",
+            "Cultivate drought-resistant fodder varieties"
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Regular checks for dehydration, heat stress, and parasitic infections",
+            "Deworming and vaccination against common diseases"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Maintain cleanliness and temperature control in poultry houses",
+            "Regular cleaning and disinfection to prevent pathogens buildup",
+            "Maintain appropriate stocking density to reduce stress"
          ]
       }
    },
-   "date": "27-09-2024"
+   "date": "04-10-2024"
 }

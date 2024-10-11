@@ -1,0 +1,79 @@
+{
+   "weather_details": {
+      "28/09/2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 72,
+         "wind_speed": 17,
+         "wind_direction": 201,
+         "cloud_cover": 8
+      },
+      "29/09/2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "30/09/2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 64,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "01/10/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 67,
+         "wind_speed": 9,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "02/10/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 64,
+         "wind_speed": 12,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "autumn paddy",
+      "maize",
+      "sugarcane"
+   ],
+   "general_advisory": "The district of Khordha may likely to receive very light to light rainfall for the next five days. Do proper field surveillance for pests and diseases regularly and take appropriate plant protection measures accordingly. Prevailing weather condition is favorable for infestation of sucking pests like aphid, jassids, whitefly, mealy bug and thrips. Apply neem based pesticide Azadiractin (1500 ppm) @ 3ml/liter of water at initial stage to manage sucking pest infestation. Keep your crop field free from weed to minimize the incidence of diseases and pests. In uplands prepare seedlings for tomato and early variety cauliflower. For control Epilachna Beetle in cucurbits spray neem-based pesticide (Neem Oil 1500 PPM) @ 3-ml/litre of water at early stage of infestation.",
+   "crops_data": {
+      "autumn paddy": {
+         "advisory": [
+            "Rice stem borer: To manage yellow stem borer in paddy spray Fipronil 5% SC @ 400-ml/acre or Flubendiamide 20 % SG @ 50-gram/acre or Chlorantraniliprole 18.5% SC @ 60-ml / acre or Chromafenozide 80%WP @ 50-gram /acre.",
+            "BPH and WBPH Management: The high humid weather condition is favorable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy. To manage BPH and WBPH in paddy avoid excess use of nitrogenous fertilizer. Do not keeping standing water in the field for longer period. Alter the micro-climate of the rice field by alternate wetting and drying technique. Make alleys at 6 feet spacing for sunlight entry and proper aeration below the crop zone."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To manage Tobacco caterpillar pest biologically, use Pheromone trap Spodolure @ 6/acre. Install light trap @ 8 nos. Apply Bacillus thuringenesis @ 400 g/acre or Beauveria bassiana @ 500 g/acre. For chemical control, spray Chlorpyriphos 50 % + Cypermethrin 5 % E.C @ 400-ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 litres of water."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Black headed caterpillar: For control black headed caterpillar in coconut, install Bracon card in the front of the plant. Cut the affected leaves and burn it. To manage the pests chemically spray Chlorantraniliprole 18.5 % SC@ 4-ml/10- litre of water or Emamectin Benzoate 5 % SG @ 4-gram/10-litre of water."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

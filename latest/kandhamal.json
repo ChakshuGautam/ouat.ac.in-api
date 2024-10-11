@@ -1,107 +1,105 @@
 {
    "weather_details": {
-      "28-09-2024": {
-         "rainfall": 5,
-         "t_max": 29,
-         "t_min": 21,
+      "09-10-2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 20,
          "rh_max": 96,
-         "rh_min": 74,
-         "wind_speed": 7,
-         "wind_direction": 167,
+         "rh_min": 64,
+         "wind_speed": 5,
+         "wind_direction": 158,
          "cloud_cover": 8
       },
-      "29-09-2024": {
-         "rainfall": 5,
-         "t_max": 29,
+      "10-10-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 58,
+         "wind_speed": 4,
+         "wind_direction": 197,
+         "cloud_cover": 5
+      },
+      "11-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
          "t_min": 20,
          "rh_max": 94,
-         "rh_min": 70,
-         "wind_speed": 6,
-         "wind_direction": 199,
-         "cloud_cover": 6
+         "rh_min": 60,
+         "wind_speed": 4,
+         "wind_direction": 197,
+         "cloud_cover": 5
       },
-      "30-09-2024": {
-         "rainfall": 2,
-         "t_max": 30,
-         "t_min": 22,
-         "rh_max": 93,
-         "rh_min": 65,
-         "wind_speed": 6,
-         "wind_direction": 216,
-         "cloud_cover": 6
-      },
-      "01-10-2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 94,
-         "rh_min": 70,
-         "wind_speed": 7,
-         "wind_direction": 238,
-         "cloud_cover": 6
-      },
-      "02-10-2024": {
-         "rainfall": 2,
+      "12-10-2024": {
+         "rainfall": 3,
          "t_max": 32,
-         "t_min": 23,
+         "t_min": 21,
          "rh_max": 93,
-         "rh_min": 70,
-         "wind_speed": 7,
-         "wind_direction": 238,
-         "cloud_cover": 4
+         "rh_min": 64,
+         "wind_speed": 3,
+         "wind_direction": 197,
+         "cloud_cover": 7
+      },
+      "13-10-2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 71,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
+      "okra",
+      "ginger",
       "rice",
-      "turmeric",
-      "pigeon pea",
-      "banana",
-      "papaya",
-      "animal husbandry"
+      "brinjal",
+      "maize",
+      "fishery"
    ],
-   "general_advisory": "Due to humidity and cloudy weather condition, there is a fair chance of occurring various diseases. So, monitor the field regularly and take measures.",
+   "general_advisory": "Seeing the light or no rainfall upcoming events, farmers are advised to store rainwater or irrigate the crops accordingly. Apply chemical fertilizers at appropriate doses during sunny weather condition. Due to humidity and cloudy weather condition, there is a fair chance of occurring of various diseases, so monitor the field regularly and take measures.",
    "crops_data": {
-      "rice": {
+      "okra": {
          "advisory": [
-            "Stage - Panicle initiation",
-            "The rest amount of fertilizer (nitrogen and phosphorus) that was not applied during basal should be applied in split dose now."
+            "Pest- Yellow vein Mosaic disease",
+            "This disease spreads by white fly.",
+            "To control white fly, apply Imidachloprid @1ml/liter of water."
          ]
       },
-      "turmeric": {
+      "ginger": {
          "advisory": [
             "Disease - Rhizome rot",
             "Lower portion of the infected plants becomes soft and rots.",
             "To control the infection, drain the excess of water from the soil and drench the soil with copper oxychloride @2.5 gram/1000 lt of water."
          ]
       },
-      "pigeon pea": {
+      "rice": {
          "advisory": [
-            "Stage - Fruiting",
-            "Pod borer",
-            "The caterpillar eats the pod and rots it.",
-            "To control this, apply Flubendiamide 20%WG @150gram/ha along with 500lt of water."
+            "Stage - Panicle emergence - flowering",
+            "Stem borer",
+            "To control the insect, spray Neem oil 1500 ppm @ 1.5ml/lt of water.",
+            "To control chemically, apply Chlorantraniliprole 0.4% or Fipronil 0.6% @ 4kg/acre."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "To manage stem weevil in banana crop, install pheromone traps @ 10/acre.",
-            "Dip the banana stem in warm water for 30 minutes before planting.",
-            "Sanitize the field and remove the infected plants."
+            "Wilting due to fungal infection",
+            "Remove the infected plants and drench the soil with 2 gm of Metalaxyl and Mancozeb solution."
          ]
       },
-      "papaya": {
+      "maize": {
          "advisory": [
-            "Leaf curl virus",
-            "Leaves may curl, wrinkle, and become deformed, with thickened veins and yellow margins",
-            "To control the LCV, apply Fipronil@5gram/plant."
+            "Fall army worm",
+            "Spray Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation."
          ]
       },
-      "animal husbandry": {
+      "fishery": {
          "advisory": [
-            "Cattle should be dewormed at regular time interval and vaccinated properly.",
-            "Keep the shed clean and dry to prevent any type of infection."
+            "To cure EUS disease in fishes apply Cifax@ 400ml/ acre of pond area."
          ]
       }
    },
-   "date": "27-09-2024"
+   "date": "08-10-2024"
 }

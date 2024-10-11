@@ -1,132 +1,114 @@
 {
    "weather_details": {
-      "28/09/2024": {
-         "rainfall": 10,
-         "t_max": 29,
-         "t_min": 23,
-         "rh_max": 98,
-         "rh_min": 72,
-         "wind_speed": 9,
+      "05/10/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 74,
+         "rh_min": 43,
+         "wind_speed": 6,
+         "wind_direction": 248,
+         "cloud_cover": 2
+      },
+      "06/10/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 78,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 169,
+         "cloud_cover": 3
+      },
+      "07/10/2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 78,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 135,
+         "cloud_cover": 4
+      },
+      "08/10/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 51,
+         "wind_speed": 8,
          "wind_direction": 148,
          "cloud_cover": 8
       },
-      "29/09/2024": {
+      "09/10/2024": {
          "rainfall": 5,
-         "t_max": 30,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 67,
-         "wind_speed": 6,
-         "wind_direction": 169,
-         "cloud_cover": 7
-      },
-      "30/09/2024": {
-         "rainfall": 3,
-         "t_max": 30,
-         "t_min": 24,
-         "rh_max": 89,
-         "rh_min": 63,
-         "wind_speed": 6,
-         "wind_direction": 243,
-         "cloud_cover": 6
-      },
-      "01/10/2024": {
-         "rainfall": 2,
          "t_max": 31,
          "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 61,
-         "wind_speed": 8,
-         "wind_direction": 248,
-         "cloud_cover": 6
-      },
-      "02/10/2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 92,
-         "rh_min": 69,
-         "wind_speed": 6,
-         "wind_direction": 234,
-         "cloud_cover": 6
+         "rh_max": 98,
+         "rh_min": 52,
+         "wind_speed": 9,
+         "wind_direction": 135,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
-      "direct sown paddy",
-      "kharif pulses",
-      "kharif transplanted paddy",
+      "paddy",
+      "pulses",
+      "transplanted paddy",
       "ragi",
-      "sesamum",
-      "cultivation of maize",
+      "maize",
       "groundnut",
       "ginger",
       "vegetables",
-      "papaya",
-      "pisciculture",
-      "livestock"
+      "cucurbits"
    ],
-   "general_advisory": "1. Due to Forecast of Very light to Light rainfall from 28th Sept. farmers are advised to postpone application of fertilizer & chemical during this period. 2. Due to high humidity survey for any insect pest in kharif crops.",
+   "general_advisory": "Due to forecast of very light to light rainfall, postpone application of fertilizer & chemicals. High humidity may lead to insect pest survey in kharif crops.",
    "crops_data": {
-      "direct sown paddy": {
+      "paddy": {
          "advisory": [
-            "Due to weather, there is chance of sheath blight in paddy. To manage this disease spray Validamycin @ 2 ml/liter of water."
+            "Incidence of BLB and Blast disease, spray Copper Oxychloride and Plantomycin or Tebuconazole + Trifloxystrobin or Soil application of MOP recommended."
          ]
       },
-      "kharif pulses": {
+      "pulses": {
          "advisory": [
-            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 -gram/acre or Chlorantraniliprole 18.5 % SC @80 -ml/acre or Profenophos 50 % EC @ 400 -ml/acre."
+            "To manage Pod borer, spray Emamectin Benzoate, Chlorantraniliprole, or Profenophos."
          ]
       },
-      "kharif transplanted paddy": {
+      "transplanted paddy": {
          "advisory": [
-            "Due to the weather condition, there is chances of Bacterial Leaf Blight, to manage this spray 1 g Streptomycin and 30 g copper oxy chloride per 10 liter of water. Apply 20 kg urea and + 13 kg MOP in Medium and low land condition."
+            "Chances of Bacterial Leaf Blight, manage with Streptomycin and copper oxy chloride."
          ]
       },
       "ragi": {
          "advisory": [
-            "Due to the weather effect, there is chances of stem borer attack, to manage this spray Fipronil @ 2 g/ liter of water."
+            "When crop is 85% mature, go for harvesting and sun drying for 2-3 days."
          ]
       },
-      "sesamum": {
+      "maize": {
          "advisory": [
-            "Due to weather effect there is Leaf webber is seen, to manage this spray Carbaryl @ 4 g/Liter of water and to be sprayed on the leaf surface."
-         ]
-      },
-      "cultivation of maize": {
-         "advisory": [
-            "Due to weather effect, there is chances of Aphids infestation, to manage this spray Imidachloprid @ 0.4 ml/liter of water."
+            "Chances of Aphids infestation, manage with Imidachloprid spray."
          ]
       },
       "groundnut": {
          "advisory": [
-            "The early sown crop is at maturity stage. Go for harvesting and dry it under sun for 2 -3 days."
+            "Early sown crop at maturity stage, harvest and sun dry for 2-3 days."
          ]
       },
       "ginger": {
          "advisory": [
-            "Go for intercultivation and apply 55 kg Urea and 33 kg MOP per acre."
+            "Intercultivation and apply Urea and MOP per acre."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Go for tomato sowing. Collect good varieties are Arka Rakshak. The spacing between lines are 60 cm."
+            "To control Fruit and shoot borer in Brinjal, spray Neem based pesticide."
          ]
       },
-      "papaya": {
+      "cucurbits": {
          "advisory": [
-            "Due to rainfall, do not allow water to remain stagnant near the base of the crop."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "Provide mineral mixture @ 3% of the body mass."
-         ]
-      },
-      "livestock": {
-         "advisory": [
-            "Provide sufficient Fodder to the milch animals."
+            "Chances of infestation of Downy Mildew disease in cucurbits, manage with Copper Hydroxide spray."
          ]
       }
    },
-   "date": "27-09-2024"
+   "date": "04-10-2024"
 }

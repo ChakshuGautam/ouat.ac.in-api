@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "2024-09-28": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 75,
+         "wind_speed": 10,
+         "wind_direction": 167,
+         "cloud_cover": 8
+      },
+      "2024-09-29": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "2024-09-30": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 61,
+         "wind_speed": 9,
+         "wind_direction": 243,
+         "cloud_cover": 5
+      },
+      "2024-10-01": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "2024-10-02": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 66,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "vegetable crops",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Farmers are advised to take proper care during irrigation as well as spraying operations due to the chance of light to moderate rainfall. Proper drainage system in fruit orchards and vegetable fields should be ensured. Regular monitoring against pests and diseases in crops is recommended. Avoid excess use of nitrogenous fertilizer to prevent insect pests and diseases.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Maintain 5 cm water level in rice field for proper growth.",
+            "Stop top dressing with nitrogenous fertilizers in case of bacterial leaf blight disease.",
+            "Drain stagnant water, apply potassic fertilizer, and use specified treatments for disease control.",
+            "Apply appropriate measures for pest control based on observed attacks."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Use Neem-based pesticide to control sucking insect pests.",
+            "Avoid chemical insecticides at initial flowering stage."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing with urea fertilizer is advised.",
+            "Spray Emamectin Benzoate to control fall army worm attack."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Use Neem-based pesticide for controlling Fruit and shoot borer.",
+            "Spray recommended insecticides for sucking insect pests and diseases.",
+            "Ensure proper drainage to avoid waterlogged conditions."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Conduct training, pruning, and cleaning in old Mango orchards.",
+            "Apply specified treatments for controlling insect infestations."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Follow preventive measures for Mastitis disease management in Cow and Buffalo.",
+            "Provide proper feeding and adjust conditions to avoid disease incidence."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

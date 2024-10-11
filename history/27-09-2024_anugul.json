@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "2024-09-28": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 97,
+         "rh_min": 76,
+         "wind_speed": 9,
+         "wind_direction": 156,
+         "cloud_cover": 8
+      },
+      "2024-09-29": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 67,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "2024-09-30": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 270,
+         "cloud_cover": 6
+      },
+      "2024-10-01": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 8,
+         "wind_direction": 244,
+         "cloud_cover": 6
+      },
+      "2024-10-02": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 7,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "bottle gourd",
+      "chicken"
+   ],
+   "general_advisory": "Avoid application of fertilizers and spraying of chemicals. Due to waterlogged conditions or continuous saturated condition of soils, crops tend to show micronutrient deficiencies. Hence, take up foliar spray of micronutrients immediately after cessation of rainfall.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanted rice is at maximum tillering to PI stage. Make provision for drainage of excess water and stop the application of fertilizer and pesticides. Keep vigil on field for disease incidence and apply recommended treatments."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "After the event is over, drain out excess water from the standing crop fields and carry out propping of sugarcane and other plants to minimize damage."
+         ]
+      },
+      "bottle gourd": {
+         "advisory": [
+            "After rainfall, vegetables might be infested with fungal infection. Apply carbendazim + mancozeb 2g/litre of water."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Prevent feed ingredients from getting wet. Provide warm water periodically during rainy season for consumption and warmth."
+         ]
+      }
+   },
+   "date": "27-09-2024"
+}

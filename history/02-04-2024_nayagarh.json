@@ -59,48 +59,79 @@
       "brinjal",
       "coconut",
       "vegetables",
-      "fingerlings"
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "onion",
+      "mango",
+      "okra"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages...",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop to meet water requirements.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering, and milking stages are critical stages. Avoid water deficit during these stages."
+            "Yellow stem borer management - Spray recommended chemicals to manage Yellow Stem Borer in paddy.",
+            "Blast Disease Management - Manage blast disease by spraying recommended chemicals."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect the crop from water scarcity during summer."
+            "Early Shoot Borer management - Irrigate frequently during hot months to manage early shoot borer."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases the water requirement of maize crop. Irrigate the crop and avoid stagnant water."
+            "High temperature increases water requirement - Irrigate the crop accordingly to meet the water needs."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature may lead to wilting in tomato. Apply 1g Streptocyclin in 10 liters of water in the root zone."
+            "Wilting may occur due to high temperature - Apply Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Control Brinjal shoot and fruit borer by installing pheromone traps and spraying neem-based pesticide."
+            "Brinjal shoot and fruit borer management - Use pheromone traps and spray recommended chemicals."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves 1.8m around a coconut tree to reduce water loss."
+            "Mulch coconut leaves around a coconut tree to reduce water loss."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover with paper caps on newly planted vegetable seedlings during daytime."
+            "Cover newly planted vegetable seedlings with paper caps during the day."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C. Ensure enough water depth before introducing fingerlings."
+            "Harvest fingerlings if water temperature rises above 30°C in shallow ponds."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Tobacco Caterpillar Management - Dust around the field and spray recommended chemicals."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Tobacco Caterpillar Management - Dust around the field and spray recommended chemicals."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Harvesting and storage advice - Cut the tops of the onion after harvesting and dry the bulbs properly."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Mango hopper control - Spray recommended chemicals to control mango hoppers."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Whitefly Infestation prevention - Treat okra seeds before sowing and install sticky traps."
          ]
       }
    },

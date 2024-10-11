@@ -1,105 +1,91 @@
 {
    "weather_details": {
-      "2024-09-28": {
-         "rainfall": 15,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 95,
-         "rh_min": 75,
-         "wind_speed": 10,
-         "wind_direction": 167,
-         "cloud_cover": 8
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 46,
+         "wind_speed": 7,
+         "wind_direction": 289,
+         "cloud_cover": 3
       },
-      "2024-09-29": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 92,
-         "rh_min": 65,
-         "wind_speed": 9,
-         "wind_direction": 202,
-         "cloud_cover": 7
-      },
-      "2024-09-30": {
-         "rainfall": 3,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 61,
-         "wind_speed": 9,
-         "wind_direction": 243,
-         "cloud_cover": 5
-      },
-      "2024-10-01": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 94,
-         "rh_min": 63,
-         "wind_speed": 12,
-         "wind_direction": 248,
-         "cloud_cover": 6
-      },
-      "2024-10-02": {
-         "rainfall": 5,
+      "06-10-2024": {
+         "rainfall": 0,
          "t_max": 35,
          "t_min": 26,
-         "rh_max": 87,
-         "rh_min": 66,
-         "wind_speed": 11,
-         "wind_direction": 243,
+         "rh_max": 71,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 288,
+         "cloud_cover": 3
+      },
+      "07-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 52,
+         "wind_speed": 5,
+         "wind_direction": 210,
          "cloud_cover": 6
+      },
+      "08-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 48,
+         "wind_speed": 6,
+         "wind_direction": 158,
+         "cloud_cover": 5
+      },
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 53,
+         "wind_speed": 6,
+         "wind_direction": 155,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "rice",
-      "cotton",
-      "maize",
-      "vegetable crops",
+      "okra",
       "mango",
       "cow/buffalo"
    ],
-   "general_advisory": "Farmers are advised to take proper care during irrigation as well as spraying operations due to the chance of light to moderate rainfall. Proper drainage system in fruit orchards and vegetable fields should be ensured. Regular monitoring against pests and diseases in crops is recommended. Avoid excess use of nitrogenous fertilizer to prevent insect pests and diseases.",
+   "general_advisory": "As there are very less chance of occurrence of rainfall is expected in upcoming days, farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) with proper care. Sowing of green fodder should be advised in moist soil to avail proper diet to animals...",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Maintain 5 cm water level in rice field for proper growth.",
-            "Stop top dressing with nitrogenous fertilizers in case of bacterial leaf blight disease.",
-            "Drain stagnant water, apply potassic fertilizer, and use specified treatments for disease control.",
-            "Apply appropriate measures for pest control based on observed attacks."
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "In case of appearance of bacterial leaf blight disease, farmers should stop top dressing of nitrogenous fertilizers (Urea/DAP). If there is facility of draining, drain out stagnant water and apply 5 kg potassic fertilizer (MOP) per acre. Apply Streptomycin sulphate (9 %) + Tetracycline hydrochloride (1 %) @ 120 g/acre and Copper oxychloride @ 200 g/acre in 200 litres of water..."
          ]
       },
-      "cotton": {
+      "okra": {
          "advisory": [
-            "Use Neem-based pesticide to control sucking insect pests.",
-            "Avoid chemical insecticides at initial flowering stage."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Top dressing with urea fertilizer is advised.",
-            "Spray Emamectin Benzoate to control fall army worm attack."
-         ]
-      },
-      "vegetable crops": {
-         "advisory": [
-            "Use Neem-based pesticide for controlling Fruit and shoot borer.",
-            "Spray recommended insecticides for sucking insect pests and diseases.",
-            "Ensure proper drainage to avoid waterlogged conditions."
+            "If yellow vein mosaic symptoms (which is a viral disease and whitefly is the carrier of this disease) are shown in the okra crop, then to control it, first remove the severely affected plants and bury them under the soil at a distance. Use 8 yellow cards per acre to control whiteflies and field should be weed free. For its chemical control, spraying of Difenthiuron 50% WP @ 20 g or Acetamiprid 20% SP @ 2.5 g or Imidacloprid 17.8% SL @ 3 ml per 10 liters of water should be advised in the afternoon and repeat the same after a week of first spray when the weather is dry...",
+            "To control Fruit and shoot borer in Okra etc. spraying of Neem based pesticide 1500 ppm @600ml per acre should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC @ 70ml and Emamectin benzoate @ 80 g per acre at 15 days interval should be advised...",
+            "Farmers shouldn’t spray any chemical insecticides at flowering period..."
          ]
       },
       "mango": {
          "advisory": [
-            "Conduct training, pruning, and cleaning in old Mango orchards.",
-            "Apply specified treatments for controlling insect infestations."
+            "In the old Mango orchard, training, pruning and cleaning of weed, diseased and infected branches and leaves should be advised. If leaf webber infestation occurs, then spraying of quinalfos 20 EC @ 2.5 ml per liter should be advised...",
+            "In newly planted mango orchard, if leaf cutting weevil attack is observed then farmers should spray Lambda cyhalothrin 5% EC @ 0.5-1 ml per liter or Chloropyriphos 20 EC @ 2ml per liter or Spinosad 45% SC @ 0.4 ml per liter or quinalfos 20 EC @ 2 ml per liter to control this insect..."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Follow preventive measures for Mastitis disease management in Cow and Buffalo.",
-            "Provide proper feeding and adjust conditions to avoid disease incidence."
+            "FMD is a highly contagious viral disease which is characterized by fever and blister-like sores on the tongue and lips, in the mouth, on the teats and between the hooves. The disease is rarely fatal in adult animals, but there is often high mortality in young animals. So there are some preventive and control measures given below:-...",
+            "The primary vaccination should be given to cattle and buffalo calves when they are 4–5 months old and repeat the same in every six months. Deworming should be advised...",
+            "Mouth and feet of the affected animals should be washed with 1% potassium permanganate (KMnO4) antiseptic mouth wash 3-4 times a day. Glycerin may be applied over the lesions. Isolate the affected animals from healthy animals...",
+            "Antibiotic treatment and consultation should be made with qualified veterinary Doctor..."
          ]
       }
    },
-   "date": "27-09-2024"
+   "date": "04-10-2024"
 }
