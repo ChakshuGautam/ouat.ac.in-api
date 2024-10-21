@@ -1,0 +1,116 @@
+{
+   "weather_details": {
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 70,
+         "rh_min": 48,
+         "wind_speed": 6,
+         "wind_direction": 202,
+         "cloud_cover": 5
+      },
+      "06-10-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 74,
+         "rh_min": 49,
+         "wind_speed": 5,
+         "wind_direction": 193,
+         "cloud_cover": 6
+      },
+      "07-10-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 81,
+         "rh_min": 53,
+         "wind_speed": 4,
+         "wind_direction": 198,
+         "cloud_cover": 5
+      },
+      "08-10-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 59,
+         "wind_speed": 5,
+         "wind_direction": 148,
+         "cloud_cover": 7
+      },
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 95,
+         "rh_min": 61,
+         "wind_speed": 7,
+         "wind_direction": 135,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "maize",
+      "brinjal",
+      "okra",
+      "papaya",
+      "banana",
+      "cow & buffalo"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can resume agronomic practices, application pesticides and fertilizers from Thursday. Apply balanced and appropriate fertilizers according to crop’s growth stage. Avoid excess nitrogen as it promotes excessive vegetative growth and increase water demand.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Apply 16kg Urea + 10kg MOP per acre in upland condition and 20kg urea + 13kg MOP per acre in medium and low land condition at panicle initiation stage as second top dressing.",
+            "Install Pheromone traps @ 8nos./acre and light trap @1no./acre to monitor and control the population of stem borer, leaf folder and rice ear eating caterpillar and replace the lure after three weeks.",
+            "In stem borer endemic areas, release egg parasitoid Trichogramma japonicum (Trichocard) @ 60000 eggs (3 card) /acre is required.",
+            "Current weather may favour blast disease in rice. To control it spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water or Tricyclazole 45% + Hexaconazole 10% WG @ 1 g/litre of water."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Leaf webber: Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water.",
+            "Wilt: Wilting may be observed after receding of rain. Apply Metiram 75% WG @ 1.5g/liter at root zone of the plant as control measure."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Stem borer, FAW and banded leaf and sheath blight may appear due to present weather condition. Monitor the field regularly and remove infected plant parts.",
+            "To control Fall army worm spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/Iitre of water.",
+            "For effective control of stem borer spray Fipronil 5% SC or Profenophos 50% EC @ 400ml/acre by mixing with 200 liters of water.",
+            "BLSB: Soaked, discolored concentric bands and rings on leaves and sheaths. For control, spray Validamycin 3.0% SL or Hexaconazole 5% EC @ 2ml/lit of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control wilt, spray Tebuconazole 25.9% EC @ 200 -ml/acre + Streptocycline @ 30g/acre at the root zone mixed with 200 liters of water.",
+            "To manage Phomopsis blight disease, spray Metalaxyl 8%+ Mancozeb 64 % WP 2g/lit or Propineb 70 % WP @ 400g/acre mixed with 200 liters of water."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "In bhindi fruit and shoot borer infestation occurs at fruit formation stage. To control the fruit and shoot borer infestation spray 60g Emamectin benzoate 5% SG @ 3g or Flubendiamide 39.35 SC @ 3 ml mixed with 10 liters of water."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "To control papaya leaf curl virus, install yellow sticky trap @ 8nos/acre and spray neem oil (1500 ppm) @ 3ml/liter of water."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To manage Sigatoka leaf spot and Cigar end rot or Tip rot spray Mancozeb 75% WP @ 3g/liter of water."
+         ]
+      },
+      "cow & buffalo": {
+         "advisory": [
+            "As grasses are high in moisture content during rainy days, the cattle don’t get adequate dry matter from those. So, give 1 kg if concentrate for every 2 kg of milk to dairy animals."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

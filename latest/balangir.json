@@ -1,78 +1,58 @@
 {
    "weather_details": {
-      "14-09-2024": {
-         "rainfall": 10,
-         "t_max": 28,
-         "t_min": 25,
-         "rh_max": 87,
-         "rh_min": 63,
-         "wind_speed": 10,
-         "wind_direction": 281,
-         "cloud_cover": 8
-      },
-      "15-09-2024": {
-         "rainfall": 10,
-         "t_max": 29,
-         "t_min": 24,
-         "rh_max": 87,
-         "rh_min": 80,
-         "wind_speed": 13,
-         "wind_direction": 269,
-         "cloud_cover": 8
-      },
-      "16-09-2024": {
+      "2022-10-01": {
          "rainfall": 5,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 64,
+         "t_max": 25,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 60,
          "wind_speed": 15,
-         "wind_direction": 244,
-         "cloud_cover": 6
+         "wind_direction": 120,
+         "cloud_cover": 4
       },
-      "17-09-2024": {
-         "rainfall": 5,
+      "2022-10-02": {
+         "rainfall": 2,
          "t_max": 28,
-         "t_min": 24,
-         "rh_max": 91,
-         "rh_min": 81,
-         "wind_speed": 13,
-         "wind_direction": 235,
-         "cloud_cover": 6
-      },
-      "18-09-2024": {
-         "rainfall": 5,
-         "t_max": 31,
-         "t_min": 26,
-         "rh_max": 91,
-         "rh_min": 81,
-         "wind_speed": 13,
-         "wind_direction": 235,
-         "cloud_cover": 6
+         "t_min": 20,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 140,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
+      "wheat",
       "rice",
-      "chilli",
-      "brinjal"
+      "cattle",
+      "poultry"
    ],
-   "general_advisory": "Bolangir district is likely to receive very light rainfall for the upcoming 5 days with a generally cloudy sky. Maximum temperature will be between 29-33°C and minimum temperature will be between 19-25°C for the upcoming 5 days. Maximum and minimum relative humidity will be between 88-93% and 63-71% respectively. The wind speed will remain within 14 to 16 kmph for the upcoming 5 days.",
+   "general_advisory": "Sow wheat and rice early this season. Keep a check on cattle and poultry health.",
    "crops_data": {
+      "wheat": {
+         "advisory": [
+            "Sow wheat early in well-drained soil.",
+            "Apply fertilizers rich in nitrogen for better growth."
+         ]
+      },
       "rice": {
          "advisory": [
-            "The crop is at active tillering stage. Favourable conditions for Yellow stem borer infestation. Apply appropriate insecticides for management."
+            "Transplant rice seedlings in flooded fields.",
+            "Control weeds to prevent nutrient competition."
          ]
       },
-      "chilli": {
+      "cattle": {
          "advisory": [
-            "Chilli crop is at seedling stage. Be cautious of damping off disease due to high soil moisture. Use Mancozeb or Metalaxyl for prevention."
+            "Provide clean water and adequate feed to cattle.",
+            "Ensure shelter from extreme weather conditions."
          ]
       },
-      "brinjal": {
+      "poultry": {
          "advisory": [
-            "Brinjal is at flowering to fruiting stage. Watch out for Shoot and fruit borer infestation. Use pheromone traps and chemical controls as necessary."
+            "Maintain proper hygiene in poultry houses.",
+            "Monitor for any signs of disease and take immediate action."
          ]
       }
    },
-   "date": "13-09-2024"
+   "date": "18-10-2024"
 }

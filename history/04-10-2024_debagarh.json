@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "05/10/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 74,
+         "rh_min": 43,
+         "wind_speed": 6,
+         "wind_direction": 248,
+         "cloud_cover": 2
+      },
+      "06/10/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 78,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 169,
+         "cloud_cover": 3
+      },
+      "07/10/2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 78,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 135,
+         "cloud_cover": 4
+      },
+      "08/10/2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 51,
+         "wind_speed": 8,
+         "wind_direction": 148,
+         "cloud_cover": 8
+      },
+      "09/10/2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 98,
+         "rh_min": 52,
+         "wind_speed": 9,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "transplanted paddy",
+      "ragi",
+      "maize",
+      "groundnut",
+      "ginger",
+      "vegetables",
+      "cucurbits"
+   ],
+   "general_advisory": "Due to forecast of very light to light rainfall, postpone application of fertilizer & chemicals. High humidity may lead to insect pest survey in kharif crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Incidence of BLB and Blast disease, spray Copper Oxychloride and Plantomycin or Tebuconazole + Trifloxystrobin or Soil application of MOP recommended."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "To manage Pod borer, spray Emamectin Benzoate, Chlorantraniliprole, or Profenophos."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Chances of Bacterial Leaf Blight, manage with Streptomycin and copper oxy chloride."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "When crop is 85% mature, go for harvesting and sun drying for 2-3 days."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Chances of Aphids infestation, manage with Imidachloprid spray."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Early sown crop at maturity stage, harvest and sun dry for 2-3 days."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Intercultivation and apply Urea and MOP per acre."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal, spray Neem based pesticide."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Chances of infestation of Downy Mildew disease in cucurbits, manage with Copper Hydroxide spray."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

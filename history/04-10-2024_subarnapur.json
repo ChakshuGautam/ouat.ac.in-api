@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 45,
+         "rh_min": 72,
+         "wind_speed": 7,
+         "wind_direction": 259,
+         "cloud_cover": 3
+      },
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 44,
+         "rh_min": 69,
+         "wind_speed": 6,
+         "wind_direction": 270,
+         "cloud_cover": 4
+      },
+      "07-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 49,
+         "rh_min": 75,
+         "wind_speed": 5,
+         "wind_direction": 160,
+         "cloud_cover": 6
+      },
+      "08-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 45,
+         "rh_min": 87,
+         "wind_speed": 6,
+         "wind_direction": 156,
+         "cloud_cover": 6
+      },
+      "09-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 46,
+         "rh_min": 91,
+         "wind_speed": 6,
+         "wind_direction": 155,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "ground nut",
+      "okra",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "As there are very less chance of rainfall expected in upcoming days, farmers are advised to conduct agricultural operations (irrigation, spraying, intercultural operation etc.) with proper care. Sowing of green fodder should be advised in moist soil to avail proper diet to animals. Regular monitoring against the incidence of some insects and diseases in Rice crop should be advised. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "In case of appearance of bacterial leaf blight disease, farmers should stop top dressing of nitrogenous fertilizers (Urea/DAP).",
+            "To control gall midge attack in rice field farmers should spray appropriate insecticides.",
+            "To control leaf folder in rice field farmers should spray appropriate insecticides."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "To control Tikka disease in Ground nut, spraying of Chlorothalonil or Hexaconazole should be advised."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control yellow vein mosaic symptoms in okra crop, proper removal and chemical control measures should be advised."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "In the old Mango orchard, training, pruning and cleaning of weed, diseased and infected branches and leaves should be advised.",
+            "In newly planted mango orchard, proper insecticide measures should be advised."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Preventive and control measures for Foot and Mouth Disease in Cow and Buffalo should be advised."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

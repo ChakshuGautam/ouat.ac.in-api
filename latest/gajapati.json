@@ -1,155 +1,96 @@
 {
    "weather_details": {
-      "2024-10-05": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 80,
-         "rh_min": 51,
-         "wind_speed": 5,
-         "wind_direction": 207,
-         "cloud_cover": 4
-      },
-      "2024-10-06": {
-         "rainfall": 2,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 80,
-         "rh_min": 52,
-         "wind_speed": 4,
-         "wind_direction": 244,
-         "cloud_cover": 6
-      },
-      "2024-10-07": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 59,
-         "wind_speed": 3,
-         "wind_direction": 180,
-         "cloud_cover": 6
-      },
-      "2024-10-08": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 97,
-         "rh_min": 67,
-         "wind_speed": 4,
-         "wind_direction": 180,
-         "cloud_cover": 6
-      },
-      "2024-10-09": {
+      "2024-10-19": {
          "rainfall": 5,
          "t_max": 35,
-         "t_min": 24,
-         "rh_max": 98,
+         "t_min": 25,
+         "rh_max": 97,
+         "rh_min": 66,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "2024-10-20": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 97,
          "rh_min": 67,
-         "wind_speed": 4,
-         "wind_direction": 124,
+         "wind_speed": 2,
+         "wind_direction": 346,
          "cloud_cover": 8
+      },
+      "2024-10-21": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 96,
+         "rh_min": 65,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 8
+      },
+      "2024-10-22": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 53,
+         "wind_speed": 3,
+         "wind_direction": 14,
+         "cloud_cover": 4
+      },
+      "2024-10-23": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 51,
+         "wind_speed": 5,
+         "wind_direction": 12,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "groundnut",
-      "maize",
       "cotton",
-      "brinjal",
-      "banana",
       "cauliflower",
+      "brinjal",
       "french bean",
-      "cow",
-      "common fish",
-      "chicken"
+      "cow"
    ],
-   "general_advisory": "According to the weather forecast received from India Meteorological Department, the district is likely to receive very light rain on Saturday, Monday & Tuesday and may dry on Friday & Sunday with partly to generally cloudy sky. The wind speed is likely to remain within 03.0 to 05.0 kmph for the next five days. The daily maximum and minimum temperature may range between 35.0°C to 37.0°C and 24.0°C to 25.0°C respectively. Relative humidity during the morning and the afternoon may range between 80 to 98 percent and 51 to 67 percent respectively.",
+   "general_advisory": "The mean maximum daily temperature was 35.7°C and the mean minimum daily temperature was 25.5°C of the Gajapati district during the last week. The district received 14.5 mm of rainfall during the last week. Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame in upland/medium lands. It is optimum time for sowing of Vegetables like cole crops (Cabbage, late Cauliflower and Broccoli), Solanaceous vegetables (Brinjal, Tomato, Chilli and Capsicum). Go for planting of vegetables like Carrot, radish, late onion, garlic, legumes, etc. October is the ideal time for hard pruning in rose to produce lots of flower buds on a well-spaced framework of branches. Go for nursery sowing of brinjal, tomato, cauliflower and sesame. Go for planting of cole crops. Cole crop seedlings are at 3-week stage in the nursery. Go for planting in the main field. The weather is optimum for beans planting.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Due to prevailing wet and humid conditions the attack of pests like Yellow stem borer and leaf folder may increase in the crop.",
-            "To manage Leaf Folder and Case Worm pests in paddy spray Bifenthrin 10% EC @ 200 ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml/acre.",
-            "Yellow stem borer management: To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4%G @ 18.45-kg/ha or Chlorantraniliprole 0.4 % GR @ 10-kg/ha or Imidacloprid 0.3% G @ 15-kg/ha by mixing it with sand at 1:110 ratio.",
-            "Leaf folder and case worm management: In paddy fields infested with leaf folder and case worm, apply mixture of kerosene and sand per ha and then move a string over the paddy crop by stretching at both the ends of the field. To manage Leaf Folder and Case Worm pests in paddy spray Fipronil 5% SC @ 1000-ml/ha or Profenophos 50% EC @ 1000-ml/ha or Chlorantraniliprole 18.5% SC @ 200-ml /ha.",
-            "Bacterial Leaf Blight: To manage Bacterial Leaf Blight, spray Copper Hydroxide or Copper Oxychloride.",
-            "To manage Blast disease, spray Hexaconazole 5 % SC or Azoxystrobin 18.2% + Difenoconazole 1 1.4 % S.C or Tebuconazole 50%+ Trifloxystrobin 25 % WG.",
-            "To manage sheath blight disease chemically spray Validamycin 3 % L or Hexaconazole 5 % SC or Tebuconazole 50%+ Trifloxystrobin 25 % WG."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "To manage the Tobacco caterpillar pest biologically, use Pheromone trap Spodolure.",
-            "Install light traps.",
-            "Apply Bacillus thuringenesis or Beauveria bassiana.",
-            "For chemical control, spray Chlorpyriphos 50 % + Cypermethrin 5 % E.C or Lambda Cyhalothrin 5% EC."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "To manage the fall army worm pest spray biopesticide Beauveria bassiana by mixing in water.",
-            "Use bird perches per acre and remove them before tasselling stage.",
-            "Dust mixture of sand, soil, and wooden ash inside the leaf whorl.",
-            "To manage the pest chemically, spray Emamectin Benzoate 5 % S.G or Spinetoram 1 1.7% S.C or Chlorantraniliprole 18.5% S.C by mixing in water."
+            "The transplanted paddy is at Panicle Initiation to flowering stage in main field."
          ]
       },
       "cotton": {
          "advisory": [
-            "Due to high temperature and humidity, there are reports of incidence of sucking pest like Aphids and Jassids in Cotton crop.",
-            "Go for regular monitoring of the crop for incidence of pest and diseases.",
-            "If there is infestation of sucking pest like Aphids and Jassids in cotton crop go for spraying of neem-based pesticide.",
-            "If the sucking pest population found to be above ETL, spray Flonicamid 50% WG or Thiamethoxam 25% WG or Dinotefuran 20 % SG.",
-            "For Bollworm control apply Emamectin benzoate or Spinosad or Flubendiamide by mixing with water."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Brinjal is at flowering to fruiting stage.",
-            "After receding of rainfall and there is a chance of increasing in day & night temperature and morning relative humidity more than 70% favours Shoot and fruit borer in Brinjal.",
-            "To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits.",
-            "To manage this insect, install pheromone trap having Leucin Lure per acre.",
-            "For chemical control spray Emamectin Benzoate 5% SG or Chlorantraniliprole 18.5% SC or Spinetoram 1 1.7 % SC.",
-            "There should be a gap of 7-10 days between pesticide application and harvest."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "To manage stem weevil, install Cosmolure pheromone traps in banana garden.",
-            "Dip the banana stem in warm water before planting.",
-            "Fill the pit with neem pedia or any granular insecticide before planting.",
-            "Cut the affected plant into pieces and dry under the sun.",
-            "Keep the banana garden neat and clean."
+            "The crop is at square formation to boll formation stage. Now temperature and humid conditions are favorable for the infestation of sucking pests in cotton. If there is infestation of Aphids and Jassids in early sown cotton crop, go for spraying of Acetamiprid 20%SP  20gm/acre or neem-based pesticide Neem Oil 1500 PPM @600-ml/acre by mixing it in 200-litre of water ."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "The seed rate for Cauliflower, cabbage and Broccoli.",
-            "For one-acre cultivation, prepare nursery bed with completely decomposed FYM.",
-            "Apply FYM ten days before sowing."
+            "The cauliflower seedlings in nursery are germination stage. Start nursery preparation for sowing cauliflower and complete sowing seed in nursery . The Varieties suitable for cauliflower are K-1, Pusa early synthetic and Pusa early Kuanri and the seed rate is 200g/acre. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery . Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one litrer water to protect seedlings from damping of f."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "For control of shoot and fruit borer in brinjal, spray Emamectin Benzoate 5% SG @ 80-gram/ acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 1 1.7 % SC @ 200-ml /acre. Use any of the above insecticides alternately at 15-days interval."
          ]
       },
       "french bean": {
          "advisory": [
-            "To manage Pod borer in beans spray Emamectin Benzoate 5% SG or Chlorantraniliprole 18.5 % SC or Flubendiamide 39.35 SC."
+            "To manage Pod borer in beans spray Emamectin Benzoate 5% SG @ 90-gram/ acre or Chlorantraniliprole 18.5 % SC @ 60-ml/acre or Flubendiamide 39.35 SC @ 40-ml/acre."
          ]
       },
       "cow": {
          "advisory": [
-            "If your domestic Animal is becoming off feed, weak, lackluster, diarrhea, Milk production is low, dryness in eyes and appearance of bottleneck condition, there is every possibility of its being suffering from Parasitic infestation.",
-            "Farmers are advised to make fecal sample examination of their animals at regular intervals at the nearest Veterinary Dispensary."
-         ]
-      },
-      "common fish": {
-         "advisory": [
-            "When there is a lack of oxygen in the pond, the fish will come up to the surface water and start gulping through their mouths.",
-            "Maintain ideal dissolved oxygen level using aerators."
-         ]
-      },
-      "chicken": {
-         "advisory": [
-            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease."
+            "If your domestic Animal is becoming of f feed, weak, lackluster , diarrhoea, Milk production is low , dryness in eyes and appearance of bottleneck condition, there is every possibility of its being suf fering from Parasitic infestation. These worms or Parasites reduce the vitality and productivity of the animals. Hence, the farmers are advised to make fecal sample examination of their animals at regular interval at the nearest LAC, Veterinary Dispensary ."
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }

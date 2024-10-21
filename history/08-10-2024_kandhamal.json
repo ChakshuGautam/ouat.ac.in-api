@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "09-10-2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 96,
+         "rh_min": 64,
+         "wind_speed": 5,
+         "wind_direction": 158,
+         "cloud_cover": 8
+      },
+      "10-10-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 58,
+         "wind_speed": 4,
+         "wind_direction": 197,
+         "cloud_cover": 5
+      },
+      "11-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 94,
+         "rh_min": 60,
+         "wind_speed": 4,
+         "wind_direction": 197,
+         "cloud_cover": 5
+      },
+      "12-10-2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 93,
+         "rh_min": 64,
+         "wind_speed": 3,
+         "wind_direction": 197,
+         "cloud_cover": 7
+      },
+      "13-10-2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 71,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "okra",
+      "ginger",
+      "rice",
+      "brinjal",
+      "maize",
+      "fishery"
+   ],
+   "general_advisory": "Seeing the light or no rainfall upcoming events, farmers are advised to store rainwater or irrigate the crops accordingly. Apply chemical fertilizers at appropriate doses during sunny weather condition. Due to humidity and cloudy weather condition, there is a fair chance of occurring of various diseases, so monitor the field regularly and take measures.",
+   "crops_data": {
+      "okra": {
+         "advisory": [
+            "Pest- Yellow vein Mosaic disease",
+            "This disease spreads by white fly.",
+            "To control white fly, apply Imidachloprid @1ml/liter of water."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Disease - Rhizome rot",
+            "Lower portion of the infected plants becomes soft and rots.",
+            "To control the infection, drain the excess of water from the soil and drench the soil with copper oxychloride @2.5 gram/1000 lt of water."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Stage - Panicle emergence - flowering",
+            "Stem borer",
+            "To control the insect, spray Neem oil 1500 ppm @ 1.5ml/lt of water.",
+            "To control chemically, apply Chlorantraniliprole 0.4% or Fipronil 0.6% @ 4kg/acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Wilting due to fungal infection",
+            "Remove the infected plants and drench the soil with 2 gm of Metalaxyl and Mancozeb solution."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Fall army worm",
+            "Spray Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "To cure EUS disease in fishes apply Cifax@ 400ml/ acre of pond area."
+         ]
+      }
+   },
+   "date": "08-10-2024"
+}

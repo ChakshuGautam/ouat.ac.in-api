@@ -1,106 +1,114 @@
 {
    "weather_details": {
-      "09-10-2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "19-10-2024": {
+         "rainfall": 2,
+         "t_max": 36,
          "t_min": 26,
+         "rh_max": 94,
+         "rh_min": 62,
+         "wind_speed": 4,
+         "wind_direction": 299,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 25,
          "rh_max": 93,
          "rh_min": 61,
-         "wind_speed": 10,
-         "wind_direction": 225,
-         "cloud_cover": 8
-      },
-      "10-10-2024": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 89,
-         "rh_min": 59,
-         "wind_speed": 12,
-         "wind_direction": 212,
-         "cloud_cover": 7
-      },
-      "11-10-2024": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 92,
-         "rh_min": 53,
-         "wind_speed": 12,
-         "wind_direction": 214,
-         "cloud_cover": 7
-      },
-      "12-10-2024": {
-         "rainfall": 1,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 58,
-         "wind_speed": 10,
-         "wind_direction": 214,
+         "wind_speed": 5,
+         "wind_direction": 309,
          "cloud_cover": 6
       },
-      "13-10-2024": {
+      "21-10-2024": {
          "rainfall": 2,
-         "t_max": 33,
+         "t_max": 35,
          "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 62,
+         "rh_max": 85,
+         "rh_min": 57,
          "wind_speed": 7,
-         "wind_direction": 225,
-         "cloud_cover": 6
+         "wind_direction": 357,
+         "cloud_cover": 5
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 52,
+         "wind_speed": 8,
+         "wind_direction": 3,
+         "cloud_cover": 4
+      },
+      "23-10-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 8,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "rice",
       "sugarcane",
+      "vegetables",
       "brinjal",
-      "okra",
-      "bittergourd",
-      "coconut",
-      "papaya"
+      "banana",
+      "papaya",
+      "pisciculture",
+      "livestock"
    ],
-   "general_advisory": "Monitor the population of BPH & WBPH by regular field visit. If rice crop is in PI stage, go for 2nd top dressing of fertilizer with 17.5 kg urea & 12 kg MOP/acre recommended and maintain standing water in the field. Provide necessary irrigations to standing crops and vegetables due to expected rainfall. Continue spraying operations.",
+   "general_advisory": "Dry weather with little amount of rainfall is expected in the coming five days hence farmers can provide irrigation to the critical stages of standing crops and protect the crops from pest attack.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If rice crop is in PI stage, go for 2nd top dressing of fertilizer with 17.5 kg urea & 12 kg MOP/acre recommended and maintain standing water in the field.",
-            "Prevailing warm and humid weather may increase the incidence of Sheath blight and Blast disease in rice, so apply (Tebuconazole 50% + Trifloxystrobin 25% WG) @400g/litre of water.",
-            "If BLB Incidence increases, spray Copper Oxychloride @500gm along with Plantomycin @200gm/acre or soil application of additional dose of MOP 12 Kg/acre recommended.",
-            "Monitor the population of BPH & WBPH by regular field visit if the pest population buildup at initial stage. Alternating drying & wetting of field & foliar application of neem-based formulation 1500ppm (600ml/acre) recommended.",
-            "Monitor the population level of WBPH & BPH by regular field visit."
+            "If the BPH & WBPH infestation is at initial stage alternating drying & wetting of field & foliar application of neem based formulation 1500ppm (600ml /acre) recommended. If the population is around ETL(8-10)/hill spraying of Curbixpro (Ethiprol + pymetrozine)@170g/acre recommended.",
+            "Monitor the field regularly to observe infestation of BPH, WBPH, YSB and diseases like Bacterial Leaf blight, Sheath rot & blast.",
+            "If rice crop is in PI stage go for 2nd top dressing of fertilizer with 17.5 kg urea & 10 kg MOP /acre recommended & maintain 2-3 cm of standing water in the field.",
+            "Prevailing warm and humid weather may increase the incidence of Sheath rot and Blast disease in rice so apply (Tebuconazole 50%+ Trifloxystrobin 25% WG)@0.4g/litre of water.",
+            "If BLB Incidence increases, spray Copper Oxychloride @500gm along with Plantomycin @200gm/acre."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Prevailing weather condition may increase the infestation of mealy bug & scale insects in sugarcane. To control these pests, spraying of Thiamethoxam@80g/acre & Lambda cyahalothrin @4.9CS@250ml/acre recommended."
+            "Prevailing weather condition may increase the infestation of mealy bug & scale insects in sugarcane. To control these pests spraying of Thiamethoxam@80g/acre & Lambda cyahalothrin @4.9CS@250ml/acre recommended."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Nursery raising for winter vegetables needs to be completed earliest as possible with preparation/selection of appropriate varieties of Tomato, Brinjal, Chilli & cole crops.",
+            "To control sucking insect pests infestations in the vegetables nursery; spray Imidacloroprid 17.8 SL @0.3ml/litre of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To control Fruit and shoot borer in Brinjal, spray Neem-based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spineturam@11.7%SC @200 ml/acre and Emamectin benzoate @80 g/acre at 15 days interval."
+            "To control Fruit and shoot borer in Brinjal spray Neem based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spineturam@11.7%SC@200 ml/acre and Emamectin benzoate @80 g/acre at 15 days interval."
          ]
       },
-      "okra": {
+      "banana": {
          "advisory": [
-            "To control cercospora leaf spot in okra, spraying of (Metalaxyl + Mancozeb) @400g/acre recommended."
-         ]
-      },
-      "bittergourd": {
-         "advisory": [
-            "To control downy mildew in bittergourd, spraying of Azoxystrobin @100ml/acre recommended."
-         ]
-      },
-      "coconut": {
-         "advisory": [
-            "Monitor the activity of the Red palm weevil and Rhinoceros beetle by placing pheromone trap. Spray Lambda cyhalothrin @1.2ml/litre of water to the nearby manure pits for killing the developing stages of Rhinoceros beetle."
+            "Prevailing weather condition may increase the incidence of panama wilt in banana to control this spray 4 li fungicide solution of (Carbendazim @2g/litre of water) recommended."
          ]
       },
       "papaya": {
          "advisory": [
-            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/litre of water and spray flonicamid 50WG @0.3g/litre to control whitefly."
+            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "If the total alkalinity of the pond will remain below 150ppm, apply lime @40kg/acre water area is recommended."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done.",
+            "Keep shed clean and dry to protect animals from disease and insects."
          ]
       }
    },
-   "date": "08-10-2024"
+   "date": "18-10-2024"
 }

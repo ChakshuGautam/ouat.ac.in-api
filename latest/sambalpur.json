@@ -1,93 +1,102 @@
 {
    "weather_details": {
-      "05-10-2024": {
-         "rainfall": 0,
-         "t_max": 36,
+      "19-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
          "t_min": 26,
-         "rh_max": 44,
-         "rh_min": 74,
-         "wind_speed": 6,
-         "wind_direction": 259,
-         "cloud_cover": 2
+         "rh_max": 59,
+         "rh_min": 94,
+         "wind_speed": 4,
+         "wind_direction": 84,
+         "cloud_cover": 4
       },
-      "06-10-2024": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 45,
-         "rh_min": 79,
-         "wind_speed": 5,
-         "wind_direction": 270,
-         "cloud_cover": 3
-      },
-      "07-10-2024": {
+      "20-10-2024": {
          "rainfall": 2,
          "t_max": 35,
          "t_min": 25,
-         "rh_max": 48,
-         "rh_min": 77,
-         "wind_speed": 5,
-         "wind_direction": 160,
+         "rh_max": 53,
+         "rh_min": 92,
+         "wind_speed": 4,
+         "wind_direction": 68,
          "cloud_cover": 6
       },
-      "08-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 51,
-         "rh_min": 92,
-         "wind_speed": 6,
-         "wind_direction": 156,
-         "cloud_cover": 4
-      },
-      "09-10-2024": {
+      "21-10-2024": {
          "rainfall": 0,
          "t_max": 34,
-         "t_min": 24,
-         "rh_max": 49,
-         "rh_min": 96,
-         "wind_speed": 7,
-         "wind_direction": 155,
+         "t_min": 25,
+         "rh_max": 47,
+         "rh_min": 89,
+         "wind_speed": 4,
+         "wind_direction": 70,
+         "cloud_cover": 6
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 41,
+         "rh_min": 85,
+         "wind_speed": 4,
+         "wind_direction": 36,
+         "cloud_cover": 4
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 42,
+         "rh_min": 79,
+         "wind_speed": 5,
+         "wind_direction": 17,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
-      "ground nut",
+      "cotton",
       "okra",
+      "cole crop",
       "mango",
       "cow/buffalo"
    ],
-   "general_advisory": "As there are very less chance of occurrence of rainfall is expected in upcoming days, farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) with proper care. Sowing of green fodder should be advised in moist soil to avail proper diet to animals.",
+   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) during that period. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start nursery sowing and planting of Cole crops and other winter season vegetable. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers should maintain 5 cm water level in rice field for proper growth.",
-            "In case of appearance of bacterial leaf blight disease, farmers should follow specific protocols for disease management.",
-            "To control gall midge attack in rice field, farmers should use appropriate pesticides."
+            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
+            "To control gall midge attack in rice field (onion leaf or silver shoot like symptoms) farmers should spray Lambda-cyhalothrin 05% EC @ 100 ml, thiamethoxam 25% WG @ 40g or Fipronil 5% SC @ 400 ml or Chloropyriphos 20 EC @ 500 ml in 200 liter water per acre in clear and calm weather condition.",
+            "To control leaf folder, spraying of Chlorantraniliprole 18.5% SC @ 60 ml or Tetraniliprole 200 SC @ 100-120 ml or Flubendiamide 20 WG 50 g in 200 litres of water per acre should be advised under clear weather."
          ]
       },
-      "ground nut": {
+      "cotton": {
          "advisory": [
-            "To control Tikka disease in Ground nut, specific pesticides should be sprayed under clear weather conditions."
+            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG @ 4g or Profenophos 50% EC @ 30 ml in 10 litres of water under clear weather."
          ]
       },
       "okra": {
          "advisory": [
-            "To control viral diseases in okra crop, specific actions should be taken including removal of affected plants and chemical control measures."
+            "To control Fruit and shoot borer in Okra etc. spraying of Neem based pesticide 1500 ppm @600 ml per acre should be advised at initial stages."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Nursery bed should be prepared with a length of 3m, 1m breadth and 15-20 cm height. Before sowing, application of 15-30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed should be advised.",
+            "Where irrigation facilities are available, planting of crop is advised in already prepared field."
          ]
       },
       "mango": {
          "advisory": [
-            "In old Mango orchard, specific practices should be followed for management of leaf webber infestation.",
-            "In newly planted mango orchard, specific actions should be taken to control leaf cutting weevil attack."
+            "In the old Mango orchard, training, pruning and cleaning of weed, diseased and infected branches and leaves should be advised. If leaf webber infestation occurs, then spraying of quinalfos 20 EC @ 2.5 ml per liter should be advised.",
+            "In newly planted mango orchard, if leaf cutting weevil attack is observed then farmers should spray Lambda cyhalothrin 5% EC @ 0.5-1 ml per liter or Chloropyriphos 20 EC @ 2ml per liter or Spinosad 45% SC @ 0.4 ml per liter or quinalfos 20 EC @ 2 ml per liter to control this insect."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "For prevention and control of Foot and Mouth Disease in Cow and Buffalo, specific measures should be implemented as detailed."
+            "FMD is a highly contagious viral disease which is characterized by fever and blister-like sores on the tongue and lips, in the mouth, on the teats and between the hooves. The disease is rarely fatal in adult animals, but there is often high mortality in young animals. So there are some preventive and control measures are given below: - The primary vaccination should be given to cattle and buffalo calves when they are 4-5 months old and repeat the same in every six months. Deworming should be advised.",
+            "Mouth and feet of the affected animals should be washed with 0.1% (1g/liter of water) potassium permanganate (KMnO4) antiseptic mouth wash 3-4 times a day. Glycerin may be applied over the lesions. Isolate the affected animals from healthy animals.",
+            "Antibiotic treatment and consultation should be made with qualified veterinary Doctor."
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }

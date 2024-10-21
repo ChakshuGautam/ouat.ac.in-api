@@ -1,0 +1,63 @@
+{
+   "weather_details": {
+      "04.10.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "sugarcane",
+      "maize",
+      "sesame",
+      "chilli",
+      "brinjal",
+      "cole crops",
+      "papaya"
+   ],
+   "general_advisory": "Dry weather may favor pest infestation in crops, ensure proper protection.",
+   "crops_data": {
+      "sugarcane": {
+         "advisory": [
+            "To control Pyrilla and Mealy Bug infestation, spray Imidacl oprid 17.8% SL or Thiamethoxam 25% WG or Profenophos 50% EC."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Harvest maize grain when cob-sheath turns brownish and grains become hard.",
+            "Dry and store maize at proper moisture level to avoid damage."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "To control Hawk moth or Dead head moth, manually remove caterpillars and spray Profenophos 50% EC."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Prepare chilli nursery with suitable varieties and seed quantities."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Deficit rainfall may cause Epilachna beetle infestation, manage with neem-based or chemical pesticide."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Prevent Damping off disease in nursery with appropriate treatment."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Dry weather may increase Mealy bug infestation in Papaya, manage with neem-based or chemical pesticide."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

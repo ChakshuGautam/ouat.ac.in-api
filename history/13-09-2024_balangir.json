@@ -56,21 +56,21 @@
       "chilli",
       "brinjal"
    ],
-   "general_advisory": "According to the weather forecast, Bolangir district is likely to receive very light rainfall for the upcoming 5 days with generally cloudy sky. Maximum temperature will range from 29-33°C and minimum temperature from 19-25°C. Maximum relative humidity will be 88-93% and minimum relative humidity will be 63-71%. The wind speed will range from 14 to 16 kmph for the upcoming 5 days.",
+   "general_advisory": "Bolangir district is likely to receive very light rainfall for the upcoming 5 days with a generally cloudy sky. Maximum temperature will be between 29-33°C and minimum temperature will be between 19-25°C for the upcoming 5 days. Maximum and minimum relative humidity will be between 88-93% and 63-71% respectively. The wind speed will remain within 14 to 16 kmph for the upcoming 5 days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "The crop is at active tillering stage. Low temperature below 28°C and high relative humidity more than 70% favor infestation of Yellow stem borer in rice. To manage this pest, apply Cartap Hydrochloride 4% G or Chlorantraniliprole 0.4% GR or Imidacloprid 0.3% GR by mixing it with sand."
+            "The crop is at active tillering stage. Favourable conditions for Yellow stem borer infestation. Apply appropriate insecticides for management."
          ]
       },
       "chilli": {
          "advisory": [
-            "Chilli crop is at seedling stage. High soil moisture & moderate soil temperature, high RH, high rainfall, and poor drainage during this rainy season may cause damping off disease. Drench the soil with Mancozeb or foliar spray with Metalaxyl or Metalaxyl+Mancozeb."
+            "Chilli crop is at seedling stage. Be cautious of damping off disease due to high soil moisture. Use Mancozeb or Metalaxyl for prevention."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal is at flowering to fruiting stage. Favorable conditions for Shoot and fruit borer in Brinjal may occur. To manage this pest, remove affected terminal shoots and fruits, install pheromone traps, and use chemical control. Apply Emamectin Benzoate 5% SG or Chlorantraniliprole 18.5% SC or Spinetoram 11.7% SC with proper intervals."
+            "Brinjal is at flowering to fruiting stage. Watch out for Shoot and fruit borer infestation. Use pheromone traps and chemical controls as necessary."
          ]
       }
    },

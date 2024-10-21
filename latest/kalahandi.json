@@ -1,145 +1,150 @@
 {
    "weather_details": {
-      "05-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 49,
-         "wind_speed": 6,
-         "wind_direction": 210,
-         "cloud_cover": 4
-      },
-      "06-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 72,
-         "rh_min": 47,
-         "wind_speed": 5,
-         "wind_direction": 216,
-         "cloud_cover": 4
-      },
-      "07-10-2024": {
-         "rainfall": 0,
+      "19-10-2024": {
+         "rainfall": 2,
          "t_max": 34,
-         "t_min": 25,
-         "rh_max": 82,
-         "rh_min": 51,
-         "wind_speed": 5,
-         "wind_direction": 180,
-         "cloud_cover": 4
-      },
-      "08-10-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 92,
-         "rh_min": 54,
-         "wind_speed": 6,
-         "wind_direction": 153,
-         "cloud_cover": 6
-      },
-      "09-10-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 24,
+         "t_min": 23,
          "rh_max": 93,
-         "rh_min": 56,
-         "wind_speed": 6,
-         "wind_direction": 156,
+         "rh_min": 54,
+         "wind_speed": 3,
+         "wind_direction": 150,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 3,
+         "wind_direction": 146,
          "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 58,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 6
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 5
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 45,
+         "wind_speed": 2,
+         "wind_direction": 31,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "direct seeded paddy",
-      "transplanted paddy",
+      "paddy",
       "cotton",
       "arhar",
       "hybrid maize",
-      "brinjal",
       "tomato",
       "cole crops",
-      "banana",
-      "papaya",
+      "onion",
+      "merigold",
+      "rose",
       "cattle",
-      "goat & sheep",
+      "buffalo",
+      "goat",
+      "sheep",
       "poultry"
    ],
-   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue agronomic practices, irrigation, application of pesticides and fertilizers during the next four days as needed. Keep the fields weed free, plug the holes in the bunds, monitor the crop for pest and diseases, and use control measures as required.",
+   "general_advisory": "As per extended range forecast received from IMD, light to moderate rain/thundershower is likely to occur at isolated to scattered places in the districts of Odisha during the week -1 (18th - 22nd October, 2024) and increases in rainfall activity thereafter. Maximum temperature very likely to be in the range of 32 - 34°C in parts of South Interior Odisha and parts of North Interior Odisha, and 30 - 32°C in remaining parts of Odisha during week -1 and 30 - 32°C in most of the parts of Odisha during week -2. Farmers can continue intercultural operations, harvesting of matured produces and application of pesticides mixed with sticker during next five days period as needed.",
    "crops_data": {
-      "direct seeded paddy": {
+      "paddy": {
          "advisory": [
-            "Gundhi bug infestation control measures",
-            "BPH infestation control measures"
-         ]
-      },
-      "transplanted paddy": {
-         "advisory": [
-            "Thrips infestation control measures",
-            "Blast infestation control measures"
+            "Pest Management: Prevailing weather conditions are highly favorable for the incidence of diseases like Bacterial Blight, Bacterial Leaf Streak, and Leaf Blast. Farmers are advised to be vigilant on their fields.",
+            "Gundhi Bug: If infestation is noticed, apply Malathion 50% EC or Imidacloprid 06% + Lambda-cyhalothrin 04% SL as foliar spray mixed with water.",
+            "Ear cutting caterpillar: To control, spray Quinalphos 25 EC."
          ]
       },
       "cotton": {
          "advisory": [
-            "Pest management measures including topping, monitoring for various pests, and disease control"
+            "American bollworm: Apply Emamectin benzoate 5% SG or Profenophos 50% EC for chemical control.",
+            "Bacterial leaf blight: Apply Streptocycline 1.5 g + Copper Oxychloride 50% WP for control."
          ]
       },
       "arhar": {
          "advisory": [
-            "Leaf webber/leaf folder/defoliators control measures",
-            "Wilt management measures"
+            "Leaf webber/Leaf folder/Defoliators: Spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC to control.",
+            "Pod borer: Apply neem-based pesticides Azadiractin 0.03% at the initial stage of infestation."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Stem borer, FAW, and banded leaf and sheath blight control measures"
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Bacterial wilt management"
+            "American Cob Borer: Apply Flubendiamide 39.35% SC to control infestation.",
+            "BLSB: For control, spray Validamycin 3.0% SL or Hexaconazole 5% EC."
          ]
       },
       "tomato": {
          "advisory": [
-            "Seedling wilt prevention measures"
+            "Seedling wilt: Prepare nursery beds and apply recommended substances for healthy seedlings. Use suitable varieties for better results."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Nursery bed preparation guidelines"
+            "Nursery bed preparation: Prepare beds and apply recommended substances before sowing. Use suitable varieties for cauliflower, cabbage, and broccoli."
          ]
       },
-      "banana": {
+      "onion": {
          "advisory": [
-            "Sigatoka leaf spot and Cigar end rot or Tip rot management measures"
+            "Nursery bed preparation: Provide adequate care before sowing, including fertilizer application and protection from diseases. Use suitable varieties for successful cultivation."
          ]
       },
-      "papaya": {
+      "merigold": {
          "advisory": [
-            "YVM monitoring and control measures"
+            "To control mealy bug infestation, spray Profenophos 50% EC or Buprofezin 25% SC."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Training and pruning along with intercultural operations should be done in current weather conditions.",
+            "To control black spot, apply Copper Oxychloride 50% WP."
          ]
       },
       "cattle": {
          "advisory": [
-            "Proper ventilation in animal sheds",
-            "Cultivate drought-resistant fodder varieties"
+            "Deworm and vaccinate cattle and buffalo regularly. Consult with veterinary doctors for any health issues."
          ]
       },
-      "goat & sheep": {
+      "buffalo": {
          "advisory": [
-            "Regular checks for dehydration, heat stress, and parasitic infections",
-            "Deworming and vaccination against common diseases"
+            "Deworm and vaccinate buffalos regularly. Seek veterinary advice for reproductive issues."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Regularly check for dehydration, heat stress, and parasitic infections in goats and sheep. Deworm and vaccinate against common diseases."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Regularly monitor sheep for health issues and provide necessary care including deworming and vaccination."
          ]
       },
       "poultry": {
          "advisory": [
-            "Maintain cleanliness and temperature control in poultry houses",
-            "Regular cleaning and disinfection to prevent pathogens buildup",
-            "Maintain appropriate stocking density to reduce stress"
+            "Use raised platforms and deep litter systems for cleanliness and temperature control in poultry houses. Regularly clean and disinfect to prevent pathogen buildup."
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }

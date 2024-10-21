@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "2024-10-09": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 22,
+         "rh_max": 96,
+         "rh_min": 59,
+         "wind_speed": 6,
+         "wind_direction": 153,
+         "cloud_cover": 4
+      },
+      "2024-10-10": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 22,
+         "rh_max": 92,
+         "rh_min": 56,
+         "wind_speed": 4,
+         "wind_direction": 161,
+         "cloud_cover": 6
+      },
+      "2024-10-11": {
+         "rainfall": 1,
+         "t_max": 34,
+         "t_min": 22,
+         "rh_max": 92,
+         "rh_min": 57,
+         "wind_speed": 4,
+         "wind_direction": 189,
+         "cloud_cover": 5
+      },
+      "2024-10-12": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 87,
+         "rh_min": 62,
+         "wind_speed": 4,
+         "wind_direction": 206,
+         "cloud_cover": 4
+      },
+      "2024-10-13": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 86,
+         "rh_min": 51,
+         "wind_speed": 4,
+         "wind_direction": 116,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "banana",
+      "cow"
+   ],
+   "general_advisory": "As South-W est monsoon is on the process of withdrawal, No rainfall is likely occur over the district. So the there is possibility of increase of amount of evapotranspiration in the dry condition, as the transplanted rice is at maximum tillering to PI stage, which is also critical with respect to moisture availability, make arrangements for irrigation.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanted rice is at maximum tillering to PI stage. The present condition cloudy sky, high humidity, with high day temperature but low night temperature is highly favorable for incidence of many Blast etc. So, keep vigil on your field. In case of Blast incidence, spraying of Tebuconazole 50% + Trifloxystobin 25% @ 80g/acre or Carbendazim 50 WP @ 400g/acre may be done for controlling the disease."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Present weather condition is suitable for infestation of sigatoka in banana. Go for application of Propiconazole @1ml/lt for 2-3 times in 25 days interval."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Keep the animal sheds clean. Provide sufficient foods and clean water to animals. Proper vaccination should be given to them."
+         ]
+      }
+   },
+   "date": "08-10-2024"
+}

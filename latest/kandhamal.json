@@ -1,105 +1,99 @@
 {
    "weather_details": {
-      "09-10-2024": {
-         "rainfall": 4,
-         "t_max": 32,
-         "t_min": 20,
-         "rh_max": 96,
-         "rh_min": 64,
-         "wind_speed": 5,
-         "wind_direction": 158,
-         "cloud_cover": 8
+      "19-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 97,
+         "rh_min": 59,
+         "wind_speed": 2,
+         "wind_direction": 154,
+         "cloud_cover": 4
       },
-      "10-10-2024": {
-         "rainfall": 1,
+      "20-10-2024": {
+         "rainfall": 2,
          "t_max": 32,
          "t_min": 21,
-         "rh_max": 92,
-         "rh_min": 58,
-         "wind_speed": 4,
-         "wind_direction": 197,
-         "cloud_cover": 5
+         "rh_max": 96,
+         "rh_min": 65,
+         "wind_speed": 1,
+         "wind_direction": 135,
+         "cloud_cover": 6
       },
-      "11-10-2024": {
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 95,
+         "rh_min": 63,
+         "wind_speed": 1,
+         "wind_direction": 56,
+         "cloud_cover": 6
+      },
+      "22-10-2024": {
          "rainfall": 0,
          "t_max": 32,
          "t_min": 20,
-         "rh_max": 94,
-         "rh_min": 60,
-         "wind_speed": 4,
-         "wind_direction": 197,
-         "cloud_cover": 5
+         "rh_max": 92,
+         "rh_min": 47,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 4
       },
-      "12-10-2024": {
-         "rainfall": 3,
+      "23-10-2024": {
+         "rainfall": 0,
          "t_max": 32,
-         "t_min": 21,
-         "rh_max": 93,
-         "rh_min": 64,
+         "t_min": 20,
+         "rh_max": 82,
+         "rh_min": 48,
          "wind_speed": 3,
-         "wind_direction": 197,
-         "cloud_cover": 7
-      },
-      "13-10-2024": {
-         "rainfall": 4,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 91,
-         "rh_min": 71,
-         "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 8
+         "wind_direction": 14,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "okra",
-      "ginger",
-      "rice",
-      "brinjal",
+      "finger millet",
       "maize",
+      "chilli",
+      "banana",
+      "okra",
       "fishery"
    ],
-   "general_advisory": "Seeing the light or no rainfall upcoming events, farmers are advised to store rainwater or irrigate the crops accordingly. Apply chemical fertilizers at appropriate doses during sunny weather condition. Due to humidity and cloudy weather condition, there is a fair chance of occurring of various diseases, so monitor the field regularly and take measures.",
+   "general_advisory": "Harvest the matured crops and store them at safe places. Light rainfall with cloudy weather will attract the infestation of disease and pests, monitor the field and spray pesticides wherever needed. Set up Honey bee boxes near the flowering areas to collect good quality honey.",
    "crops_data": {
-      "okra": {
+      "finger millet": {
          "advisory": [
-            "Pest- Yellow vein Mosaic disease",
-            "This disease spreads by white fly.",
-            "To control white fly, apply Imidachloprid @1ml/liter of water."
-         ]
-      },
-      "ginger": {
-         "advisory": [
-            "Disease - Rhizome rot",
-            "Lower portion of the infected plants becomes soft and rots.",
-            "To control the infection, drain the excess of water from the soil and drench the soil with copper oxychloride @2.5 gram/1000 lt of water."
-         ]
-      },
-      "rice": {
-         "advisory": [
-            "Stage - Panicle emergence - flowering",
-            "Stem borer",
-            "To control the insect, spray Neem oil 1500 ppm @ 1.5ml/lt of water.",
-            "To control chemically, apply Chlorantraniliprole 0.4% or Fipronil 0.6% @ 4kg/acre."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Wilting due to fungal infection",
-            "Remove the infected plants and drench the soil with 2 gm of Metalaxyl and Mancozeb solution."
+            "For blast disease management apply (Tricyclazole 18 % + Mancozeb 62 % WP) @ 1 -1.5 g/l or Tricyclazole 75% WP @ 0.6 g/l of water."
          ]
       },
       "maize": {
          "advisory": [
-            "Fall army worm",
-            "Spray Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation."
+            "Fall army worm: Spray Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Thrips: To control Chilli thrips, spray Malathion or Imidachloprid 17.8 SL @ 2 ml/lt."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Make rings around the plant to store water for irrigation purpose.",
+            "Provide stakes to the plants."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Disease - YMV: Remove the severely affected plants and bury them under the soil at a distance.",
+            "Use yellow cards 6 @acre to control whiteflies.",
+            "Spray Acetamiprid 20% SP @ 2.5 g or Imidacloprid 17.8% SL @ 3 ml per 10 liters of water."
          ]
       },
       "fishery": {
          "advisory": [
-            "To cure EUS disease in fishes apply Cifax@ 400ml/ acre of pond area."
+            "To control turbidity, apply alum @30kg/acre and to prevent depletion of oxygen, apply O2 Gen @600 gm/acre."
          ]
       }
    },
-   "date": "08-10-2024"
+   "date": "18-10-2024"
 }

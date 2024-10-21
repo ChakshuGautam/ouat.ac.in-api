@@ -1,78 +1,79 @@
 {
    "weather_details": {
-      "2024-10-09": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 22,
+      "2024-10-19": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 23,
          "rh_max": 96,
-         "rh_min": 59,
-         "wind_speed": 6,
-         "wind_direction": 153,
+         "rh_min": 57,
+         "wind_speed": 3,
+         "wind_direction": 0,
          "cloud_cover": 4
       },
-      "2024-10-10": {
-         "rainfall": 0,
-         "t_max": 34,
+      "2024-10-20": {
+         "rainfall": 2,
+         "t_max": 36,
          "t_min": 22,
-         "rh_max": 92,
-         "rh_min": 56,
-         "wind_speed": 4,
-         "wind_direction": 161,
+         "rh_max": 94,
+         "rh_min": 58,
+         "wind_speed": 3,
+         "wind_direction": 56,
          "cloud_cover": 6
       },
-      "2024-10-11": {
-         "rainfall": 1,
-         "t_max": 34,
+      "2024-10-21": {
+         "rainfall": 0,
+         "t_max": 35,
          "t_min": 22,
          "rh_max": 92,
-         "rh_min": 57,
-         "wind_speed": 4,
-         "wind_direction": 189,
-         "cloud_cover": 5
-      },
-      "2024-10-12": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 87,
-         "rh_min": 62,
-         "wind_speed": 4,
-         "wind_direction": 206,
-         "cloud_cover": 4
-      },
-      "2024-10-13": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 86,
          "rh_min": 51,
-         "wind_speed": 4,
-         "wind_direction": 116,
+         "wind_speed": 2,
+         "wind_direction": 27,
          "cloud_cover": 4
+      },
+      "2024-10-22": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 43,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 4
+      },
+      "2024-10-23": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 80,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "rice",
-      "banana",
-      "cow"
+      "spine gourd",
+      "others (soil / land preparation)"
    ],
-   "general_advisory": "As South-W est monsoon is on the process of withdrawal, No rainfall is likely occur over the district. So the there is possibility of increase of amount of evapotranspiration in the dry condition, as the transplanted rice is at maximum tillering to PI stage, which is also critical with respect to moisture availability, make arrangements for irrigation.",
+   "general_advisory": "Lowering of temperature may favor incidences of post flowering diseases like false smut. So, farmers are requested to be vigilant and take need based control measures. Go for pruning and manuring of rose. In case of upland and early sown medium land rice harvest the product if more than 85% of the panicle are matured.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Transplanted rice is at maximum tillering to PI stage. The present condition cloudy sky, high humidity, with high day temperature but low night temperature is highly favorable for incidence of many Blast etc. So, keep vigil on your field. In case of Blast incidence, spraying of Tebuconazole 50% + Trifloxystobin 25% @ 80g/acre or Carbendazim 50 WP @ 400g/acre may be done for controlling the disease."
+            "Transplanted rice is in between PI to flowering stage. Upcoming low pressure, intermittent rainfall in addition to lowering of temperature might favor incidence of false smut in post flowering stage. Go for application of Copper hydroxide 77% @ 400g/acre at boot leaf stage. Repeat the spraying at seven days interval for effective control of false smut.",
+            "BPH infestation has been seen in some parts of the district, To manage this spray flonicamid 50 wg 60 gm/acre . Stop application of nitrogen fertilizer for the time being."
          ]
       },
-      "banana": {
+      "spine gourd": {
          "advisory": [
-            "Present weather condition is suitable for infestation of sigatoka in banana. Go for application of Propiconazole @1ml/lt for 2-3 times in 25 days interval."
+            "Make provision for staking in the creeper plants in view of upcoming rainfall activity."
          ]
       },
-      "cow": {
+      "others (soil / land preparation)": {
          "advisory": [
-            "Keep the animal sheds clean. Provide sufficient foods and clean water to animals. Proper vaccination should be given to them."
+            "The cauliflower seedlings in nursery are germination stage. Start nursery preparation for sowing cauliflower and complete sowing seed in nursery . The Varieties suitable for cauliflower are K-1, Pusa early synthetic and Pusa early Kuanri and the seed rate is 200g/acre. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery . Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
          ]
       }
    },
-   "date": "08-10-2024"
+   "date": "18-10-2024"
 }

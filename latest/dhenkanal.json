@@ -1,63 +1,68 @@
 {
    "weather_details": {
-      "04.10.2024": {
+      "18.10.2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 23,
-         "rh_max": 90,
+         "t_min": 24,
+         "rh_max": 85,
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 120,
-         "cloud_cover": 5
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
+      "groundnut",
       "sugarcane",
-      "maize",
-      "sesame",
+      "potato",
+      "onion",
+      "tomato",
       "chilli",
-      "brinjal",
-      "cole crops",
-      "papaya"
+      "cabbage",
+      "cauliflower"
    ],
-   "general_advisory": "Dry weather may favor pest infestation in crops, ensure proper protection.",
+   "general_advisory": "Ensure proper storage of groundnut. Prevent Scale insect infestation in sugarcane. Use recommended potato varieties and seeds. Choose suitable onion varieties. Properly fertilize tomato, chilli, cabbage, and cauliflower during respective stages.",
    "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Store groundnut in polythene lined gunny bags with desiccant for effective germination."
+         ]
+      },
       "sugarcane": {
          "advisory": [
-            "To control Pyrilla and Mealy Bug infestation, spray Imidacl oprid 17.8% SL or Thiamethoxam 25% WG or Profenophos 50% EC."
+            "Prevent Scale insect infestation with recommended solutions."
          ]
       },
-      "maize": {
+      "potato": {
          "advisory": [
-            "Harvest maize grain when cob-sheath turns brownish and grains become hard.",
-            "Dry and store maize at proper moisture level to avoid damage."
+            "Use disease-free and well-sprouted tuber seeds for planting."
          ]
       },
-      "sesame": {
+      "onion": {
          "advisory": [
-            "To control Hawk moth or Dead head moth, manually remove caterpillars and spray Profenophos 50% EC."
+            "Select suitable onion varieties for winter season cultivation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply recommended basal fertilizer and maintain proper spacing."
          ]
       },
       "chilli": {
          "advisory": [
-            "Prepare chilli nursery with suitable varieties and seed quantities."
+            "Apply basal fertilizer before transplanting and maintain specific spacing."
          ]
       },
-      "brinjal": {
+      "cabbage": {
          "advisory": [
-            "Deficit rainfall may cause Epilachna beetle infestation, manage with neem-based or chemical pesticide."
+            "Maintain proper spacing for different varieties and transplant seedlings in the afternoon."
          ]
       },
-      "cole crops": {
+      "cauliflower": {
          "advisory": [
-            "Prevent Damping off disease in nursery with appropriate treatment."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Dry weather may increase Mealy bug infestation in Papaya, manage with neem-based or chemical pesticide."
+            "Maintain correct spacing for different varieties and transplant seedlings in the afternoon."
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }

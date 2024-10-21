@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "05/10/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 80,
+         "rh_min": 57,
+         "wind_speed": 13,
+         "wind_direction": 238,
+         "cloud_cover": 3
+      },
+      "06/10/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 78,
+         "rh_min": 57,
+         "wind_speed": 13,
+         "wind_direction": 238,
+         "cloud_cover": 3
+      },
+      "07/10/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 77,
+         "rh_min": 59,
+         "wind_speed": 13,
+         "wind_direction": 204,
+         "cloud_cover": 3
+      },
+      "08/10/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 78,
+         "rh_min": 64,
+         "wind_speed": 14,
+         "wind_direction": 201,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "g ram",
+      "black gram",
+      "green gram",
+      "sugarcane",
+      "cucurbits",
+      "okra"
+   ],
+   "general_advisory": "Farmers are advised to conduct agricultural operations like irrigation, spraying, intercultural operation, and sow green fodder in moist soil. Keep fields free from weeds to minimize diseases and pests. Avoid excess use of nitrogenous fertilizers. Vaccinate poultry against Ranikhet disease.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Bacterial Leaf Blight - Control with chemical sprays like Copper Hydroxide or Plantomycin",
+            "BPH and WBPH - Control with Pymetrozine or Dinotefuran",
+            "Case Worm - Control with Fipronil or Profenofos"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Powdery mildew disease management - Treat with Carbendazim or Triadimefon"
+         ]
+      },
+      "g ram": {
+         "advisory": [
+            "Powdery mildew disease management - Treat with Carbendazim or Penconazole",
+            "Red rot disease Management - Control with Carbendazim or Metalaxyl"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Powdery mildew disease management - Treat with Carbendazim or Triadimefon"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Powdery mildew disease management - Treat with Carbendazim or Penconazole"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Red rot disease Management - Control with Carbendazim or Metalaxyl"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Fruit fly - Manage with poison bait",
+            "Yellow vain mosaic disease - Manage with yellow sticky traps and pesticide"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Yellow vain mosaic disease - Manage with traps and pesticide"
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

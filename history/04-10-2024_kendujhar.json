@@ -1,0 +1,112 @@
+{
+   "weather_details": {
+      "05-10-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 279,
+         "cloud_cover": 6
+      },
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 6,
+         "wind_direction": 214,
+         "cloud_cover": 3
+      },
+      "07-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 49,
+         "wind_speed": 5,
+         "wind_direction": 162,
+         "cloud_cover": 4
+      },
+      "08-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 56,
+         "wind_speed": 7,
+         "wind_direction": 162,
+         "cloud_cover": 8
+      },
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 97,
+         "rh_min": 60,
+         "wind_speed": 8,
+         "wind_direction": 193,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "bitter gourd",
+      "pumpkin",
+      "brinjal",
+      "lady finger",
+      "papaya",
+      "banana"
+   ],
+   "general_advisory": "Farmers are advised to harvest the matured produce and store them at safe and dry places. Irrigate the field if the soil is getting dry. Fertilisers and pesticides spray can be resumed in the early morning or evening hours.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Maintain a water level of 2-3 cm in the paddy field especially during the panicle initiation stage.",
+            "Monitor the paddy field regularly for diseases and pests.",
+            "For false smut disease, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water in an acre. Take precautionary measures if pest attack is seen."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Harvest the matured fruits.",
+            "To manage the infestation of fruit flies, spray Malathion @ 1 ml/lt.",
+            "To control Powdery mildew disease, spray Dinocap @ 1 ml/lt or Carbendazim @ 1 g/lt."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Manage Alternaria leaf blight by spraying Carbendazim or Mancozeb @ 2 g/lt.",
+            "To reduce damage from Red pumpkin beetle, spray Malathion 50 EC @ 1 ml/lt or Methyl demeton 25 EC @ 1 ml/lt. Avoid making contact of the fruit with the soil as rotting can occur."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Remove weeds from the root zone.",
+            "Uproot plants showing wilting symptoms.",
+            "For Phomopsis blight disease, spray Metalaxyl + Mancozeb combination @ 400 g/acre or Zineb 75% WP @ 500 g/acre in 200 litres of water."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "To manage Yellow vein mosaic virus, spray Quinalphos 25EC @ 2 lt/ha.",
+            "Control Fruit and shoot borer by spraying Emamectin benzoate @ 4g/10 lt."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Prevent water stagnation near the root zone.",
+            "Manage Papaya mosaic disease by inhibiting aphids with Imidachloprid or Malathion @ 2 ml/lt."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Cover bunches with bags to protect from monkeys.",
+            "Support falling plants due to bunch weight. Provide irrigation if possible."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

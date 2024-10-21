@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "05-10-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 44,
+         "rh_min": 74,
+         "wind_speed": 6,
+         "wind_direction": 259,
+         "cloud_cover": 2
+      },
+      "06-10-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 45,
+         "rh_min": 79,
+         "wind_speed": 5,
+         "wind_direction": 270,
+         "cloud_cover": 3
+      },
+      "07-10-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 48,
+         "rh_min": 77,
+         "wind_speed": 5,
+         "wind_direction": 160,
+         "cloud_cover": 6
+      },
+      "08-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 51,
+         "rh_min": 92,
+         "wind_speed": 6,
+         "wind_direction": 156,
+         "cloud_cover": 4
+      },
+      "09-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 49,
+         "rh_min": 96,
+         "wind_speed": 7,
+         "wind_direction": 155,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "ground nut",
+      "okra",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "As there are very less chance of occurrence of rainfall is expected in upcoming days, farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) with proper care. Sowing of green fodder should be advised in moist soil to avail proper diet to animals.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain 5 cm water level in rice field for proper growth.",
+            "In case of appearance of bacterial leaf blight disease, farmers should follow specific protocols for disease management.",
+            "To control gall midge attack in rice field, farmers should use appropriate pesticides."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "To control Tikka disease in Ground nut, specific pesticides should be sprayed under clear weather conditions."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control viral diseases in okra crop, specific actions should be taken including removal of affected plants and chemical control measures."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "In old Mango orchard, specific practices should be followed for management of leaf webber infestation.",
+            "In newly planted mango orchard, specific actions should be taken to control leaf cutting weevil attack."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "For prevention and control of Foot and Mouth Disease in Cow and Buffalo, specific measures should be implemented as detailed."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

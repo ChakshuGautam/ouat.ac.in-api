@@ -1,145 +1,138 @@
 {
    "weather_details": {
-      "05-10-2024": {
+      "19-10-2024": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 27,
-         "rh_max": 68,
-         "rh_min": 47,
-         "wind_speed": 7,
-         "wind_direction": 253,
-         "cloud_cover": 4
-      },
-      "06-10-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 27,
-         "rh_max": 72,
-         "rh_min": 46,
-         "wind_speed": 5,
-         "wind_direction": 248,
-         "cloud_cover": 3
-      },
-      "07-10-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 27,
-         "rh_max": 75,
-         "rh_min": 53,
-         "wind_speed": 4,
-         "wind_direction": 243,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 1,
+         "wind_direction": 45,
          "cloud_cover": 5
       },
-      "08-10-2024": {
+      "20-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 62,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 60,
+         "wind_speed": 2,
+         "wind_direction": 39,
+         "cloud_cover": 7
+      },
+      "22-10-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 30,
+         "cloud_cover": 6
+      },
+      "23-10-2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 26,
-         "rh_max": 83,
-         "rh_min": 51,
-         "wind_speed": 4,
-         "wind_direction": 180,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 90,
          "cloud_cover": 4
-      },
-      "09-10-2024": {
-         "rainfall": 5,
-         "t_max": 31,
-         "t_min": 26,
-         "rh_max": 89,
-         "rh_min": 57,
-         "wind_speed": 6,
-         "wind_direction": 115,
-         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "direct seeded paddy",
-      "transplanted paddy",
+      "paddy",
       "cotton",
       "arhar",
       "hybrid maize",
-      "brinjal",
       "tomato",
       "cole crops",
-      "banana",
-      "papaya",
-      "cattle",
-      "goat & sheep",
-      "poultry"
+      "onion",
+      "merigold",
+      "rose",
+      "cattle & buffalo",
+      "goat & sheep"
    ],
-   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue agronomic practices, irrigation, application pesticides and fertilizers during next four days as needed. Keep the fields weed free and plug the holes in the bunds to arrest the seepage loss. Regular monitoring of the crop for incidence of pest and diseases should be done and use light trap to monitor insect population so that timely control measure can be taken. Termites may damage crops and vegetables in the present weather condition. Farmers are advised to spray Chlorpyriphos 20 EC @ 4 ml/litre of water. SMS Advisory: Avoid using nitrogenous fertilizers during infestation of BPH in Paddy.",
+   "general_advisory": "As per extended range forecast from IMD, light to moderate rain likely. Temperature range expected. Farmers advised to continue intercultural operations, harvesting of matured produces, and application of pesticides mixed with sticker as needed.",
    "crops_data": {
-      "direct seeded paddy": {
+      "paddy": {
          "advisory": [
-            "Pest Management: Gundhi bug infestation is commonly observed during milking stage of rice. When the population of Gundhi bug exceeds the economic threshold Level (ETL) i.e., 2 adults/hill or 5 adults/m2, spray Etofenprox 10 EC @ 200 ml/acre or Chloropyriphos 20% EC @ 1000 ml/acre mixed with 200 litres of water.",
-            "BPH: Infestation of BPH may be observed at this stage of paddy. If population of Brown Planthopper (BPH) exceeds ETL (5 -10 hoppers/hill), farmers are advised to undertake alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidacloprid 17.8% SL @ 50 ml/acre or Buprofezin 20% + Acephate 50% WP @ 400 g/acre or Flonicamid 50% WG @ 60g /acre mixed with 200 liters of water. Avoid using nitrogenous fertilizers during infestation of BPH."
-         ]
-      },
-      "transplanted paddy": {
-         "advisory": [
-            "Pest Management: Infestation of thrips have been noticed in few places. To control, spray Thiamethoxam 25% WG @ 40 g/acre mixed with 200 litres of water.",
-            "Blast: Current weather is favorable for blast infestation. If leaf blast is observed in rice field, spray Tebuconazole 50% + Trifloxystrobin 25% WG (Nativo) @ 80 g/acre or Isoprothiolane 40 EC (Sultan/Fujita/Fujione) @ 300 ml/acre by mixing with 200 liters of litre of water. Repeat the spray at 7 -10 days interval.",
-            "Stem borer & Leaf folder: If pest population is above ETL, spray Chlorantraniliprole 18.5% SC @ 60 ml /acre or Flubendiamide 20 WG 50 g /acre by mixing with 200 litres of water or apply Cartap hydrochloride 4G @ 10 kg/acre to control leaf folder as well as stem borer infestation."
+            "Prevailing weather conditions favorable for disease incidence. Vigilance advised.",
+            "Gundhi Bug infestation control measures.",
+            "Ear cutting caterpillar control.",
+            "BPH infestation management."
          ]
       },
       "cotton": {
          "advisory": [
-            "Topping (cutting of terminal bud of the main stem) should be done at 90 DAS or when the crop attains 100 cm height."
+            "American bollworm control measures.",
+            "Bacterial leaf blight control."
          ]
       },
       "arhar": {
          "advisory": [
-            "Pest Management: Leaf webber / Leaf folder / Defoliators: These insects may be observed at this stage. Spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water to control.",
-            "Wilt: Wilting may be observed after receding of rain. Apply Metiram 75% WG @ 1.5g/liter at root zone of the plant as control measure."
+            "Leaf webber/leaf folder/defoliators control.",
+            "Pod borer control."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Pest Management: Stem borer, FAW and banded leaf and sheath blight may appear due to present weather condition. Monitor the field regularly and remove infected plant parts.",
-            "Stem borer: For effective control of stem borer spray Fipronil 5% SC or Profenophos 50% EC @ 400ml/acre by mixing with 200 liters of water.",
-            "FAW: Apply Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation.",
-            "BLSB: Soaked, discolored concentric bands and rings on leaves and sheaths. For control, spray Validamycin 3.0% SL or Hexaconazole 5% EC @ 2ml/lit of water."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Bacterial wilt: To manage, spray Copper Oxychloride 50 % WP @ 25g + Streptocycline @ 1.5 g mixed with 10 liters of water at root zone."
+            "American Cob Borer control.",
+            "BLSB management."
          ]
       },
       "tomato": {
          "advisory": [
-            "Seedling wilt: Nursery bed should be treated with Trichoderma viride 1.5% WP @ 50g/m2 area as precautionary measure prior to sowing."
+            "Seedling wilt prevention measures.",
+            "Suitable varieties."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Nursery bed preparation: Prepare nursery beds, each measuring 3m length, 1m breadth and 15-20 cm height. Apply 15-30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200-250 grams of seed is required for one acre area of cultivation and 100-150 grams of seed is required in case of hybrids."
+            "Nursery bed preparation.",
+            "Suitable varieties for cauliflower, cabbage, and broccoli."
          ]
       },
-      "banana": {
+      "onion": {
          "advisory": [
-            "Sigatoka leaf spot: To manage Sigatoka leaf spot and Cigar end rot or Tip rot spray Mancozeb 75% WP @ 3g/liter of water."
+            "Nursery bed preparation steps.",
+            "Suitable onion varieties."
          ]
       },
-      "papaya": {
+      "merigold": {
          "advisory": [
-            "YVM: To monitor and control papaya, install yellow sticky trap @ 8nos/acre and spray neem oil (1500 ppm) @ 5ml/liter of water. Spray Difenthiuron 50% WP @ 2g/lit of water for chemical control."
+            "Mealy bug infestation control measures."
          ]
       },
-      "cattle": {
+      "rose": {
          "advisory": [
-            "Ensure proper ventilation in animal sheds keeping in view the rising humidity in the atmosphere. Cultivate drought-resistant fodder varieties like Hybrid Napier grass and feed them."
+            "Training, pruning, and intercultural operations recommendations.",
+            "Black spot control."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Deworming and vaccination advice.",
+            "Consultation for puberty onset."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Raised platforms and deep litter systems in poultry houses help in maintaining cleanliness and temperature control. Regularly clean and disinfect the house to prevent the buildup of pathogens in the high-humidity conditions after rain. Maintain appropriate stocking density to reduce stress and prevent overheating."
+            "Dehydration, heat stress, and parasitic infection checks.",
+            "Deworming and vaccination guidance."
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }

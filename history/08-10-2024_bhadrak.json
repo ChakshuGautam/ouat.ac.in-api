@@ -1,0 +1,106 @@
+{
+   "weather_details": {
+      "09-10-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 61,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "10-10-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 59,
+         "wind_speed": 12,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      },
+      "11-10-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 92,
+         "rh_min": 53,
+         "wind_speed": 12,
+         "wind_direction": 214,
+         "cloud_cover": 7
+      },
+      "12-10-2024": {
+         "rainfall": 1,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 58,
+         "wind_speed": 10,
+         "wind_direction": 214,
+         "cloud_cover": 6
+      },
+      "13-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 62,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "brinjal",
+      "okra",
+      "bittergourd",
+      "coconut",
+      "papaya"
+   ],
+   "general_advisory": "Monitor the population of BPH & WBPH by regular field visit. If rice crop is in PI stage, go for 2nd top dressing of fertilizer with 17.5 kg urea & 12 kg MOP/acre recommended and maintain standing water in the field. Provide necessary irrigations to standing crops and vegetables due to expected rainfall. Continue spraying operations.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If rice crop is in PI stage, go for 2nd top dressing of fertilizer with 17.5 kg urea & 12 kg MOP/acre recommended and maintain standing water in the field.",
+            "Prevailing warm and humid weather may increase the incidence of Sheath blight and Blast disease in rice, so apply (Tebuconazole 50% + Trifloxystrobin 25% WG) @400g/litre of water.",
+            "If BLB Incidence increases, spray Copper Oxychloride @500gm along with Plantomycin @200gm/acre or soil application of additional dose of MOP 12 Kg/acre recommended.",
+            "Monitor the population of BPH & WBPH by regular field visit if the pest population buildup at initial stage. Alternating drying & wetting of field & foliar application of neem-based formulation 1500ppm (600ml/acre) recommended.",
+            "Monitor the population level of WBPH & BPH by regular field visit."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Prevailing weather condition may increase the infestation of mealy bug & scale insects in sugarcane. To control these pests, spraying of Thiamethoxam@80g/acre & Lambda cyahalothrin @4.9CS@250ml/acre recommended."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal, spray Neem-based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spineturam@11.7%SC @200 ml/acre and Emamectin benzoate @80 g/acre at 15 days interval."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control cercospora leaf spot in okra, spraying of (Metalaxyl + Mancozeb) @400g/acre recommended."
+         ]
+      },
+      "bittergourd": {
+         "advisory": [
+            "To control downy mildew in bittergourd, spraying of Azoxystrobin @100ml/acre recommended."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Monitor the activity of the Red palm weevil and Rhinoceros beetle by placing pheromone trap. Spray Lambda cyhalothrin @1.2ml/litre of water to the nearby manure pits for killing the developing stages of Rhinoceros beetle."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/litre of water and spray flonicamid 50WG @0.3g/litre to control whitefly."
+         ]
+      }
+   },
+   "date": "08-10-2024"
+}

@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "05/10/2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 6,
+         "wind_direction": 292,
+         "cloud_cover": 2
+      },
+      "06/10/2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 158,
+         "cloud_cover": 3
+      },
+      "07/10/2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 46,
+         "wind_speed": 5,
+         "wind_direction": 158,
+         "cloud_cover": 6
+      },
+      "08/10/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 53,
+         "wind_speed": 6,
+         "wind_direction": 158,
+         "cloud_cover": 4
+      },
+      "09/10/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 156,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "kharif pulses",
+      "ragi",
+      "maize",
+      "groundnut",
+      "vegetables",
+      "cucurbits"
+   ],
+   "general_advisory": "Kharif crop 2024: 1. Only maintain 3-5 cm water in the field up to flowering stage in paddy. Provide drainage facility to drain out excess water from the field. Due to high humidity survey for any insect pest in kharif crops and take action as suggested.",
+   "crops_data": {
+      "transplanted paddy": {
+         "advisory": [
+            "Incidence of BLB and Blast disease are noticed in some areas, spray Copper Oxychloride @ 500gm along with Plantomycin @ 200gm/acre or (Tebuconazole 50%+ Trifloxystrobin 25% WG) or Soil application of additional dose of MOP 12 Kg/acre recommended."
+         ]
+      },
+      "kharif pulses": {
+         "advisory": [
+            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Profenophos 50 % EC @ 400-ml/acre."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "When the crop turns 85% maturity go for harvesting and dry it under sun for 2-3 days."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "The matured cobs are harvested and dried under sun for 2-3 days."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "When the inner side of the pod turns black, go for harvesting the crop and sun dry for 3-4 days."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal spray Neem based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spinosad 45% SC @70ml/acre and Emamectin benzoate @ 80 g/acre at 15 days interval."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "There are chances of infestation of Downy Mildew disease in cucurbit vegetables after the heavy rainfall. To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3 g/litre."
+         ]
+      }
+   },
+   "date": "04-10-2024"
+}

@@ -1,102 +1,129 @@
 {
    "weather_details": {
-      "05/10/2024": {
-         "rainfall": 0,
+      "19/10/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 29,
+         "rh_max": 89,
+         "rh_min": 67,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 5
+      },
+      "20/10/2024": {
+         "rainfall": 10,
          "t_max": 35,
          "t_min": 28,
-         "rh_max": 80,
-         "rh_min": 57,
-         "wind_speed": 13,
-         "wind_direction": 238,
-         "cloud_cover": 3
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 3,
+         "wind_direction": 320,
+         "cloud_cover": 6
       },
-      "06/10/2024": {
-         "rainfall": 0,
+      "21/10/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 89,
+         "rh_min": 67,
+         "wind_speed": 6,
+         "wind_direction": 358,
+         "cloud_cover": 6
+      },
+      "22/10/2024": {
+         "rainfall": 5,
          "t_max": 34,
          "t_min": 27,
-         "rh_max": 78,
-         "rh_min": 57,
-         "wind_speed": 13,
-         "wind_direction": 238,
-         "cloud_cover": 3
+         "rh_max": 84,
+         "rh_min": 52,
+         "wind_speed": 7,
+         "wind_direction": 10,
+         "cloud_cover": 7
       },
-      "07/10/2024": {
-         "rainfall": 0,
+      "23/10/2024": {
+         "rainfall": 2,
          "t_max": 34,
          "t_min": 27,
-         "rh_max": 77,
-         "rh_min": 59,
-         "wind_speed": 13,
-         "wind_direction": 204,
-         "cloud_cover": 3
-      },
-      "08/10/2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 78,
-         "rh_min": 64,
+         "rh_max": 83,
+         "rh_min": 51,
          "wind_speed": 14,
-         "wind_direction": 201,
-         "cloud_cover": 2
+         "wind_direction": 7,
+         "cloud_cover": 10
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
-      "g ram",
+      "sugarcane",
+      "cotton",
       "black gram",
       "green gram",
-      "sugarcane",
-      "cucurbits",
-      "okra"
+      "onion",
+      "bitter gourd",
+      "brinjal",
+      "sheep",
+      "goats"
    ],
-   "general_advisory": "Farmers are advised to conduct agricultural operations like irrigation, spraying, intercultural operation, and sow green fodder in moist soil. Keep fields free from weeds to minimize diseases and pests. Avoid excess use of nitrogenous fertilizers. Vaccinate poultry against Ranikhet disease.",
+   "general_advisory": "To control foot rot disease in paddy spray Metalaxyl 8% + Mancozeb 64% WP. Harvest matured crops like vegetables & pulses and keep them in a safe place. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals. Vegetable seedlings should be transplanted in the afternoon hours. Now the condition is optimum for land preparation and nursery sowing of cauliflower, cabbage, knolkhol, and carrot. Termites may damage crops and vegetables in the present weather condition. Farmers are advised to spray Chlorpyriphos 20 EC.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Bacterial Leaf Blight - Control with chemical sprays like Copper Hydroxide or Plantomycin",
-            "BPH and WBPH - Control with Pymetrozine or Dinotefuran",
-            "Case Worm - Control with Fipronil or Profenofos"
+            "False smut: To manage the same, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre.",
+            "Neck Blast: To control Neck Blast diseases, first drain out excess water from the paddy field. Spray Hexaconazole ml/acre or Azoxystrobin+ Difenoconazole @ 200"
          ]
       },
       "maize": {
          "advisory": [
-            "Powdery mildew disease management - Treat with Carbendazim or Triadimefon"
-         ]
-      },
-      "g ram": {
-         "advisory": [
-            "Powdery mildew disease management - Treat with Carbendazim or Penconazole",
-            "Red rot disease Management - Control with Carbendazim or Metalaxyl"
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Powdery mildew disease management - Treat with Carbendazim or Triadimefon"
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Powdery mildew disease management - Treat with Carbendazim or Penconazole"
+            "Harvesting has started."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Red rot disease Management - Control with Carbendazim or Metalaxyl"
+            "At grand growth stage."
          ]
       },
-      "cucurbits": {
+      "cotton": {
          "advisory": [
-            "Fruit fly - Manage with poison bait",
-            "Yellow vain mosaic disease - Manage with yellow sticky traps and pesticide"
+            "Crop condition is normal."
          ]
       },
-      "okra": {
+      "black gram": {
          "advisory": [
-            "Yellow vain mosaic disease - Manage with traps and pesticide"
+            "Pod Borer Management: To manage Bihar hairy caterpillar in green gram and black gram crop, spray Emamectin Benzoate 5% SG @ 80"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pod Borer Management: To manage Bihar hairy caterpillar in green gram and black gram crop, spray Emamectin Benzoate 5% SG @ 80"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Before sowing of seeds, seed treatment should be done with Carbendazim 50% WP @ 2"
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "To manage the infestation of Fruit flies, spray Malathion @ 1 ml/lt.",
+            "To control the Powdery mildew disease in the crop, spray."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Plants showing wilting symptoms can be uprooted/destroyed away from the field.",
+            "To reduce the Phomopsis blight disease, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Liver fluke infestation: Control by killing the snails with copper sulphate or duck rearing."
+         ]
+      },
+      "goats": {
+         "advisory": [
+            "Liver fluke infestation: Control by killing the snails with copper sulphate or duck rearing."
          ]
       }
    },
-   "date": "04-10-2024"
+   "date": "18-10-2024"
 }
