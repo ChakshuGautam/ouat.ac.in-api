@@ -1,97 +1,131 @@
 {
    "weather_details": {
-      "19/10/2024": {
-         "rainfall": 5,
-         "t_max": 35,
+      "30/10/2024": {
+         "rainfall": 8,
+         "t_max": 34,
          "t_min": 27,
-         "rh_max": 92,
-         "rh_min": 68,
-         "wind_speed": 2,
-         "wind_direction": 90,
+         "rh_max": 92.9,
+         "rh_min": 68.5,
+         "wind_speed": 4,
+         "wind_direction": 11.3,
+         "cloud_cover": 8
+      },
+      "31/10/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 58.1,
+         "wind_speed": 5,
+         "wind_direction": 256,
          "cloud_cover": 5
       },
-      "20/10/2024": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 91,
-         "rh_min": 64,
-         "wind_speed": 6,
-         "wind_direction": 323,
-         "cloud_cover": 6
-      },
-      "21/10/2024": {
-         "rainfall": 6,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 88,
-         "rh_min": 62,
-         "wind_speed": 6,
-         "wind_direction": 353,
-         "cloud_cover": 6
-      },
-      "22/10/2024": {
-         "rainfall": 5,
-         "t_max": 34,
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
          "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 55,
+         "rh_max": 90.5,
+         "rh_min": 66.4,
          "wind_speed": 4,
-         "wind_direction": 7,
+         "wind_direction": 265.2,
          "cloud_cover": 4
       },
-      "23/10/2024": {
-         "rainfall": 7,
+      "02/11/2024": {
+         "rainfall": 0,
          "t_max": 34,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 53,
-         "wind_speed": 11,
-         "wind_direction": 12,
-         "cloud_cover": 7
+         "t_min": 26,
+         "rh_max": 89.6,
+         "rh_min": 61,
+         "wind_speed": 5,
+         "wind_direction": 265,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "paddy",
-      "black gram",
       "green gram",
-      "onion",
-      "bitter gourd",
-      "brinjal"
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower",
+      "brinjal",
+      "tomato",
+      "sugarcane",
+      "cucurbits",
+      "cole crop",
+      "marigold",
+      "rose"
    ],
-   "general_advisory": "To control foot rot disease in paddy spray Metalaxyl 8% + Mancozeb 64% WP @ 400 gram/acre. Harvest matured crops like vegetables & pulses and keep them in a safe place. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals. Vegetable seedlings should be transplanted in afternoon hours. Now the condition is optimum for land preparation and nursery sowing of cauliflower, cabbage, knolk. Termites may damage crops and vegetables in the present weather condition. Farmers are advised to spray Chlorpyriphos 20 EC @",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use groundnut varieties suitable for Odisha conditions like Devi, Kadri-6, Kadri-9, TG-37A, TAG-51, TAG-38, and TAG-24. For managing wilt and rot disease in brinjal and tomato, drench the root zone with a solution of Plantomycin mixed in water. Various crop stage-specific advisories are mentioned for different crops.",
    "crops_data": {
-      "paddy": {
+      "green gram": {
          "advisory": [
-            "False smut: False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre.",
-            "Neck Blast: To control Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole ml/acre or Azoxystrobin+ Difenoconazole @ 200"
+            "Sow green gram in medium/shallow lowlands using available soil moisture."
          ]
       },
       "black gram": {
          "advisory": [
-            "Pod Borer Management: There are chances of Pod borer infestation in black gram and green gram crop. To manage Bihar hairy caterpillar in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 18.5% SC @80"
+            "Sow black gram in medium/shallow lowlands utilizing soil moisture."
          ]
       },
-      "green gram": {
+      "cowpea": {
          "advisory": [
-            "Pod Borer Management: There are chances of Pod borer infestation in black gram and green gram crop. To manage Bihar hairy caterpillar in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 18.5% SC @80"
+            "Sow cowpea in medium/shallow lowlands with existing soil moisture."
          ]
       },
-      "onion": {
+      "field pea": {
          "advisory": [
-            "Pre-sowing stage: Before sowing of seeds seed treatment should be done with Carbendazim 50% WP @ 2 Carboxin 37.5% + Thiram"
+            "Sow field pea in medium/shallow lowlands with available soil moisture."
          ]
       },
-      "bitter gourd": {
+      "lentil": {
          "advisory": [
-            "Fruiting and Harvesting: To manage the infestation of Fruit flies, spray Malathion @ 1 ml/lt. To control the Powdery mildew disease in the crop, spray"
+            "Sow lentil in medium/shallow lowlands using soil moisture."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use suitable groundnut varieties for Odisha conditions."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Flowering/Fruiting: The plants showing wilting symptoms, can be uprooted/destroyed away from the field. Phomopsis blight: To reduce the Phomopsis blight disease in brinjal, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water."
+            "Drench the root zone with a solution to manage wilt and rot disease."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Drench the root zone with a solution to manage wilt and rot disease."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Control internode borer by management techniques."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Prepare poison bait to manage fruit fly in cucurbits."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Manage fertilizer application for optimal growth."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Spray wettable sulphur or Fenpyroximate to manage Red Spider Mites."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Spray wettable sulphur or Fenpyroximate to manage Red Spider Mites."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

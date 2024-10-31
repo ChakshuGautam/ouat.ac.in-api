@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "30/10/2024": {
+         "rainfall": 8,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 98,
+         "rh_min": 30,
+         "wind_speed": 2,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "31/10/2024": {
+         "rainfall": 11,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 98,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 100,
+         "cloud_cover": 6
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 96,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 5
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 89,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 34,
+         "cloud_cover": 5
+      },
+      "03/11/2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 86,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 22,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "kharif paddy",
+      "rabi crops",
+      "wheat",
+      "mustard",
+      "vegetable crop",
+      "animals",
+      "pisciculture"
+   ],
+   "general_advisory": "Due to forecast of very light to light rainfall, the harvesting of crops be postponed for few days. Go for sowing of rabi crops.",
+   "crops_data": {
+      "kharif paddy": {
+         "advisory": [
+            "In rice at milking stage when the population of Gundhi bug exceeds the Economic Threshold Level (ETL) i.e., 2 adults/hill or 5 adults/m2, do dusting of Malathion 5% @ 10kg/acre or spray Etofenprox 10 EC @ 200ml/acre or Chloropyriphos 20% EC @1000ml/acre."
+         ]
+      },
+      "rabi crops": {
+         "advisory": [
+            "For rabi crops, farmers can start their field operations in fallow fields in October month. Tractor drawn rotorator or cultivator can be used and shallow ploughing should be done. In October month, horsegram, moong, urd, toria, maize, sunflower and Forage crops can be taken."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Collect good quality seeds like UP 262. Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Farmers who wish to cultivate mustard crop, may start sowing after preparation of the field and Select the improved seed, recommended for this region like Varuna, Pusa Bold, M 27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm. (Plant to plant)."
+         ]
+      },
+      "vegetable crop": {
+         "advisory": [
+            "Prepare nursery for vegetable crops which provide high profit in rabi season like cauliflower, broccoli, beetroot, late cucumber, late bitter gourd crops in pro-tray or directly sow the seeds after preparation of the field."
+         ]
+      },
+      "animals": {
+         "advisory": [
+            "Give clean drinking water to animals and livestock and hygiene should be maintained."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Give mineral feed @ 3% of the body mass."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

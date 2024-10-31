@@ -1,0 +1,150 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 54,
+         "wind_speed": 3,
+         "wind_direction": 150,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 3,
+         "wind_direction": 146,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 93,
+         "rh_min": 58,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 6
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 5
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 45,
+         "wind_speed": 2,
+         "wind_direction": 31,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "tomato",
+      "cole crops",
+      "onion",
+      "merigold",
+      "rose",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep",
+      "poultry"
+   ],
+   "general_advisory": "As per extended range forecast received from IMD, light to moderate rain/thundershower is likely to occur at isolated to scattered places in the districts of Odisha during the week -1 (18th - 22nd October, 2024) and increases in rainfall activity thereafter. Maximum temperature very likely to be in the range of 32 - 34°C in parts of South Interior Odisha and parts of North Interior Odisha, and 30 - 32°C in remaining parts of Odisha during week -1 and 30 - 32°C in most of the parts of Odisha during week -2. Farmers can continue intercultural operations, harvesting of matured produces and application of pesticides mixed with sticker during next five days period as needed.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Pest Management: Prevailing weather conditions are highly favorable for the incidence of diseases like Bacterial Blight, Bacterial Leaf Streak, and Leaf Blast. Farmers are advised to be vigilant on their fields.",
+            "Gundhi Bug: If infestation is noticed, apply Malathion 50% EC or Imidacloprid 06% + Lambda-cyhalothrin 04% SL as foliar spray mixed with water.",
+            "Ear cutting caterpillar: To control, spray Quinalphos 25 EC."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "American bollworm: Apply Emamectin benzoate 5% SG or Profenophos 50% EC for chemical control.",
+            "Bacterial leaf blight: Apply Streptocycline 1.5 g + Copper Oxychloride 50% WP for control."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Leaf webber/Leaf folder/Defoliators: Spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC to control.",
+            "Pod borer: Apply neem-based pesticides Azadiractin 0.03% at the initial stage of infestation."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "American Cob Borer: Apply Flubendiamide 39.35% SC to control infestation.",
+            "BLSB: For control, spray Validamycin 3.0% SL or Hexaconazole 5% EC."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Seedling wilt: Prepare nursery beds and apply recommended substances for healthy seedlings. Use suitable varieties for better results."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Nursery bed preparation: Prepare beds and apply recommended substances before sowing. Use suitable varieties for cauliflower, cabbage, and broccoli."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Nursery bed preparation: Provide adequate care before sowing, including fertilizer application and protection from diseases. Use suitable varieties for successful cultivation."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "To control mealy bug infestation, spray Profenophos 50% EC or Buprofezin 25% SC."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Training and pruning along with intercultural operations should be done in current weather conditions.",
+            "To control black spot, apply Copper Oxychloride 50% WP."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Deworm and vaccinate cattle and buffalo regularly. Consult with veterinary doctors for any health issues."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Deworm and vaccinate buffalos regularly. Seek veterinary advice for reproductive issues."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Regularly check for dehydration, heat stress, and parasitic infections in goats and sheep. Deworm and vaccinate against common diseases."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Regularly monitor sheep for health issues and provide necessary care including deworming and vaccination."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Use raised platforms and deep litter systems for cleanliness and temperature control in poultry houses. Regularly clean and disinfect to prevent pathogen buildup."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

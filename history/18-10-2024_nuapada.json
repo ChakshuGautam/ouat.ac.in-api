@@ -1,0 +1,138 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 5
+      },
+      "20-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 62,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 60,
+         "wind_speed": 2,
+         "wind_direction": 39,
+         "cloud_cover": 7
+      },
+      "22-10-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 30,
+         "cloud_cover": 6
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "tomato",
+      "cole crops",
+      "onion",
+      "merigold",
+      "rose",
+      "cattle & buffalo",
+      "goat & sheep"
+   ],
+   "general_advisory": "As per extended range forecast from IMD, light to moderate rain likely. Temperature range expected. Farmers advised to continue intercultural operations, harvesting of matured produces, and application of pesticides mixed with sticker as needed.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prevailing weather conditions favorable for disease incidence. Vigilance advised.",
+            "Gundhi Bug infestation control measures.",
+            "Ear cutting caterpillar control.",
+            "BPH infestation management."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "American bollworm control measures.",
+            "Bacterial leaf blight control."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Leaf webber/leaf folder/defoliators control.",
+            "Pod borer control."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "American Cob Borer control.",
+            "BLSB management."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Seedling wilt prevention measures.",
+            "Suitable varieties."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Nursery bed preparation.",
+            "Suitable varieties for cauliflower, cabbage, and broccoli."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Nursery bed preparation steps.",
+            "Suitable onion varieties."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "Mealy bug infestation control measures."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Training, pruning, and intercultural operations recommendations.",
+            "Black spot control."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Deworming and vaccination advice.",
+            "Consultation for puberty onset."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Dehydration, heat stress, and parasitic infection checks.",
+            "Deworming and vaccination guidance."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

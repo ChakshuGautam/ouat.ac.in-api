@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "30-10-2024": {
+         "rainfall": 7,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 62,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "31-10-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 92,
+         "rh_min": 61,
+         "wind_speed": 1,
+         "wind_direction": 225,
+         "cloud_cover": 5
+      },
+      "01-11-2024": {
+         "rainfall": 1,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 54,
+         "wind_speed": 1,
+         "wind_direction": 214,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 44,
+         "wind_speed": 2,
+         "wind_direction": 284,
+         "cloud_cover": 4
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 79,
+         "rh_min": 38,
+         "wind_speed": 1,
+         "wind_direction": 315,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "paddy",
+      "cotton",
+      "Arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli"
+   ],
+   "general_advisory": "Based on the above five days weather forecast received from IMD, farmers are advised to withhold irrigation and spraying of chemicals for the next 2 to 3 days. Protect the vegetable nursery of Chilli, tomato, onion, cole crops and brinjal etc. from rain by covering with plastic or polythene sheet. Harvest the matured vegetables & pulses and store in a safe place. Field preparation should be started for rabi crops. Bunds, channels, uncultivated fields and field roads should be cleaned, by removing weeds. Now is the suitable time for sowing mustard, sarson, sunflower, field pea, carrot, radish etc. So, farmers are advised to act accordingly. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas. Farmers are advised to transplant mature seedlings (35 -40 days old) of cauliflower, cabbage, broccoli, tomato etc. in raised bed during clear weather.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "Suitable time for sowing is from Mid-October to Mid-November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing.",
+            "Seed rate for Mustard 2.5 – 3 kg/acre. Suitable varieties: Pusa bold, Pusa Jaikisan, JD-6."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life.",
+            "South West monsoon has already withdrawn from Odisha. As the crop is at reproductive stage in most of the areas, try to provide supplemental irrigation. If feasible, apply foliar spray of KNO3 @ 5g/litre of water or water soluble fertilizers like 13:0:45 at 5g/litre of water or 19:19:19 at 5g/litre of water to improve plants resistance to abiotic stress."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "For chemical control against American bollworm, apply Emamectin benzoate 5 % SG @ 4g or Profenophos 50 % EC @ 30 ml mixed with 10 litres of water.",
+            "Apply Streptocycline 1.5 g + Copper Oxychloride 50% WP @ 25 g per 10 litre of water to control bacterial leaf blight.",
+            "To control grey mildew infestation, spray Copper Oxychloride 25g + Plantomycin 10 g mixed with 10 litres of water."
+         ]
+      },
+      "Arhar": {
+         "advisory": [
+            "At flowering stage, spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit of water to control leaf webber/leaf folder/defoliators.",
+            "To control pod borer, apply neem-based pesticides Azadiractin 0.03% (300 ppm) @ 5ml/liter of water at initial stage of infestation."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "To control American Cob Borer, apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "For monitoring of borer insect, farmers are advised to use pheromone trap @ 8/acre. To control chemically, spray Spinosad 45% SC @ 1.5 ml/4 litre of water or Emamectin benzoate 5% SG @ 4g/10 ltr of water or Thiodicarb 75% WP @ 2ml/ltr of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Infestation of thrips has been noticed. Plants are affected by thrips if leaves curl upward.",
+            "To manage thrips infestation, install Blue sticky trap @ 8 nos./acre. For chemical control, spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "19/10/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 3,
+         "wind_direction": 50,
+         "cloud_cover": 3
+      },
+      "20/10/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 87,
+         "rh_min": 49,
+         "wind_speed": 5,
+         "wind_direction": 39,
+         "cloud_cover": 5
+      },
+      "21/10/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 84,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 37,
+         "cloud_cover": 6
+      },
+      "22/10/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 29,
+         "cloud_cover": 4
+      },
+      "23/10/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 41,
+         "wind_speed": 5,
+         "wind_direction": 25,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "ragi",
+      "banana",
+      "cole crop",
+      "cucurbits",
+      "ginger",
+      "pisciculture"
+   ],
+   "general_advisory": "Due to forecast of rainfall, the matured crops which are at physiological stage are to be harvested and shifted to a safer place. Also survey for insect pest attack and steps may be taken accordingly.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Due to weather the leaf folder infestation may occur, to manage this pest spray Acephate 75% SP @ 1-2 ml/lt."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Profenophos 50 % EC @ 400-ml/acre."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "When 85% of the fingers turn yellow go for harvesting."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Present weather condition is suitable for infestation of sigatoka in banana. Go for application of Propiconazole @1ml/lt for 2-3 times in 25 days interval."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Nursery bed preparation: Prepare nursery beds, each measuring 3m length, 1m breadth and 15-20 cm height. Apply 15-30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200-250 grams of seed is required for one acre area of cultivation and 100-150 grams of seed is required in case of hybrids."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "There are chances of infestation of Downy Mildew disease in cucurbit vegetables after heavy rainfall. To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3 g/litre."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "To manage the rhizome rot go for Soil drenching with 1.25 g Metalaxyl-Mancozeb + 2 ml Quinalphos + 1g Plantomyc in per liter of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "There may be EUS disease in fishes, to cure apply Cifax@ 400ml/acre of pond area."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

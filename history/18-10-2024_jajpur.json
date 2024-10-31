@@ -1,0 +1,107 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 95,
+         "rh_min": 60,
+         "wind_speed": 3,
+         "wind_direction": 344,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 58,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 56,
+         "wind_speed": 6,
+         "wind_direction": 353,
+         "cloud_cover": 5
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 47,
+         "wind_speed": 6,
+         "wind_direction": 350,
+         "cloud_cover": 4
+      },
+      "23-10-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 81,
+         "rh_min": 46,
+         "wind_speed": 8,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "brinjal",
+      "banana",
+      "papaya",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Dry weather with little amount of rainfall is expected in the coming five days hence farmers can provide irrigation to the critical stages of standing crops and protect the crops from pest attack.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If the BPH & WBPH infestation is at initial stage, alternating drying & wetting of the field & foliar application of neem based formulation 1500ppm (600ml/acre) recommended.",
+            "Monitor the field regularly to observe infestation of BPH, WBPH, YSB and diseases like Bacterial Leaf blight, Sheath rot & blast.",
+            "If rice crop is in PI stage, go for 2nd top dressing of fertilizer with 17.5 kg urea & 10 kg MOP/acre recommended & maintain 2-3 cm of standing water in the field.",
+            "Prevailing warm and humid weather may increase the incidence of Sheath rot and Blast disease in rice so apply Tebuconazole 50%+ Trifloxystrobin 25% WG @ 0.4g/litre of water.",
+            "If BLB Incidence increases, spray Copper Oxychloride @ 500gm along with Plantomycin @ 200gm/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Prevailing weather condition may increase the infestation of mealy bug & scale insects in sugarcane. To control these pests spraying of Thiamethoxam @ 80g/acre & Lambda cyahalothrin @ 4.9CS @ 250ml/acre recommended."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal, spray Neem based pesticide 1500ppm @ 600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spineturam @ 11.7%SC @ 200ml/acre and Emamectin benzoate @ 80g/acre at 15 days interval."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Prevailing weather condition may increase the incidence of panama wilt in banana. To control this, spray 4 li fungicide solution of Carbendazim @ 2g/litre of water recommended."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @ 3ml/lit of water and spray flonicamid 50WG @ 0.3g/lit to control whitefly."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "If the total alkalinity of the pond will remain below 150ppm, apply lime @ 40kg/acre water area is recommended."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "If the animals have not yet been vaccinated against FMD, HaemorrhagicSepticaemia, Black Quarter, Enterotoxemia, etc., these must be done.",
+            "Keep the shed clean and dry to protect animals from disease and insects."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

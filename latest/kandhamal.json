@@ -1,99 +1,106 @@
 {
    "weather_details": {
-      "19-10-2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 97,
-         "rh_min": 59,
+      "30-10-2024": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 97.8,
+         "rh_min": 72,
          "wind_speed": 2,
-         "wind_direction": 154,
-         "cloud_cover": 4
+         "wind_direction": 194,
+         "cloud_cover": 7
       },
-      "20-10-2024": {
+      "31-10-2024": {
          "rainfall": 2,
-         "t_max": 32,
-         "t_min": 21,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 97.6,
+         "rh_min": 70,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "01-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
          "rh_max": 96,
-         "rh_min": 65,
+         "rh_min": 59,
          "wind_speed": 1,
-         "wind_direction": 135,
-         "cloud_cover": 6
-      },
-      "21-10-2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 95,
-         "rh_min": 63,
-         "wind_speed": 1,
-         "wind_direction": 56,
-         "cloud_cover": 6
-      },
-      "22-10-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 20,
-         "rh_max": 92,
-         "rh_min": 47,
-         "wind_speed": 2,
-         "wind_direction": 76,
-         "cloud_cover": 4
-      },
-      "23-10-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 20,
-         "rh_max": 82,
-         "rh_min": 48,
-         "wind_speed": 3,
-         "wind_direction": 14,
+         "wind_direction": 198,
          "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 93,
+         "rh_min": 57,
+         "wind_speed": 1,
+         "wind_direction": 153,
+         "cloud_cover": 5
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 91,
+         "rh_min": 47,
+         "wind_speed": 1,
+         "wind_direction": 146,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "finger millet",
+      "rice",
+      "raikia beans",
+      "pointed gourd",
       "maize",
-      "chilli",
-      "banana",
-      "okra",
+      "mustard",
       "fishery"
    ],
-   "general_advisory": "Harvest the matured crops and store them at safe places. Light rainfall with cloudy weather will attract the infestation of disease and pests, monitor the field and spray pesticides wherever needed. Set up Honey bee boxes near the flowering areas to collect good quality honey.",
+   "general_advisory": "Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Harvesting the matured crops and dispose it immediately. Farmers are advised to check their WhatsApp and messages to get crop weather related information.",
    "crops_data": {
-      "finger millet": {
+      "rice": {
          "advisory": [
-            "For blast disease management apply (Tricyclazole 18 % + Mancozeb 62 % WP) @ 1 -1.5 g/l or Tricyclazole 75% WP @ 0.6 g/l of water."
+            "Booting stage",
+            "Apply final dose of fertilizer (potash and urea) by irrigating the field during flowering stage."
+         ]
+      },
+      "raikia beans": {
+         "advisory": [
+            "Maturity - Harvesting",
+            "Harvest the mature beans and sell it in near market."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "Harvest the matured crops from field.",
+            "Remove the damaged crop if infected due to any standing water in the field.",
+            "Sanitize the field."
          ]
       },
       "maize": {
          "advisory": [
-            "Fall army worm: Spray Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation."
+            "Maturity - Harvesting",
+            "Harvest the mature crops."
          ]
       },
-      "chilli": {
+      "mustard": {
          "advisory": [
-            "Thrips: To control Chilli thrips, spray Malathion or Imidachloprid 17.8 SL @ 2 ml/lt."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Make rings around the plant to store water for irrigation purpose.",
-            "Provide stakes to the plants."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Disease - YMV: Remove the severely affected plants and bury them under the soil at a distance.",
-            "Use yellow cards 6 @acre to control whiteflies.",
-            "Spray Acetamiprid 20% SP @ 2.5 g or Imidacloprid 17.8% SL @ 3 ml per 10 liters of water."
+            "Sowing",
+            "It can be broadcasted in the fine tilth soil.",
+            "Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha.",
+            "Zn application of ZnSO4 @37.5 kg/ ha will increase the yield."
          ]
       },
       "fishery": {
          "advisory": [
-            "To control turbidity, apply alum @30kg/acre and to prevent depletion of oxygen, apply O2 Gen @600 gm/acre."
+            "Excess of water may occur due to heavy to very heavy rainfall.",
+            "Apply lime in the pond if water is muddy."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

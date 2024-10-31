@@ -1,79 +1,78 @@
 {
    "weather_details": {
-      "2024-10-19": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 23,
-         "rh_max": 96,
-         "rh_min": 57,
+      "2024-10-30": {
+         "rainfall": 7,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 98,
+         "rh_min": 67,
          "wind_speed": 3,
-         "wind_direction": 0,
-         "cloud_cover": 4
+         "wind_direction": 82,
+         "cloud_cover": 7
       },
-      "2024-10-20": {
-         "rainfall": 2,
-         "t_max": 36,
-         "t_min": 22,
-         "rh_max": 94,
-         "rh_min": 58,
-         "wind_speed": 3,
-         "wind_direction": 56,
+      "2024-10-31": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 97,
+         "rh_min": 67,
+         "wind_speed": 2,
+         "wind_direction": 108,
          "cloud_cover": 6
       },
-      "2024-10-21": {
+      "2024-11-01": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 95,
+         "rh_min": 56,
+         "wind_speed": 1,
+         "wind_direction": 72,
+         "cloud_cover": 5
+      },
+      "2024-11-02": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 22,
-         "rh_max": 92,
-         "rh_min": 51,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 49,
          "wind_speed": 2,
          "wind_direction": 27,
          "cloud_cover": 4
       },
-      "2024-10-22": {
+      "2024-11-03": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 22,
+         "t_max": 31,
+         "t_min": 20,
          "rh_max": 88,
-         "rh_min": 43,
+         "rh_min": 45,
          "wind_speed": 2,
-         "wind_direction": 9,
+         "wind_direction": 27,
          "cloud_cover": 4
-      },
-      "2024-10-23": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 21,
-         "rh_max": 80,
-         "rh_min": 43,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "rice",
-      "spine gourd",
-      "others (soil / land preparation)"
+      "horticulture",
+      "fisheries"
    ],
-   "general_advisory": "Lowering of temperature may favor incidences of post flowering diseases like false smut. So, farmers are requested to be vigilant and take need based control measures. Go for pruning and manuring of rose. In case of upland and early sown medium land rice harvest the product if more than 85% of the panicle are matured.",
+   "general_advisory": "Lowering of temperature may favor incidences of post flowering diseases like false smut. So, farmers are requested to be vigilant and take need based control measures. Go for pruning and manuring of rose.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Transplanted rice is in between PI to flowering stage. Upcoming low pressure, intermittent rainfall in addition to lowering of temperature might favor incidence of false smut in post flowering stage. Go for application of Copper hydroxide 77% @ 400g/acre at boot leaf stage. Repeat the spraying at seven days interval for effective control of false smut.",
-            "BPH infestation has been seen in some parts of the district, To manage this spray flonicamid 50 wg 60 gm/acre . Stop application of nitrogen fertilizer for the time being."
+            "Farmers are advised to harvest and safe storage of early planted rice which have already attended 85% maturity level due to upcoming rainy condition on Wednesday and Thursday. Light rainfall is expected on Wednesday and Thursday, don't apply any sort of pesticide."
          ]
       },
-      "spine gourd": {
+      "horticulture": {
          "advisory": [
-            "Make provision for staking in the creeper plants in view of upcoming rainfall activity."
+            "In present weather conditions, rouging of viral infested crop should be done in chilli and tomato. Infected plants should be uprooted and buried in the soil. If infection is more than spray of imidacloprid @ 0.3 ml per litre of water is advised for control the vector. ( go for application on rainless day)"
          ]
       },
-      "others (soil / land preparation)": {
+      "fisheries": {
          "advisory": [
-            "The cauliflower seedlings in nursery are germination stage. Start nursery preparation for sowing cauliflower and complete sowing seed in nursery . The Varieties suitable for cauliflower are K-1, Pusa early synthetic and Pusa early Kuanri and the seed rate is 200g/acre. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery . Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
+            "Due to decrease in temperature the growth of fish will be slow. So farmers can reduce the amount of fish feed."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024"
 }

@@ -1,114 +1,123 @@
 {
    "weather_details": {
-      "19-10-2024": {
+      "30-10-2024": {
+         "rainfall": 7,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 96,
+         "rh_min": 63,
+         "wind_speed": 2,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "31-10-2024": {
          "rainfall": 2,
-         "t_max": 30,
-         "t_min": 21,
+         "t_max": 32,
+         "t_min": 20,
          "rh_max": 96,
          "rh_min": 61,
-         "wind_speed": 3,
-         "wind_direction": 111,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "01-11-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 97,
+         "rh_min": 58,
+         "wind_speed": 1,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "02-11-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 95,
+         "rh_min": 52,
+         "wind_speed": 0,
+         "wind_direction": 90,
          "cloud_cover": 5
       },
-      "20-10-2024": {
-         "rainfall": 2,
-         "t_max": 30,
-         "t_min": 21,
-         "rh_max": 95,
-         "rh_min": 60,
+      "03-11-2024": {
+         "rainfall": 1,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 93,
+         "rh_min": 49,
          "wind_speed": 2,
-         "wind_direction": 108,
-         "cloud_cover": 6
-      },
-      "21-10-2024": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 95,
-         "rh_min": 60,
-         "wind_speed": 2,
-         "wind_direction": 79,
-         "cloud_cover": 6
-      },
-      "22-10-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 92,
-         "rh_min": 51,
-         "wind_speed": 2,
-         "wind_direction": 81,
-         "cloud_cover": 6
-      },
-      "23-10-2024": {
-         "rainfall": 2,
-         "t_max": 29,
-         "t_min": 20,
-         "rh_max": 85,
-         "rh_min": 50,
-         "wind_speed": 4,
-         "wind_direction": 27,
+         "wind_direction": 0,
          "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "rice",
       "maize",
-      "ragi",
-      "ground nut",
-      "green gram",
-      "radish",
+      "pulses",
+      "mustard",
+      "turmeric",
       "cauliflower",
       "cabbage",
-      "ginger"
+      "ginger",
+      "cow",
+      "buffalo"
    ],
-   "general_advisory": "Watch for rain before applying pesticides. Utilize recent rainfall for short duration low water requiring crops. Conduct regular surveillance for insect pests. Root and stalk rot control in maize field with suggested sprays.",
+   "general_advisory": "Based on five days weather forecast, continue intercultural operations, harvesting, and apply pesticides as needed. Start field preparation for rabi crops and transplant mature seedlings during clear weather. Regular surveillance for insect pests.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Keep rice plots weed free. Apply Tricyclazole for neck blast disease. Use chlorpyriofos/profenofos for steam borer & leaf folder."
+            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water.",
+            "To control steam borer & leaf folder spray chlorpyriofos/profenofos.",
+            "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
+            "To control ear cutting caterpillar, spray Quinalphos 25 EC or Chlorpyriphos 20 EC at root zone in morning hours."
          ]
       },
       "maize": {
          "advisory": [
-            "Root and stalk rot control with suggested sprays. Install pheromone traps for fall army worm. Use Imamectin Benzoate/Spinosad/Chlorantranilliprole for Fall army worm."
+            "Apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water to control infestation of American cob borer."
          ]
       },
-      "ragi": {
+      "pulses": {
          "advisory": [
-            "Apply Merger/Tricyclazole/Zineb for blast disease management."
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram. Treat seeds with fungicide and Rhizobium culture before sowing."
          ]
       },
-      "ground nut": {
+      "mustard": {
          "advisory": [
-            "Spray Metalaxyl + Mancozeb/WP or Carbendazim for collar rot infestation."
+            "Start land preparation and sowing to get optimum yield. Use suitable varieties and spray neem oil to control insects at seedling stage."
          ]
       },
-      "green gram": {
+      "turmeric": {
          "advisory": [
-            "Soil drenching with suggested sprays for root rot."
-         ]
-      },
-      "radish": {
-         "advisory": [
-            "Sow radish for winter season. Soil drench to control wilting and damping off disease."
+            "Go for weeding and apply urea and MoP per acre after planting. Apply mulching for better growth."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Prepare nursery beds. Apply recommended seeds and varieties."
+            "Prepare nursery beds and apply required nutrients. Choose suitable varieties and quantities for planting."
          ]
       },
       "cabbage": {
          "advisory": [
-            "Prepare nursery beds with recommended seeds and varieties."
+            "Prepare nursery beds and apply required nutrients. Choose suitable varieties and quantities for planting."
          ]
       },
       "ginger": {
          "advisory": [
-            "Complete weeding and top dressing. Soil drench to control rhizome rot."
+            "Complete weeding and top dressing. Control rhizome rot with appropriate measures."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm and vaccinate as needed."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm and vaccinate as needed."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024"
 }

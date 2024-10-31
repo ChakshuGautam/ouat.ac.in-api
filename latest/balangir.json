@@ -1,58 +1,51 @@
 {
    "weather_details": {
-      "2022-10-01": {
+      "2023-01-01": {
          "rainfall": 5,
          "t_max": 25,
-         "t_min": 18,
+         "t_min": 15,
          "rh_max": 80,
          "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 120,
+         "wind_speed": 10,
+         "wind_direction": 180,
          "cloud_cover": 4
       },
-      "2022-10-02": {
-         "rainfall": 2,
+      "2023-01-02": {
+         "rainfall": 0,
          "t_max": 28,
-         "t_min": 20,
+         "t_min": 18,
          "rh_max": 75,
          "rh_min": 55,
          "wind_speed": 12,
-         "wind_direction": 140,
+         "wind_direction": 220,
          "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "wheat",
-      "rice",
-      "cattle",
-      "poultry"
+      "tomato",
+      "mango"
    ],
-   "general_advisory": "Sow wheat and rice early this season. Keep a check on cattle and poultry health.",
+   "general_advisory": "It is recommended to monitor crop health regularly due to sudden weather changes. Be cautious of pests and diseases.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Sow wheat early in well-drained soil.",
-            "Apply fertilizers rich in nitrogen for better growth."
+            "Apply fertilizer based on soil test results.",
+            "Monitor for rust and treat accordingly."
          ]
       },
-      "rice": {
+      "tomato": {
          "advisory": [
-            "Transplant rice seedlings in flooded fields.",
-            "Control weeds to prevent nutrient competition."
+            "Provide adequate irrigation to avoid blossom end rot.",
+            "Trellis the plants to support growth."
          ]
       },
-      "cattle": {
+      "mango": {
          "advisory": [
-            "Provide clean water and adequate feed to cattle.",
-            "Ensure shelter from extreme weather conditions."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Maintain proper hygiene in poultry houses.",
-            "Monitor for any signs of disease and take immediate action."
+            "Prune the trees to improve fruiting.",
+            "Protect from fruit flies using traps."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "25-10-2024"
 }

@@ -1,109 +1,92 @@
 {
    "weather_details": {
-      "18-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
+      "30-10-2024": {
+         "rainfall": 2,
+         "t_max": 31,
          "t_min": 23,
-         "rh_max": 91,
-         "rh_min": 53,
+         "rh_max": 96.2,
+         "rh_min": 61,
          "wind_speed": 3,
          "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "19-10-2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 90,
-         "rh_min": 55,
-         "wind_speed": 4,
-         "wind_direction": 84,
-         "cloud_cover": 4
-      },
-      "20-10-2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 91,
-         "rh_min": 52,
-         "wind_speed": 4,
-         "wind_direction": 68,
          "cloud_cover": 6
       },
-      "21-10-2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 91,
-         "rh_min": 52,
-         "wind_speed": 4,
-         "wind_direction": 70,
-         "cloud_cover": 6
-      },
-      "22-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 85,
-         "rh_min": 40,
-         "wind_speed": 3,
-         "wind_direction": 36,
+      "31-10-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 93.8,
+         "rh_min": 58.8,
+         "wind_speed": 2,
+         "wind_direction": 99,
          "cloud_cover": 5
       },
-      "23-10-2024": {
+      "01-11-2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 76,
-         "rh_min": 39,
-         "wind_speed": 5,
-         "wind_direction": 17,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 92,
+         "rh_min": 50.5,
+         "wind_speed": 2,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 21,
+         "rh_max": 86.8,
+         "rh_min": 40.4,
+         "wind_speed": 2,
+         "wind_direction": 101,
          "cloud_cover": 4
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 21,
+         "rh_max": 79.7,
+         "rh_min": 36.4,
+         "wind_speed": 1,
+         "wind_direction": 56,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
       "cotton",
       "okra",
-      "cole crop",
-      "mango",
-      "cow/buffalo"
+      "cole crop"
    ],
-   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) during that period. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start nursery sowing and planting of Cole crops and other winter season vegetable. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
+   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 29-10-2024, there is no any heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occurred in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
-            "To control gall midge attack in rice field, farmers should spray Lambda-cyhalothrin 05% EC, thiamethoxam 25% WG, Fipronil 5% SC, or Chloropyriphos 20 EC in clear and calm weather conditions.",
-            "To control leaf folder, spraying of Chlorantraniliprole 18.5% SC, Tetraniliprole 200 SC, or Flubendiamide 20 WG in clear weather should be advised."
+            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
+            "Keep the harvested produce in safe places.",
+            "Regular monitoring against different pests and disease should be advised."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG or Profenophos 50% EC in clear weather."
+            "Postpone all type of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Farmers can harvest matured crop."
          ]
       },
       "okra": {
          "advisory": [
-            "To control Fruit and shoot borer in Okra, spraying of Neem based insecticide should be advised."
+            "Irrigation as well as chemical application is recommended in okra.",
+            "Farmers should make provision for proper drainage system."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Nursery bed preparation guidelines for cole crops."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Training, pruning, and cleaning guidelines for mango orchard.",
-            "In case of infestation, spraying guidelines for mango orchard."
-         ]
-      },
-      "cow/buffalo": {
-         "advisory": [
-            "Preventive and control measures for Foot and Mouth Disease in Cow and Buffalo."
+            "Farmers should go for sowing and planting of Cole crop.",
+            "Make proper drainage channels in field to drain out excess water."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

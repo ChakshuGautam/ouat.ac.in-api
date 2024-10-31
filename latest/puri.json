@@ -1,129 +1,90 @@
 {
    "weather_details": {
-      "19/10/2024": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 29,
-         "rh_max": 89,
-         "rh_min": 67,
-         "wind_speed": 2,
-         "wind_direction": 9,
-         "cloud_cover": 5
-      },
-      "20/10/2024": {
-         "rainfall": 10,
-         "t_max": 35,
-         "t_min": 28,
-         "rh_max": 89,
-         "rh_min": 62,
+      "30/10/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 90.4,
+         "rh_min": 67.6,
          "wind_speed": 3,
-         "wind_direction": 320,
+         "wind_direction": 346,
          "cloud_cover": 6
       },
-      "21/10/2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 89,
-         "rh_min": 67,
+      "31/10/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 88.8,
+         "rh_min": 60.4,
+         "wind_speed": 4,
+         "wind_direction": 241,
+         "cloud_cover": 6
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 87.8,
+         "rh_min": 66.7,
          "wind_speed": 6,
-         "wind_direction": 358,
+         "wind_direction": 243,
          "cloud_cover": 6
-      },
-      "22/10/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 84,
-         "rh_min": 52,
-         "wind_speed": 7,
-         "wind_direction": 10,
-         "cloud_cover": 7
-      },
-      "23/10/2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 83,
-         "rh_min": 51,
-         "wind_speed": 14,
-         "wind_direction": 7,
-         "cloud_cover": 10
       }
    },
    "names_of_crops": [
-      "paddy",
-      "maize",
-      "sugarcane",
-      "cotton",
-      "black gram",
       "green gram",
-      "onion",
-      "bitter gourd",
-      "brinjal",
-      "sheep",
-      "goats"
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower",
+      "devi",
+      "kadri-6",
+      "kadri-9",
+      "tg-37a",
+      "tag-51",
+      "tag-38",
+      "tag-24",
+      "smruti"
    ],
-   "general_advisory": "To control foot rot disease in paddy spray Metalaxyl 8% + Mancozeb 64% WP. Harvest matured crops like vegetables & pulses and keep them in a safe place. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals. Vegetable seedlings should be transplanted in the afternoon hours. Now the condition is optimum for land preparation and nursery sowing of cauliflower, cabbage, knolkhol, and carrot. Termites may damage crops and vegetables in the present weather condition. Farmers are advised to spray Chlorpyriphos 20 EC.",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are also advised to visit their crop fields regularly to check pest infestation.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "False smut: To manage the same, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre.",
-            "Neck Blast: To control Neck Blast diseases, first drain out excess water from the paddy field. Spray Hexaconazole ml/acre or Azoxystrobin+ Difenoconazole @ 200"
+            "For flowering to physiological maturity stage of paddy, control Ear Head Caterpillar with suitable pesticides.",
+            "Manage Gundhi Bug in paddy fields by spraying appropriate insecticides."
          ]
       },
-      "maize": {
+      "groundnut": {
          "advisory": [
-            "Harvesting has started."
+            "During physiological maturity/harvesting stage, store groundnut in polythene-lined gunny bags with desiccants.",
+            "Apply recommended chemicals for internode borer management in groundnut."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "At grand growth stage."
+            "To manage internode borer during ripening stage, split Trichogramma chilonis cards at weekly intervals.",
+            "Spray recommended chemicals like Fipronil or Chlorantraniliprole for borer management."
          ]
       },
-      "cotton": {
+      "cucurbits": {
          "advisory": [
-            "Crop condition is normal."
+            "Control fruit fly in cucurbits using poison baits prepared with appropriate chemicals."
          ]
       },
-      "black gram": {
+      "cole crop": {
          "advisory": [
-            "Pod Borer Management: To manage Bihar hairy caterpillar in green gram and black gram crop, spray Emamectin Benzoate 5% SG @ 80"
+            "For cauliflower and cabbage, manage fertilizers properly to ensure healthy growth."
          ]
       },
-      "green gram": {
+      "marigold & rose": {
          "advisory": [
-            "Pod Borer Management: To manage Bihar hairy caterpillar in green gram and black gram crop, spray Emamectin Benzoate 5% SG @ 80"
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Before sowing of seeds, seed treatment should be done with Carbendazim 50% WP @ 2"
-         ]
-      },
-      "bitter gourd": {
-         "advisory": [
-            "To manage the infestation of Fruit flies, spray Malathion @ 1 ml/lt.",
-            "To control the Powdery mildew disease in the crop, spray."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Plants showing wilting symptoms can be uprooted/destroyed away from the field.",
-            "To reduce the Phomopsis blight disease, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water."
-         ]
-      },
-      "sheep": {
-         "advisory": [
-            "Liver fluke infestation: Control by killing the snails with copper sulphate or duck rearing."
-         ]
-      },
-      "goats": {
-         "advisory": [
-            "Liver fluke infestation: Control by killing the snails with copper sulphate or duck rearing."
+            "To manage Red Spider Mites in Marigold and Rose, spray suitable chemicals for effective control."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

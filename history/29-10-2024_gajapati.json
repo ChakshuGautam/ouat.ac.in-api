@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "2024-10-30": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 98,
+         "rh_min": 71,
+         "wind_speed": 1,
+         "wind_direction": 288,
+         "cloud_cover": 6
+      },
+      "2024-10-31": {
+         "rainfall": 1,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 98,
+         "rh_min": 68,
+         "wind_speed": 1,
+         "wind_direction": 315,
+         "cloud_cover": 5
+      },
+      "2024-11-01": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 98,
+         "rh_min": 61,
+         "wind_speed": 2,
+         "wind_direction": 297,
+         "cloud_cover": 5
+      },
+      "2024-11-02": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 97,
+         "rh_min": 60,
+         "wind_speed": 2,
+         "wind_direction": 315,
+         "cloud_cover": 4
+      },
+      "2024-11-03": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 93,
+         "rh_min": 51,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "maize",
+      "pigeon pea",
+      "groundnut",
+      "finger millet"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 33.1°C and the mean minimum daily temperature was 23.3°C of the Gajapati district during the last week. The district received 04.7 mm of rainfall during the last week. Go for the sowing of pre-rabi crops like blackgram, greengram, horsegram, sesame, sunflower and cucurbits in up-medium land. Go for sowing of vegetable crops like Pea, carrot, radish etc. Harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life. Harvest the matured maize and vegetables and keep it in safe place.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The transplanted paddy is at flowering to grain maturity stage in the main field. The present high humid weather condition and rainfall followed by clear sky is favourable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy. To manage BPH and WBPH in paddy avoid excess use of nitrogenous fertilizer. Do not keep standing water in the field for longer period. Alter the micro-climate of the rice field by alternate wetting and drying technique. Make alleys at 6 feet spacing for sunlight entry and proper aeration below the crop zone."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "The crop is at square formation to boll formation stage. Now temperature and humid conditions are favorable for the infestation of sucking pests in cotton. If there is infestation of Aphids and Jassids in early sown cotton crop, go for spraying of Acetamiprid 20%SP  20gm/acre or neem-based pesticide Neem Oil 1500 PPM @600-ml/acre by mixing it in 200-litre of water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "The maize crop is at maturity to harvesting stage. Harvest the matured cobs and dry under sunlight for 4-5 days."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "The crop is at grand vegetative growth to flower initiation (fifteen to sixteen week) stage. Leaf webber infestation may occur during this stage. To control leaf webber in Arhar spray 400 ml Chloropyriphos 50% + Cypermethrin 5% EC or 400ml profenophos 50% EC mixing with 200 lit of water per acre crop area."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "The crop is at maturity to harvesting stage. Harvest the matured pods and dry under sun for 3-4 days."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "The ragi crop is at maturity (fifteen to sixteen week) stage."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

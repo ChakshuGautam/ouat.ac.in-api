@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 97,
+         "rh_min": 59,
+         "wind_speed": 2,
+         "wind_direction": 154,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 96,
+         "rh_min": 65,
+         "wind_speed": 1,
+         "wind_direction": 135,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 95,
+         "rh_min": 63,
+         "wind_speed": 1,
+         "wind_direction": 56,
+         "cloud_cover": 6
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 92,
+         "rh_min": 47,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 4
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 82,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 14,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "finger millet",
+      "maize",
+      "chilli",
+      "banana",
+      "okra",
+      "fishery"
+   ],
+   "general_advisory": "Harvest the matured crops and store them at safe places. Light rainfall with cloudy weather will attract the infestation of disease and pests, monitor the field and spray pesticides wherever needed. Set up Honey bee boxes near the flowering areas to collect good quality honey.",
+   "crops_data": {
+      "finger millet": {
+         "advisory": [
+            "For blast disease management apply (Tricyclazole 18 % + Mancozeb 62 % WP) @ 1 -1.5 g/l or Tricyclazole 75% WP @ 0.6 g/l of water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Fall army worm: Spray Emamectin Benzoate 5% SG @ 80 g/acre by mixing with 200 liters of water to control FAW infestation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Thrips: To control Chilli thrips, spray Malathion or Imidachloprid 17.8 SL @ 2 ml/lt."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Make rings around the plant to store water for irrigation purpose.",
+            "Provide stakes to the plants."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Disease - YMV: Remove the severely affected plants and bury them under the soil at a distance.",
+            "Use yellow cards 6 @acre to control whiteflies.",
+            "Spray Acetamiprid 20% SP @ 2.5 g or Imidacloprid 17.8% SL @ 3 ml per 10 liters of water."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "To control turbidity, apply alum @30kg/acre and to prevent depletion of oxygen, apply O2 Gen @600 gm/acre."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

@@ -1,68 +1,69 @@
 {
    "weather_details": {
-      "18.10.2024": {
+      "29.10.2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 24,
+         "t_max": 33,
+         "t_min": 22,
          "rh_max": 85,
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 120,
-         "cloud_cover": 4
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "groundnut",
+      "mustard",
       "sugarcane",
-      "potato",
-      "onion",
+      "brinjal",
       "tomato",
-      "chilli",
-      "cabbage",
-      "cauliflower"
+      "potato",
+      "animal husbandry",
+      "fishery"
    ],
-   "general_advisory": "Ensure proper storage of groundnut. Prevent Scale insect infestation in sugarcane. Use recommended potato varieties and seeds. Choose suitable onion varieties. Properly fertilize tomato, chilli, cabbage, and cauliflower during respective stages.",
+   "general_advisory": "Farm animals should be vaccinated and dewormed. Heavy rainfall may reduce water salinity in ponds, apply a disinfectant after rain. Use OUAT KALINGA products for better agricultural benefits.",
    "crops_data": {
       "groundnut": {
          "advisory": [
-            "Store groundnut in polythene lined gunny bags with desiccant for effective germination."
+            "Treat the seeds with Carbendazim 50% WP @ 2- gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3- gram/kg of seeds. After 7days of this, treat the seeds with Rhizobium culture @20g per kg of seeds."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Go for sowing of shorter duration mustard varieties like Anuradha, Parbati, Sushri, Uttara which mature within 85 days in un-irrigated condition in the month of October by observing soil moisture condition.",
+            "If there is assured irrigation, then go for sowing of longer duration varieties like Pusa Mustard-25 & 26 and RG N-236 etc. which mature within 125 days."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Prevent Scale insect infestation with recommended solutions."
+            "There is a chance of Red rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400-gram/acre or Metalaxyl 8 % + Mancozeb 64 % @ 400-gram/acre by mixing it in 200-litre of water."
          ]
       },
-      "potato": {
+      "brinjal": {
          "advisory": [
-            "Use disease-free and well-sprouted tuber seeds for planting."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Select suitable onion varieties for winter season cultivation."
+            "To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of 10g Plantomycin and 20-gram (Metalaxyl 8% + Mancozeb 64 % WP) or 10 ml Tebuconazole mixed in 10 litres of water."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply recommended basal fertilizer and maintain proper spacing."
+            "To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of 10g Plantomycin and 20-gram (Metalaxyl 8% + Mancozeb 64 % WP) or 10 ml Tebuconazole mixed in 10 litres of water."
          ]
       },
-      "chilli": {
+      "potato": {
          "advisory": [
-            "Apply basal fertilizer before transplanting and maintain specific spacing."
+            "Treat the seeds before planting by making a solution of 600-gram of Carbendazim 25 % + Mancozeb 50% WS in 100-litres of water. Dip one quintal of the tuber seeds in this solution for 20-25 minutes. Remove the tuber seeds from the solution and keep it in shed to dry for 2-4 hours before planting."
          ]
       },
-      "cabbage": {
+      "animal husbandry": {
          "advisory": [
-            "Maintain proper spacing for different varieties and transplant seedlings in the afternoon."
+            "Vaccination and deworming should be done in farm animals."
          ]
       },
-      "cauliflower": {
+      "fishery": {
          "advisory": [
-            "Maintain correct spacing for different varieties and transplant seedlings in the afternoon."
+            "Heavy rainfall may decrease the salinity of water in the pond. Farmers are advised to apply alky-dimethyl-benzyl ammonium chloride (3 ppm) as a disinfectant after cessation of rain."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024"
 }

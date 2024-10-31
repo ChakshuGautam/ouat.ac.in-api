@@ -247,3 +247,4 @@ ERROR:root:Failed to download PDF from https://provider-reverse-proxy.uat.bhasai
 ERROR:root:Error downloading PDF for bhadrak
 ERROR:root:Error processing PDF for anugul: Connection error.
 ERROR:root:Error processing PDF for kalahandi: Connection error.
+ERROR:root:Attempt 1: An error occurred: 'str' object has no attribute 'get'

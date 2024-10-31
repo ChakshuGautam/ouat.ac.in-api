@@ -1,0 +1,97 @@
+{
+   "weather_details": {
+      "19/10/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "20/10/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 91,
+         "rh_min": 64,
+         "wind_speed": 6,
+         "wind_direction": 323,
+         "cloud_cover": 6
+      },
+      "21/10/2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 62,
+         "wind_speed": 6,
+         "wind_direction": 353,
+         "cloud_cover": 6
+      },
+      "22/10/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 55,
+         "wind_speed": 4,
+         "wind_direction": 7,
+         "cloud_cover": 4
+      },
+      "23/10/2024": {
+         "rainfall": 7,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 53,
+         "wind_speed": 11,
+         "wind_direction": 12,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "black gram",
+      "green gram",
+      "onion",
+      "bitter gourd",
+      "brinjal"
+   ],
+   "general_advisory": "To control foot rot disease in paddy spray Metalaxyl 8% + Mancozeb 64% WP @ 400 gram/acre. Harvest matured crops like vegetables & pulses and keep them in a safe place. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals. Vegetable seedlings should be transplanted in afternoon hours. Now the condition is optimum for land preparation and nursery sowing of cauliflower, cabbage, knolk. Termites may damage crops and vegetables in the present weather condition. Farmers are advised to spray Chlorpyriphos 20 EC @",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "False smut: False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre.",
+            "Neck Blast: To control Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole ml/acre or Azoxystrobin+ Difenoconazole @ 200"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Pod Borer Management: There are chances of Pod borer infestation in black gram and green gram crop. To manage Bihar hairy caterpillar in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 18.5% SC @80"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pod Borer Management: There are chances of Pod borer infestation in black gram and green gram crop. To manage Bihar hairy caterpillar in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 18.5% SC @80"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Pre-sowing stage: Before sowing of seeds seed treatment should be done with Carbendazim 50% WP @ 2 Carboxin 37.5% + Thiram"
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Fruiting and Harvesting: To manage the infestation of Fruit flies, spray Malathion @ 1 ml/lt. To control the Powdery mildew disease in the crop, spray"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Flowering/Fruiting: The plants showing wilting symptoms, can be uprooted/destroyed away from the field. Phomopsis blight: To reduce the Phomopsis blight disease in brinjal, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

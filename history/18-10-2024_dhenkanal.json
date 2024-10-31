@@ -1,0 +1,68 @@
+{
+   "weather_details": {
+      "18.10.2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sugarcane",
+      "potato",
+      "onion",
+      "tomato",
+      "chilli",
+      "cabbage",
+      "cauliflower"
+   ],
+   "general_advisory": "Ensure proper storage of groundnut. Prevent Scale insect infestation in sugarcane. Use recommended potato varieties and seeds. Choose suitable onion varieties. Properly fertilize tomato, chilli, cabbage, and cauliflower during respective stages.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Store groundnut in polythene lined gunny bags with desiccant for effective germination."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Prevent Scale insect infestation with recommended solutions."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Use disease-free and well-sprouted tuber seeds for planting."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Select suitable onion varieties for winter season cultivation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply recommended basal fertilizer and maintain proper spacing."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Apply basal fertilizer before transplanting and maintain specific spacing."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Maintain proper spacing for different varieties and transplant seedlings in the afternoon."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Maintain correct spacing for different varieties and transplant seedlings in the afternoon."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

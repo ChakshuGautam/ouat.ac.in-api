@@ -1,0 +1,143 @@
+{
+   "weather_details": {
+      "2024-10-26": {
+         "rainfall": 90,
+         "t_max": 26,
+         "t_min": 23,
+         "rh_max": 89,
+         "rh_min": 96,
+         "wind_speed": 18,
+         "wind_direction": 39,
+         "cloud_cover": 8
+      },
+      "2024-10-27": {
+         "rainfall": 20,
+         "t_max": 25,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 97,
+         "wind_speed": 4,
+         "wind_direction": 68,
+         "cloud_cover": 8
+      },
+      "2024-10-28": {
+         "rainfall": 4,
+         "t_max": 26,
+         "t_min": 24,
+         "rh_max": 72,
+         "rh_min": 97,
+         "wind_speed": 2,
+         "wind_direction": 68,
+         "cloud_cover": 7
+      },
+      "2024-10-29": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 96,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "2024-10-30": {
+         "rainfall": 1,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 59,
+         "rh_min": 94,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram",
+      "horticulture",
+      "brinjal",
+      "french bean",
+      "banana",
+      "papaya",
+      "coconut",
+      "others (soil / land preparation)"
+   ],
+   "general_advisory": "Keep the harvested paddy and non-paddy crops in safer and water proof place to avoid rainfall and high wind speed. Go for plucking of flowers avoid deterioration of flower quality. Make strong wooden support for papaya and banana plants to avoid lodging. Harvest the mature vegetables. Make strong support for trailing type vegetables. Avoid spraying of Pesticides during this period. Don't let the domestic animal outside during this period. Make provision of fodder and clean drinking water for 2-3 days. Don't tie cattle under trees or near any big trees.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Make a path at an interval of 10 feet for better drainage of rain water.",
+            "Spray 2% salt solution (20 gm salt in 1 litre water) in place where the harvesting of matured rice grain is not possible. It is used to prevent the germination of rice grain.",
+            "When there is 80-85% ripening in rice grain in the panicle, harvest the crops and store in a safe place.",
+            "Safely placed the harvested grain from the rice field.",
+            "Harvested straw should be kept in proper way.",
+            "Take necessary action to protect the rice grain in godown (mandi) from rain."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Aftercare in pulses (Pigeon pea, green gram, black gram). Make provision for drainage.",
+            "Spray 1.5% chloropyriphos or 0.4% Fenovalarate in to the ridges to check the spreading of black headed caterpillar pest to other field in pulses crop.",
+            "In green gram/black gram, there is chances of infestation of leaf eating caterpillar and black headed caterpillar. To control from this spray mixture of 2 m.l profenophos 50%EC or 2 ml quinalphos 25%EC or 1 ml dichlorovos 76%EC per litre of water @200 litre per acre during afternoon.",
+            "Spray 2 ml dimethoate 30%EC or 0.3 ml imidachloprid 17.8%SL per litre of water @ 200 litre mixture per acre in case of aphid pest infestation in black gram/green gram.",
+            "In green gram/black gram there is chances of infestation of wilting due to footrot. To control from this spray the fungicide 2gm Carbendazim 12% + Mancozeb 63%WP or 2 gm Metalaxyl 8% + Mancozeb 64%WP per litre of water @ 200 litre mixture per acre on the base of the plants.",
+            "Spray the mixture of fungicides 1ml Phenoxol 10%EC or 1 ml Propiconazole 25%EC or 1ml Tebuconazole 25.9%EC or 4 gm Sulphur 80%WP per litre of water @ 200 litre per acre to control from powdery mildew.",
+            "When there is infestation of Yellow mosaic virus, spray the mixture of 2 ml Dimethoate 30%EC or 0.3 gm Acetamiprid 20%SP per litre of water @ 200 litre per acre to check its vector i.e white fly."
+         ]
+      },
+      "horticulture": {
+         "advisory": [
+            "Make provision for drainage.",
+            "If seedlings of brinjal or tomato set topple by means of rain straight them by staking and earthing up.",
+            "Spray 1.5gm Streptocycline + 3gm Copper oxychloride per litre water to the root zone for wilting in brinjal and tomato, 200 lit mixtures required for one acre.",
+            "Spray 2gm Carbendazim 12% + Mancozeb 63%WP per litre water for fruit rot in brinjal, 200 lit mixtures required for one acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Make provision for drainage.",
+            "If seedlings of brinjal or tomato set topple by means of rain straight them by staking and earthing up.",
+            "Spray 1.5gm Streptocycline + 3gm Copper oxychloride per litre water to the root zone for wilting in brinjal and tomato, 200 lit mixtures required for one acre.",
+            "Spray 2gm Carbendazim 12% + Mancozeb 63%WP per litre water for fruit rot in brinjal, 200 lit mixtures required for one acre."
+         ]
+      },
+      "french bean": {
+         "advisory": [
+            "Make provision for drainage.",
+            "Spray 0.4 ml Flubendiamide 39.35%SC/lit, there is a requirement of 200lit insecticide for the attack of hairy caterpillar.",
+            "If cercospora leaf spot is seen then spray 1ml Difenoconazole 25%EC or 2gm Carbendazim 12% + Mancozeb 63%WP (2gm)/1lit water. 200 lit mixture is required to spray 1 acre.",
+            "Make provision for drainage.",
+            "Spray 2 ml Fenpyroximate 5%EC or 2 ml Propargite 57%EC per litre of water to control the infestation of mites attack.",
+            "To control from top rot and black spot disease spray 3 gm Copper oxychloride 50% WP per litre of water.",
+            "Spray the mixtures of 1ml Penconazol 10%EC or 1ml propiconazol 25%EC or 1gm Tebuconazol 25.9%EC or 4gm Sulphur 80%WP @ 200ltr water for control from powdery mildew."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Make provision for drainage.",
+            "To control from sigatoka leaf spot spray 2 gm Carbendazim 12% + Mancozeb 63%WP or Chlorothalonil 75%WP per litre of water."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Make provision for drainage.",
+            "Spray 0.3 ml Imidachloprid 17.8%SL or 0.3 gm Thiomethoxam 25%WG per litre of water to prevent from mealy bug and Aphid."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "To control from the infestation of red palm weevil apply Carbendazim 3%G + Sand 1:1 ratio in the hole of the stem and plug the hole.",
+            "To control from Rhinocerous beetle clean the nearby compost yard of the coconut garden and disinfect it by applying 1.5% Chloropyriphos dust."
+         ]
+      },
+      "others (soil / land preparation)": {
+         "advisory": [
+            "Adequate drainage facilities in the nursery beds should be provided.",
+            "When there is raining, cover the nursery bed with white polythene film, avoid black polythene cover as the seedlings grow tall under it.",
+            "If seed sowing is not done then sow the seeds after seed treatment and by measuring appropriate soil moisture.",
+            "Apply 2gm Metalaxyl 8% + Mancozeb 64% or 1gm Captan 70% + Hexaconazole 5%WP / 1 lit water after rain for collar rot in seedlings."
+         ]
+      }
+   },
+   "date": "25-10-2024"
+}

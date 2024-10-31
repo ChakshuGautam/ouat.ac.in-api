@@ -1,150 +1,148 @@
 {
    "weather_details": {
-      "19-10-2024": {
-         "rainfall": 2,
-         "t_max": 34,
+      "30-10-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 95,
+         "rh_min": 62,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "31-10-2024": {
+         "rainfall": 3,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 61,
+         "wind_speed": 3,
+         "wind_direction": 168,
+         "cloud_cover": 6
+      },
+      "01-11-2024": {
+         "rainfall": 1,
+         "t_max": 30,
          "t_min": 23,
          "rh_max": 93,
          "rh_min": 54,
          "wind_speed": 3,
-         "wind_direction": 150,
-         "cloud_cover": 4
+         "wind_direction": 173,
+         "cloud_cover": 5
       },
-      "20-10-2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 93,
-         "rh_min": 60,
-         "wind_speed": 3,
-         "wind_direction": 146,
-         "cloud_cover": 6
-      },
-      "21-10-2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 22,
-         "rh_max": 93,
-         "rh_min": 58,
-         "wind_speed": 1,
-         "wind_direction": 0,
-         "cloud_cover": 6
-      },
-      "22-10-2024": {
+      "02-11-2024": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 31,
          "t_min": 22,
          "rh_max": 91,
-         "rh_min": 46,
-         "wind_speed": 2,
-         "wind_direction": 117,
+         "rh_min": 49,
+         "wind_speed": 3,
+         "wind_direction": 164,
          "cloud_cover": 5
       },
-      "23-10-2024": {
+      "03-11-2024": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 31,
          "t_min": 22,
-         "rh_max": 82,
-         "rh_min": 45,
+         "rh_max": 88,
+         "rh_min": 41,
          "wind_speed": 2,
-         "wind_direction": 31,
-         "cloud_cover": 5
+         "wind_direction": 154,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
       "cotton",
+      "mustard",
+      "toria",
       "arhar",
       "hybrid maize",
-      "tomato",
-      "cole crops",
-      "onion",
-      "merigold",
-      "rose",
+      "brinjal",
+      "chilli",
       "cattle",
       "buffalo",
       "goat",
       "sheep",
       "poultry"
    ],
-   "general_advisory": "As per extended range forecast received from IMD, light to moderate rain/thundershower is likely to occur at isolated to scattered places in the districts of Odisha during the week -1 (18th - 22nd October, 2024) and increases in rainfall activity thereafter. Maximum temperature very likely to be in the range of 32 - 34°C in parts of South Interior Odisha and parts of North Interior Odisha, and 30 - 32°C in remaining parts of Odisha during week -1 and 30 - 32°C in most of the parts of Odisha during week -2. Farmers can continue intercultural operations, harvesting of matured produces and application of pesticides mixed with sticker during next five days period as needed.",
+   "general_advisory": "Based on the above five days weather forecast received from IMD, farmers are advised to withhold irrigation and spraying of chemicals for the next 2 to 3 days. Protect the vegetable nursery of Chilli, tomato, onion, cole crops and brinjal etc. from rain by covering with plastic or polythene sheet. Harvest the matured vegetables & pulses and store in a safe place. Field preparation should be started for rabi crops. Bunds, channels, uncultivated fields and field roads should be cleaned, by removing weeds. Now is the suitable time for sowing mustard, sarson, sunflower, field pea, carrot, radish etc. So, farmers are advised to act accordingly. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Pest Management: Prevailing weather conditions are highly favorable for the incidence of diseases like Bacterial Blight, Bacterial Leaf Streak, and Leaf Blast. Farmers are advised to be vigilant on their fields.",
-            "Gundhi Bug: If infestation is noticed, apply Malathion 50% EC or Imidacloprid 06% + Lambda-cyhalothrin 04% SL as foliar spray mixed with water.",
-            "Ear cutting caterpillar: To control, spray Quinalphos 25 EC."
+            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life.",
+            "South West monsoon has already withdrawn from Odisha. As the crop is at reproductive stage in most of the areas, try to provide supplemental irrigation. If feasible, apply foliar spray of KNO3 @ 5g/litre of water or water soluble fertilizers like 13:0:45 at 5 g/litre of water or 19:19:19 at 5g/litre of water to improve plant resistance to abiotic stress.",
+            "BPH: Infestation of BPH may be observed at this stage of paddy. If population of Brown Planthopper (BPH) exceeds ETL (5-10 hoppers/hill), farmers are advised to undertake alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidacloprid 17.8% SL @ 50 ml/acre or Buprofezin 20% + Acephate 50% WP @ 400 g/acre or Flonicamid 50% WG @ 60g/acre mixed with 200 liters of water. Avoid using nitrogenous fertilizers during infestation of BPH."
          ]
       },
       "cotton": {
          "advisory": [
-            "American bollworm: Apply Emamectin benzoate 5% SG or Profenophos 50% EC for chemical control.",
-            "Bacterial leaf blight: Apply Streptocycline 1.5 g + Copper Oxychloride 50% WP for control."
+            "American bollworm: For chemical control, apply Emamectin benzoate 5% SG @ 4g or Profenophos 50% EC @ 30 ml mixed with 10 litres of water to control American bollworm in Non-Bt cotton areas.",
+            "Bacterial leaf blight: Apply Streptocycline 1.5 g + Copper Oxychloride 50% WP @ 25 g per 10 litre of water as control measure.",
+            "To control grey mildew infestation spray Copper Oxychloride 25g + Plantomycin 10 g mixed with 10 litres of water."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Suitable time for sowing is from Mid-October to Mid-November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing.",
+            "Seed rate for Mustard 2.5 – 3 kg/acre and 1.5 -2.0 kg/acre is for Toria.",
+            "Suitable variety: Mustard -Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Suitable time for sowing is from Mid-October to Mid-November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing.",
+            "Seed rate for Mustard 2.5 – 3 kg/acre and 1.5 -2.0 kg/acre is for Toria.",
+            "Suitable variety: Mustard -Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati."
          ]
       },
       "arhar": {
          "advisory": [
-            "Leaf webber/Leaf folder/Defoliators: Spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC to control.",
-            "Pod borer: Apply neem-based pesticides Azadiractin 0.03% at the initial stage of infestation."
+            "Leaf webber/Leaf folder/Defoliators: These insects may be observed at this stage. Spray Profenophos 50% EC or Chlorpyriphos 50% + Cypermethrin 5% EC @ 2 ml/lit @ 2ml/lit of water to control.",
+            "Pod borer: To control, apply neem-based pesticides Azadiractin 0.03% (300 ppm) @ 5ml/liter of water at initial stage of infestation."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "American Cob Borer: Apply Flubendiamide 39.35% SC to control infestation.",
-            "BLSB: For control, spray Validamycin 3.0% SL or Hexaconazole 5% EC."
+            "American Cob Borer: Apply Flubendiamide 39.35% SC @ 4 ml mixed with 10 liters of water to control infestation of American cob borer."
          ]
       },
-      "tomato": {
+      "brinjal": {
          "advisory": [
-            "Seedling wilt: Prepare nursery beds and apply recommended substances for healthy seedlings. Use suitable varieties for better results."
+            "For monitoring of borer insect, farmers are advised to use pheromone trap @ 8/acre. To control chemically, spray Spinosad 45% SC @ 1.5 ml/4 litre of water or Emamectin benzoate 5% SG @ 4g/10 ltr of water or Thiodicarb 75% WP @ 2ml/ltr of water."
          ]
       },
-      "cole crops": {
+      "chilli": {
          "advisory": [
-            "Nursery bed preparation: Prepare beds and apply recommended substances before sowing. Use suitable varieties for cauliflower, cabbage, and broccoli."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Nursery bed preparation: Provide adequate care before sowing, including fertilizer application and protection from diseases. Use suitable varieties for successful cultivation."
-         ]
-      },
-      "merigold": {
-         "advisory": [
-            "To control mealy bug infestation, spray Profenophos 50% EC or Buprofezin 25% SC."
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "Training and pruning along with intercultural operations should be done in current weather conditions.",
-            "To control black spot, apply Copper Oxychloride 50% WP."
+            "Infestation of thrips has been noticed. Plants are affected by thrips if leaves curl upward.",
+            "To manage thrips infestation install Blue sticky trap @ 8 nos./acre. For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water."
          ]
       },
       "cattle": {
          "advisory": [
-            "Deworm and vaccinate cattle and buffalo regularly. Consult with veterinary doctors for any health issues."
+            "Deworm the cattle and buffalo in regular interval and vaccinate them also. If the animal is not coming to heat even after 4 years consult with the veterinary doctors and follow the doctor's advice for onset of puberty."
          ]
       },
       "buffalo": {
          "advisory": [
-            "Deworm and vaccinate buffalos regularly. Seek veterinary advice for reproductive issues."
+            "Deworm the cattle and buffalo in regular interval and vaccinate them also. If the animal is not coming to heat even after 4 years consult with the veterinary doctors and follow the doctor's advice for onset of puberty."
          ]
       },
       "goat": {
          "advisory": [
-            "Regularly check for dehydration, heat stress, and parasitic infections in goats and sheep. Deworm and vaccinate against common diseases."
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
          ]
       },
       "sheep": {
          "advisory": [
-            "Regularly monitor sheep for health issues and provide necessary care including deworming and vaccination."
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
          ]
       },
       "poultry": {
          "advisory": [
-            "Use raised platforms and deep litter systems for cleanliness and temperature control in poultry houses. Regularly clean and disinfect to prevent pathogen buildup."
+            "Raised platforms and deep litter systems in poultry houses help in maintaining cleanliness and temperature control. Regularly clean and disinfect the house to prevent the buildup of pathogens in the high-humidity conditions after rain. Maintain appropriate stocking density to reduce stress and prevent overheating."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024"
 }

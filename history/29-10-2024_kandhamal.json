@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "30-10-2024": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 97.8,
+         "rh_min": 72.5,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 7
+      },
+      "31-10-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 97.6,
+         "rh_min": 69.6,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "01-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 96,
+         "rh_min": 59.4,
+         "wind_speed": 1,
+         "wind_direction": 198,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 93.2,
+         "rh_min": 57,
+         "wind_speed": 1,
+         "wind_direction": 153.5,
+         "cloud_cover": 5
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 90.7,
+         "rh_min": 47.2,
+         "wind_speed": 1,
+         "wind_direction": 146.3,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "raikia beans",
+      "pointed gourd",
+      "maize",
+      "mustard",
+      "fishery"
+   ],
+   "general_advisory": "Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Harvesting the matured crops and dispose it immediately. Farmers are advised to check their WhatsApp and messages to get crop weather-related information.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Booting stage",
+            "Apply final dose of fertilizer (potash and urea) by irrigating the field during the flowering stage."
+         ]
+      },
+      "raikia beans": {
+         "advisory": [
+            "Maturity - Harvesting",
+            "Harvest the mature beans and sell it in the near market."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "Harvest the matured crops from the field.",
+            "Remove the damaged crop if infected due to any standing water in the field",
+            "Sanitize the field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Maturity - Harvesting",
+            "Harvest the mature crops."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Sowing",
+            "It can be broadcasted in the fine tilth soil.",
+            "Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha.",
+            "Zn application of ZnSO4 @37.5 kg/ ha will increase the yield."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Excess of water may occur due to heavy to very heavy rainfall.",
+            "Apply lime in the pond if water is muddy."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

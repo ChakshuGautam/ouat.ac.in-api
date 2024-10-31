@@ -1,0 +1,100 @@
+{
+   "weather_details": {
+      "30-10-2024": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 95.6,
+         "rh_min": 61.1,
+         "wind_speed": 3,
+         "wind_direction": 81,
+         "cloud_cover": 6
+      },
+      "31-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 59.9,
+         "wind_speed": 2,
+         "wind_direction": 101,
+         "cloud_cover": 5
+      },
+      "01-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 91.2,
+         "rh_min": 51.2,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 4
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 84.5,
+         "rh_min": 39.8,
+         "wind_speed": 2,
+         "wind_direction": 21,
+         "cloud_cover": 4
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 74.6,
+         "rh_min": 36.6,
+         "wind_speed": 2,
+         "wind_direction": 26,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "okra",
+      "fruit crop",
+      "livestock"
+   ],
+   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 29-10-2024, there is no any heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
+            "Keep the harvested produce in safe places.",
+            "Regular monitoring against different pests and disease should be advised."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Postpone all type of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Farmers can harvest matured crop."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Irrigation as well as chemical application is recommended in okra.",
+            "Farmers should make provision for proper drainage system."
+         ]
+      },
+      "fruit crop": {
+         "advisory": [
+            "Planting of new plants is recommended.",
+            "Chemical application should be done before occurrence of rainfall."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Animal should be kept at safe places in shed.",
+            "Avoid mixing of flowing rainwater into the source of drinking water and provide pure and clean drinking water to animals.",
+            "Animal should stay away from any electrical instruments."
+         ]
+      }
+   },
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
+}

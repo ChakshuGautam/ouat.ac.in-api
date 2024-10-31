@@ -1,0 +1,111 @@
+{
+   "weather_details": {
+      "18-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 53,
+         "wind_speed": 2,
+         "wind_direction": 129,
+         "cloud_cover": 4
+      },
+      "19-10-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 53,
+         "wind_speed": 2,
+         "wind_direction": 129,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 56,
+         "wind_speed": 2,
+         "wind_direction": 127,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 54,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 6
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 41,
+         "wind_speed": 1,
+         "wind_direction": 146,
+         "cloud_cover": 5
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 80,
+         "rh_min": 41,
+         "wind_speed": 1,
+         "wind_direction": 297,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "okra",
+      "cole crop",
+      "mango",
+      "cow/buffalo"
+   ],
+   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) during that period. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start nursery sowing and planting of Cole crops and other winter season vegetables. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
+            "To control gall midge attack in rice field, farmers should spray Lambda-cyhalothrin 05% EC, thiamethoxam 25% WG, Fipronil 5% SC, or Chloropyriphos 20 EC in clear and calm weather condition.",
+            "To control leaf folder, spraying of Chlorantraniliprole 18.5% SC, Tetraniliprole 200 SC, or Flubendiamide 20 WG in 200 litres of water per acre should be advised under clear weather."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG or Profenophos 50% EC in 10 litres of water under clear weather.",
+            "Farmers shouldn’t spray any chemical insecticides at flowering period."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control Fruit and shoot borer in Okra, spraying of Neem based pesticide 1500 ppm should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC should be advised."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Nursery bed should be prepared with proper dimensions and application of well-decomposed FYM and chlorpyriphos dust should be advised.",
+            "Where irrigation facilities are available, planting of crop is advised in already prepared field."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "In the old Mango orchard, training, pruning, and cleaning of weed, diseased and infected branches and leaves should be advised.",
+            "In newly planted mango orchard, if leaf cutting weevil attack is observed, farmers should spray recommended insecticides to control this insect."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Preventive measures for Foot and Mouth Disease include vaccination, deworming, disinfection of mouth and feet, isolation of affected animals, and consultation with a qualified veterinary Doctor."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

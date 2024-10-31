@@ -1,0 +1,81 @@
+{
+   "weather_details": {
+      "30/10/2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 94.3,
+         "rh_min": 66.5,
+         "wind_speed": 3,
+         "wind_direction": 15.9,
+         "cloud_cover": 8
+      },
+      "31/10/2024": {
+         "rainfall": 1,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 93.4,
+         "rh_min": 65.3,
+         "wind_speed": 2,
+         "wind_direction": 239,
+         "cloud_cover": 7
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 92.1,
+         "rh_min": 59.9,
+         "wind_speed": 3,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
+   ],
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use the groundnut varieties suitable to Odisha condition like Devi (ICGV CO-7, Dharani etc.). For one acre, 40-50 kg groundnut seed kernel is required.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage wilt and rot disease in Brinjal and Tomato, use 10 ml Tebuconazole mixed in 10 litres of water.",
+            "To control ear head caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. Pesticide spraying should be done in the evening hours for better results.",
+            "Gundhi Bug Management - To control Gundhi Bug, spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50% EC @ 400 ml/acre by mixing in 200 litres of water. Dusting of Chlorpyriphos 1.5% D @ 10 kg/acre or Malathion 5% D.P @ 10 kg/acre should be done uniformly during morning hours."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage fruit fly, prepare a poison bait by mixing 400 gram Jaggery and 8 ml DDVP in 4-litre of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. Fruit flies will be attracted to this and eventually get killed by falling into the poison baits.",
+            "Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250-gram/30 kg of seeds. The sealed bags should be kept vertically inside a well-ventilated room at room temperature."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Internode borer management - To manage the pest, apply Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 litres of water. Also, apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 gram Jaggery and 8 ml DDVP in 4-litre of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. Fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Fertilizer Management - Apply 33 kg of Urea and 23 kg MOP per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor/Solubor @ 1.5 gram/litre."
+         ]
+      },
+      "marigold & rose": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Marigold and rose, spray wettable sulphur 80% WP @ 2 gram/litre of water or Propargite 57% EC @ 2 ml/litre of water."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

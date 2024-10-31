@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "30/10/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 90.4,
+         "rh_min": 67.6,
+         "wind_speed": 3,
+         "wind_direction": 346,
+         "cloud_cover": 6
+      },
+      "31/10/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 88.8,
+         "rh_min": 60.4,
+         "wind_speed": 4,
+         "wind_direction": 240.9,
+         "cloud_cover": 6
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 87.6,
+         "rh_min": 53.6,
+         "wind_speed": 5,
+         "wind_direction": 255.1,
+         "cloud_cover": 5
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 88.8,
+         "rh_min": 60.4,
+         "wind_speed": 6,
+         "wind_direction": 327.6,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower",
+      "paddy",
+      "brinjal",
+      "tomato",
+      "sugarcane",
+      "cucurbits",
+      "cole crop (cauliflower and cabbage)",
+      "marigold & rose"
+   ],
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Toria and Sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Ear Head Caterpillar - To control ear head caterpillar, spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400 ml/acre or Profenophos 50 % EC @ 400 ml/acre. As the pest is nocturnal in behaviour, spraying of pesticide should be done in the evening hours for better results.",
+            "Gundhi Bug Management - To control Gundhi Bug, spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50 % EC @ 400 ml/acre by mixing in 200 litres of water. Dusting of Chlorpyriphos 1.5 % D @ 10 kg/acre or Malathion 5 % D.P @ 10 kg/acre should be done uniformly during morning hours when there is no or minimum wind."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Storage - Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250 grams/30 kg of seeds. The sealed bags should be kept vertically inside a well-ventilated room at room temperature."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Internode borer management - To manage the pest, biological control with Trichogramma chilonis card @ 1/acre at weekly intervals for 6 times by splitting each card into 12 pieces at the given perforations. Chemical control involves spraying Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 litres of water. Additionally, apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Fruit fly - To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 grams Jaggery and 8 ml DDVP in 4 litres of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+         ]
+      },
+      "cole crop (cauliflower and cabbage)": {
+         "advisory": [
+            "Fertilizer Management - Apply 20 DAT and 33 kg of urea and 23 kg of MOP per acre after hoeing and hand weeding at 15-20 DAT. If Borax was not applied during transplanting of seedlings, then spray Borax @ 4 kg/acre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "marigold & rose": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Marigold and Rose, spray wettable sulphur 80 % WP @ 2 gram/litre of water or Propargite 57 % EC @ 2 ml/litre of water or Fenpyroximate 5 % EC @ 2 ml/litre of water."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

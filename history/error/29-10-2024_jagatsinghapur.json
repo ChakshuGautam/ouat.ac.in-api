@@ -1,0 +1,79 @@
+{
+   "weather_details": {
+      "30/10/2024": {
+         "rainfall": 8,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 92.9,
+         "rh_min": 68.5,
+         "wind_speed": 4,
+         "wind_direction": 11.3,
+         "cloud_cover": 8
+      },
+      "31/10/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 58.1,
+         "wind_speed": 5,
+         "wind_direction": 256,
+         "cloud_cover": 7
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 90.5,
+         "rh_min": 58.1,
+         "wind_speed": 3,
+         "wind_direction": 320.7,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
+   ],
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Toria and Sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use the groundnut varieties suitable to Odisha condition like Devi (ICGV-91114), Kadri-6, Kadri-9, TG-50. For one acre, 40-50 kg groundnut seed kernel is required.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "PADDY: Flowering to Physiological maturity stage - To control ear head caterpillar spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. As the pest is nocturnal in behavior spraying of pesticide should be done in the evening hours for better result. - To control Gundhi Bug spray Chlorpyriphos 20% EC @ 400 ml/acre by mixing in 200 liter of water. Dusting of Chlorpyriphos 1.5% D @ 10 kg/acre or Malathion 5% D.P @ 10 kg/acre should be done uniformly during morning hours, when there is no or minimum wind."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "GROUNDNUT: Physiological maturity stage/Harvesting stage - To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of 10g Plantomycin mixed in 10 liters of water."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "SUGARCANE: Ripening stage - Internode borer management - To manage the pest biological, use Trichogramma chilonis card @ 1/acre at weekly interval for 6 times by splitting each card into 12 pieces at the given perforations. To manage the pest chemically, spray Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 liter of water. Also apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "CUCURBITS: Vegetative to Fruiting - Fruit fly - To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 grams Jaggery and 8 ml DDVP in 4 liters of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "COLE CROP (Cauliflower and Cabbage): Vegetative stage - Fertilizer Management - Apply 20 kg of urea and 23 kg MOP per acre after hoeing and hand weeding at 15-20 DAT and 33 kg of urea and 23 kg of MOP per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings, then spray Borax @ 4 kg/acre or Folibor/Solubor @ 1.5 gram/liter. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "marigold & rose": {
+         "advisory": [
+            "MARIGOLD & ROSE - To manage Red Spider Mites in flower like Marigold and rose, spray wettable sulphur 80% WP (Sulfex/Balwan/Sulfadex) @ 2 grams/liter of water or Propargite 57% EC (Omite/Mitekill/Super Dynamite) @ 2 ml/liter of water or Fenpyroximate 5% EC (Seagate/Mitigate/Formite) @ 2 ml/liter of water."
+         ]
+      }
+   },
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
+}

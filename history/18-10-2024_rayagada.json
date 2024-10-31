@@ -1,0 +1,81 @@
+{
+   "weather_details": {
+      "2024-10-19": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 98,
+         "rh_min": 60,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 5
+      },
+      "2024-10-20": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 97,
+         "rh_min": 61,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "2024-10-21": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 96,
+         "rh_min": 59,
+         "wind_speed": 1,
+         "wind_direction": 34,
+         "cloud_cover": 6
+      },
+      "2024-10-22": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 47,
+         "wind_speed": 2,
+         "wind_direction": 11,
+         "cloud_cover": 5
+      },
+      "2024-10-23": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 84,
+         "rh_min": 48,
+         "wind_speed": 4,
+         "wind_direction": 355,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "cabbage"
+   ],
+   "general_advisory": "Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame...",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "To manage Blast disease, spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 1 1.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre...",
+            "To manage Leaf Folder and Case Worm pests in paddy spray Bifenthrin 10% EC @ 200-ml/acre or Lambda Cyhalothrin 5% EC @ 200-ml/acre or Fipronil 5% SC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre..."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "If there is infestation of sucking pest like Aphids and Jassids, Thrips and Mealybug in cotton crop go for spraying of neem-based pesticide (Neem Oil 1500 PPM) @600-ml/acre by mixing it in 200-litre of water ...",
+            "If the sucking pest population found to be above ETL, spray Flonicamid 50% WG @ 60-gram/acre or Thiamethoxam 25% WG @ 40-gram /acre or Dinotefuran 20 % SG @ 80-gram/ acre..."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "The cabbage seedlings in nursery are germination stage. Start nursery preparation and sowing cabbage seeds...",
+            "The Varieties suitable for cabbage are Golden acre, Pride of India etc and the seed rate is 200g/acre..."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

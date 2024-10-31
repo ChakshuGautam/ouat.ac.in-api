@@ -1,110 +1,90 @@
 {
    "weather_details": {
-      "19/10/2024": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 95,
+      "30/10/2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 94,
+         "rh_min": 66,
+         "wind_speed": 3,
+         "wind_direction": 15,
+         "cloud_cover": 8
+      },
+      "31/10/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 93,
          "rh_min": 65,
          "wind_speed": 2,
-         "wind_direction": 9,
-         "cloud_cover": 4
-      },
-      "20/10/2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 94,
-         "rh_min": 63,
-         "wind_speed": 2,
-         "wind_direction": 321,
-         "cloud_cover": 4
-      },
-      "21/10/2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 94,
-         "rh_min": 63,
-         "wind_speed": 2,
-         "wind_direction": 356,
+         "wind_direction": 239,
          "cloud_cover": 7
       },
-      "22/10/2024": {
+      "01/11/2024": {
          "rainfall": 0,
-         "t_max": 34,
+         "t_max": 33,
          "t_min": 24,
-         "rh_max": 87,
-         "rh_min": 49,
-         "wind_speed": 7,
-         "wind_direction": 357,
-         "cloud_cover": 7
+         "rh_max": 92,
+         "rh_min": 59,
+         "wind_speed": 3,
+         "wind_direction": 238,
+         "cloud_cover": 6
       },
-      "23/10/2024": {
-         "rainfall": 10,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 86,
-         "rh_min": 48,
-         "wind_speed": 9,
-         "wind_direction": 2,
-         "cloud_cover": 9
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 55,
+         "wind_speed": 4,
+         "wind_direction": 0,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "paddy",
-      "black gram",
       "green gram",
-      "onion",
-      "bitter gourd",
-      "brinjal",
-      "sheep",
-      "goats"
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
    ],
-   "general_advisory": "The overall crop condition is normal. Top dressing of fertilizer is ongoing. Harvesting of crops like maize has started. Sugarcane is at a grand growth stage. Farmers are advised to control pests and diseases based on specific recommendations.",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use the groundnut varieties suitable to Odisha condition like Devi (ICGV CO-7, Dharani etc. For one acre, 40-50 kg groundnut seed kernel is required. To manage wilt and rot disease in brinjal and tomato, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "False smut: Spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre",
-            "Neck Blast: Drain excess water and spray Hexaconazole or Azoxystrobin+ Difenoconazole"
+            "Ear Head Caterpillar - To control ear head caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. As the pest is nocturnal in behavior, spraying of pesticide should be done in the evening hours for better results.",
+            "Gundhi Bug Management - To control Gundhi Bug, spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50% EC @ 400 ml/acre by mixing in 200 litres of water. Dusting of Chlorpyriphos 1.5% D @ 10 kg/acre or Malathion 5% D.P @ 10 kg/acre should be done uniformly during morning hours when there is no or minimum wind."
          ]
       },
-      "black gram": {
+      "groundnut": {
          "advisory": [
-            "Pod Borer Management: Spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 50 % EC @ 400 ml/acre"
+            "Storage - Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250 grams/30 kg of seeds. The sealed bags should be kept vertically inside a well-ventilated room at room temperature. This technique is very effective in maintaining high germination rate even after 8-10 months of storage."
          ]
       },
-      "green gram": {
+      "sugarcane": {
          "advisory": [
-            "Pod Borer Management: Spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 50 % EC @ 400 ml/acre"
+            "Internode borer management - To manage the pest, split Trichogramma chilonis card @ 1/acre weekly for 6 times. To manage the pest chemically, spray Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 litres of water."
          ]
       },
-      "onion": {
+      "cucurbits": {
          "advisory": [
-            "Seed treatment should be done with Carbendazim 50% WP @ 2 g/kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3 g/kg of seeds"
+            "Fruit fly - To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 grams of Jaggery and 8 ml of DDVP in 4 litres of water. Keep this mixture in plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
          ]
       },
-      "bitter gourd": {
+      "cole crop (cauliflower and cabbage)": {
          "advisory": [
-            "To manage Fruit flies infestation, spray Malathion @ 1 ml/lt",
-            "To control Powdery mildew disease, spray Dinocap @ 1 ml/lt or Carbendazim @ 1 g/lt"
+            "Fertilizer Management - Apply 33 kg of Urea and 23 kg of MOP per acre after hoeing and hand weeding at 15-20 DAT and 33 kg of Urea and 23 kg of MOP per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings, then spray Borax @ 4 kg/acre or Folibor/Solubor @ 1.5 grams/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
          ]
       },
-      "brinjal": {
+      "marigold & rose": {
          "advisory": [
-            "To reduce Phomopsis blight disease, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water"
-         ]
-      },
-      "sheep": {
-         "advisory": [
-            "Control Liver fluke infestation by using appropriate drugs or methods"
-         ]
-      },
-      "goats": {
-         "advisory": [
-            "Control Liver fluke infestation by using appropriate drugs or methods"
+            "To manage Red Spider Mites in flowers like marigold and rose, spray wettable sulphur 80% WP @ 2 grams/litre of water or Propargite 57% EC @ 2 ml/litre of water or Fenpyroximate 5% EC @ 2 ml/litre of water."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

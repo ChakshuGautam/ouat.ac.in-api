@@ -1,0 +1,132 @@
+{
+   "weather_details": {
+      "2024-10-19": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 95,
+         "rh_min": 66,
+         "wind_speed": 2,
+         "wind_direction": 0,
+         "cloud_cover": 5
+      },
+      "2024-10-20": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 63,
+         "wind_speed": 3,
+         "wind_direction": 342,
+         "cloud_cover": 6
+      },
+      "2024-10-21": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 54,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 4
+      },
+      "2024-10-22": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 50,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 4
+      },
+      "2024-10-23": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 51,
+         "wind_speed": 5,
+         "wind_direction": 352,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "finger millet",
+      "cabbage",
+      "cauliflower",
+      "cucumber",
+      "tomato",
+      "onion",
+      "papaya",
+      "cow",
+      "common fish",
+      "chicken"
+   ],
+   "general_advisory": "Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame in upland/medium lands. It is optimum time for sowing of Vegetables like cole crops (Cabbage, late Cauliflower and Broccoli), Solanaceous vegetables (Brinjal, Tomato, Chilli and Capsicum). Go for planting of vegetables like Carrot, radish, late onion, garlic, legumes, etc. October is the ideal time for hard pruning in rose to produce lots of flower buds on a well-spaced framework of branches. Go for nursery sowing of brinjal, tomato, cauliflower and sesame. Go for planting of cole crops. Cole crop seedlings are at 3-week stage in the nursery. Go for planting in the main field. The weather is optimum for beans planting.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The transplanted paddy is at Panicle Initiation to flowering stage in main field. The present high humid weather condition and rainfall followed by clear sky is favourable for Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy. To manage BPH and WBPH in paddy avoid excess use of nitrogenous fertilizer. Do not keeping standing water in the field for a longer period."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "The crop is cob development stage. Drain out excess water from the field. Infestation of Fall Army Worm in early sown maize crop has been reported in places. To manage the pest spray biopesticide Beauveria bassiana @ 1200-gram/acre by mixing in 200-litre of water. Use 10-12 bird perches per acre and remove them before tasseling stage. Dust mixture of sand, soil, and wooden ash inside the leaf whorl so that the caterpillars cannot feed on the leaves. To manage the pest chemically, spray Emamectin Benzoate 5 % S.G @ 80-gram/acre or Spinetoram 1 1.7% S.C @ 100-ml/acre or Chlorantraniliprole 18.5% S.C @ 80-ml/acre by mixing in 200-litre of water."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "To prevent Leaf spot and Leaf blight disease spray Mancozeb 63%WP+Carbendazim 12% @600 gm/acre. To spray the fungicide 200-litre of water per acre is required."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "The cabbage seedlings in the nursery are germination stage. Start nursery preparation and sowing cabbage seeds. The Varieties suitable for cabbage are Golden acre, Pride of India, etc, and the seed rate is 200g/acre. For 1 acre crop, the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "The cauliflower seedlings in the nursery are germination stage. Start nursery preparation for sowing cauliflower and complete sowing seed in the nursery. The Varieties suitable for cauliflower are K-1, Pusa early synthetic, and Pusa early Kuanri, and the seed rate is 200g/acre. For 1 acre crop, the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion or DDVP in 4-liter of water. Keep this mixture in Plastic cups or clay pots @80-nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "The tomato seedlings in the nursery are germination to one week stage. Start nursery preparation and complete sowing tomato seeds in the nursery. The Varieties suitable for tomato are Utkala pr gyan, Utkala Raja, Utkala kumari, Utkala pallavi, Swarna Sampad, swarna lalima, etc. Use 200grams seeds for one-acre area transplanting. Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. For 1 acre crop, the nursery area should be of 50 sq.m (of dimension 3m X 1m X 0.15 m). Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one-liter water to protect seedlings from damping off."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "The onion seedlings in the nursery are germination to one-week stage. Complete nursery preparation for sowing onion and sowing seeds in the nursery. For onion use varieties like Agrifound light Red, Bhima Super, Bhima Red, Bhima Shakti, and the seed rate is 4-5 kg/ac. Cover the nursery to protect from sunrays and rain. For 1-acre crop, the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one-liter water to protect seedlings from damping off."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "To manage mealy bug at the early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-liter of water or insecticidal soap. In case of severe infestation spray Profenphos 50 % EC @ 20-ml/10-liter of water or Thiamethoxam 25 % WG @ 3-gram/10-liter of water."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "If your domestic Animal is becoming off-feed, weak, lackluster, diarrhea, Milk production is low, dryness in eyes and appearance of bottleneck condition, there is every possibility of its being suffering from Parasitic infestation. These worms or Parasites reduce the vitality and productivity of the animals. Hence, the farmers are advised to make fecal sample examination of their animals at regular intervals at the nearest LAC, Veterinary Dispensary."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "After stocking of Fingerling, groundnut oil cake, and rice bran at 1:1 ratio as feed given @ 5% of their body weight twice a day. Add vitamin and mineral mixture @1% of the total feed given to the fish. Regularly check the pH and water temperature after stocking the fingerling. Add 40 kg of lime per acre to purify the pond water. To increase the amount of plankton in the pond, apply 200 kg of cow dung and 4 kg of superphosphate per acre twice a month."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

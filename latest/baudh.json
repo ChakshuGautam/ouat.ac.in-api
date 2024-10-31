@@ -1,63 +1,53 @@
 {
    "weather_details": {
-      "18-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 94,
-         "rh_min": 53,
+      "30-10-2024": {
+         "rainfall": 2.9,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 96.4,
+         "rh_min": 63.9,
          "wind_speed": 2,
-         "wind_direction": 129,
-         "cloud_cover": 4
-      },
-      "19-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 94,
-         "rh_min": 53,
-         "wind_speed": 2,
-         "wind_direction": 129,
-         "cloud_cover": 4
-      },
-      "20-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 56,
-         "wind_speed": 2,
-         "wind_direction": 127,
+         "wind_direction": 158,
          "cloud_cover": 6
       },
-      "21-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 93,
-         "rh_min": 54,
+      "31-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 95.3,
+         "rh_min": 60.4,
          "wind_speed": 2,
-         "wind_direction": 117,
-         "cloud_cover": 6
-      },
-      "22-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 90,
-         "rh_min": 41,
-         "wind_speed": 1,
-         "wind_direction": 146,
+         "wind_direction": 162,
          "cloud_cover": 5
       },
-      "23-10-2024": {
+      "01-11-2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 80,
-         "rh_min": 41,
-         "wind_speed": 1,
-         "wind_direction": 297,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 94.1,
+         "rh_min": 52.9,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 90.2,
+         "rh_min": 44.9,
+         "wind_speed": 2,
+         "wind_direction": 169,
+         "cloud_cover": 4
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 86.8,
+         "rh_min": 38.6,
+         "wind_speed": 2,
+         "wind_direction": 171,
          "cloud_cover": 4
       }
    },
@@ -65,47 +55,38 @@
       "rice",
       "cotton",
       "okra",
-      "cole crop",
-      "mango",
-      "cow/buffalo"
+      "cole crop"
    ],
-   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) during that period. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start nursery sowing and planting of Cole crops and other winter season vegetables. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
+   "general_advisory": "According to the District level weather warnings, very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operations for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
-            "To control gall midge attack in rice field, farmers should spray Lambda-cyhalothrin 05% EC, thiamethoxam 25% WG, Fipronil 5% SC, or Chloropyriphos 20 EC in clear and calm weather condition.",
-            "To control leaf folder, spraying of Chlorantraniliprole 18.5% SC, Tetraniliprole 200 SC, or Flubendiamide 20 WG in 200 litres of water per acre should be advised under clear weather."
+            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
+            "Keep the harvested produce in safe places.",
+            "Regular monitoring against different pests and diseases should be advised."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG or Profenophos 50% EC in 10 litres of water under clear weather.",
-            "Farmers shouldn’t spray any chemical insecticides at flowering period."
+            "Postpone all types of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from the field to avoid lodging of the plant.",
+            "Farmers can harvest matured crop."
          ]
       },
       "okra": {
          "advisory": [
-            "To control Fruit and shoot borer in Okra, spraying of Neem based pesticide 1500 ppm should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC should be advised."
+            "Irrigation as well as chemical application is recommended in okra.",
+            "Farmers should make provision for a proper drainage system."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Nursery bed should be prepared with proper dimensions and application of well-decomposed FYM and chlorpyriphos dust should be advised.",
-            "Where irrigation facilities are available, planting of crop is advised in already prepared field."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "In the old Mango orchard, training, pruning, and cleaning of weed, diseased and infected branches and leaves should be advised.",
-            "In newly planted mango orchard, if leaf cutting weevil attack is observed, farmers should spray recommended insecticides to control this insect."
-         ]
-      },
-      "cow/buffalo": {
-         "advisory": [
-            "Preventive measures for Foot and Mouth Disease include vaccination, deworming, disinfection of mouth and feet, isolation of affected animals, and consultation with a qualified veterinary Doctor."
+            "Farmers should go for sowing and planting of Cole crop.",
+            "Make proper drainage channels in the field to drain out excess water."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "30-10-2024": {
+         "rainfall": 2.9,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 96.4,
+         "rh_min": 63.9,
+         "wind_speed": 2,
+         "wind_direction": 158,
+         "cloud_cover": 6
+      },
+      "31-10-2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 95.3,
+         "rh_min": 60.4,
+         "wind_speed": 2,
+         "wind_direction": 162,
+         "cloud_cover": 5
+      },
+      "01-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 94.1,
+         "rh_min": 52.9,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 90.2,
+         "rh_min": 44.9,
+         "wind_speed": 2,
+         "wind_direction": 169,
+         "cloud_cover": 4
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 86.8,
+         "rh_min": 38.6,
+         "wind_speed": 2,
+         "wind_direction": 171,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "okra",
+      "cole crop",
+      "fruit crop"
+   ],
+   "general_advisory": "According to the District level weather warnings, farmers are advised to postpone harvesting and spraying operations for some days.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
+            "Keep the harvested produce in safe places.",
+            "Regular monitoring against different pests and disease should be advised."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Postpone all type of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Farmers can harvest matured crop."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Irrigation as well as chemical application is recommended in okra.",
+            "Farmers should make provision for proper drainage system."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Farmers should go for sowing and planting of Cole crop.",
+            "Make proper drainage channels in field to drain out excess water."
+         ]
+      },
+      "fruit crop": {
+         "advisory": [
+            "Planting of new plants is recommended.",
+            "Chemical application should be done before occurrence of rainfall."
+         ]
+      }
+   },
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
+}

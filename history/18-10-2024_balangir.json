@@ -1,0 +1,58 @@
+{
+   "weather_details": {
+      "2022-10-01": {
+         "rainfall": 5,
+         "t_max": 25,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 120,
+         "cloud_cover": 4
+      },
+      "2022-10-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 140,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "wheat",
+      "rice",
+      "cattle",
+      "poultry"
+   ],
+   "general_advisory": "Sow wheat and rice early this season. Keep a check on cattle and poultry health.",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "Sow wheat early in well-drained soil.",
+            "Apply fertilizers rich in nitrogen for better growth."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Transplant rice seedlings in flooded fields.",
+            "Control weeds to prevent nutrient competition."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Provide clean water and adequate feed to cattle.",
+            "Ensure shelter from extreme weather conditions."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Maintain proper hygiene in poultry houses.",
+            "Monitor for any signs of disease and take immediate action."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

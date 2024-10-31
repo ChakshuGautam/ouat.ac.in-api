@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "18-10-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 22,
-         "rh_max": 91,
-         "rh_min": 61,
-         "wind_speed": 6,
-         "wind_direction": 58,
-         "cloud_cover": 4
-      },
-      "19-10-2024": {
+      "30-10-2024": {
          "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 52,
-         "wind_speed": 8,
-         "wind_direction": 47,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 94.2,
+         "rh_min": 62.7,
+         "wind_speed": 5,
+         "wind_direction": 85.6,
          "cloud_cover": 6
       },
-      "20-10-2024": {
+      "31-10-2024": {
          "rainfall": 2,
-         "t_max": 34,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 92.2,
+         "rh_min": 61.8,
+         "wind_speed": 4,
+         "wind_direction": 84,
+         "cloud_cover": 5
+      },
+      "01-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 53.9,
+         "wind_speed": 3,
+         "wind_direction": 69,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
          "t_min": 23,
          "rh_max": 83,
-         "rh_min": 47,
-         "wind_speed": 6,
-         "wind_direction": 50,
-         "cloud_cover": 6
-      },
-      "21-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 80,
-         "rh_min": 42,
-         "wind_speed": 6,
-         "wind_direction": 43,
+         "rh_min": 41.3,
+         "wind_speed": 4,
+         "wind_direction": 55,
          "cloud_cover": 4
       },
-      "22-10-2024": {
+      "03-11-2024": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 32,
          "t_min": 22,
-         "rh_max": 77,
-         "rh_min": 44,
-         "wind_speed": 8,
-         "wind_direction": 37,
-         "cloud_cover": 3
+         "rh_max": 73.9,
+         "rh_min": 40.4,
+         "wind_speed": 4,
+         "wind_direction": 48.8,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
@@ -56,45 +56,44 @@
       "cotton",
       "okra",
       "cole crop",
-      "mango",
-      "cow/buffalo"
+      "fruit crop"
    ],
-   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation (irrigation, spraying, intercultural operation etc.) during that period. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start nursery sowing and planting of Cole crops and other winter season vegetable. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
+   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 2 9-10-2024, there is no heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
-            "To control gall midge attack in rice field, farmers should spray Lambda-cyhalothrin 05% EC, thiamethoxam 25% WG, Fipronil 5% SC, or Chloropyriphos 20 EC in clear and calm weather conditions.",
-            "To control leaf folder, spraying of Chlorantraniliprole 18.5% SC, Tetraniliprole 200 SC, or Flubendiamide 20 WG in water per acre should be advised under clear weather."
+            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
+            "Keep the harvested produce in safe places.",
+            "Regular monitoring against different pests and disease should be advised."
          ]
       },
       "cotton": {
          "advisory": [
-            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG or Profenophos 50% EC in water under clear weather."
+            "Postpone all type of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Farmers can harvest matured crop."
          ]
       },
       "okra": {
          "advisory": [
-            "To control Fruit and shoot borer in Okra, spraying of Neem based pesticide 1500 ppm per acre should be advised at initial stages."
+            "Irrigation as well as chemical application is recommended in okra.",
+            "Farmers should make provision for proper drainage system."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Nursery bed should be prepared with adequate length, breadth, and height. Before sowing, application of well decomposed FYM and chlorpyriphos dust to each nursery bed should be advised.",
-            "Where irrigation facilities are available, planting of crop is advised in already prepared field."
+            "Farmers should go for sowing and planting of Cole crop.",
+            "Make proper drainage channels in field to drain out excess water."
          ]
       },
-      "mango": {
+      "fruit crop": {
          "advisory": [
-            "In the old Mango orchard, training, pruning, and cleaning of weed, diseased and infected branches and leaves should be advised.",
-            "In newly planted mango orchard, if leaf cutting weevil attack is observed, then farmers should spray Lambda cyhalothrin 5% EC, Chloropyriphos 20 EC, Spinosad 45% SC, or quinalfos 20 EC to control this insect."
-         ]
-      },
-      "cow/buffalo": {
-         "advisory": [
-            "FMD is a highly contagious disease in Cow and Buffalo characterized by fever and blister-like sores. Preventive and control measures include vaccination, deworming, washing affected areas with potassium permanganate, antibiotic treatment, and isolation of affected animals."
+            "Planting of new plants is recommended.",
+            "Chemical application should be done before the occurrence of rainfall."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

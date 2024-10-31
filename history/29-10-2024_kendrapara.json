@@ -1,0 +1,110 @@
+{
+   "weather_details": {
+      "30/10/2024": {
+         "rainfall": 8,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 93.9,
+         "rh_min": 69.2,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "31/10/2024": {
+         "rainfall": 0.1,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 91.7,
+         "rh_min": 67.7,
+         "wind_speed": 5,
+         "wind_direction": 260.5,
+         "cloud_cover": 6
+      },
+      "01/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 91.1,
+         "rh_min": 61.3,
+         "wind_speed": 6,
+         "wind_direction": 261.2,
+         "cloud_cover": 6
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 91.5,
+         "rh_min": 57.6,
+         "wind_speed": 5,
+         "wind_direction": 273.6,
+         "cloud_cover": 6
+      },
+      "03/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 90.9,
+         "rh_min": 51.9,
+         "wind_speed": 5,
+         "wind_direction": 309.8,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower"
+   ],
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use the groundnut varieties suitable for Odisha conditions like Devi (ICGV CO-7, Dharani, etc.). To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of 10g Plantomycin mixed in 10 litres of water.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Flowering to Physiological maturity stage - Control Ear Head Caterpillar by spraying Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400 ml/acre or Profenophos 50 % EC @ 400 ml/acre. Spray in the evening hours for better results.",
+            "Gundhi Bug Management - Control Gundhi Bug by spraying Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50 % EC @ 400 ml/acre uniformly during morning hours with no or minimal wind."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Physiological maturity stage/Harvesting stage - Store groundnut in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250 grams/30-kg box. Keep bags vertically in a well-ventilated room at room temperature for high germination rate even after 8-10 months of storage."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Ripening stage - Manage Internode borer by splitting each card into 12 pieces at given perforations. Spray Fipronil @ 600-ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre for chemical control."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Vegetative to Fruiting stage - Control Fruit fly by preparing a poison bait with Jaggery and DDVP in water. Fruit flies will be attracted to the bait and killed."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Vegetative stage - Manage fertilizer application and micronutrient spray for optimal growth and curd formation."
+         ]
+      },
+      "marigold & rose": {
+         "advisory": [
+            "To manage Red Spider Mites in Marigold and Rose, spray wettable sulphur 80 % WP or Fenpyroximate 5 % EC in water."
+         ]
+      },
+      "general": {
+         "advisory": [
+            "Ear Head Caterpillar - To control ear head caterpillar spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400 ml/acre or Profenophos 50 % EC @ 400 ml/acre. Spray in the evening hours for better results.",
+            "Gundhi Bug Management - To control Gundhi Bug spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50 % EC @ 400 ml/acre uniformly during morning hours with no or minimal wind.",
+            "Groundnut storage - Store groundnut in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250 grams/30-kg box. Keep bags vertically in a well-ventilated room at room temperature for high germination rate even after 8-10 months of storage.",
+            "Internode borer management - Manage Internode borer by splitting each card into 12 pieces at given perforations. Spray Fipronil @ 600-ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre for chemical control.",
+            "Fruit fly management - Control Fruit fly in cucurbits by preparing a poison bait with Jaggery and DDVP in water. Fruit flies will be attracted to the bait and killed.",
+            "Fertilizer Management - Apply Urea and MOP per acre for optimal growth and yield. Spray micronutrient Boron after transplanting for better results.",
+            "Red Spider Mite control - To manage Red Spider Mites in Marigold and Rose, spray wettable sulphur 80 % WP or Fenpyroximate 5 % EC in water."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

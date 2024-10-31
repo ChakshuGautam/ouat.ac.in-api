@@ -1,125 +1,126 @@
 {
    "weather_details": {
-      "19-10-2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 93,
-         "rh_min": 55,
-         "wind_speed": 2,
-         "wind_direction": 129,
-         "cloud_cover": 4
-      },
-      "20-10-2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 93,
-         "rh_min": 60,
-         "wind_speed": 3,
-         "wind_direction": 124,
-         "cloud_cover": 6
-      },
-      "21-10-2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "30-10-2024": {
+         "rainfall": 8,
+         "t_max": 32,
          "t_min": 22,
-         "rh_max": 94,
-         "rh_min": 60,
-         "wind_speed": 2,
-         "wind_direction": 81,
+         "rh_max": 96,
+         "rh_min": 62,
+         "wind_speed": 3,
+         "wind_direction": 207,
          "cloud_cover": 7
       },
-      "22-10-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 90,
-         "rh_min": 48,
-         "wind_speed": 4,
-         "wind_direction": 68,
-         "cloud_cover": 6
-      },
-      "23-10-2024": {
+      "31-10-2024": {
          "rainfall": 2,
          "t_max": 32,
+         "t_min": 21,
+         "rh_max": 95,
+         "rh_min": 59,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "01-11-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 54,
+         "wind_speed": 2,
+         "wind_direction": 211,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 48,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 4
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 33,
          "t_min": 22,
-         "rh_max": 82,
-         "rh_min": 45,
-         "wind_speed": 6,
-         "wind_direction": 27,
+         "rh_max": 86,
+         "rh_min": 40,
+         "wind_speed": 2,
+         "wind_direction": 81,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
       "maize",
-      "ragi",
-      "ground nut",
-      "green gram",
-      "radish",
+      "pulses",
+      "mustard",
+      "turmeric",
       "cauliflower",
       "cabbage",
-      "ginger"
+      "ginger",
+      "cow and buffalo"
    ],
-   "general_advisory": "Watch for rain before applying pesticides. If necessary spray only when sky becomes clear and use sticker to the spray solution. In fallow uplands, utilizing recent rainfall farmers should take up short duration low water requiring crops like black gram, green gram, sesame, fodder crops etc. Regular surveillance work should be taken up in all crops in order to know the incidence of various insect pests and initiate the control strategies.",
+   "general_advisory": "Based on five days weather forecast, farmers can continue intercultural operations, harvesting of matured products, and apply pesticides mixed with a sticker as needed. Field preparation should be started for rabi crops. Regular surveillance work should be done in all crops to know the incidence of various insect pests and initiate control strategies.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Keep the rice plots weed free.",
             "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120 g/ac).",
             "To control steam borer & leaf folder spray chlorpyriofos/profenofos @ 2 ml/ l of water.",
             "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
-            "In upland matured rice harvest the crop and store it in a safe place."
+            "To control ear cutting caterpillar, spray Quinalphos 25 EC @ 400ml/acre or Chlorpyriphos 20 EC @ 500ml/ acre at root zone in morning hours."
          ]
       },
       "maize": {
          "advisory": [
-            "Root and stalk rot may observe in maize field, to control it spray Validamycin 3% L @ 2 ml/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water.",
-            "Install pheromone traps @ 15 nos /acre to control fall army worm.",
-            "Spray Imamectin Benzoate @ 6 g / Spinosad @4.5 ml / Chlorantranilliprole  @6ml per 15 liters of water to control the Fall army worm. Collection & destruction of egg masses from the young leaf tips in the morning also helpful in reducing fall Army."
+            "For American Cob Borer infestation, apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water."
          ]
       },
-      "ragi": {
+      "pulses": {
          "advisory": [
-            "For blast disease management apply Merger (Tricyclazole 18 % + Mancozeb 62 % WP) @  1 -1.5 g/l or Tricyclazole 75% WP (Beam) @ 0.6 g/l of water (120 g/ac) or Zineb 75% WP @ 2 g/l of water."
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram."
          ]
       },
-      "ground nut": {
+      "mustard": {
          "advisory": [
-            "To manage collar rot infestation in ground nut, spray Metalaxyl 8% + Mancozeb 64% WP @ 2 g/litre of water or Carbendazim 50%  WP @ 1.5 g/litre of water."
+            "Take advantage of available soil moisture and start land preparation and sowing of the crop for optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at seedling stage."
          ]
       },
-      "green gram": {
+      "turmeric": {
          "advisory": [
-            "Root rot may observe in green gram and black gram, to control it soil drenching with Validamycin 3% L @ 2 ml/litre  of water or Carbendazim 12% + Mancozeb 63% WP @ 2 g/litre of water."
-         ]
-      },
-      "radish": {
-         "advisory": [
-            "For harvesting early in winter season, go for sowing of radish and nursery raising of cabbage and cauliflower.",
-            "Rainfall may cause wilting and damping off disease in seedlings and young plants of vegetables. To control it soil drench with Copper oxycloride 50% WP @ 3 g and Streptomycin + Tetracycline (90+10) @ 0.15 g/litre of water when sky becomes clear."
+            "Go for weeding and apply 26 kg urea and 30 kg MoP per acre at 90 days after planting and apply mulching @ 2 t/acre."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Prepare nursery beds, each measuring 3m length, 1m breadth and 15 -20 cm height. Apply 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200 -250 grams of seed is required for one acre area of cultivation and 100 -150 grams of seed is required in case of hybrids.",
-            "Cauliflower (60 -75 days) - HYV: Pusa Early Synthetic, Early Kuanri, Kartika, Pusa Dipali, Arka kranti, Arka Surathi, Hybrid: Sweta, Puspagiri, Tusar Goodman etc."
+            "Prepare nursery beds with well decomposed FYM and chlorpyriphos dust.",
+            "Transplant mature seedlings of cauliflower in raised bed during clear weather.",
+            "List of suitable varieties for cauliflower.",
+            "Regularly monitor cauliflower crops for insect pests."
          ]
       },
       "cabbage": {
          "advisory": [
-            "Prepare nursery beds, each measuring 3m length, 1m breadth and 15 -20 cm height. Apply 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200 -250 grams of seed is required for one acre area of cultivation and 100 -150 grams of seed is required in case of hybrids.",
-            "Cabbage (60 -75 days) - HYV: Golden Acre, Pride of India, Pusa Sambandh Hybrid: Green ball, Priya, Genith gold star, Pragati etc."
+            "Prepare nursery beds with well decomposed FYM and chlorpyriphos dust.",
+            "List of suitable varieties for cabbage."
          ]
       },
       "ginger": {
          "advisory": [
-            "3rd weeding and 3rd top dressing may be completed.",
-            "Soil drenching  with 1.25 g Metalaxyl -Mancozeb + 2 ml Quinalphos + 1g Plantomycin  per liter of water to control rhizome rot in Zinger.",
-            "Remove infected plants from field & burn."
+            "Complete 3rd weeding and 3rd top dressing.",
+            "Soil drench with recommended products to control rhizome rot.",
+            "Remove infected plants from the field."
+         ]
+      },
+      "cow and buffalo": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections.",
+            "Deworm animals as needed and vaccinate them against common diseases."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024"
 }

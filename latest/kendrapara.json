@@ -1,128 +1,151 @@
 {
    "weather_details": {
-      "19/10/2024": {
-         "rainfall": 5,
-         "t_max": 35,
+      "30/10/2024": {
+         "rainfall": 8,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 93.9,
+         "rh_min": 69.2,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "31/10/2024": {
+         "rainfall": 0.1,
+         "t_max": 33,
          "t_min": 25,
-         "rh_max": 92,
-         "rh_min": 65,
-         "wind_speed": 6,
-         "wind_direction": 326,
-         "cloud_cover": 4
-      },
-      "20/10/2024": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 92,
-         "rh_min": 62,
-         "wind_speed": 9,
-         "wind_direction": 325,
-         "cloud_cover": 5
-      },
-      "21/10/2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 86,
-         "rh_min": 61,
-         "wind_speed": 6,
-         "wind_direction": 355,
-         "cloud_cover": 4
-      },
-      "22/10/2024": {
-         "rainfall": 10,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 55,
-         "wind_speed": 12,
-         "wind_direction": 1,
+         "rh_max": 91.7,
+         "rh_min": 67.7,
+         "wind_speed": 5,
+         "wind_direction": 260,
          "cloud_cover": 6
       },
-      "23/10/2024": {
+      "01/11/2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 52,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 91.1,
+         "rh_min": 61.3,
          "wind_speed": 6,
-         "wind_direction": 8,
+         "wind_direction": 261,
+         "cloud_cover": 6
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 91.5,
+         "rh_min": 57.6,
+         "wind_speed": 6,
+         "wind_direction": 273,
          "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "paddy",
-      "maize",
-      "sugarcane",
-      "cotton",
-      "black gram",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
       "green gram",
-      "onion",
-      "bitter gourd",
+      "black gram",
+      "cowpea",
+      "field pea",
+      "lentil",
+      "groundnut",
+      "toria",
+      "sunflower",
       "brinjal",
-      "sheep",
-      "goats"
+      "tomato",
+      "sugarcane",
+      "cucurbits",
+      "cole crop",
+      "marigold",
+      "rose"
    ],
-   "general_advisory": "For better agricultural benefits use OUAT KALINGA Value Added Products, Fingerlings/ Yearlings, VermiCompost, and Farm Implements. IMD Weather forecast and Agro-meteorological advisory of Odisha location is now available on Meghdoot.",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "False smut: False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Copper oxychloride.",
-            "Neck Blast: To control Neck Blast diseases, first drain out excess water from the paddy field. Spray Hexaconazole or Azoxystrobin+ Difenoconazole."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Top dressing of fertilizer for maize crop has started."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Sugarcane is at grand growth stage."
-         ]
-      },
-      "cotton": {
-         "advisory": [
-            "Cotton crop is in boll formation stage."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Pod Borer Management: There are chances of Pod borer infestation in black gram crop. To manage, spray Emamectin Benzoate or Chlorantraniliprole."
+            "Physiological maturity stage - Ear Head Caterpillar - To control ear head caterpillar spray Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 400 ml/acre or Profenophos 50 % EC @ 400 ml/acre. As the pest is nocturnal in behaviour, spraying of pesticide should be done in the evening hours for better result.",
+            "Gundhi Bug Management - To control Gundhi Bug spray Chlorpyriphos 20% EC @ 400 ml/acre or Malathion 50 % EC @ 400 ml/acre by mixing in 200 litre of water. Dusting of Chlorpyriphos 1.5 % D @ 10 kg/acre or Malathion 5 % D.P @ 10 kg/acre should be done uniformly during morning hours, when there is no or minimum wind."
          ]
       },
       "green gram": {
          "advisory": [
-            "Pod Borer Management: There are chances of Pod borer infestation in green gram crop. To manage Bihar hairy caterpillar, spray Emamectin Benzoate or Profenophos."
+            "..."
          ]
       },
-      "onion": {
+      "black gram": {
          "advisory": [
-            "Pre-sowing stage: Before sowing of seeds, seed treatment should be done with Carbendazim or Carboxin + Thiram."
+            "..."
          ]
       },
-      "bitter gourd": {
+      "cowpea": {
          "advisory": [
-            "Fruiting and Harvesting: To manage the infestation of Fruit flies, spray Malathion. To control the Powdery mildew disease, spray Dinocap or Carbendazim."
+            "..."
+         ]
+      },
+      "field pea": {
+         "advisory": [
+            "..."
+         ]
+      },
+      "lentil": {
+         "advisory": [
+            "..."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Storage - Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride @ 250-gram/30 box. The sealed bags should be kept vertically inside a well-ventilated room at room temperature. This technique is very effective in maintaining high germination rate even after 8-10 months of storage."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "..."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "..."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Flowering/Fruiting: The plants showing wilting symptoms can be uprooted/destroyed away from the field.",
-            "Phomopsis blight: To reduce the Phomopsis blight disease in brinjal, spray Metalaxyl + Mancozeb or Zineb."
+            "..."
          ]
       },
-      "sheep": {
+      "tomato": {
          "advisory": [
-            "Liver fluke infestation in sheep: Liver Fluke is a great enemy of Sheep. Infestation of this worm can be controlled by using specific drugs or by duck rearing."
+            "..."
          ]
       },
-      "goats": {
+      "sugarcane": {
          "advisory": [
-            "Liver fluke infestation in goats: Liver Fluke is a great enemy of Goats. Infestation of this worm can be controlled by using specific drugs or by duck rearing."
+            "Ripening stage - Internode borer management - To manage the pest, biological use Trichogramma chilonis card @ 1/acre at weekly interval for 6 times by splitting each card into 12 pieces at the given perforations. To manage the pest chemically, spray Fipronil @ 600-ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing with 8 kg of sand. Also, apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Vegetative to Fruiting stage - Fruit fly Management - To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml DDVP in 4-litre of water. Keep this mixture in Plastic cups or clay pots @80-nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "..."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "..."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "..."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024",
+   "ERROR": "Not getting consistent data."
 }

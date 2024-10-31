@@ -1,108 +1,90 @@
 {
    "weather_details": {
-      "19/10/2024": {
+      "30/10/2024": {
          "rainfall": 2,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 93,
-         "rh_min": 60,
-         "wind_speed": 3,
-         "wind_direction": 50,
-         "cloud_cover": 3
-      },
-      "20/10/2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 23,
-         "rh_max": 87,
-         "rh_min": 49,
-         "wind_speed": 5,
-         "wind_direction": 39,
-         "cloud_cover": 5
-      },
-      "21/10/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 84,
-         "rh_min": 45,
-         "wind_speed": 4,
-         "wind_direction": 37,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 95,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 79,
          "cloud_cover": 6
       },
-      "22/10/2024": {
+      "31/10/2024": {
+         "rainfall": 1,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 94,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 5
+      },
+      "01/11/2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 22,
-         "rh_max": 81,
-         "rh_min": 40,
-         "wind_speed": 4,
-         "wind_direction": 29,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 92,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 5
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 39,
          "cloud_cover": 4
       },
-      "23/10/2024": {
+      "03/11/2024": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 31,
          "t_min": 22,
-         "rh_max": 81,
-         "rh_min": 41,
-         "wind_speed": 5,
-         "wind_direction": 25,
+         "rh_max": 78,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 31,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
-      "pulses",
-      "ragi",
-      "banana",
-      "cole crop",
-      "cucurbits",
-      "ginger",
-      "pisciculture"
+      "wheat",
+      "mustard",
+      "maize",
+      "brinjal"
    ],
-   "general_advisory": "Due to forecast of rainfall, the matured crops which are at physiological stage are to be harvested and shifted to a safer place. Also survey for insect pest attack and steps may be taken accordingly.",
+   "general_advisory": "Due to forecast of very light rainfall, the harvesting of crops should be postponed for a few days. Go for sowing of rabi crops. In case of moisture stress, foliar application of 1% KCL solution at reproductive stages is recommended.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Due to weather the leaf folder infestation may occur, to manage this pest spray Acephate 75% SP @ 1-2 ml/lt."
+            "In case of Neck Blast incidence, spraying of Carbendazim 50 WP or Tricyclazole 75 WP may be done."
          ]
       },
-      "pulses": {
+      "wheat": {
          "advisory": [
-            "To manage Pod borer in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Profenophos 50 % EC @ 400-ml/acre."
+            "Collect good quality seeds like UP 262. Treat the seeds with vitavax power before sowing."
          ]
       },
-      "ragi": {
+      "mustard": {
          "advisory": [
-            "When 85% of the fingers turn yellow go for harvesting."
+            "Select improved seed varieties like Varuna, Pusa Bold, M 27 for sowing."
          ]
       },
-      "banana": {
+      "maize": {
          "advisory": [
-            "Present weather condition is suitable for infestation of sigatoka in banana. Go for application of Propiconazole @1ml/lt for 2-3 times in 25 days interval."
+            "To control fall army worm, farmers are advised to spray emamectin benzoate 5SG."
          ]
       },
-      "cole crop": {
+      "brinjal": {
          "advisory": [
-            "Nursery bed preparation: Prepare nursery beds, each measuring 3m length, 1m breadth and 15-20 cm height. Apply 15-30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200-250 grams of seed is required for one acre area of cultivation and 100-150 grams of seed is required in case of hybrids."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "There are chances of infestation of Downy Mildew disease in cucurbit vegetables after heavy rainfall. To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3 g/litre."
-         ]
-      },
-      "ginger": {
-         "advisory": [
-            "To manage the rhizome rot go for Soil drenching with 1.25 g Metalaxyl-Mancozeb + 2 ml Quinalphos + 1g Plantomyc in per liter of water."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "There may be EUS disease in fishes, to cure apply Cifax@ 400ml/acre of pond area."
+            "There is a chance of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG or carbaryl 50% WP."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "29-10-2024"
 }

@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "2024-10-19": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 97,
+         "rh_min": 66,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "2024-10-20": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 97,
+         "rh_min": 67,
+         "wind_speed": 2,
+         "wind_direction": 346,
+         "cloud_cover": 8
+      },
+      "2024-10-21": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 96,
+         "rh_min": 65,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 8
+      },
+      "2024-10-22": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 93,
+         "rh_min": 53,
+         "wind_speed": 3,
+         "wind_direction": 14,
+         "cloud_cover": 4
+      },
+      "2024-10-23": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 51,
+         "wind_speed": 5,
+         "wind_direction": 12,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "cauliflower",
+      "brinjal",
+      "french bean",
+      "cow"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 35.7°C and the mean minimum daily temperature was 25.5°C of the Gajapati district during the last week. The district received 14.5 mm of rainfall during the last week. Soil moisture is adequate for sowing of rabi crops such as Groundnut, Horse gram, Green gram, Black gram, Cowpea, Sweet potato and Sesame in upland/medium lands. It is optimum time for sowing of Vegetables like cole crops (Cabbage, late Cauliflower and Broccoli), Solanaceous vegetables (Brinjal, Tomato, Chilli and Capsicum). Go for planting of vegetables like Carrot, radish, late onion, garlic, legumes, etc. October is the ideal time for hard pruning in rose to produce lots of flower buds on a well-spaced framework of branches. Go for nursery sowing of brinjal, tomato, cauliflower and sesame. Go for planting of cole crops. Cole crop seedlings are at 3-week stage in the nursery. Go for planting in the main field. The weather is optimum for beans planting.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The transplanted paddy is at Panicle Initiation to flowering stage in main field."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "The crop is at square formation to boll formation stage. Now temperature and humid conditions are favorable for the infestation of sucking pests in cotton. If there is infestation of Aphids and Jassids in early sown cotton crop, go for spraying of Acetamiprid 20%SP  20gm/acre or neem-based pesticide Neem Oil 1500 PPM @600-ml/acre by mixing it in 200-litre of water ."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "The cauliflower seedlings in nursery are germination stage. Start nursery preparation for sowing cauliflower and complete sowing seed in nursery . The Varieties suitable for cauliflower are K-1, Pusa early synthetic and Pusa early Kuanri and the seed rate is 200g/acre. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery . Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one litrer water to protect seedlings from damping of f."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "For control of shoot and fruit borer in brinjal, spray Emamectin Benzoate 5% SG @ 80-gram/ acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 1 1.7 % SC @ 200-ml /acre. Use any of the above insecticides alternately at 15-days interval."
+         ]
+      },
+      "french bean": {
+         "advisory": [
+            "To manage Pod borer in beans spray Emamectin Benzoate 5% SG @ 90-gram/ acre or Chlorantraniliprole 18.5 % SC @ 60-ml/acre or Flubendiamide 39.35 SC @ 40-ml/acre."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "If your domestic Animal is becoming of f feed, weak, lackluster , diarrhoea, Milk production is low , dryness in eyes and appearance of bottleneck condition, there is every possibility of its being suf fering from Parasitic infestation. These worms or Parasites reduce the vitality and productivity of the animals. Hence, the farmers are advised to make fecal sample examination of their animals at regular interval at the nearest LAC, Veterinary Dispensary ."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

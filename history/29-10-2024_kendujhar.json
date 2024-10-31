@@ -1,0 +1,139 @@
+{
+   "weather_details": {
+      "30-10-2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 98,
+         "rh_min": 67,
+         "wind_speed": 1,
+         "wind_direction": 63,
+         "cloud_cover": 6
+      },
+      "31-10-2024": {
+         "rainfall": 1,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 97,
+         "rh_min": 69,
+         "wind_speed": 1,
+         "wind_direction": 154,
+         "cloud_cover": 5
+      },
+      "01-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 95,
+         "rh_min": 59,
+         "wind_speed": 1,
+         "wind_direction": 252,
+         "cloud_cover": 5
+      },
+      "02-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 89,
+         "rh_min": 51,
+         "wind_speed": 2,
+         "wind_direction": 321,
+         "cloud_cover": 4
+      },
+      "03-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 85,
+         "rh_min": 46,
+         "wind_speed": 2,
+         "wind_direction": 334,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "chickpea",
+      "greengram",
+      "brinjal",
+      "pumpkin",
+      "bitter gourd",
+      "banana",
+      "papaya",
+      "marigold",
+      "goats"
+   ],
+   "general_advisory": "Harvest the damaged and fallen crops due to the impact of Cyclone “DANA”. Drain out excess water from the field. Let the field dry by its own then prepare the field for sowing of Rabi crops. Do not plough the land if it is in wet condition. Spraying of pesticides to be done in early morning hours. Do not spray if rainfall forecast is there. Sowing of Rabi crops should be done with proper seed treatment.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Clear the drainage channels if blocked.",
+            "Drain out excess water from the field to reduce the lodging effect.",
+            "Leave the crops to be dry from the sun.",
+            "Gundhi bug infestation can be seen in the field. To minimise the Gundhi bug damage spray Imidachloprid 17.8% SL @ 1 ml/lt.",
+            "Similarly, leaf folder in paddy can be managed by spraying Acephate 75% SP @ 1 g/lt."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Prepare the land for sowing.",
+            "Postpone the sowing in case of water logged or water stagnation in the field.",
+            "Select the seeds which are not infected by the insects for sowing."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Make passages or channels to drain out excess water.",
+            "Postpone the sowing activities in the field.",
+            "Seed treatment with Thiram or Captan @ 2g/kg seeds to be done before sowing.",
+            "Additional treatments with Rhizobium culture will help in better growth of the plants."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Remove water from the field.",
+            "Fruit and shoot borer infestation can be reduced by spraying Emamectin benzoate 5% SG @ 4g/10 lt."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Drain excess water from the root zone.",
+            "Postpone the spraying of pesticides for next 2-3 days.",
+            "Sun dry the fruits naturally."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Harvest the matured fruits.",
+            "Postpone spraying of any chemicals to the crops.",
+            "Removal of water is necessary to avoid rotting of plants."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Fallen banana bunches may be collected and kept at safe and dry places.",
+            "Make ring basin for irrigation.",
+            "Remove the extra suckers from the mother plants."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Avoid water stagnation from the plants.",
+            "Papaya ring spot virus can be managed by spraying Malathion or Imidachloprid @ 1ml/lt."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Sow the seeds or transplant the seedlings in the field.",
+            "Make sure to avoid any stagnation of water at the place of sowing."
+         ]
+      },
+      "goats": {
+         "advisory": [
+            "Provide the animals water and food regularly.",
+            "In case of any diseases, consult the veterinary doctor immediately."
+         ]
+      }
+   },
+   "date": "29-10-2024"
+}

@@ -1,0 +1,110 @@
+{
+   "weather_details": {
+      "19/10/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 95,
+         "rh_min": 65,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 4
+      },
+      "20/10/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 2,
+         "wind_direction": 321,
+         "cloud_cover": 4
+      },
+      "21/10/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 94,
+         "rh_min": 63,
+         "wind_speed": 2,
+         "wind_direction": 356,
+         "cloud_cover": 7
+      },
+      "22/10/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 49,
+         "wind_speed": 7,
+         "wind_direction": 357,
+         "cloud_cover": 7
+      },
+      "23/10/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 48,
+         "wind_speed": 9,
+         "wind_direction": 2,
+         "cloud_cover": 9
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "black gram",
+      "green gram",
+      "onion",
+      "bitter gourd",
+      "brinjal",
+      "sheep",
+      "goats"
+   ],
+   "general_advisory": "The overall crop condition is normal. Top dressing of fertilizer is ongoing. Harvesting of crops like maize has started. Sugarcane is at a grand growth stage. Farmers are advised to control pests and diseases based on specific recommendations.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "False smut: Spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre",
+            "Neck Blast: Drain excess water and spray Hexaconazole or Azoxystrobin+ Difenoconazole"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Pod Borer Management: Spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 50 % EC @ 400 ml/acre"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pod Borer Management: Spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 50 % EC @ 400 ml/acre"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Seed treatment should be done with Carbendazim 50% WP @ 2 g/kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3 g/kg of seeds"
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "To manage Fruit flies infestation, spray Malathion @ 1 ml/lt",
+            "To control Powdery mildew disease, spray Dinocap @ 1 ml/lt or Carbendazim @ 1 g/lt"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To reduce Phomopsis blight disease, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water"
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Control Liver fluke infestation by using appropriate drugs or methods"
+         ]
+      },
+      "goats": {
+         "advisory": [
+            "Control Liver fluke infestation by using appropriate drugs or methods"
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}
