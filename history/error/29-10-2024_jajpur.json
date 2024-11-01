@@ -14,7 +14,7 @@
          "rainfall": 1,
          "t_max": 34,
          "t_min": 26,
-         "rh_max": 94,
+         "rh_max": 94.9,
          "rh_min": 65,
          "wind_speed": 2,
          "wind_direction": 225,
@@ -24,7 +24,7 @@
          "rainfall": 0,
          "t_max": 33,
          "t_min": 25,
-         "rh_max": 93,
+         "rh_max": 93.6,
          "rh_min": 53,
          "wind_speed": 3,
          "wind_direction": 249,
@@ -34,7 +34,7 @@
          "rainfall": 1,
          "t_max": 33,
          "t_min": 25,
-         "rh_max": 92,
+         "rh_max": 92.2,
          "rh_min": 50,
          "wind_speed": 3,
          "wind_direction": 290,
@@ -44,7 +44,7 @@
          "rainfall": 0,
          "t_max": 33,
          "t_min": 24,
-         "rh_max": 90,
+         "rh_max": 90.1,
          "rh_min": 44,
          "wind_speed": 4,
          "wind_direction": 315,
@@ -65,7 +65,7 @@
          "advisory": [
             "If late transplanted rice is in PI/early flowering stage application of additional dose of MOP 12 Kg/acre recommended or foliar spray of MOP (0:0:50)@8-10g /litre of water along with 20%boron @1.5g/litre of water recommended.",
             "Prevailing warm and humid weather after cyclone may increases the incidence of BLB and neck Blast disease in rice so apply (Tebuconazole 50%+ Trifloxystrobin 25% WG)@0.4 g /litre of water.",
-            "Prevailing microclimate condition after the cyclonic events may increase the population of Plant Hoppers. Make alleys in field in every 3 m /after 8-10 rows for proper penetration of sunlight and better aeration at plane base. At early stage of infestation, to protect the crop apply Dinotefuran or Clothianidin 50 @ 80g/acre WG along with Neem Oil Formulation @ 600 ml/acre targeting to the plant base. Spraying of insecticide should be targeted at the plant base.",
+            "Prevailing microclimate condition after the cyclonic events may increase the population of Plant Hoppers. Make alleys in field in every 3 m/after 8-10 rows for proper penetration of sunlight and better aeration at plane base. At early stage of infestation, to protect the crop apply Dinotefuran or Clothianidin 50 @ 80g/acre WG along with Neem Oil Formulation @ 600 ml/acre targeting to the plant base. Spraying of insecticide should be targeted at the plant base.",
             "Monitor the activity of Gundhy bug in rice field and install rotten snail trap for mass trapping and killing of the pest."
          ]
       },
@@ -77,19 +77,19 @@
       },
       "vegetables": {
          "advisory": [
-            "High moisture content followed by heavy rainfall due to cyclone increase the wilting or partial wilting in brinjal to prevent this drain the excess water from the field. Apply preparation/fruiting Neem or Karanja cake @ 1g/acre, Drenching of Tebuconazole @ 1ml/liter can be recommended.",
+            "High moisture content followed by heavy rainfall due to cyclone increase the wilting or partial wilting in brinjal to prevent this drain the excess water from the field. Apply preparation/Fruiting Neem or Karanja cake @ 1g/acre, Drenching of Tebuconazole @ 1ml/liter can be recommended.",
             "Repairing & strengthening of trellis in vines & standing cucurbit vegetables.",
-            "If the seedlings of early duration varieties of vegetables are damaged, treat the seedlings with (Metalaxyl + Mancozeb) @ 2g/lit of water and Plantomycin @ 1g per liter of water."
+            "If the seedlings of early duration varieties of vegetables are damaged, treat the seedlings with (Metalaxyl + Mancozeb) @ 2g/li of water and Plantomycin @ 1g per liter of water."
          ]
       },
       "fruit": {
          "advisory": [
-            "Papaya- Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @ 3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
+            "Papaya- Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "After heavy rainfall water quality of fish ponds may be altered so testing of water PH & need based Application of @100kg lime/acre in 3 splits (40:40:20) at 2 days interval recommended."
+            "After heavy rainfall water quality of fish ponds may be altered so testing of water PH & need based Application of @100kg lime /acre in 3 splits (40:40:20) at 2 days interval recommended."
          ]
       },
       "livestock": {

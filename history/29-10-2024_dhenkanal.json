@@ -2,13 +2,13 @@
    "weather_details": {
       "29.10.2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 90,
-         "rh_min": 55,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 85,
+         "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 120,
-         "cloud_cover": 6
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
@@ -21,22 +21,22 @@
       "animal husbandry",
       "fishery"
    ],
-   "general_advisory": "Farmers are advised to take necessary precautions based on the weather conditions and crop-specific advisories provided in this bulletin.",
+   "general_advisory": "Farm animals should be vaccinated and dewormed. Heavy rainfall may reduce water salinity in ponds, apply a disinfectant after rain. Use OUAT KALINGA products for better agricultural benefits.",
    "crops_data": {
       "groundnut": {
          "advisory": [
-            "Treat the seeds with Carbendazim 50% WP @ 2- gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3- gram/ kg of seeds. After 7days of this, treat the seeds w ith Rhizobium culture @20g per kg of seeds."
+            "Treat the seeds with Carbendazim 50% WP @ 2- gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3- gram/kg of seeds. After 7days of this, treat the seeds with Rhizobium culture @20g per kg of seeds."
          ]
       },
       "mustard": {
          "advisory": [
-            "Go for sowing of shorter duration mustard varieties like Anuradha, Parbati, Sushri, Uttara which mature with in 85 days in un-irrigated condition in the month of October by observing soil moisture condition.",
+            "Go for sowing of shorter duration mustard varieties like Anuradha, Parbati, Sushri, Uttara which mature within 85 days in un-irrigated condition in the month of October by observing soil moisture condition.",
             "If there is assured irrigation, then go for sowing of longer duration varieties like Pusa Mustard-25 & 26 and RG N-236 etc. which mature within 125 days."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Spray Carbendazim 12%+ Mancozeb 63 % WP @ 400-gram/acre or Metalaxyl 8 % + Mancozeb 64 % @ 400-gram/acre by mixing it in 200-litre of water."
+            "There is a chance of Red rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400-gram/acre or Metalaxyl 8 % + Mancozeb 64 % @ 400-gram/acre by mixing it in 200-litre of water."
          ]
       },
       "brinjal": {
@@ -51,7 +51,7 @@
       },
       "potato": {
          "advisory": [
-            "Treat the seeds before planting. For treatment of tuber seed, first make a solution of 600-gram of Carbendazim 25 % + Mancozeb 50% WS by mixing it in 100-litres of water. Dip one quintal of the tuber seeds in this solution for 20-25 minutes. Remove the tuber seeds from the solution and keep it in shed to dry for 2-4 hours before planting."
+            "Treat the seeds before planting by making a solution of 600-gram of Carbendazim 25 % + Mancozeb 50% WS in 100-litres of water. Dip one quintal of the tuber seeds in this solution for 20-25 minutes. Remove the tuber seeds from the solution and keep it in shed to dry for 2-4 hours before planting."
          ]
       },
       "animal husbandry": {

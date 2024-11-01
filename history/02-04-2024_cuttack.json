@@ -59,49 +59,75 @@
       "brinjal",
       "coconut",
       "vegetables",
-      "fingerlings"
+      "black gram",
+      "green gram",
+      "okra",
+      "onion",
+      "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. In these stages water scarcity or deficit of water causes comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels to save water wastage. Mulch coconut leaves to reduce water loss. Harvest fingerlings in shallow ponds if water temperature rises. For better agricultural benefits, use OUAT KALINGA products.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit."
+            "Water scarcity during critical stages reduces yield."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect crop from water scarcity during summer.",
-            "Early Shoot Borer management: Irrigate the crop frequently during hot months. Timely cutting the attacked shoot at or just below the ground level ensures destruction of caterpillars."
+            "Top-dress with potassium to protect from water scarcity."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement of maize crop. Irrigate the crop and avoid water stagnation for more than six hours."
+            "Irrigate the crop to meet increased water requirement."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature in day hours may lead to wilting in tomato. Apply 1g Streptocyclin in 10 liter water in the root zone."
+            "Apply Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal shoot and fruit borer management: Install pheromone traps and spray neem-based pesticide during primary stage of pest infestation."
+            "Install pheromone traps to manage shoot and fruit borer.",
+            "Spray neem-based pesticide during pest infestation.",
+            "Use chemical control with specified insecticides."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
+            "Mulch coconut leaves around the tree to reduce water loss."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover with paper caps on the newly planted vegetable seedlings during daytime."
+            "Cover newly planted seedlings with paper caps during the day."
          ]
       },
-      "fingerlings": {
+      "black gram": {
          "advisory": [
-            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C. Ensure enough water depth before introducing fingerlings in a pond."
+            "Check for tobacco caterpillar migration and apply specified insecticides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Check for tobacco caterpillar migration and apply specified insecticides."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat seeds with Imidacloprid to prevent whitefly infestation.",
+            "Install yellow sticky traps for early detection."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Cut tops after harvesting and dry bulbs properly for storage."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Spray specified insecticides to control mango hoppers."
          ]
       }
    },

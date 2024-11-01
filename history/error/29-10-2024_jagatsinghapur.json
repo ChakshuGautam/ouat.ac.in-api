@@ -12,23 +12,33 @@
       },
       "31/10/2024": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 34,
          "t_min": 24,
          "rh_max": 91,
          "rh_min": 58.1,
          "wind_speed": 5,
          "wind_direction": 256,
-         "cloud_cover": 7
+         "cloud_cover": 5
       },
       "01/11/2024": {
          "rainfall": 0,
-         "t_max": 34,
+         "t_max": 33,
          "t_min": 24,
          "rh_max": 90.5,
-         "rh_min": 58.1,
-         "wind_speed": 3,
-         "wind_direction": 320.7,
-         "cloud_cover": 7
+         "rh_min": 66.4,
+         "wind_speed": 4,
+         "wind_direction": 265.2,
+         "cloud_cover": 4
+      },
+      "02/11/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89.6,
+         "rh_min": 61,
+         "wind_speed": 5,
+         "wind_direction": 265,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
@@ -39,38 +49,80 @@
       "lentil",
       "groundnut",
       "toria",
-      "sunflower"
+      "sunflower",
+      "brinjal",
+      "tomato",
+      "sugarcane",
+      "cucurbits",
+      "cole crop",
+      "marigold",
+      "rose"
    ],
-   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Toria and Sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use the groundnut varieties suitable to Odisha condition like Devi (ICGV-91114), Kadri-6, Kadri-9, TG-50. For one acre, 40-50 kg groundnut seed kernel is required.",
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like green gram, black gram, cowpea, field pea, lentil, groundnut, toria, and sunflower in medium/shallow lowlands utilizing the available soil moisture in the field. Farmers are advised to visit their crop fields regularly to check pest infestation. Use groundnut varieties suitable for Odisha conditions like Devi, Kadri-6, Kadri-9, TG-37A, TAG-51, TAG-38, and TAG-24. For managing wilt and rot disease in brinjal and tomato, drench the root zone with a solution of Plantomycin mixed in water. Various crop stage-specific advisories are mentioned for different crops.",
    "crops_data": {
-      "paddy": {
+      "green gram": {
          "advisory": [
-            "PADDY: Flowering to Physiological maturity stage - To control ear head caterpillar spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. As the pest is nocturnal in behavior spraying of pesticide should be done in the evening hours for better result. - To control Gundhi Bug spray Chlorpyriphos 20% EC @ 400 ml/acre by mixing in 200 liter of water. Dusting of Chlorpyriphos 1.5% D @ 10 kg/acre or Malathion 5% D.P @ 10 kg/acre should be done uniformly during morning hours, when there is no or minimum wind."
+            "Sow green gram in medium/shallow lowlands using available soil moisture."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Sow black gram in medium/shallow lowlands utilizing soil moisture."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Sow cowpea in medium/shallow lowlands with existing soil moisture."
+         ]
+      },
+      "field pea": {
+         "advisory": [
+            "Sow field pea in medium/shallow lowlands with available soil moisture."
+         ]
+      },
+      "lentil": {
+         "advisory": [
+            "Sow lentil in medium/shallow lowlands using soil moisture."
          ]
       },
       "groundnut": {
          "advisory": [
-            "GROUNDNUT: Physiological maturity stage/Harvesting stage - To manage wilt and rot disease in Brinjal and Tomato, drench the root zone with a solution of 10g Plantomycin mixed in 10 liters of water."
+            "Use suitable groundnut varieties for Odisha conditions."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Drench the root zone with a solution to manage wilt and rot disease."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Drench the root zone with a solution to manage wilt and rot disease."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "SUGARCANE: Ripening stage - Internode borer management - To manage the pest biological, use Trichogramma chilonis card @ 1/acre at weekly interval for 6 times by splitting each card into 12 pieces at the given perforations. To manage the pest chemically, spray Fipronil @ 600 ml/acre or Chlorantraniliprole 0.4 GR @ 4 kg/acre by mixing in 200 liter of water. Also apply Chlorantraniliprole 0.4 GR @ 4kg/acre by mixing with 8 kg of sand."
+            "Control internode borer by management techniques."
          ]
       },
       "cucurbits": {
          "advisory": [
-            "CUCURBITS: Vegetative to Fruiting - Fruit fly - To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 grams Jaggery and 8 ml DDVP in 4 liters of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+            "Prepare poison bait to manage fruit fly in cucurbits."
          ]
       },
       "cole crop": {
          "advisory": [
-            "COLE CROP (Cauliflower and Cabbage): Vegetative stage - Fertilizer Management - Apply 20 kg of urea and 23 kg MOP per acre after hoeing and hand weeding at 15-20 DAT and 33 kg of urea and 23 kg of MOP per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings, then spray Borax @ 4 kg/acre or Folibor/Solubor @ 1.5 gram/liter. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+            "Manage fertilizer application for optimal growth."
          ]
       },
-      "marigold & rose": {
+      "marigold": {
          "advisory": [
-            "MARIGOLD & ROSE - To manage Red Spider Mites in flower like Marigold and rose, spray wettable sulphur 80% WP (Sulfex/Balwan/Sulfadex) @ 2 grams/liter of water or Propargite 57% EC (Omite/Mitekill/Super Dynamite) @ 2 ml/liter of water or Fenpyroximate 5% EC (Seagate/Mitigate/Formite) @ 2 ml/liter of water."
+            "Spray wettable sulphur or Fenpyroximate to manage Red Spider Mites."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Spray wettable sulphur or Fenpyroximate to manage Red Spider Mites."
          ]
       }
    },

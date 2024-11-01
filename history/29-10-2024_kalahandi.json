@@ -54,13 +54,16 @@
    "names_of_crops": [
       "paddy",
       "cotton",
-      "mustard & toria",
+      "mustard",
+      "toria",
       "arhar",
       "hybrid maize",
       "brinjal",
       "chilli",
-      "cattle & buffalo",
-      "goat & sheep",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep",
       "poultry"
    ],
    "general_advisory": "Based on the above five days weather forecast received from IMD, farmers are advised to withhold irrigation and spraying of chemicals for the next 2 to 3 days. Protect the vegetable nursery of Chilli, tomato, onion, cole crops and brinjal etc. from rain by covering with plastic or polythene sheet. Harvest the matured vegetables & pulses and store in a safe place. Field preparation should be started for rabi crops. Bunds, channels, uncultivated fields and field roads should be cleaned, by removing weeds. Now is the suitable time for sowing mustard, sarson, sunflower, field pea, carrot, radish etc. So, farmers are advised to act accordingly. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas.",
@@ -68,7 +71,7 @@
       "paddy": {
          "advisory": [
             "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life.",
-            "South West monsoon has already withdrawn from Odisha. As the crop is at reproductive stage in most of the areas, try to provide supplemental irrigation. If feasible, apply foliar spray of KNO3 @ 5g/litre of water or water soluble fertilizers like 13:0:45 at 5g/litre of water or 19:19:19 at 5g/litre of water to improve plants resistance to abiotic stress.",
+            "South West monsoon has already withdrawn from Odisha. As the crop is at reproductive stage in most of the areas, try to provide supplemental irrigation. If feasible, apply foliar spray of KNO3 @ 5g/litre of water or water soluble fertilizers like 13:0:45 at 5 g/litre of water or 19:19:19 at 5g/litre of water to improve plant resistance to abiotic stress.",
             "BPH: Infestation of BPH may be observed at this stage of paddy. If population of Brown Planthopper (BPH) exceeds ETL (5-10 hoppers/hill), farmers are advised to undertake alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidacloprid 17.8% SL @ 50 ml/acre or Buprofezin 20% + Acephate 50% WP @ 400 g/acre or Flonicamid 50% WG @ 60g/acre mixed with 200 liters of water. Avoid using nitrogenous fertilizers during infestation of BPH."
          ]
       },
@@ -79,11 +82,18 @@
             "To control grey mildew infestation spray Copper Oxychloride 25g + Plantomycin 10 g mixed with 10 litres of water."
          ]
       },
-      "mustard & toria": {
+      "mustard": {
          "advisory": [
             "Suitable time for sowing is from Mid-October to Mid-November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing.",
-            "Seed rate for Mustard 2.5 – 3 kg/acre and 1.5-2.0 kg/acre is for Toria.",
-            "Suitable variety: Mustard - Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati."
+            "Seed rate for Mustard 2.5 – 3 kg/acre and 1.5 -2.0 kg/acre is for Toria.",
+            "Suitable variety: Mustard -Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Suitable time for sowing is from Mid-October to Mid-November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing.",
+            "Seed rate for Mustard 2.5 – 3 kg/acre and 1.5 -2.0 kg/acre is for Toria.",
+            "Suitable variety: Mustard -Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati."
          ]
       },
       "arhar": {
@@ -108,12 +118,22 @@
             "To manage thrips infestation install Blue sticky trap @ 8 nos./acre. For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water."
          ]
       },
-      "cattle & buffalo": {
+      "cattle": {
          "advisory": [
-            "Deworm the cattle and buffalo in regular interval and vaccinate them also. If the animal is not coming to heat even after 4 years, consult with the veterinary doctors and follow the doctor's advice for onset of puberty."
+            "Deworm the cattle and buffalo in regular interval and vaccinate them also. If the animal is not coming to heat even after 4 years consult with the veterinary doctors and follow the doctor's advice for onset of puberty."
          ]
       },
-      "goat & sheep": {
+      "buffalo": {
+         "advisory": [
+            "Deworm the cattle and buffalo in regular interval and vaccinate them also. If the animal is not coming to heat even after 4 years consult with the veterinary doctors and follow the doctor's advice for onset of puberty."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
+         ]
+      },
+      "sheep": {
          "advisory": [
             "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
          ]

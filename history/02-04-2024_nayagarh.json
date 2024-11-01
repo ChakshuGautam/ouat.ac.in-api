@@ -66,72 +66,71 @@
       "onion",
       "mango"
    ],
-   "general_advisory": "PADDY (Summer): Yellow stem borer management - Due to rise in temperature there are chances of increase in stem borer infestation in paddy crop. To manage Yellow Stem Borer in paddy spray Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre. Blast Disease Management - To manage blast disease spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre. BLACK GRAM & GREEN GRAM: Tobacco Caterpillar Management Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field. For chemical control spray Novaluron 5.25 % + Indoxacarb 4.25 % @ 400-ml/acre or Lambda Cyhalothrin 4.9 CS @ 300 ml or Flubendiamide 20 % WG @ 120 gram. For spraying of insecticides 200 litre of water per acre is required. SUGARCANE:Early Shoot Borer : To manage early shoot borer in Sugarcane, irrigate the crop frequently during hot months. Timely cutting the attacked shoot at or just below the ground level ensures destruction of most of the caterpillar. Collect and destroy the egg masses manually. In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up. BRINJAL: Brinjal shoot and fruit borer To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Go for chemical control if there is 4% withering of the terminal shoot or 14% fruits infested with borers. For chemical control spray Spinosad 45 % SC @ 75-ml/acre or Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @ 80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. Do not repeat the same insecticide. Use any of the above insecticides alternately at 15-days interval. OKRA: Whitefly Infestation: To prevent whitefly infestation in okra seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install 8-10 nos of yellow sticky traps starting from the 2-3 leaf stage of the crop. ONION: After harvesting of onion, cut the tops leaving 2.0-2.5 cm above the bulb. The harvested bulb should be dried in a well-ventilated concrete floored room. Well dried bulbs can be stored for a longer period. MANGO: Mango hopper - To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3 ml/15 litre of water or Acetamiprid 20% S.P. @ 4g / 15 litre of water. Application of smoke below the plants can also help in reducing the pest population.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover rows with dry leaves in sugarcane. Apply sprinkler irrigation to reduce heat effect. Irrigate maize crop properly. Use polythene in irrigation channels. Protect tomato and brinjal from wilting. Mulch coconut leaves. Cover vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds. Manage Yellow Stem Borer and Blast Disease in paddy.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. In these stages, water scarcity or deficit of water causes comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided."
+            "Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Avoid water deficit during these stages."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves in Sugarcane. Top dress with 4% potassium to protect the crop from water scarcity during summer.",
-            "Early Shoot Borer: To manage early shoot borer in Sugarcane, irrigate the crop frequently during hot months. Timely cutting the attacked shoot at or just below the ground level ensures destruction of most of the caterpillar. Collect and destroy the egg masses manually. In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of the first earthing up."
+            "Cover rows with dry leaves. Top-dress with potassium. Apply sprinkler irrigation."
          ]
       },
       "maize": {
          "advisory": [
-            "The high temperature increases the water requirement of maize crop. Irrigate the crop. Never allow water to remain stagnant for more than six hours in the field."
+            "High temperature increases water requirement. Properly irrigate and prevent stagnant water."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature in day hours may lead to wilting in tomato and brinjal. Apply 1g Streptocyclin in 10-liter water in the root zone."
+            "Apply 1g Streptocyclin in root zone to avoid wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal shoot and fruit borer: To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Go for chemical control if there is 4% withering of the terminal shoot or 14% fruits infested with borers. For chemical control spray Spinosad 45 % SC @ 75-ml/acre or Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @ 80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. Do not repeat the same insecticide. Use any of the above insecticides alternately at 15-days interval."
+            "Install pheromone traps. Use neem-based pesticide at the primary stage of infestation."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
+            "Mulch coconut leaves to reduce water loss."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover with paper caps on the newly planted vegetable seedlings during daytime."
+            "Cover seedlings with paper caps during the day."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C. Ensure enough water depth before introducing fingerlings in a pond."
+            "Harvest fingerlings in shallow ponds. Ensure water depth."
          ]
       },
       "black gram": {
          "advisory": [
-            "Tobacco Caterpillar Management: Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field. For chemical control spray Novaluron 5.25 % + Indoxacarb 4.25 % @ 400-ml/acre or Lambda Cyhalothrin 4.9 CS @ 300 ml or Flubendiamide 20 % WG @ 120 gram. For spraying of insecticides 200 litre of water per acre is required."
+            "Check migration of caterpillars. Use appropriate insecticides for management."
          ]
       },
       "green gram": {
          "advisory": [
-            "Tobacco Caterpillar Management: Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field. For chemical control spray Novaluron 5.25 % + Indoxacarb 4.25 % @ 400-ml/acre or Lambda Cyhalothrin 4.9 CS @ 300 ml or Flubendiamide 20 % WG @ 120 gram. For spraying of insecticides 200 litre of water per acre is required."
+            "Check migration of caterpillars. Use appropriate insecticides for management."
          ]
       },
       "okra": {
          "advisory": [
-            "Whitefly Infestation: To prevent whitefly infestation in okra seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install 8-10 nos of yellow sticky traps starting from the 2-3 leaf stage of the crop."
+            "Treat seeds with Imidacloprid to prevent whitefly infestation. Install yellow sticky traps."
          ]
       },
       "onion": {
          "advisory": [
-            "After harvesting of onion, cut the tops leaving 2.0-2.5 cm above the bulb. The harvested bulb should be dried in a well-ventilated concrete floored room. Well dried bulbs can be stored for a longer period."
+            "Cut tops after harvesting. Dry bulbs in ventilated room for storage."
          ]
       },
       "mango": {
          "advisory": [
-            "Mango hopper: To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3 ml/15 litre of water or Acetamiprid 20% S.P. @ 4g / 15 litre of water. Application of smoke below the plants can also help in reducing the pest population."
+            "Control mango hoppers with recommended insecticides. Use smoke below plants."
          ]
       }
    },

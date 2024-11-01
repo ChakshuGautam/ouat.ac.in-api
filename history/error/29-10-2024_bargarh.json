@@ -55,43 +55,50 @@
       "rice",
       "cotton",
       "okra",
+      "cole crop",
       "fruit crop",
       "livestock"
    ],
-   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 29-10-2024, there is no any heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
+   "general_advisory": "According to the medium-range weather forecast, there is a chance of very light rainfall and partly to generally cloudy skies with temperatures ranging between 31-33⁰C for the upcoming week. Farmers are advised to postpone harvesting and spraying operations for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Make arrangements to maintain sufficient water and drain out excess stagnant rainwater from the rice field.",
             "Avoid irrigation and postpone harvesting and spraying operations for some days.",
             "Keep the harvested produce in safe places.",
-            "Regular monitoring against different pests and disease should be advised."
+            "Regular monitoring against different pests and diseases should be advised."
          ]
       },
       "cotton": {
          "advisory": [
-            "Postpone all type of spraying and intercultural operations for some days.",
-            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Postpone all types of spraying and intercultural operations for some days.",
+            "Make provisions to drain out excess water from the field to avoid lodging of plants.",
             "Farmers can harvest matured crop."
          ]
       },
       "okra": {
          "advisory": [
             "Irrigation as well as chemical application is recommended in okra.",
-            "Farmers should make provision for proper drainage system."
+            "Farmers should make provision for a proper drainage system."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Farmers should go for sowing and planting of cole crop.",
+            "Make proper drainage channels in the field to drain out excess water."
          ]
       },
       "fruit crop": {
          "advisory": [
             "Planting of new plants is recommended.",
-            "Chemical application should be done before occurrence of rainfall."
+            "Chemical application should be done before the occurrence of rainfall."
          ]
       },
       "livestock": {
          "advisory": [
-            "Animal should be kept at safe places in shed.",
-            "Avoid mixing of flowing rainwater into the source of drinking water and provide pure and clean drinking water to animals.",
-            "Animal should stay away from any electrical instruments."
+            "Animals should be kept at safe places in a shed.",
+            "Avoid mixing flowing rainwater into a source of drinking water and provide pure and clean drinking water to animals.",
+            "Animals should stay away from any electrical instruments during."
          ]
       }
    },

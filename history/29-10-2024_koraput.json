@@ -60,61 +60,62 @@
       "cauliflower",
       "cabbage",
       "ginger",
-      "cow and buffalo"
+      "cow",
+      "buffalo"
    ],
-   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue intercultural operations, harvesting of matured produces and application pesticides mixed with sticker during next five days period as needed. Field preparation should be started for rabi crops. Bunds, channels, uncultivated fields and field roads should be cleaned, by removing weeds. Farmers are advised to transplant mature seedlings (35-40 days old) of cauliflower, cabbage, broccoli, tomato etc. in raised bed during clear weather. Regular surveillance work should be taken up in all crops in order to know the incidence of various insect pests and initiate the control strategies.",
+   "general_advisory": "Based on five days weather forecast, continue intercultural operations, harvesting, and apply pesticides as needed. Start field preparation for rabi crops and transplant mature seedlings during clear weather. Regular surveillance for insect pests.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120 g/ac).",
-            "To control steam borer & leaf folder spray chlorpyriofos/profenofos @ 2 ml/ l of water.",
+            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water.",
+            "To control steam borer & leaf folder spray chlorpyriofos/profenofos.",
             "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
-            "Ear cutting caterpillar: To control, spray Quinalphos 25 EC @ 400ml/acre or Chlorpyriphos 20 EC @ 500ml/ acre at root zone in morning hours."
+            "To control ear cutting caterpillar, spray Quinalphos 25 EC or Chlorpyriphos 20 EC at root zone in morning hours."
          ]
       },
       "maize": {
          "advisory": [
-            "American Cob Borer: Apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water to control infestation of American cob borer."
+            "Apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water to control infestation of American cob borer."
          ]
       },
       "pulses": {
          "advisory": [
-            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram. Hence, farmers are advised to sow the seeds depending upon moisture status of the soil. Before sowing, seeds should be treated with fungicide followed by Rhizobium culture @ 20g/kg seed to enhance nodulation."
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram. Treat seeds with fungicide and Rhizobium culture before sowing."
          ]
       },
       "mustard": {
          "advisory": [
-            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
-            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
-            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at seedling stage."
+            "Start land preparation and sowing to get optimum yield. Use suitable varieties and spray neem oil to control insects at seedling stage."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Go for weeding and apply 26 kg urea and 30 kg MoP per acre at 90 days after planting and apply mulching @ 2 t/acre."
+            "Go for weeding and apply urea and MoP per acre after planting. Apply mulching for better growth."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Prepare nursery beds, each measuring 3m length, 1m breadth and 15 -20 cm height. Apply 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200 -250 grams of seed is required for one acre area of cultivation and 100 -150 grams of seed is required in case of hybrids.",
-            "Cauliflower (60 -75 days) - HYV: Pusa Early Synthetic, Early Kuanri, Kartika, Pusa Dipali, Arka kranti, Arka Surathi, Hybrid: Sweta, Puspagiri, Tusar Goodman etc."
+            "Prepare nursery beds and apply required nutrients. Choose suitable varieties and quantities for planting."
          ]
       },
       "cabbage": {
          "advisory": [
-            "Cabbage (60 -75 days) - HYV: Golden Acre, Pride of India, Pusa Sambandh Hybrid: Green ball, Priya, Genith gold star, Pragati etc."
+            "Prepare nursery beds and apply required nutrients. Choose suitable varieties and quantities for planting."
          ]
       },
       "ginger": {
          "advisory": [
-            "3rd weeding and 3rd top dressing may be completed.",
-            "Soil drenching with 1.25 g Metalaxyl -Mancozeb + 2 ml Quinalphos + 1g Plantomycin per liter of water to control rhizome rot in Ginger.",
-            "Remove infected plants from field & burn."
+            "Complete weeding and top dressing. Control rhizome rot with appropriate measures."
          ]
       },
-      "cow and buffalo": {
+      "cow": {
          "advisory": [
-            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot-and-mouth disease, PPR."
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm and vaccinate as needed."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm and vaccinate as needed."
          ]
       }
    },

@@ -56,45 +56,33 @@
       "wheat",
       "mustard",
       "maize",
-      "brinjal",
-      "animals",
-      "pisciculture"
+      "brinjal"
    ],
-   "general_advisory": "Due to forecast of very light rainfall, the harvesting of crops be postponed for a few days. Go for sowing of rabi crops. In case of moisture stress in pockets, foliar application of 1% KCL solution at reproductive stages will reduce the impact of moisture condition without much loss in yield.",
+   "general_advisory": "Due to forecast of very light rainfall, the harvesting of crops should be postponed for a few days. Go for sowing of rabi crops. In case of moisture stress, foliar application of 1% KCL solution at reproductive stages is recommended.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In case of Neck Blast incidence spraying of Carbendazim 50 WP @ 2 g/liter or Tricyclazole 75 WP @ 0.6 g/lit of water may be done for controlling the disease. Farmers are advised to broadcast Utera Crop on standing paddy crop 15-20 days before harvesting."
+            "In case of Neck Blast incidence, spraying of Carbendazim 50 WP or Tricyclazole 75 WP may be done."
          ]
       },
       "wheat": {
          "advisory": [
-            "Collect good quality seeds like UP 262. Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+            "Collect good quality seeds like UP 262. Treat the seeds with vitavax power before sowing."
          ]
       },
       "mustard": {
          "advisory": [
-            "Farmers who wish to cultivate mustard crop may start sowing after preparation of the field and select the improved seed recommended for this region like Varuna, Pusa Bold, M 27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm (Row to row) and 10 cm (Plant to plant)."
+            "Select improved seed varieties like Varuna, Pusa Bold, M 27 for sowing."
          ]
       },
       "maize": {
          "advisory": [
-            "To control fall army worm farmers are advised to spray emmamectin benzoate 5SG @ 0.4 g/l of water."
+            "To control fall army worm, farmers are advised to spray emamectin benzoate 5SG."
          ]
       },
       "brinjal": {
          "advisory": [
-            "There is a chance of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG @ 80 g in 200 l of water/acre or carbaryl 50% WP @ 800 g in 200 l of water/acre."
-         ]
-      },
-      "animals": {
-         "advisory": [
-            "Cattle sheds should be well protected from flies and mosquitoes to maintain milk production and prevention from disease."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "Give mineral feed @ 3% of the body mass."
+            "There is a chance of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG or carbaryl 50% WP."
          ]
       }
    },

@@ -54,25 +54,25 @@
    "names_of_crops": [
       "rice",
       "sugarcane",
-      "brinjal"
+      "horticulture"
    ],
    "general_advisory": "Vaccination should be given with tablet for worms. Provide calcium, magnesium and salts along with fodder crops to the animals in these days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "For high yielding paddy varieties, apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage.",
-            "For hybrids apply 42 kg of Urea per acre at 3 weeks after transplanting at active tillering stage.",
-            "Keeping in view of present weather, farmers are advised to monitor crop regularly for blast, leaf folder or stem borer in paddy crop."
+            "For high-yielding paddy varieties, apply 35 kg Urea per acre at 3 weeks after transplanting at the active tillering stage.",
+            "For hybrids, apply 42 kg of Urea per acre at 3 weeks after transplanting at the active tillering stage.",
+            "Farmers are advised to monitor the crop regularly for blast, leaf folder, or stem borer in paddy crop."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "For Red rot and wilt disease, spray the crop with Mancozeb 0.3% or carbendazim 0.1% or Azoxystrobin 18.2%SC/Difenoconazole 11.45SC @ 1ml per liter water in dry days."
+            "For Red rot and wilt disease, spray the crop with Mancozeb 0.3% or carbendazim 0.1% or Azoxystrobin 18.2%SC/ Difenoconazole 1 1.45SC @ 1ml per liter water in dry days."
          ]
       },
-      "brinjal": {
+      "horticulture": {
          "advisory": [
-            "In vegetables (brinjal, tomato etc), for monitoring of borer insect, farmers are advised to use pheromone trap @ 3-4/acre."
+            "In vegetables like brinjal and tomato, for monitoring of borer insects, farmers are advised to use pheromone traps at a rate of 3-4 traps per acre."
          ]
       }
    },

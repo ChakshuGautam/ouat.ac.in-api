@@ -63,15 +63,15 @@
       "marigold",
       "goats"
    ],
-   "general_advisory": "Harvest the damaged and fallen crops due to the impact of Cyclone “DANA”. Drain out excess water from the field. Let the field dry by its own then prepare the field for sowing of Rabi crops. Do not plough the land if it is in wet condition. Spraying of pesticides to be done in early morning hours. Do not spray if rainfall forecast is there. Sowing of Rabi crops should be done with proper seed treatment.",
+   "general_advisory": "Harvest the damaged and fallen crops due to the impact of Cyclone “DANA”. Drain out excess water from the field. Let the field dry by its own then prepare the field for sowing of Rabi crops. Do not plough the land if it is in wet condition. Spraying of pesticides to be done in early morning hours. Do not spray if rainfall forecast is there.",
    "crops_data": {
       "paddy": {
          "advisory": [
             "Clear the drainage channels if blocked.",
             "Drain out excess water from the field to reduce the lodging effect.",
             "Leave the crops to be dry from the sun.",
-            "Gundhi bug infestation can be seen in the field. To minimise the Gundhi bug damage spray Imidachloprid 17.8% SL @ 1 ml/lt.",
-            "Similarly, leaf folder in paddy can be managed by spraying Acephate 75% SP @ 1 g/lt."
+            "Gundhi bug infestation can be seen in the field. To minimise the Gundhi bug damage, spray Imidachloprid 17.8% SL @ 1 ml/l.",
+            "Similarly, leaf folder in paddy can be managed by spraying Acephate 75% SP @ 1 g/l."
          ]
       },
       "chickpea": {
@@ -105,7 +105,7 @@
       "bitter gourd": {
          "advisory": [
             "Harvest the matured fruits.",
-            "Postpone spraying of any chemicals to the crops.",
+            "Postpone spraying of any chemicals  to the crops.",
             "Removal of water is necessary to avoid rotting of plants."
          ]
       },
@@ -119,7 +119,7 @@
       "papaya": {
          "advisory": [
             "Avoid water stagnation from the plants.",
-            "Papaya ring spot virus can be managed by spraying Malathion or Imidachloprid @ 1ml/lt."
+            "Papaya ring spot virus can be managed by spraying Malathion or Imidacloprid @ 1ml/lt."
          ]
       },
       "marigold": {

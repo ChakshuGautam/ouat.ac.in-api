@@ -7,7 +7,7 @@
          "rh_max": 94.2,
          "rh_min": 62.7,
          "wind_speed": 5,
-         "wind_direction": 85,
+         "wind_direction": 85.6,
          "cloud_cover": 6
       },
       "31-10-2024": {
@@ -47,7 +47,7 @@
          "rh_max": 73.9,
          "rh_min": 40.4,
          "wind_speed": 4,
-         "wind_direction": 48,
+         "wind_direction": 48.8,
          "cloud_cover": 4
       }
    },
@@ -58,39 +58,39 @@
       "cole crop",
       "fruit crop"
    ],
-   "general_advisory": "According to the weather warnings, there is a chance of very light rainfall. Farmers are advised to postpone harvesting and spraying operations.",
+   "general_advisory": "As per the District level weather warnings issued by MC Bhubaneswar on dated 2 9-10-2024, there is no heavy rainfall warnings issued for different districts under the West Central Table Land Zone of Odisha, but very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operation for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Make arrangements to maintain sufficient water and drain out excess rainwater from rice field.",
-            "Avoid irrigation and postpone harvesting and spraying operations.",
-            "Keep harvested produce in safe places.",
-            "Regular monitoring against pests and diseases."
+            "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
+            "Avoid irrigation and postpone harvesting and spraying operations for some days.",
+            "Keep the harvested produce in safe places.",
+            "Regular monitoring against different pests and disease should be advised."
          ]
       },
       "cotton": {
          "advisory": [
-            "Postpone spraying and intercultural operations.",
-            "Drain out excess water to avoid lodging.",
-            "Harvest matured crop."
+            "Postpone all type of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Farmers can harvest matured crop."
          ]
       },
       "okra": {
          "advisory": [
-            "Irrigation and chemical application recommended.",
-            "Ensure proper drainage system."
+            "Irrigation as well as chemical application is recommended in okra.",
+            "Farmers should make provision for proper drainage system."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Sow and plant cole crop.",
-            "Create proper drainage channels."
+            "Farmers should go for sowing and planting of Cole crop.",
+            "Make proper drainage channels in field to drain out excess water."
          ]
       },
       "fruit crop": {
          "advisory": [
-            "Recommendation for planting new plants.",
-            "Chemical application before rainfall."
+            "Planting of new plants is recommended.",
+            "Chemical application should be done before the occurrence of rainfall."
          ]
       }
    },

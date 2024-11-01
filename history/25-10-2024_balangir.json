@@ -1,6 +1,6 @@
 {
    "weather_details": {
-      "2022-01-01": {
+      "2023-01-01": {
          "rainfall": 5,
          "t_max": 25,
          "t_min": 15,
@@ -8,45 +8,42 @@
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 5
+         "cloud_cover": 4
       },
-      "2022-01-02": {
-         "rainfall": 3,
-         "t_max": 22,
-         "t_min": 12,
-         "rh_max": 85,
-         "rh_min": 65,
+      "2023-01-02": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 55,
          "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 7
+         "wind_direction": 220,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "wheat",
-      "rice",
       "tomato",
-      "poultry"
+      "mango"
    ],
-   "general_advisory": "It is recommended to monitor crop growth closely during the upcoming rainy season.",
+   "general_advisory": "It is recommended to monitor crop health regularly due to sudden weather changes. Be cautious of pests and diseases.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Ensure proper irrigation for wheat crops during dry spells."
-         ]
-      },
-      "rice": {
-         "advisory": [
-            "Transplant rice seedlings at optimal spacing for better growth."
+            "Apply fertilizer based on soil test results.",
+            "Monitor for rust and treat accordingly."
          ]
       },
       "tomato": {
          "advisory": [
-            "Protect tomato plants from pests and diseases by using organic pesticides."
+            "Provide adequate irrigation to avoid blossom end rot.",
+            "Trellis the plants to support growth."
          ]
       },
-      "poultry": {
+      "mango": {
          "advisory": [
-            "Maintain clean and hygienic conditions in poultry farms to prevent diseases."
+            "Prune the trees to improve fruiting.",
+            "Protect from fruit flies using traps."
          ]
       }
    },

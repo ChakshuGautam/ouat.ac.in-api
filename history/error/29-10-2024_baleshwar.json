@@ -59,14 +59,14 @@
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "Visit to field regularly to observe the infestation levels of BPH, WBPH, Leaf folder, Gundhy bug and the incidence of BLB and Blast. Monitor the activity of Gundhy bug in rice field and install rotten snail trap for mass trapping and killing of the pest. Repair & strengthen of trellis in vine vegetables & cucurbits. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
+   "general_advisory": "Visit to field regularly to observe the infestation levels and the incidence of pests. Monitor and take necessary action based on prevailing weather conditions. Keep animals clean and vaccinated against diseases.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If late transplanted rice is in PI/early flowering stage application of additional dose of MOP 12 Kg/acre recommended or foliar spray of MOP (0:0:50)@8-10g /litre of water along with 20%boron @1.5g/litre of water recommended.",
-            "Prevailing microclimate condition after the cyclonic events may increase the population of Plant Hoppers. Make alleys in field in every 3 m /after 8-10 rows for proper penetration of sunlight and better aeration at plane base. At early stage of infestation, to protect the crop apply Dinotefuran @ 80g/acre WG along with Neem Oil Formulation @ 600 ml/acre targeting to the plant base. Spraying of insecticide should be targeted at the plant base.",
+            "If late transplanted rice is in PI/early flowering stage, apply additional dose of MOP 12 Kg/acre or foliar spray of MOP (0:0:50)@8-10g/litre of water along with 20%boron @1.5g/litre of water recommended.",
+            "Make alleys in field for proper penetration of sunlight and better aeration.",
             "Monitor the activity of Gundhy bug in rice field and install rotten snail trap for mass trapping and killing of the pest.",
-            "Prevailing warm and humid weather after cyclone may increases the incidence of BLB and neck Blast disease in rice so apply (Tebuconazole 50%+ Trifloxystrobin 25% WG)@0.4 g /litre of water."
+            "Apply insecticides targeted at the plant base to protect against early stage infestation."
          ]
       },
       "sugarcane": {
@@ -77,25 +77,26 @@
       },
       "vegetables": {
          "advisory": [
-            "High moisture content followed by heavy rainfall due to cyclone increase the wilting or partial wilting in brinjal to prevent this drain the excess water from the field. Apply Neem or Karanja cake @ 1g/acre, Drenching of Tebuconazole  @ 1ml/liter can be recommended.",
-            "Repairing & strengthening of trellis in vines & standing  cucurbit vegetables.",
-            "If the seedlings of early duration varieties of vegetables are damaged, treat the seedlings with (Metalaxyl + Mancozeb ) @ 2g/li of water  and Plantomycin @ 1g per liter of water."
+            "Drain excess water to prevent wilting in brinjal.",
+            "Repair and strengthen trellis in vines and cucurbits.",
+            "Treat damaged seedlings with appropriate formulations."
          ]
       },
       "fruit": {
          "advisory": [
-            "Papaya- Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
+            "Install Yellow Sticky trap to trap whitefly vectors.",
+            "Alternate spraying of Neem oil formulation and flonicamid to control whitefly."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "After heavy rainfall water quality of fish ponds may be altered so testing of water PH & need based Application of @100kg lime /acre in 3 splits (40:40:20 ) at 2 days interval recommended."
+            "Test water quality in fish ponds and apply lime as needed."
          ]
       },
       "livestock": {
          "advisory": [
-            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done.",
-            "Keep shed clean by removing excreta and dry to protect animals from disease and insects."
+            "Ensure animals are vaccinated against common diseases.",
+            "Keep animal sheds clean and dry to protect animals from diseases."
          ]
       }
    },

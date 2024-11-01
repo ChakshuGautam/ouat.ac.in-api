@@ -55,42 +55,35 @@
       "rice",
       "cotton",
       "okra",
-      "cole crop",
-      "fruit crop"
+      "cole crop"
    ],
-   "general_advisory": "According to the District level weather warnings, farmers are advised to postpone harvesting and spraying operations for some days.",
+   "general_advisory": "According to the District level weather warnings, very light rainfall may occur in some places. Farmers are advised to postpone harvesting and spraying operations for some days.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Make arrangements to maintain sufficient water and drain out excess of stagnated rainwater from rice field.",
             "Avoid irrigation and postpone harvesting and spraying operations for some days.",
             "Keep the harvested produce in safe places.",
-            "Regular monitoring against different pests and disease should be advised."
+            "Regular monitoring against different pests and diseases should be advised."
          ]
       },
       "cotton": {
          "advisory": [
-            "Postpone all type of spraying and intercultural operations for some days.",
-            "Make provision to drain out excess water from field to avoid lodging of plant.",
+            "Postpone all types of spraying and intercultural operations for some days.",
+            "Make provision to drain out excess water from the field to avoid lodging of the plant.",
             "Farmers can harvest matured crop."
          ]
       },
       "okra": {
          "advisory": [
             "Irrigation as well as chemical application is recommended in okra.",
-            "Farmers should make provision for proper drainage system."
+            "Farmers should make provision for a proper drainage system."
          ]
       },
       "cole crop": {
          "advisory": [
             "Farmers should go for sowing and planting of Cole crop.",
-            "Make proper drainage channels in field to drain out excess water."
-         ]
-      },
-      "fruit crop": {
-         "advisory": [
-            "Planting of new plants is recommended.",
-            "Chemical application should be done before occurrence of rainfall."
+            "Make proper drainage channels in the field to drain out excess water."
          ]
       }
    },
