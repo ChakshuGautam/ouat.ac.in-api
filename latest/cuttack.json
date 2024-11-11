@@ -1,0 +1,140 @@
+{
+   "weather_details": {
+      "03/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 57,
+         "rh_min": 13,
+         "wind_speed": 12,
+         "wind_direction": 205,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 15,
+         "wind_speed": 11,
+         "wind_direction": 180,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 70,
+         "rh_min": 23,
+         "wind_speed": 15,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 67,
+         "rh_min": 15,
+         "wind_speed": 13,
+         "wind_direction": 210,
+         "cloud_cover": 0
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 55,
+         "rh_min": 10,
+         "wind_speed": 12,
+         "wind_direction": 242,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "maize",
+      "tomato",
+      "brinjal",
+      "coconut",
+      "vegetable",
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "okra",
+      "onion",
+      "mango"
+   ],
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop. Spread polythene in irrigation channels. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves. Cover vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds if water temperature rises. Manage Yellow Stem Borer in paddy. Manage blast disease. Manage Tobacco Caterpillar. Manage Early Shoot Borer in sugarcane. Manage Brinjal shoot and fruit borer. Prevent Whitefly Infestation in okra seeds. Properly store harvested onions. Control Mango hopper.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Due to rise in temperature, manage Yellow Stem Borer in paddy with appropriate sprays.",
+            "Manage blast disease in paddy by spraying recommended fungicides."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To manage early shoot borer, irrigate frequently during hot months.",
+            "Timely cut the attacked shoot just below the ground level."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Irrigate the maize crop adequately due to high temperature."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply Streptocyclin in tomato in case of wilting."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Manage Brinjal shoot and fruit borer."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves to reduce water loss."
+         ]
+      },
+      "vegetable": {
+         "advisory": [
+            "Cover vegetable seedlings with paper caps during the day."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings in shallow ponds if water temperature rises."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Manage Tobacco Caterpillar in black gram."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Manage Tobacco Caterpillar in green gram."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds with Imidacloprid to prevent whitefly infestation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Properly store harvested onions for longer preservation."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hoppers, spray recommended insecticides."
+         ]
+      }
+   },
+   "date": "02-04-2024"
+}

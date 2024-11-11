@@ -1,0 +1,122 @@
+{
+   "weather_details": {
+      "06/11/2024": {
+         "rainfall": 3,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 11,
+         "wind_direction": 9,
+         "cloud_cover": 5
+      },
+      "07/11/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 57,
+         "wind_speed": 12,
+         "wind_direction": 10,
+         "cloud_cover": 4
+      },
+      "08/11/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 58,
+         "wind_speed": 13,
+         "wind_direction": 17,
+         "cloud_cover": 4
+      },
+      "09/11/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 59,
+         "wind_speed": 12,
+         "wind_direction": 14,
+         "cloud_cover": 3
+      },
+      "10/11/2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 53,
+         "wind_speed": 12,
+         "wind_direction": 12,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "black gram",
+      "green gram",
+      "groundnut",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "marigold",
+      "rose",
+      "fisheries"
+   ],
+   "general_advisory": "Farmers are advised to harvest rice crops at 85% maturity, grow short duration Rabi crops, conduct proper field surveillance for pests and diseases, and manage micronutrient deficiency.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "If BPH population is high, alter field climate and use appropriate pesticides.",
+            "Manage Brown Plant Hopper with recommended pesticides."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Grow high-yielding varieties like T 9, PU 11, PU 19, and PU 30."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Grow high-yielding varieties like K 851, PDM 11, PDM 54, OUM 115."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use suitable groundnut varieties like Kalinga groundnut 101, Devi, Kadri-6, Kadri-7, Dharani."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Drench the root zone with recommended solution to manage wilt and rot diseases."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Drench the root zone with recommended solution to manage wilt and rot diseases."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Install blue sticky traps for thrips infestation and use recommended chemical controls."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Spray wettable sulphur to manage Red Spider Mites."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Spray wettable sulphur to manage Red Spider Mites."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Treat pond for fungal, bacterial, and parasitic diseases during winters.",
+            "Use recommended products for better agricultural benefits."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

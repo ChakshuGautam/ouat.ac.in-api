@@ -1,0 +1,139 @@
+{
+   "weather_details": {
+      "03/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 46,
+         "rh_min": 11,
+         "wind_speed": 8,
+         "wind_direction": 288,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 63,
+         "rh_min": 10,
+         "wind_speed": 7,
+         "wind_direction": 198,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 53,
+         "rh_min": 16,
+         "wind_speed": 9,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 51,
+         "rh_min": 12,
+         "wind_speed": 9,
+         "wind_direction": 165,
+         "cloud_cover": 1
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 35,
+         "rh_min": 8,
+         "wind_speed": 10,
+         "wind_direction": 202,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "maize",
+      "tomato",
+      "brinjal",
+      "coconut",
+      "vegetables",
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "onion",
+      "mango",
+      "okra"
+   ],
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Cover rows with dry leaves in sugarcane. Apply sprinkler irrigation for heat effect. Irrigate maize adequately. Spread polythene in irrigation channels for water savings. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves and cover vegetable seedlings. Harvest fingerlings in shallow ponds. For crops like sugarcane and brinjal, specific advice is provided for disease and pest management.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Yellow stem borer management",
+            "Blast disease management"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Early shoot borer management"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Irrigate the crop adequately"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply 1g Streptocyclin in 10 liter water in root zone"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Brinjal shoot and fruit borer management"
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves 1.8 m around a coconut tree"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover with paper caps on the newly planted vegetable seedlings during day time"
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Tobacco caterpillar management"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Tobacco caterpillar management"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "After harvesting cut the tops leaving 2.0-2.5 cm above bulb"
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Mango hopper management"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Whitefly infestation prevention"
+         ]
+      }
+   },
+   "date": "02-04-2024"
+}

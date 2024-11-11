@@ -1,0 +1,51 @@
+{
+   "weather_details": {
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 3
+      },
+      "2022-01-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "wheat",
+      "rice",
+      "poultry"
+   ],
+   "general_advisory": "It is recommended to plant wheat and rice during this season. Take care of the poultry birds during the weather changes.",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "Plant wheat in well-drained fertile soil",
+            "Provide adequate water during the initial growth stage"
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Keep the rice paddies flooded during the growth period",
+            "Use organic fertilizers for better growth"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry houses",
+            "Monitor for any signs of diseases regularly"
+         ]
+      }
+   },
+   "date": "25-10-2024"
+}

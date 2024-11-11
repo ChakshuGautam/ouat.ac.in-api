@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "06-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 91,
+         "rh_min": 50,
+         "wind_speed": 1,
+         "wind_direction": 124,
+         "cloud_cover": 4
+      },
+      "07-11-2024": {
+         "rainfall": 3,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 50,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 5
+      },
+      "08-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 95,
+         "rh_min": 53,
+         "wind_speed": 3,
+         "wind_direction": 83,
+         "cloud_cover": 4
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 94,
+         "rh_min": 53,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 5
+      },
+      "10-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 93,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "arhar",
+      "marigold",
+      "maize",
+      "rice",
+      "mustard",
+      "animal husbandry"
+   ],
+   "general_advisory": "Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Farmers are advised to check their WhatsApp and messages to get crop weather related information.",
+   "crops_data": {
+      "arhar": {
+         "advisory": [
+            "In the primary stage, apply Azadirachtin 0.03% (300ppm) in every liter of water @5mg."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Make the soil fine tilth by pulverizing it 2 -3 times.",
+            "During last ploughing, incorporate 25t/ha of FYM.",
+            "Apply 45:90:75 kg NPK/ha as basal."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Maturity - Harvesting",
+            "Harvest the mature crops.",
+            "In case of fall army worm attack, apply Emamectin Benzoate @0.9gram liter of water."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Booting stage",
+            "Apply final dose of fertilizer (potash and urea) by irrigating the field during flowering stage."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Sowing",
+            "It can be broadcasted in the fine tilth soil .",
+            "Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha.",
+            "Zn application of ZnSO4 @37.5 kg/ ha will increase the yield."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Deworm the cattle in proper time to not let them weak and faint."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

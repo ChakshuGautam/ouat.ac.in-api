@@ -1,0 +1,158 @@
+{
+   "weather_details": {
+      "06-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 43,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 4
+      },
+      "07-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 85,
+         "rh_min": 45,
+         "wind_speed": 4,
+         "wind_direction": 53,
+         "cloud_cover": 4
+      },
+      "08-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 89,
+         "rh_min": 49,
+         "wind_speed": 5,
+         "wind_direction": 51,
+         "cloud_cover": 3
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 91,
+         "rh_min": 48,
+         "wind_speed": 4,
+         "wind_direction": 52,
+         "cloud_cover": 3
+      },
+      "10-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 88,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 51,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "pulse",
+      "horse gram",
+      "bengal gram",
+      "mustard",
+      "toria",
+      "indian mustard",
+      "turmeric",
+      "cauliflower",
+      "cabbage",
+      "ginger",
+      "cow",
+      "buffalo"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue intercultural operations, harvesting of matured produce and application pesticides mixed with sticker during the next five days period as needed. Field preparation should be started for rabi crops. Regular surveillance work should be taken up in all crops to know the incidence of various insect pests and initiate control strategies.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120 g/ac).",
+            "To control steam borer & leaf folder spray chlorpyriofos/profenofos @ 2 ml/ l of water.",
+            "Spray Imidachloprid @ 0.6 ml / liter of water to control the BPH.",
+            "To control ear cutting caterpillar, spray Quinalphos 25 EC @ 400ml/acre or Chlorpyriphos 20 EC @ 500ml/ acre at root zone in morning hours."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Harvest the cobs which are at the stage of maturity and keep it in a safe place."
+         ]
+      },
+      "pulse": {
+         "advisory": [
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram."
+         ]
+      },
+      "horse gram": {
+         "advisory": [
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram."
+         ]
+      },
+      "bengal gram": {
+         "advisory": [
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at seedling stage."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at seedling stage."
+         ]
+      },
+      "indian mustard": {
+         "advisory": [
+            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at seedling stage."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Go for weeding and apply 26 kg urea and 30 kg MoP per acre at 90 days after planting and apply mulching @ 2 t/acre.",
+            "Apply irrigation as there is not sufficient rainfall during past days as turmeric required water to grow better."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Prepare nursery beds, each measuring 3m length, 1 m breadth and 15 -20 cm height. Apply 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200 -250 grams of seed is required for one acre area of cultivation and 100 -150 grams of seed is required in case of hybrids.",
+            "Cauliflower (60 -75 days) - HYV: Pusa Early Synthetic, Early Kuanri, Kartika, Pusa Dipali, Arka kranti, Arka Surathi, Hybrid: Sweta, Puspagiri, Tusar Goodman etc."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Prepare nursery beds, each measuring 3m length, 1 m breadth and 15 -20 cm height. Apply 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200 -250 grams of seed is required for one acre area of cultivation and 100 -150 grams of seed is required in case of hybrids.",
+            "Cabbage (60 -75 days) - HYV: Golden Acre, Pride of India, Pusa Sambandh Hybrid: Green ball, Priya, Genith gold star, Pragati etc."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "3rd weeding and 3rd top dressing may be completed.",
+            "Soil drenching with 1.25 g Metalaxyl -Mancozeb + 2 ml Quinalphos + 1g Plantomycin per liter of water to control rhizome rot in Zinger.",
+            "Remove infected plants from field & burn."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot - and-mouth disease, PPR."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot - and-mouth disease, PPR."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

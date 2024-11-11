@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "2024-11-06": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 52,
+         "wind_speed": 3,
+         "wind_direction": 14,
+         "cloud_cover": 5
+      },
+      "2024-11-07": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 95,
+         "rh_min": 54,
+         "wind_speed": 4,
+         "wind_direction": 17,
+         "cloud_cover": 4
+      },
+      "2024-11-08": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 56,
+         "wind_speed": 5,
+         "wind_direction": 29,
+         "cloud_cover": 5
+      },
+      "2024-11-09": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 56,
+         "wind_speed": 5,
+         "wind_direction": 27,
+         "cloud_cover": 5
+      },
+      "2024-11-10": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 95,
+         "rh_min": 50,
+         "wind_speed": 5,
+         "wind_direction": 27,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "brinjal",
+      "tomato",
+      "cauliflower",
+      "onion",
+      "marigold",
+      "cow",
+      "common fish"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 34.7°C and the mean minimum daily temperature was 24.0°C of the Gajapati district during the last week. The district received 19.3 mm of rainfall during the last week. Drain out the water from paddy field, 15 days before harvesting of the crop. Harvest the rice crop at physiological maturity (85% grains matured in a panicle) and looks pale yellow in colour. Harvest the crop by leaving one metre from the bund if grain is to be kept for seed purpose. Dry the harvested paddy grains in direct sunlight for 2-3 days to get the moisture content at 14%. For seed purpose the grain should be dried to below 12% moisture content.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If population of Brown Plant Hopper (BPH) exceeds economic threshold level (ETL) (i.e., 5-10 hoppers/hill), it is advised to alter the micro-climate of the rice field by alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20 % SG @ 80 g/acre or Flonicamid 50 % WG @ 60 gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant for control of above pests. Avoid using nitrogenous fertilizers during infestation of BPH. To control Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400 ml/acre or Azoxystrobin+ Difenoconazole @ 200 ml/acre or Tebuconazole + Trifloxystrobin @ 80 gram/acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control Phomopsis Blight disease in Brinjal spray Metalaxyl 8%+ Mancozeb 64 % WP @ 400 gram/acre or Propineb 70 % WP @ 400 gram/acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "For Tomato apply 20 kg Urea, 52 Kg DAP  and 20Kg MOP  as basal fertilizer and maintain row to row spacing of 60 cm and plant to plant spacing of 45 cm."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply 33-kg of Urea and 23 kg MOP  per acre after hoeing and hand weeding at 15-20 DAT and 33 kg of urea and 23-kg of MOP  per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2 g/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3 g/ kg of seeds. To prevent Damping of f disease in nursery , drench the nursery bed with Carbendazim @ 2-gram/litre of water at 15 days interval. Seedlings of 8 weeks old are planted in the main field."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57 % EC (Omite/Mitekill/Super Dynamite) @ 2-ml/litre of water or Fenpyroximate 5 % EC (Seagate/Mitigate/Formite) @ 2-ml/litre of water ."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "During winters, various fungal, bacterial and parasitic diseases may appear in the fish. Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1-2 kg/acre or limestone @ 50-100 kg/acre. Salt application @ 100 kg/acre also helps in protecting fish against disease outbreak during winters."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}
