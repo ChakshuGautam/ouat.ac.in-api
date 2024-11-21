@@ -62,75 +62,76 @@
       "fingerlings",
       "black gram",
       "green gram",
-      "okra",
       "onion",
-      "mango"
+      "mango",
+      "okra"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover rows with dry leaves in sugarcane. Apply sprinkler irrigation to reduce heat effect. Irrigate maize crop properly. Use polythene in irrigation channels. Protect tomato and brinjal from wilting. Mulch coconut leaves. Cover vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds. Manage Yellow Stem Borer and Blast Disease in paddy.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Cover rows with dry leaves in sugarcane. Apply sprinkler irrigation for heat effect. Irrigate maize adequately. Spread polythene in irrigation channels for water savings. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves and cover vegetable seedlings. Harvest fingerlings in shallow ponds. For crops like sugarcane and brinjal, specific advice is provided for disease and pest management.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Avoid water deficit during these stages."
+            "Yellow stem borer management",
+            "Blast disease management"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover rows with dry leaves. Top-dress with potassium. Apply sprinkler irrigation."
+            "Early shoot borer management"
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement. Properly irrigate and prevent stagnant water."
+            "Irrigate the crop adequately"
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply 1g Streptocyclin in root zone to avoid wilting."
+            "Apply 1g Streptocyclin in 10 liter water in root zone"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps. Use neem-based pesticide at the primary stage of infestation."
+            "Brinjal shoot and fruit borer management"
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves to reduce water loss."
+            "Mulch coconut leaves 1.8 m around a coconut tree"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover seedlings with paper caps during the day."
+            "Cover with paper caps on the newly planted vegetable seedlings during day time"
          ]
       },
       "fingerlings": {
          "advisory": [
-            "Harvest fingerlings in shallow ponds. Ensure water depth."
+            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C"
          ]
       },
       "black gram": {
          "advisory": [
-            "Check migration of caterpillars. Use appropriate insecticides for management."
+            "Tobacco caterpillar management"
          ]
       },
       "green gram": {
          "advisory": [
-            "Check migration of caterpillars. Use appropriate insecticides for management."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Treat seeds with Imidacloprid to prevent whitefly infestation. Install yellow sticky traps."
+            "Tobacco caterpillar management"
          ]
       },
       "onion": {
          "advisory": [
-            "Cut tops after harvesting. Dry bulbs in ventilated room for storage."
+            "After harvesting cut the tops leaving 2.0-2.5 cm above bulb"
          ]
       },
       "mango": {
          "advisory": [
-            "Control mango hoppers with recommended insecticides. Use smoke below plants."
+            "Mango hopper management"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Whitefly infestation prevention"
          ]
       }
    },

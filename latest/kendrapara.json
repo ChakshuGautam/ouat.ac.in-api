@@ -1,162 +1,98 @@
 {
    "weather_details": {
-      "06/11/2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 84,
-         "rh_min": 57,
-         "wind_speed": 10,
-         "wind_direction": 3,
-         "cloud_cover": 5
-      },
-      "07/11/2024": {
+      "20/11/2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 85,
-         "rh_min": 59,
-         "wind_speed": 10,
-         "wind_direction": 9,
-         "cloud_cover": 4
-      },
-      "08/11/2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 86,
-         "rh_min": 60,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 76,
+         "rh_min": 42,
          "wind_speed": 9,
-         "wind_direction": 3,
-         "cloud_cover": 4
+         "wind_direction": 335,
+         "cloud_cover": 1
       },
-      "09/11/2024": {
+      "21/11/2024": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 86,
-         "rh_min": 53,
-         "wind_speed": 12,
-         "wind_direction": 14,
-         "cloud_cover": 4
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 8,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 331,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "medium duration paddy",
-      "long duration paddy",
-      "rabi pulses",
-      "oilseeds",
+      "paddy",
       "vegetables",
       "sugarcane",
-      "green gram",
+      "paira",
       "black gram",
-      "cowpea",
-      "field pea",
-      "lentil",
+      "green gram",
       "groundnut",
-      "tori",
-      "brinjal",
-      "tomato",
-      "chilli",
-      "marigold",
-      "rose"
+      "pointed gourd",
+      "cole crops"
    ],
-   "general_advisory": "The district of Kendrapara may likely to receive very light rainfall. The sky condition may remain partly cloudy to generally cloudy. In the next 5 days, temperatures are likely to remain 31-32°C and 23-24°C respectively.",
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Rodent- If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents.",
    "crops_data": {
-      "medium duration paddy": {
+      "paddy": {
          "advisory": [
-            "Harvest rice crops which have reached 85% maturity",
-            "Farmers are advised to grow short duration rabi crops",
-            "Do proper field surveillance for pests and diseases"
-         ]
-      },
-      "long duration paddy": {
-         "advisory": [
-            "Crop stage: Flowering to Physiological maturity stage",
-            "BPH - If population of Brown hoppers is high, alter the microclimate",
-            "Gundhi Bug Management"
-         ]
-      },
-      "rabi pulses": {
-         "advisory": [
-            "Sowing is ongoing"
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Sowing is ongoing"
+            "Soft dough-Physiological maturity stage"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Sowing is ongoing"
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & tomato apply 0.4 ml Spinosad per liter of water."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Sugarcane is at grand growth stage to ripening stage"
+            "Ripening stage",
+            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12% + Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre by mixing it in 200 litre of water."
          ]
       },
-      "green gram": {
+      "paira": {
          "advisory": [
-            "Pre-sowing stage - Grow high yielding varieties"
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
          ]
       },
       "black gram": {
          "advisory": [
-            "Pre-sowing stage - Grow high yielding varieties"
+            "Seedling-vegetative stage",
+            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
          ]
       },
-      "cowpea": {
+      "green gram": {
          "advisory": [
-            "Farmers are advised to grow short duration rabi crops"
-         ]
-      },
-      "field pea": {
-         "advisory": [
-            "Farmers are advised to grow short duration rabi crops"
-         ]
-      },
-      "lentil": {
-         "advisory": [
-            "Farmers are advised to grow short duration rabi crops"
+            "Seedling-vegetative stage",
+            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Pre-sowing stage - Use suitable varieties"
+            "Sowing stage"
          ]
       },
-      "tori": {
+      "pointed gourd": {
          "advisory": [
-            "Farmers are advised to grow short duration rabi crops"
+            "Seedling-vegetative stage",
+            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl-AL 80 % WP @ 600 g/acre."
          ]
       },
-      "brinjal": {
+      "cole crops": {
          "advisory": [
-            "Seedling stage - Manage wilt and rot disease"
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Seedling stage - Manage wilt and rot disease"
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Vegetative to Fruiting - Manage thrips infestation"
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "Vegetative to flowering - Manage Red Spider Mites"
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "Vegetative to flowering - Manage Red Spider Mites"
+            "Vegetative"
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

@@ -1,150 +1,136 @@
 {
    "weather_details": {
-      "06-11-2024": {
+      "20-11-2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 86,
-         "rh_min": 48,
-         "wind_speed": 3,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 347,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 347,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 74,
+         "rh_min": 38,
+         "wind_speed": 5,
          "wind_direction": 346,
-         "cloud_cover": 5
+         "cloud_cover": 0
       },
-      "07-11-2024": {
-         "rainfall": 3,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 87,
-         "rh_min": 52,
-         "wind_speed": 5,
-         "wind_direction": 356,
-         "cloud_cover": 6
-      },
-      "08-11-2024": {
+      "23-11-2024": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 89,
-         "rh_min": 54,
-         "wind_speed": 5,
-         "wind_direction": 4,
-         "cloud_cover": 3
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 72,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 0
       },
-      "09-11-2024": {
+      "24-11-2024": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 89,
-         "rh_min": 52,
-         "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 3
-      },
-      "10-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 18,
-         "rh_max": 86,
-         "rh_min": 47,
-         "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 4
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 66,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
+      "mustard",
+      "toria",
+      "chickpea",
       "paddy",
       "linseed",
-      "chickpea",
-      "greengram",
-      "mustard and toria",
+      "tomato",
       "cauliflower",
-      "brinjal",
       "pumpkin",
-      "banana",
-      "papaya",
-      "marigold"
+      "chilli"
    ],
-   "general_advisory": "Prepare the land for sowing of Rabi crops. Select the healthy and disease-free seeds. Treat the seeds with fungicides before sowing in the field. Spraying of pesticides and application of fertilisers can be resumed in early morning hours.",
+   "general_advisory": "Harvest the matured paddy from the field. Farmers are advised to complete the rabi crops sowing as soon as possible. Seed treatment is necessary before sowing of the crops. For winter, vegetables like tomato, brinjal, chilli along with pulses can be taken for sowing. Spray insecticides and pesticides on the crops during morning and evening hours. Monitor the disease and pests regularly.",
    "crops_data": {
-      "paddy": {
+      "mustard": {
          "advisory": [
-            "Restrict the irrigation 10-15 days prior to harvesting of early paddy crops.",
-            "Matured paddy crops can be harvested (early varieties) and sun dry it for 1-2 days.",
-            "Some of the late maturing varieties are in grain filling stage. Irrigate the crop and maintain a water level of 5 cm in the field.",
-            "Gundhi bug infestation can be seen in the field. To minimize the Gundhi bug damage spray Imidachloprid 17.8% SL @ 1 ml/lt.",
-            "Clean up the threshing floor to be used in next few days."
+            "Prepare the land for sowing of Mustard and Toria.",
+            "Plough the land to make it proper tilth.",
+            "Sow the seeds of Mustard and Toria in the field.",
+            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
+            "Irrigate the field after sowing."
          ]
       },
-      "linseed": {
+      "toria": {
          "advisory": [
-            "Farmers interested to sow linseed can broadcast the seeds in standing matured paddy crops.",
-            "Broadcast can be done 10-15 days prior to harvesting of paddy crops.",
-            "Do not broadcast the seeds in waterlogged condition."
+            "Prepare the land for sowing of Mustard and Toria.",
+            "Plough the land to make it proper tilth.",
+            "Sow the seeds of Mustard and Toria in the field.",
+            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
+            "Irrigate the field after sowing."
          ]
       },
       "chickpea": {
          "advisory": [
-            "Prepare the land for sowing.",
-            "The sowing activity can be resumed after proper land ploughing.",
-            "Do not sow seeds in waterlogged condition.",
-            "Make sure to sow seeds at optimum depth of 3-5 cm.",
-            "Irrigation should be provided after the sowing."
+            "Farmers are advised to use good quality seed materials and treatment of the seeds with fungicides like Captan and Thiram is must.",
+            "Irrigation of the field after sowing should be done.",
+            "Do not over irrigate the field.",
+            "Regularly remove weeds from the field."
          ]
       },
-      "greengram": {
+      "paddy": {
          "advisory": [
-            "Seed treatment with Thiram or Captan @ 2g/kg seeds to be done before sowing.",
-            "Monitor the field for any pests and diseases."
+            "If 80% of the panicles are matured, farmers can go for the harvesting.",
+            "Reduce the moisture of the harvested paddy by sun drying it.",
+            "Keep the harvested paddy at cleaned threshing floor."
          ]
       },
-      "mustard and toria": {
+      "linseed": {
          "advisory": [
-            "Prepare the field for sowing of mustard and toria in the upcoming week.",
-            "Select the disease and insect-free seeds for sowing.",
-            "Since the Mustard and Toria seeds are smaller in size, mix the seeds with sand to sow uniformly."
+            "Broadcast the seeds of linseed in paddy crops willing to be harvested.",
+            "Do not broadcast the seeds in waterlogged condition.",
+            "Farmers can use linseed variety such as Arpita and Kota Barani Alsi-4 for Keonjhar district of Odisha.",
+            "After harvesting of the paddy, watch the germination of the linseed. If required broadcast it again.",
+            "Linseed can be more productive if line sowing is done.",
+            "Farmers are advised to sow the seeds in line maintaining proper spacing."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Transplant the 30-35 days old seedling in the field.",
+            "Remove weeds and irrigate the crop after transplanting."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Transplanting of Cauliflower can be done in the field.",
-            "Remove excess water from the field.",
-            "Keep the field weed-free."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Regularly monitor the field for insects and pests.",
-            "Remove excess water from the root zone.",
-            "Fruit and shoot borer infestation can be reduced by spraying Emamectin benzoate 5% SG @ 4g/10 lt."
+            "Do not over irrigate the crop.",
+            "Regularly check for any type of disease and pest infestation."
          ]
       },
       "pumpkin": {
          "advisory": [
-            "Spraying of insecticides and pesticides can be done in the early morning or evening hours.",
-            "Leaf blight disease in the pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/lt of water."
+            "Leaf blight disease in pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/lt of water."
          ]
       },
-      "banana": {
+      "chilli": {
          "advisory": [
-            "Provide irrigation to the banana crop in the ring basin method.",
-            "Staking should be done to the emerging bunch of banana plants.",
-            "Harvested bunch should be kept at safe places away from the soil and water.",
-            "Spraying of Imidachloprid @ 1ml/lt can be used to reduce the whitefly and thrips infestation."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Remove weeds from the root zone of the plant.",
-            "Papaya ring spot virus can be managed by spraying Malathion or Imidachloprid @ 1ml/lt.",
-            "Irrigate the plant but be careful not to over-irrigate it."
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "Provide controlled irrigation to the crop.",
-            "Transplant and maintain distance from plant to plant and row to row."
+            "Sow the seeds in the soil with proper irrigation.",
+            "Farmers who have used chilli in pro-trays can transplant them in the field.",
+            "Spraying fungicides like Mancozeb or Carbendazim @ 2g/lt to manage any type of fungal disease."
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

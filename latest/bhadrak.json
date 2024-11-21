@@ -1,81 +1,104 @@
 {
    "weather_details": {
-      "06-11-2024": {
-         "rainfall": 3,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 82,
-         "rh_min": 54,
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 40,
+         "wind_speed": 7,
+         "wind_direction": 324,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 75,
+         "rh_min": 40,
+         "wind_speed": 7,
+         "wind_direction": 315,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 38,
          "wind_speed": 6,
-         "wind_direction": 357,
-         "cloud_cover": 6
+         "wind_direction": 323,
+         "cloud_cover": 1
       },
-      "07-11-2024": {
+      "23-11-2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 84,
-         "rh_min": 57,
-         "wind_speed": 9,
-         "wind_direction": 12,
-         "cloud_cover": 5
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 38,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
       },
-      "08-11-2024": {
+      "24-11-2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 84,
-         "rh_min": 57,
-         "wind_speed": 9,
-         "wind_direction": 7,
-         "cloud_cover": 4
-      },
-      "09-11-2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 84,
-         "rh_min": 56,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 34,
          "wind_speed": 7,
-         "wind_direction": 357,
-         "cloud_cover": 4
-      },
-      "10-11-2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 22,
-         "rh_max": 84,
-         "rh_min": 51,
-         "wind_speed": 7,
-         "wind_direction": 6,
-         "cloud_cover": 5
+         "wind_direction": 331,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
       "rapeseed",
-      "mustard"
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "livestock"
    ],
-   "general_advisory": "Taking the advantage of store soil moisture, farmer should start land preparation for rabi crops like mustard, toria, sunflower and sowing should be completed soon to get optimum yield. Visit to field regularly to observe the infestation levels of BPH, WBPH, Leaf folder, Gundhy bug and & the incidence of BLB and Blast in rice. Consult to nearest veterinary doctor for vaccination and deworming in animals.",
+   "general_advisory": "Monitor the activity of Gundhy bug in rice field and install rotten snail trap for mass trapping and killing of the pest. Visit to field regularly to observe the infestation levels of BPH, WBPH, Leaf folder, Gundhy bug, and the incidence of BLB and Neck Blast & sheath rot in rice. Consult nearest veterinary doctor for vaccination and deworming in animals.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Prevailing warm and humid weather may increases the incidence of BLB and neck Blast disease in rice so apply (Tebuconazole 50%+ Trifloxystrobin 25% WG)@0.4 g /litre of water.",
-            "Prevailing microclimate condition after the cyclonic events may increase the population of Plant Hoppers. Make alleys in field in every 3 m / after 8 -10 rows for proper penetration of sunlight and better aeration at plane base. At early stage of infestation, to protect the crop apply Dinotefuran @ 80g/acre WG along with Neem Oil Formulation @ 600 ml/acre targeting to the plant base. Spraying of insecticide should be targeted at the plant base.",
-            "If late transplanted rice is in PI/early flowering stage application of additional dose of MOP 12 Kg/acre recommended or foliar spray of MOP (0:0:50)@8-10g/litre of water along with 20% boron @1.5g/litre of water recommended."
+            "Prevailing microclimate condition may increase the population of Plant Hoppers. Make alleys in field in every 3 m / after 8 -10 rows for proper penetration of sunlight and better aeration at plane base. If the population level of Plant Hoppers is around or above ETL (10 Plant Hoppers/Hill), spray Flonicamid 50 WG @60g/acre or (Ethiprole + Pymetrozine) @170g/acre or Triflumezopyrim 10 SC at 92 ml/acre. Spraying of insecticide should be targeted at the plant base.",
+            "Farmers are advised to go for harvesting of early matured Paddy crops, which have reached 85% maturity of the panicle and looks pale yellow in color.",
+            "Lower the moisture content of harvested paddy by keeping it in sunlight during the daytime.",
+            "Make the threshing floor and storage godown clean and disinfectant the same."
          ]
       },
       "rapeseed": {
          "advisory": [
-            "Taking the advantage of store soil moisture, land preparation and sowing of the crop mustard should be completed soon to get optimum yield.",
-            "Suitable varieties: Toria - Anuradha, Parbati, Sushree Indian mustard - NRCHB 101, Mahyco bold, JD 6 Seed rate - 8-10 Kg/ha , Spacing - 30 cm X 10 cm Fertilizer dose: Toria @60:30:30 N -P2O5 -K2O Kg/ha Mustard@80:40:40 N -P2O5 -K2O Kg/ha 50%N and all P2O5 and K2O fertilizers should be applied as basal."
+            "Taking the advantage of residual soil moisture, land preparation and sowing of the crop should be completed soon to get optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree. Indian mustard - NRCHB 101, Mahyco bold, JD 6, Sampoorna.",
+            "Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Fertilizer dose: Toria @60:30:30 N -P2O5 -K2O Kg/ha. Mustard @80:40:40 N -P2O5 -K2O Kg/ha. 50% N and all P2O5 and K2O fertilizers should be applied as basal."
          ]
       },
-      "mustard": {
+      "vegetables": {
          "advisory": [
-            "Suitable varieties: Toria - Anuradha, Parbati, Sushree Indian mustard - NRCHB 101, Mahyco bold, JD 6 Seed rate - 8-10 Kg/ha , Spacing - 30 cm X 10 cm Fertilizer dose: Toria @60:30:30 N -P2O5 -K2O Kg/ha Mustard@80:40:40 N -P2O5 -K2O Kg/ha 50%N and all P2O5 and K2O fertilizers should be applied as basal."
+            "Select suitable varieties of Cole crops, Chilli, and Brinjal and sow the seeds on the well-pulverized nursery bed. Add fully decomposed FYM, compost/vermicompost to the nursery bed before sowing.",
+            "If the seedlings of early duration varieties of vegetables are ready for transplanting, treat the seedlings with (Metalaxyl + Mancozeb) @ 2g/li of water and Plantomycin @ 1g per liter of water."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Maximum papaya plants are damaged due to cyclone Dana, so select suitable Open pollinated variety (Coorg honey dew, Ranchi dwarf, surya, Pusa nanha) & hybrid variety (Sampoorna) of papaya seedlings.",
+            "Apply 10g Fipronil 0.3 G during planting to minimize the incidence of papaya leaf curl virus."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "When there is a lack of oxygen in the pond, the fish will come up to the surface water and start gulping through their mouths. The ideal dissolved oxygen is about 5mg/l. This can be maintained by using an aerator. A simple way of aeration is to circulate the pond water. It can be done using a pump which can take water from the lower surface of the pond and splash it into the same pond."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia, etc., these must be done."
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

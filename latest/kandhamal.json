@@ -1,76 +1,87 @@
 {
    "weather_details": {
-      "06-11-2024": {
+      "15-11-2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 91,
-         "rh_min": 50,
-         "wind_speed": 1,
-         "wind_direction": 124,
-         "cloud_cover": 4
-      },
-      "07-11-2024": {
-         "rainfall": 3,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 94,
-         "rh_min": 50,
-         "wind_speed": 2,
-         "wind_direction": 79,
-         "cloud_cover": 5
-      },
-      "08-11-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 17,
-         "rh_max": 95,
-         "rh_min": 53,
-         "wind_speed": 3,
-         "wind_direction": 83,
-         "cloud_cover": 4
-      },
-      "09-11-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 17,
-         "rh_max": 94,
-         "rh_min": 53,
-         "wind_speed": 3,
-         "wind_direction": 0,
-         "cloud_cover": 5
-      },
-      "10-11-2024": {
-         "rainfall": 0,
-         "t_max": 29,
+         "t_max": 28,
          "t_min": 16,
-         "rh_max": 93,
-         "rh_min": 46,
-         "wind_speed": 3,
-         "wind_direction": 0,
-         "cloud_cover": 4
+         "rh_max": 88,
+         "rh_min": 37,
+         "wind_speed": 1,
+         "wind_direction": 72,
+         "cloud_cover": 3
+      },
+      "16-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 33,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "17-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "18-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 67,
+         "rh_min": 30,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "19-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 65,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "arhar",
-      "marigold",
-      "maize",
-      "rice",
       "mustard",
-      "animal husbandry"
+      "amaranthus",
+      "radish",
+      "maize",
+      "cabbage",
+      "cauliflower",
+      "marigold"
    ],
-   "general_advisory": "Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Seeing the low wind speed, farmers can resume the spraying of chemicals and pesticides. Farmers are advised to check their WhatsApp and messages to get crop weather related information.",
+   "general_advisory": "Harvest the matured crops like rice maize at 80 -85% maturity and keep them safe. Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Prepare the lands for cole crops like cauliflower, cabbage, radish.",
    "crops_data": {
-      "arhar": {
+      "mustard": {
          "advisory": [
-            "In the primary stage, apply Azadirachtin 0.03% (300ppm) in every liter of water @5mg."
+            "Flowering initiation",
+            "Leaf miner insect",
+            "Young maggot mines zig-zag galleries in the leaves",
+            "Spray 5% neem seed kernel extract (NSKE)"
          ]
       },
-      "marigold": {
+      "amaranthus": {
          "advisory": [
-            "Make the soil fine tilth by pulverizing it 2 -3 times.",
-            "During last ploughing, incorporate 25t/ha of FYM.",
-            "Apply 45:90:75 kg NPK/ha as basal."
+            "Vegetative",
+            "Leaf eating caterpillar",
+            "It can be controlled by spraying Carbaryl 50 WP @ 2 g/lit."
+         ]
+      },
+      "radish": {
+         "advisory": [
+            "Vegetative",
+            "Leaf eating caterpillar",
+            "It can be controlled by spraying Carbaryl 50 WP @ 2 g/lit."
          ]
       },
       "maize": {
@@ -80,25 +91,27 @@
             "In case of fall army worm attack, apply Emamectin Benzoate @0.9gram liter of water."
          ]
       },
-      "rice": {
+      "cabbage": {
          "advisory": [
-            "Booting stage",
-            "Apply final dose of fertilizer (potash and urea) by irrigating the field during flowering stage."
+            "Vegetative",
+            "Cut Worms",
+            "Set up light trap in summer months. Spray Chlorpyriphos 2 ml/lit in the collar region during evening hours."
          ]
       },
-      "mustard": {
+      "cauliflower": {
          "advisory": [
-            "Sowing",
-            "It can be broadcasted in the fine tilth soil .",
-            "Basal application of FYM 25 ton and N 25 kg, P 60 kg / ha.",
-            "Zn application of ZnSO4 @37.5 kg/ ha will increase the yield."
+            "Vegetative",
+            "Cut Worms",
+            "Set up light trap in summer months. Spray Chlorpyriphos 2 ml/lit in the collar region during evening hours."
          ]
       },
-      "animal husbandry": {
+      "marigold": {
          "advisory": [
-            "Deworm the cattle in proper time to not let them weak and faint."
+            "Germination - vegetative stage",
+            "Apply 45:90:75 kg NPK/ha as basal.",
+            "Apply light irrigation to crop when required."
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "14-11-2024"
 }

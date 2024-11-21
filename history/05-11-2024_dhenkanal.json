@@ -1,0 +1,70 @@
+{
+   "weather_details": {
+      "05.11.2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 240,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "sugarcane",
+      "onion",
+      "french bean",
+      "cabbage & cauliflower",
+      "potato",
+      "marigold & rose",
+      "fisheries",
+      "animal husbandry"
+   ],
+   "general_advisory": "For better agricultural benefits, use OUAT KALINGA products. Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery, etc. may be provided in the daily ration during the winter season to meet the energy requirements of the animals.",
+   "crops_data": {
+      "sugarcane": {
+         "advisory": [
+            "To prevent Scale insect infestation use Trichogramma chilonis card @ 1-2/acre at weekly intervals for 6 times by splitting each card into 12 pieces at the given perforations.",
+            "Spray Metarhizium anisopilae @ 1 Kg/acre by mixing with 200 litres of water.",
+            "For chemical control, apply Thiamethoxam 25% WG @ 60g/acre or Imidacloprid 17.8% SL @ 60 ml/acre or Acetamiprid 20% SP @60g/acre by mixing with 200 litres of water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Onion varieties like Agrifound Light Red, Agrifound Dark Red, Bhima Shakti, Bhima Super, etc. are suitable for Odisha conditions during the winter season."
+         ]
+      },
+      "french bean": {
+         "advisory": [
+            "For cultivation of French bean, 20-30 kg seed for bush varieties and 10-12 kg seed for tall varieties is required per acre. Before 7 days of sowing, treat it with Carbendazim @ 2 g or Carboxin 37.5% + Thiram 37.5% @ 2 g per kg of seed."
+         ]
+      },
+      "cabbage & cauliflower": {
+         "advisory": [
+            "Maintain row to row spacing of 60 cm and plant to plant spacing of 30 cm for early maturing varieties whereas for medium and late duration varieties maintain row to row spacing of 60-75 cm and plant to plant spacing of 40-45 cm. Seedlings should be transplanted in the afternoon hours."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Treat the seeds before planting. For treatment of tuber seeds, make a solution of 600 grams of Carbendazim 25% + Mancozeb 50% WS by mixing it in 100 litres of water. Dip one quintal of the tuber seeds in this solution for 20-25 minutes."
+         ]
+      },
+      "marigold & rose": {
+         "advisory": [
+            "To control Red Spider Mites in Marigold and Rose, spray Propargite 57% EC @ 2 ml/litre of water or Fenpyroximate 5% EC @ 2 ml/litre of water."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, various fungal, bacterial, and parasitic diseases may appear in the fish. Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1-2 kg/acre or limestone @ 50-100 kg/acre. Salt application @ 100 kg/acre also helps in protecting fish against disease outbreak during winters."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery, etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirements of the animals."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

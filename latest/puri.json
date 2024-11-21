@@ -1,122 +1,120 @@
 {
    "weather_details": {
-      "06/11/2024": {
-         "rainfall": 3,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 55,
-         "wind_speed": 11,
-         "wind_direction": 9,
-         "cloud_cover": 5
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 75,
+         "rh_min": 38,
+         "wind_speed": 10,
+         "wind_direction": 356,
+         "cloud_cover": 1
       },
-      "07/11/2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 57,
-         "wind_speed": 12,
-         "wind_direction": 10,
-         "cloud_cover": 4
+      "21/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 76,
+         "rh_min": 38,
+         "wind_speed": 9,
+         "wind_direction": 353,
+         "cloud_cover": 0
       },
-      "08/11/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 87,
-         "rh_min": 58,
-         "wind_speed": 13,
-         "wind_direction": 17,
-         "cloud_cover": 4
-      },
-      "09/11/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 88,
-         "rh_min": 59,
-         "wind_speed": 12,
-         "wind_direction": 14,
-         "cloud_cover": 3
-      },
-      "10/11/2024": {
-         "rainfall": 1,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 88,
-         "rh_min": 53,
-         "wind_speed": 12,
-         "wind_direction": 12,
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 76,
+         "rh_min": 38,
+         "wind_speed": 9,
+         "wind_direction": 348,
          "cloud_cover": 2
+      },
+      "23/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 74,
+         "rh_min": 38,
+         "wind_speed": 9,
+         "wind_direction": 345,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "paddy",
+      "paira crop",
+      "matured paddy",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
       "black gram",
       "green gram",
       "groundnut",
-      "brinjal",
-      "tomato",
-      "chilli",
-      "marigold",
-      "rose",
-      "fisheries"
+      "sugarcane",
+      "pointed gourd",
+      "cole crops"
    ],
-   "general_advisory": "Farmers are advised to harvest rice crops at 85% maturity, grow short duration Rabi crops, conduct proper field surveillance for pests and diseases, and manage micronutrient deficiency.",
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Keep the threshing floor clean. Rodent- If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents. Powdery mildew- There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5%. Weed management - Apply pre-emergence herbicide Oxyfluorfen 23.5% EC @ 80ml/acre or Pendimethalin 30% EC @ 1litre/acre at 1-2 DAS. Apply herbicide when the soil is moist. Red Rot disease - For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63% WP @ 400 g/acre or Metalaxyl 8% + Mancozeb 64% WP @ 400 g/acre. Downy mildew - To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Fosetyl-AL 80% WP @ 600 g/acre. Diamond Back Moth - To manage these pests install 6-8 nos of light traps per acre. Farmers are advised to keep the water depth up to 6 feet in the winter season. Feed intake of fish decreases with decreasing temperature. Hence, it is essential to reduce the feeding rate by 75% depending on the temperature.",
    "crops_data": {
-      "paddy": {
+      "paira crop": {
          "advisory": [
-            "If BPH population is high, alter field climate and use appropriate pesticides.",
-            "Manage Brown Plant Hopper with recommended pesticides."
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+         ]
+      },
+      "matured paddy": {
+         "advisory": [
+            "Harvest matured paddy crop and store them in a safer place after 3-4 days sun drying."
+         ]
+      },
+      "rabi pulses": {
+         "advisory": [
+            "Farmers are advised to transplant 30-45 days old vegetable seedlings like chilli, tomato, capsicum, cabbage, cauliflower, brinjal, etc. in the main field."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Seed treatment is a must before sowing of rabi crops."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To control leaf-eating caterpillar and fruit borer in winter vegetables like brinjal, cauliflower, cabbage, chilli, and tomato apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water."
          ]
       },
       "black gram": {
          "advisory": [
-            "Grow high-yielding varieties like T 9, PU 11, PU 19, and PU 30."
+            "There is a chance of powdery mildew disease in Black gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5%.",
+            "Weed management - Apply pre-emergence herbicide Oxyfluorfen 23.5% EC @ 80ml/acre at 1-2 DAS. Apply herbicide when soil is moist."
          ]
       },
       "green gram": {
          "advisory": [
-            "Grow high-yielding varieties like K 851, PDM 11, PDM 54, OUM 115."
+            "There is a chance of powdery mildew disease in Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5%.",
+            "Weed management - Apply pre-emergence herbicide Oxyfluorfen 23.5% EC @ 80ml/acre at 1-2 DAS. Apply herbicide when soil is moist."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Use suitable groundnut varieties like Kalinga groundnut 101, Devi, Kadri-6, Kadri-7, Dharani."
+            "GROUNDNUT sowing stage"
          ]
       },
-      "brinjal": {
+      "sugarcane": {
          "advisory": [
-            "Drench the root zone with recommended solution to manage wilt and rot diseases."
+            "Black GRAM AND GREEN GRAM Seedling-vegetative stage",
+            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63% WP @ 400 g/acre or Metalaxyl 8% + Mancozeb 64% WP @ 400 g/acre by mixing it in 200 liters of water."
          ]
       },
-      "tomato": {
+      "pointed gourd": {
          "advisory": [
-            "Drench the root zone with recommended solution to manage wilt and rot diseases."
+            "POINTED GOURD Seedling-vegetative stage",
+            "To control downy mildew in Pointed gourd, Spray Metalaxyl 8% + Mancozeb 64% WP @ 400 g/acre or Fosetyl-AL 80% WP @ 600 g/acre."
          ]
       },
-      "chilli": {
+      "cole crops": {
          "advisory": [
-            "Install blue sticky traps for thrips infestation and use recommended chemical controls."
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "Spray wettable sulphur to manage Red Spider Mites."
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "Spray wettable sulphur to manage Red Spider Mites."
-         ]
-      },
-      "fisheries": {
-         "advisory": [
-            "Treat pond for fungal, bacterial, and parasitic diseases during winters.",
-            "Use recommended products for better agricultural benefits."
+            "COLE CROPS Vegetative"
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

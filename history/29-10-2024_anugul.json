@@ -1,7 +1,7 @@
 {
    "weather_details": {
       "2024-10-30": {
-         "rainfall": 7,
+         "rainfall": 7.0,
          "t_max": 32,
          "t_min": 20,
          "rh_max": 98,
@@ -11,7 +11,7 @@
          "cloud_cover": 7
       },
       "2024-10-31": {
-         "rainfall": 3,
+         "rainfall": 3.0,
          "t_max": 32,
          "t_min": 21,
          "rh_max": 97,
@@ -21,7 +21,7 @@
          "cloud_cover": 6
       },
       "2024-11-01": {
-         "rainfall": 1,
+         "rainfall": 1.0,
          "t_max": 32,
          "t_min": 21,
          "rh_max": 95,
@@ -31,7 +31,7 @@
          "cloud_cover": 5
       },
       "2024-11-02": {
-         "rainfall": 0,
+         "rainfall": 0.0,
          "t_max": 32,
          "t_min": 21,
          "rh_max": 91,
@@ -41,7 +41,7 @@
          "cloud_cover": 4
       },
       "2024-11-03": {
-         "rainfall": 0,
+         "rainfall": 0.0,
          "t_max": 31,
          "t_min": 20,
          "rh_max": 88,
@@ -65,7 +65,7 @@
       },
       "horticulture": {
          "advisory": [
-            "In present weather conditions, rouging of viral infested crop should be done in chilli and tomato. Infected plants should be uprooted and buried in the soil. If infection is more than spray of imidacloprid @ 0.3 ml per litre of water is advised for control the vector. ( go for application on rainless day)"
+            "In present weather conditions, rouging of viral infested crop should be done in chilli and tomato. Infected plants should be uprooted and buried in the soil. If infection is more than spray of imidacloprid @ 0.3 ml per litre of water is advised for control the vector. (go for application on rainless day)"
          ]
       },
       "fisheries": {

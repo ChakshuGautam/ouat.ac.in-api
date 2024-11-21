@@ -1,78 +1,86 @@
 {
    "weather_details": {
-      "2024-10-30": {
-         "rainfall": 7.0,
-         "t_max": 32,
-         "t_min": 20,
-         "rh_max": 98,
-         "rh_min": 67,
+      "2024-11-20": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 76,
+         "rh_min": 35,
          "wind_speed": 3,
-         "wind_direction": 82,
-         "cloud_cover": 7
+         "wind_direction": 337,
+         "cloud_cover": 2
       },
-      "2024-10-31": {
-         "rainfall": 3.0,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 97,
-         "rh_min": 67,
+      "2024-11-21": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 76,
+         "rh_min": 35,
+         "wind_speed": 3,
+         "wind_direction": 330,
+         "cloud_cover": 1
+      },
+      "2024-11-22": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 76,
+         "rh_min": 34,
          "wind_speed": 2,
-         "wind_direction": 108,
-         "cloud_cover": 6
+         "wind_direction": 338,
+         "cloud_cover": 2
       },
-      "2024-11-01": {
-         "rainfall": 1.0,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 95,
-         "rh_min": 56,
-         "wind_speed": 1,
-         "wind_direction": 72,
-         "cloud_cover": 5
-      },
-      "2024-11-02": {
-         "rainfall": 0.0,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 91,
-         "rh_min": 49,
+      "2024-11-23": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 75,
+         "rh_min": 32,
          "wind_speed": 2,
-         "wind_direction": 27,
-         "cloud_cover": 4
+         "wind_direction": 90,
+         "cloud_cover": 2
       },
-      "2024-11-03": {
-         "rainfall": 0.0,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 88,
-         "rh_min": 45,
-         "wind_speed": 2,
-         "wind_direction": 27,
-         "cloud_cover": 4
+      "2024-11-24": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 68,
+         "rh_min": 32,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
-      "horticulture",
-      "fisheries"
+      "green gram",
+      "brinjal",
+      "common fish"
    ],
-   "general_advisory": "Lowering of temperature may favor incidences of post flowering diseases like false smut. So, farmers are requested to be vigilant and take need based control measures. Go for pruning and manuring of rose.",
+   "general_advisory": "Drain out the water from the paddy field 15 days before harvesting. Harvest rice crop at physiological maturity and dry grains in direct sunlight for desired moisture content. Store harvested products in clean bags covered with polythene to protect from rain.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers are advised to harvest and safe storage of early planted rice which have already attended 85% maturity level due to upcoming rainy condition on Wednesday and Thursday. Light rainfall is expected on Wednesday and Thursday, don't apply any sort of pesticide."
+            "If population of Brown Planthopper (BPH) exceeds ETL, alter micro-climate by alternate wetting and drying technique.",
+            "Spray recommended pesticides for BPH at specified dose only, avoid nitrogenous fertilizers during infestation."
          ]
       },
-      "horticulture": {
+      "green gram": {
          "advisory": [
-            "In present weather conditions, rouging of viral infested crop should be done in chilli and tomato. Infected plants should be uprooted and buried in the soil. If infection is more than spray of imidacloprid @ 0.3 ml per litre of water is advised for control the vector. (go for application on rainless day)"
+            "Podoptera infestation noticed. Spray Emamectin Benzoate to control infestation."
          ]
       },
-      "fisheries": {
+      "brinjal": {
          "advisory": [
-            "Due to decrease in temperature the growth of fish will be slow. So farmers can reduce the amount of fish feed."
+            "Bacterial wilt noticed. Soil drench with Copper oxychloride to control wilting in brinjal."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Treat pond with CIF AX before winters to prevent diseases.",
+            "Treat pond with potassium permanganate or limestone. Salt application helps protect fish against diseases."
          ]
       }
    },
-   "date": "29-10-2024"
+   "date": "19-11-2024"
 }

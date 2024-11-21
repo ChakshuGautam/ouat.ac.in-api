@@ -1,126 +1,121 @@
 {
    "weather_details": {
-      "2024-11-06": {
+      "2024-11-20": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 84,
-         "rh_min": 51,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 75,
+         "rh_min": 42,
+         "wind_speed": 4,
+         "wind_direction": 326,
+         "cloud_cover": 0
+      },
+      "2024-11-21": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 74,
+         "rh_min": 41,
+         "wind_speed": 4,
+         "wind_direction": 319,
+         "cloud_cover": 1
+      },
+      "2024-11-22": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 73,
+         "rh_min": 39,
          "wind_speed": 3,
-         "wind_direction": 344,
-         "cloud_cover": 4
+         "wind_direction": 328,
+         "cloud_cover": 0
       },
-      "2024-11-07": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 85,
-         "rh_min": 54,
-         "wind_speed": 4,
-         "wind_direction": 354,
-         "cloud_cover": 5
-      },
-      "2024-11-08": {
+      "2024-11-23": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 87,
-         "rh_min": 55,
-         "wind_speed": 4,
-         "wind_direction": 355,
-         "cloud_cover": 3
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 73,
+         "rh_min": 38,
+         "wind_speed": 3,
+         "wind_direction": 320,
+         "cloud_cover": 1
       },
-      "2024-11-09": {
+      "2024-11-24": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 87,
-         "rh_min": 54,
-         "wind_speed": 4,
-         "wind_direction": 349,
-         "cloud_cover": 3
-      },
-      "2024-11-10": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 21,
-         "rh_max": 84,
-         "rh_min": 49,
-         "wind_speed": 4,
-         "wind_direction": 349,
-         "cloud_cover": 4
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 66,
+         "rh_min": 35,
+         "wind_speed": 3,
+         "wind_direction": 328,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "rice",
-      "pigeon pea",
+      "amaranth",
       "tomato",
-      "okra/ladyfinger",
-      "cauliflower",
       "cabbage",
-      "onion",
+      "cauliflower",
       "brinjal",
-      "banana",
-      "papaya",
-      "cucumber"
+      "okra/ladyfinger",
+      "onion",
+      "cow",
+      "fresh water"
    ],
-   "general_advisory": "Go for the sowing of pre-rabi crops like blackgram, greengram, horsegram, sesame, sunflower and cucurbits in up-medium land. Go for sowing of vegetable crops like Pea, carrot, radish etc. Harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life. Harvest the matured maize and vegetables and keep it in a safe place.",
+   "general_advisory": "Drain out the water from paddy field, 15 days before harvesting of the crop. Harvest the rice crop at physiological maturity (85% grains matured in a panicle) and looks pale yellow in colour. Harvest the crop by leaving one metre from the bund if grain is to be kept for seed purpose. Dry the harvested paddy grains in direct sunlight for 2-3 days to get the moisture content at 14%. For seed purpose the grain should be dried to below 12% moisture content.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If population of Brown Plant Hopper (BPH) exceeds economic threshold level (ETL) (i.e., 5-10 hoppers/hill), it is advised to alter the micro-climate of the rice field by alternate wetting and drying technique (water should not stand in the field for a long time). If the problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20 % SG @ 80 g/acre or Flonicamid 50 % WG @ 60 gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant for the control of above pests. Avoid using nitrogenous fertilizers during infestation of BPH. To control Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400-400 ml/acre or Azoxystrobin+ Difenoconazole @ 200- ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre."
+            "The transplanted paddy is at hard dough to harvesting (thirteen to seventeen week) stage. The direct seeded rice crop is at harvesting stage. Drain out water from the crop field at maturity stage. Keep the harvested paddy by covering or carry to covered threshing floor. Cut Worm: Spray Chloropyriphos 50% + Cypermethrin 5% E.C. @ 400 ml or Profenophos 50% E.C. @ 400 ml per acre per 200 ltr of water in afternoon hour. Brown Plant Hopper: BPH may be seen in the prevailing weather conditions. To Manage BPH in rice fields make alley paths after every 8-10 rows, spraying of Buprofezin+Acephate @ 30 gram or Dinotefuran @ 5 gram per 15 litres of water can be beneficial.",
+            "If population of Brown Plant Hopper (BPH) exceeds economic threshold level (ETL) (i.e., 5-10 hoppers/hill), it is advised to alter the micro-climate of the rice field by alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20 % SG @ 80 g/acre or Flonicamid 50 % WG @ 60- gram/acre or Triflumezopyrim 10% SC @ 100 ml / acre at the base of the plant for control of above pests. Avoid using nitrogenous fertilizers during infestation of BPH. To control Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole @ 400- ml/acre or Azoxystrobin+ Difenoconazole @ 200-ml/acre or Tebuconazole + Trifloxystrobin @ 80-gram/acre."
          ]
       },
-      "pigeon pea": {
+      "amaranth": {
          "advisory": [
-            "The crop is at grand vegetative growth to flower initiation (fifteen to sixteen weeks) stage. Leaf webber infestation may occur during this stage. To control leaf webber in Arhar spray 400 ml Chloropyriphos 50% + Cypermethrin 5% EC or 400ml profenophos 50% EC mixing with 200 lit of water per acre crop area."
+            "October to March is suitable for greens amaranth. Amaranth are of two types- White or Red.Use 3 kg seeds/acre.Layout 5 ft long beds of 4 ft wide with bunds.Pulverise the beds, remove the weeds and apply 1 to 2 baskets of FYM/ bed. Because of small size seeds, mix some coarse sands with the seeds for easy and uniform sowing.After sowing cover the seeds with thin layer of soil and cover it with straw followed by light irrigation. Remove the straw after emergence."
          ]
       },
       "tomato": {
          "advisory": [
-            "The tomato seedlings in nursery are one to three-week stage. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one litre of water to protect seedlings from damping of. Prepare the main field for transplanting tomato seedlings when they become 3-4 week old in the nursery. After final land preparation of the main field, rings or mounds should be prepared at a spacing of 60cm from row to row and 45 cm from plant to plant within the row for tomato. Basal dose of 52kg DAP, 7kg Urea and 66kg MOP should be applied per acre crop area before transplanting seedlings to mounds."
-         ]
-      },
-      "okra/ladyfinger": {
-         "advisory": [
-            "To manage sucking pests like aphids, Jassids, thrips and whiteflies in okra spray neem-based pesticide (Neem Oil 1500 PPM Azadiractin @600-ml/acre by mixing it in 200-liter of water or install 8-10 Nos of Yellow sticky traps per acre to control the pest. Spray Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15 % EC @ 400- ml/acre by mixing it in 200-liter of water when infestation is severe."
-         ]
-      },
-      "cauliflower": {
-         "advisory": [
-            "Apply 33-kg of Urea and 23 kg MOP per acre after hoeing and hand weeding at 15-20 DAT and 33 kg of urea and 23-kg of MOP per acre as a last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+            "The tomato seedlings in nursery are one to three week stage. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off. Prepare main field for transplanting tomato seedlings when they become 3-4 week old in nursery. After final land preparation of the main field, rings or mounds should be prepared at spacing of 60cm from row to row and 45cm from plant to plant within the row for tomato. Basal dose of 52kg DAP, 7kg Urea and 66kg MOP should be applied per acre crop area before transplanting seedlings to mounds."
          ]
       },
       "cabbage": {
          "advisory": [
-            "The cabbage seedlings in the nursery are the germination stage. Start nursery preparation and sowing cabbage seeds. The Varieties suitable for cabbage are Golden acre, Pride of India etc and the seed rate is 200g/acre. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
+            "The cabbage seedlings in nursery are germination to two week stage. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off. Go for preparing main field for transplanting cabbage at 3-4 week stage of seedling."
          ]
       },
-      "onion": {
+      "cauliflower": {
          "advisory": [
-            "The onion seedlings in the nursery are germination to one week stage. Complete nursery preparation for sowing onion and sowing seeds in the nursery. For onion use varieties like Agrifound light Red, Bhima Super, Bhima Red, Bhima Shakti and seed rate is 4-5 kg/ac. Cover the nursery to protect from sunrays and rain. For 1 acre crop the nursery area should be of 50 sq.m (of dimension 3m X1m X 0.15 m). Seed treatment with Bavistin 1g + Thriam 2 g per kg seed should be done before sowing in the nursery. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off."
+            "The cauliflower seedlings in nursery are germination to two week stage. Drench the seed bed with streptocycline 0.1g with carbendazim 1g mixing in one liter water to protect seedlings from damping off. Go for preparing main field for transplanting cabbage at 3-4 week stage of seedling."
          ]
       },
       "brinjal": {
          "advisory": [
-            "After rainfall there are chances of wilt disease in brinjal and chilli crop. To manage wilt disease in brinjal and chilli first uproot af fected plants and destroy it away from the field. Don’t apply excess nitrogenous fertilizer. Drench the root zone of the plant with 200-ml of Tebuconazole mixed with 20-gram of Streptocycline per acre. Use 200-liter of water per acre for spraying."
+            "To control Phomopsis Blight disease in Brinjal spray Metalaxyl 8%+ Mancozeb 64 % WP @ 400 gram/acre or Propineb 70 % WP @ 400- gram/acre."
          ]
       },
-      "banana": {
+      "okra/ladyfinger": {
          "advisory": [
-            "To manage stem weevil, install Cosmolure pheromone traps @ 10/acre in banana garden. Dip the banana stem in warm water for 30 minutes before planting. Fill the pit with 25 g neem pedia or 25-50 g any granular insecticide before planting. Cut the af fected plant into pieces and dry under sun. Keep the banana garden neat and clean."
+            "To manage sucking pest like aphids, Jassids, thrips and whiteflies in Okra spray neem based pesticide (Neem Oil 1500 PPM Azadiractin @600-ml/acre by mixing it in 200-litre of water or install 8-10 Nos of Yellow sticky traps per acre to control the pest. Spray Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15 % EC @ 400- ml/acre by mixing it in 200-litre of water when infestation is severe."
          ]
       },
-      "papaya": {
+      "onion": {
          "advisory": [
-            "To manage mealy bug at an early stage of infestation, spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-liter of water or insecticidal soap. In case of severe infestation spray Profenphos 50 % EC @ 20-ml/10-liter of water or Thiamethoxam 25 % WG @ 3-gram/10-liter of water."
+            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2 g/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3 g/ kg of seeds. To prevent Damping off disease in nursery, drench the nursery bed with Carbendazim @ 2-gram/liter of water at 15 days interval. Seedlings of 8 weeks old are planted in the main field."
          ]
       },
-      "cucumber": {
+      "cow": {
          "advisory": [
-            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400- gram Jaggery and 8-ml Malathion or DDVP in 4-liter of water. Keep this mixture in Plastic cups or clay pots @80-nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      },
+      "fresh water": {
+         "advisory": [
+            "During winters, various fungal, bacterial and parasitic diseases may appear in the fish. Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1-2 kg/acre or limestone @ 50-100 kg/acre. Salt application @ 100 kg/acre also helps in protecting fish against disease outbreak during winters."
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

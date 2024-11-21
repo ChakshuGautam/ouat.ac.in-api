@@ -1,132 +1,109 @@
 {
    "weather_details": {
-      "06/11/2024": {
+      "20/11/2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 88,
-         "rh_min": 51,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 35,
          "wind_speed": 6,
-         "wind_direction": 357,
-         "cloud_cover": 5
+         "wind_direction": 336,
+         "cloud_cover": 0
       },
-      "09/11/2024": {
+      "21/11/2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 91,
-         "rh_min": 55,
-         "wind_speed": 7,
-         "wind_direction": 90,
-         "cloud_cover": 4
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 72,
+         "rh_min": 34,
+         "wind_speed": 6,
+         "wind_direction": 332,
+         "cloud_cover": 1
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 34,
+         "wind_speed": 6,
+         "wind_direction": 330,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "rice",
+      "paddy",
       "rabi pulses",
       "oilseeds",
       "vegetables",
-      "green gram",
       "black gram",
-      "cowpea",
-      "field pea",
-      "lentil",
+      "green gram",
       "groundnut",
-      "tori",
-      "brinjal",
-      "tomato",
-      "chilli",
-      "marigold",
-      "rose",
+      "sugarcane",
+      "pointed gourd",
+      "cole crops",
       "fisheries"
    ],
-   "general_advisory": "Farmers are advised to proceed with sowing of Rabi pulses, oilseeds, and vegetables. Proper field surveillance for pests and diseases is recommended. Micronutrient deficiency may occur in crops due to waterlogged soil conditions.",
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, harvest and reduce the moisture by sun drying. Control rodent problems, powdery mildew, weed management, red rot disease, downy mildew, diamond back moth, and maintain proper water depth for fisheries.",
    "crops_data": {
-      "rice": {
+      "paddy": {
          "advisory": [
-            "Harvest rice crops which have reached 85% maturity and dry to proper moisture levels for consumption and seed purposes."
+            "Paddy is at soft dough-physiological maturity stage. Harvest the crop and store in a safe place after sun drying."
          ]
       },
       "rabi pulses": {
          "advisory": [
-            "Grow short-duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Tori."
+            "Sowing is ongoing, ensure seed treatment before sowing."
          ]
       },
       "oilseeds": {
          "advisory": [
-            "Properly utilize soil moisture for sowing oilseeds in medium/shallow lowlands."
+            "Seed treatment is mandatory before sowing."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Sow vegetables considering the current weather conditions and soil moisture."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Grow high-yielding varieties like T 9, PU 11, PU 19 for green gram."
+            "Transplant 30-45 days old vegetable seedlings.",
+            "Control leaf eating caterpillar and fruit borer in winter vegetables by applying specific pesticides."
          ]
       },
       "black gram": {
          "advisory": [
-            "Grow high-yielding varieties like T 9, PU 11, PU 19, PU 30 for black gram."
+            "At seedling-vegetative stage, watch out for powdery mildew disease and spray appropriate pesticides to control it."
          ]
       },
-      "cowpea": {
+      "green gram": {
          "advisory": [
-            "Consider suitable varieties for the region and manage soil moisture for cowpea cultivation."
-         ]
-      },
-      "field pea": {
-         "advisory": [
-            "Utilize available soil moisture for successful field pea growth."
-         ]
-      },
-      "lentil": {
-         "advisory": [
-            "Ensure proper soil moisture for lentil cultivation."
+            "At seedling-vegetative stage, monitor for pests and diseases for timely intervention."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Use appropriate groundnut varieties suitable for the region."
+            "Sowing stage, ensure proper conditions for growth."
          ]
       },
-      "tori": {
+      "sugarcane": {
          "advisory": [
-            "Sow Tori crops with consideration to the soil condition and moisture levels."
+            "At ripening stage, control red rot disease and maintain crop health.",
+            "Reduce feeding rates for fish in the winter season."
          ]
       },
-      "brinjal": {
+      "pointed gourd": {
          "advisory": [
-            "Control wilt and rot diseases in Brinjal through proper management practices."
+            "At seedling-vegetative stage, prevent downy mildew disease.",
+            "Install light traps for pests infestation management."
          ]
       },
-      "tomato": {
+      "cole crops": {
          "advisory": [
-            "Control wilt and rot diseases in Tomato through proper management practices."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Install traps for thrips infestation and use chemical control for effective management."
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "Manage Red Spider Mites in Marigold flowers through proper spray techniques."
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "Manage Red Spider Mites in Rose flowers through proper spray techniques."
+            "At vegetative stage, manage crops effectively."
          ]
       },
       "fisheries": {
          "advisory": [
-            "Treat fish ponds against fungal, bacterial, and parasitic diseases during winters for better fish health."
+            "Maintain proper water depth for fish in winter season."
          ]
       }
    },
-   "date": "06-11-2024"
+   "date": "19-11-2024"
 }

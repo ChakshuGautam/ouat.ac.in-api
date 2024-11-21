@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "06-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 81,
+         "rh_min": 40,
+         "wind_speed": 3,
+         "wind_direction": 60,
+         "cloud_cover": 3
+      },
+      "07-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 21,
+         "rh_max": 85,
+         "rh_min": 43,
+         "wind_speed": 4,
+         "wind_direction": 68,
+         "cloud_cover": 3
+      },
+      "08-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 86,
+         "rh_min": 43,
+         "wind_speed": 4,
+         "wind_direction": 52,
+         "cloud_cover": 4
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 88,
+         "rh_min": 42,
+         "wind_speed": 4,
+         "wind_direction": 56,
+         "cloud_cover": 4
+      },
+      "10-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 87,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 72,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "okra",
+      "cole crop",
+      "mango"
+   ],
+   "general_advisory": "Dry weather condition is expected in upcoming days, so farmers are advised to conduct agricultural operation during that period. Irrigation should be provided properly to different crops. Sowing of green fodder should be advised to avail proper diet to animals. Farmers should start sowing and planting of Cole crops where irrigation facilities are available. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers should maintain adequate moisture in rice field by applying one irrigation because there is very less chance of rainfall in upcoming days.",
+            "Pest Management: To control Brown Plant Hopper(BPH), spray Triflumezopyrim 10% sc @94 ml/acre or Pymetrozine 50% WG @ 120g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidachloprid 17.8% SL @ 50 ml/acre or Flonicamid 50% WG 60g/acre."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG @ 4g or Profenophos 50% EC @ 30 ml in 10 litres of water under clear weather."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control Fruit and shoot borer in Okra etc. spraying of Neem based pesticide 1500 ppm @600ml per acre should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC @ 70ml and Emamectin benzoate @ 80 g per acre at 15 days interval should be advised.",
+            "Farmers shouldn’t spray any chemical insecticides at flowering period."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Nursery bed should be prepared with  a length of 3m, 1m breadth and 15 -20 cm height. Before sowing, application of 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed should be advised. In case of improved varieties, 200 -250 grams of seed and for hybrid 100 -150 grams of seed is required for one acre area.",
+            "Where irrigation facilities are available, planting of crop is advised in already prepared field."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "In the old Mango orchard, training, pruning and cleaning of weed, diseased and infected branches and leaves should be advised. If leaf webber infestation occurs, then spraying of quinalfos 20 EC @ 2.5 ml per liter should be advised.",
+            "In newly planted mango orchard, if leaf cutting weevil attack is observed then farmers should spray Lambda cyhalothrin 5% EC  @ 0.5 -1 ml per liter or Chloropyriphos 20 EC @ 2ml per liter or Spinosad 45%  SC @ 0.4 ml per liter or quinalfos 20  EC @ 2 ml per liter to control this insect."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

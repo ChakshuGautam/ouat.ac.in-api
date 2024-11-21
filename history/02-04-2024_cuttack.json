@@ -58,76 +58,81 @@
       "tomato",
       "brinjal",
       "coconut",
-      "vegetables",
+      "vegetable",
+      "fingerlings",
       "black gram",
       "green gram",
       "okra",
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels to save water wastage. Mulch coconut leaves to reduce water loss. Harvest fingerlings in shallow ponds if water temperature rises. For better agricultural benefits, use OUAT KALINGA products.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop. Spread polythene in irrigation channels. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves. Cover vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds if water temperature rises. Manage Yellow Stem Borer in paddy. Manage blast disease. Manage Tobacco Caterpillar. Manage Early Shoot Borer in sugarcane. Manage Brinjal shoot and fruit borer. Prevent Whitefly Infestation in okra seeds. Properly store harvested onions. Control Mango hopper.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Water scarcity during critical stages reduces yield."
+            "Due to rise in temperature, manage Yellow Stem Borer in paddy with appropriate sprays.",
+            "Manage blast disease in paddy by spraying recommended fungicides."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Top-dress with potassium to protect from water scarcity."
+            "To manage early shoot borer, irrigate frequently during hot months.",
+            "Timely cut the attacked shoot just below the ground level."
          ]
       },
       "maize": {
          "advisory": [
-            "Irrigate the crop to meet increased water requirement."
+            "Irrigate the maize crop adequately due to high temperature."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply Streptocyclin in root zone to prevent wilting."
+            "Apply Streptocyclin in tomato in case of wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps to manage shoot and fruit borer.",
-            "Spray neem-based pesticide during pest infestation.",
-            "Use chemical control with specified insecticides."
+            "Manage Brinjal shoot and fruit borer."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves around the tree to reduce water loss."
+            "Mulch coconut leaves to reduce water loss."
          ]
       },
-      "vegetables": {
+      "vegetable": {
          "advisory": [
-            "Cover newly planted seedlings with paper caps during the day."
+            "Cover vegetable seedlings with paper caps during the day."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings in shallow ponds if water temperature rises."
          ]
       },
       "black gram": {
          "advisory": [
-            "Check for tobacco caterpillar migration and apply specified insecticides."
+            "Manage Tobacco Caterpillar in black gram."
          ]
       },
       "green gram": {
          "advisory": [
-            "Check for tobacco caterpillar migration and apply specified insecticides."
+            "Manage Tobacco Caterpillar in green gram."
          ]
       },
       "okra": {
          "advisory": [
-            "Treat seeds with Imidacloprid to prevent whitefly infestation.",
-            "Install yellow sticky traps for early detection."
+            "Treat okra seeds with Imidacloprid to prevent whitefly infestation."
          ]
       },
       "onion": {
          "advisory": [
-            "Cut tops after harvesting and dry bulbs properly for storage."
+            "Properly store harvested onions for longer preservation."
          ]
       },
       "mango": {
          "advisory": [
-            "Spray specified insecticides to control mango hoppers."
+            "To control mango hoppers, spray recommended insecticides."
          ]
       }
    },

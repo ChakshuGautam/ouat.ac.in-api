@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "06/11/2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 57,
+         "wind_speed": 9,
+         "wind_direction": 7,
+         "cloud_cover": 6
+      },
+      "07/11/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 59,
+         "wind_speed": 10,
+         "wind_direction": 10,
+         "cloud_cover": 5
+      },
+      "08/11/2024": {
+         "rainfall": 1,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 59,
+         "wind_speed": 11,
+         "wind_direction": 11,
+         "cloud_cover": 4
+      },
+      "09/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 88,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 14,
+         "cloud_cover": 3
+      },
+      "10/11/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 87,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 15,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "black gram",
+      "green gram",
+      "brinjal",
+      "chilli",
+      "marigold",
+      "rose",
+      "fisheries"
+   ],
+   "general_advisory": "Farmers are advised to grow short duration Rabi crops like Green gram, Black gram, Cowpea, Field pea, Lentil, Groundnut, Tori, and Sunflower. Proper field surveillance for pests and diseases regularly is recommended. Foliar spray of micronutrients is advised.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Harvest rice crops which have reached 85% maturity of the panicle and looks pale yellow in color. After threshing, paddy grains need to be sun-dried to 14% moisture for consumption purpose and for seed purpose, it should be dried to 12% moisture for better shelf-life."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use the groundnut varieties suitable to Odisha condition like Kalinga groundnut 101, Devi, 37A, TAG-51, TAG-38, TAG-24, Smruti, CO-7, Dharani etc. For one acre 40-50 kg groundnut seed kernel is required."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30 for black gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Grow high yielding varieties like K 851, PDM 11, PDM 54, OUM 115 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage wilt and rot disease in Brinjal, drench the root zone with a solution of Plantomycin and 20-gram (Metalaxyl 8% + Mancozeb 64% WP) or 10 ml Tebuconazole of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage thrips infestation, install Blue sticky trap @ 8 nos./acre. For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Marigold, spray wettable sulphur 80% WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57% EC @ 2 ml/litre of water or Fenpyroximate 5% EC @ 2 ml/litre of water."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Rose, spray wettable sulphur 80% WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57% EC @ 2 ml/litre of water or Fenpyroximate 5% EC @ 2 ml/litre of water."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, various fungal, bacterial and parasitic diseases may appear in fish. Treat the pond with CIFAX @ 400 ml/acre or limestone @ 50-100 kg/acre. Salt application @ 100 kg/acre also helps in protecting fish against disease outbreak during winters."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

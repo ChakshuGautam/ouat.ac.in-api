@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "2024-11-02": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 50,
+         "wind_speed": 3,
+         "wind_direction": 304,
+         "cloud_cover": 7
+      },
+      "2024-11-03": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 44,
+         "wind_speed": 4,
+         "wind_direction": 311,
+         "cloud_cover": 6
+      },
+      "2024-11-04": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 44,
+         "wind_speed": 4,
+         "wind_direction": 307,
+         "cloud_cover": 5
+      },
+      "2024-11-05": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 47,
+         "wind_speed": 4,
+         "wind_direction": 311,
+         "cloud_cover": 4
+      },
+      "2024-11-06": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 51,
+         "wind_speed": 4,
+         "wind_direction": 326,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "chick"
+   ],
+   "general_advisory": "Under clear sky conditions, adequate moisture in the soil for sowing of Rabi crops such as Groundnut, Green gram, Black gram, Cowpea, Sweet potato, Sesame, coriander and cole crops like cabbage, and cauliflower . Before winter vaccination should be done for PPR and FMP  in dairy animals.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Leaf Folder and Caseworm pest infestation observed in some places. To control Leaf Folder and Caseworm pest biologically apply 2 no. of Trichogramma chilonis card per acre. In field move a string over the paddy crop by stretching at both the ends of the field. By this method the larva of insects falls to the water and gets killed. To manage Leaf Folder and Case Worm pests in paddy, spray Fipronil 5% SC @ 400-ml/acre or Profenophos 50% EC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "After the rain to control root rot spray Thiophanate Methyl 1gm in 1 lt of water ."
+         ]
+      },
+      "chick": {
+         "advisory": [
+            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease."
+         ]
+      }
+   },
+   "date": "01-11-2024"
+}

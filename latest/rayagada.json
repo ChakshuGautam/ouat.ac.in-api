@@ -1,58 +1,90 @@
 {
    "weather_details": {
-      "2024-11-02": {
-         "rainfall": 4,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 95,
-         "rh_min": 50,
-         "wind_speed": 0,
-         "wind_direction": 0,
+      "2024-11-13": {
+         "rainfall": 3,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 93,
+         "rh_min": 49,
+         "wind_speed": 3,
+         "wind_direction": 13,
          "cloud_cover": 6
       },
-      "2024-11-03": {
+      "2024-11-14": {
          "rainfall": 1,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 94,
-         "rh_min": 42,
-         "wind_speed": 1,
-         "wind_direction": 18,
-         "cloud_cover": 5
-      },
-      "2024-11-04": {
-         "rainfall": 0,
          "t_max": 31,
-         "t_min": 22,
+         "t_min": 19,
          "rh_max": 94,
-         "rh_min": 42,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 5
-      },
-      "2024-11-05": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 92,
-         "rh_min": 42,
-         "wind_speed": 1,
-         "wind_direction": 90,
+         "rh_min": 45,
+         "wind_speed": 3,
+         "wind_direction": 16,
          "cloud_cover": 4
       },
-      "2024-11-06": {
+      "2024-11-15": {
          "rainfall": 0,
          "t_max": 31,
-         "t_min": 22,
-         "rh_max": 92,
-         "rh_min": 48,
-         "wind_speed": 1,
+         "t_min": 19,
+         "rh_max": 90,
+         "rh_min": 37,
+         "wind_speed": 2,
          "wind_direction": 18,
-         "cloud_cover": 3
+         "cloud_cover": 5
+      },
+      "2024-11-16": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 83,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "2024-11-17": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 78,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 338,
+         "cloud_cover": 1
       }
    },
-   "names_of_crops": [],
-   "general_advisory": "Soil moisture is adequate for sowing of rabi crops. Optimum time for sowing vegetables like cole crops, solanaceous vegetables. Ideal time for hard pruning in rose. Optimum weather for beans planting.",
-   "crops_data": {},
-   "date": "01-11-2024"
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "okra/ladyfinger",
+      "menacinakahi",
+      "chilli"
+   ],
+   "general_advisory": "If stored rice grain infestation occurs, take up fumigation by using Aluminium phosphide tablets @ of 3 tab / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gap. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If population of Brown Planthopper (BPH) exceeds ETL (5-10 hoppers/hill), it is advised to alter the micro-climate of the rice field by alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Triflumezopyrim 10% SC @ 94 ml/acre or Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidacloprid 17.8% SL @ 50 ml/acre or Acephate 75% SP @ 400 g/acre. Use pesticides recommended for BPH at specified dose only . Avoid using nitrogenous fertilizers during infestation of BPH."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Now high temperature and humid conditions are favorable for the infestation of sucking pests in cotton. If there is infestation of Aphids and Jassids in early sown cotton crop, go for spraying of Acetamiprid 20%SP 20gm/acre or neem-based pesticide Neem Oil 1500 PPM @600-ml/acre by mixing it in 200-litre of water ."
+         ]
+      },
+      "okra/ladyfinger": {
+         "advisory": [
+            "To prevent okra from stem & fruit borer apply 70 ml Spinosad or 60gm Ammonium benzoate in 200 liter of water per acre."
+         ]
+      },
+      "menacinakahi": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in Chilly apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water ."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in Chilly apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water ."
+         ]
+      }
+   },
+   "date": "12-11-2024"
 }

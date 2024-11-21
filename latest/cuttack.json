@@ -53,86 +53,60 @@
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "maize",
+      "sugarcane",
       "tomato",
       "brinjal",
-      "coconut",
-      "vegetable",
-      "fingerlings",
       "black gram",
-      "green gram",
       "okra",
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop. Spread polythene in irrigation channels. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves. Cover vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds if water temperature rises. Manage Yellow Stem Borer in paddy. Manage blast disease. Manage Tobacco Caterpillar. Manage Early Shoot Borer in sugarcane. Manage Brinjal shoot and fruit borer. Prevent Whitefly Infestation in okra seeds. Properly store harvested onions. Control Mango hopper.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover the rows with dry leaves in Sugarcane. Manage water scarcity by applying sprinkler irrigation. Proper irrigation for maize crop. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves around a coconut tree. Cover newly planted vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds if water temperature rises. Manage Yellow stem borer in paddy and Blast Disease.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Due to rise in temperature, manage Yellow Stem Borer in paddy with appropriate sprays.",
-            "Manage blast disease in paddy by spraying recommended fungicides."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "To manage early shoot borer, irrigate frequently during hot months.",
-            "Timely cut the attacked shoot just below the ground level."
+            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit during these stages."
          ]
       },
       "maize": {
          "advisory": [
-            "Irrigate the maize crop adequately due to high temperature."
+            "High temperature increases water requirement of maize crop. Irrigate the crop timely."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Cover the rows with dry leaves. Top-dress with 4% potassium. Apply sprinkler irrigation. Irrigate frequently during hot months."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply Streptocyclin in tomato in case of wilting."
+            "High temperature may lead to wilting. Apply 1g Streptocyclin in root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Manage Brinjal shoot and fruit borer."
-         ]
-      },
-      "coconut": {
-         "advisory": [
-            "Mulch coconut leaves to reduce water loss."
-         ]
-      },
-      "vegetable": {
-         "advisory": [
-            "Cover vegetable seedlings with paper caps during the day."
-         ]
-      },
-      "fingerlings": {
-         "advisory": [
-            "Harvest fingerlings in shallow ponds if water temperature rises."
+            "Install pheromone traps. Spray neem-based pesticide during primary stage of pest infestation."
          ]
       },
       "black gram": {
          "advisory": [
-            "Manage Tobacco Caterpillar in black gram."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Manage Tobacco Caterpillar in green gram."
+            "Check migration of caterpillars. For chemical control, spray recommended insecticides."
          ]
       },
       "okra": {
          "advisory": [
-            "Treat okra seeds with Imidacloprid to prevent whitefly infestation."
+            "Treat okra seeds with Imidacloprid before sowing. Install yellow sticky traps to prevent whitefly infestation."
          ]
       },
       "onion": {
          "advisory": [
-            "Properly store harvested onions for longer preservation."
+            "After harvesting, cut the tops leaving 2.0-2.5 cm above bulb. Dry harvested bulbs in a ventilated room."
          ]
       },
       "mango": {
          "advisory": [
-            "To control mango hoppers, spray recommended insecticides."
+            "To control mango hoppers, spray recommended insecticides. Use smoke below plants to reduce pest population."
          ]
       }
    },

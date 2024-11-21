@@ -1,49 +1,49 @@
 {
    "weather_details": {
-      "2023-01-01": {
+      "2022-01-01": {
          "rainfall": 5,
-         "t_max": 25,
-         "t_min": 15,
+         "t_max": 30,
+         "t_min": 20,
          "rh_max": 80,
-         "rh_min": 60,
+         "rh_min": 50,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 4
+         "cloud_cover": 3
       },
-      "2023-01-02": {
-         "rainfall": 0,
+      "2022-01-02": {
+         "rainfall": 2,
          "t_max": 28,
          "t_min": 18,
          "rh_max": 75,
-         "rh_min": 55,
+         "rh_min": 45,
          "wind_speed": 12,
-         "wind_direction": 220,
-         "cloud_cover": 3
+         "wind_direction": 200,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "wheat",
-      "tomato",
-      "mango"
+      "rice",
+      "poultry"
    ],
-   "general_advisory": "It is recommended to monitor crop health regularly due to sudden weather changes. Be cautious of pests and diseases.",
+   "general_advisory": "It is recommended to plant wheat and rice during this season. Take care of the poultry birds during the weather changes.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Apply fertilizer based on soil test results.",
-            "Monitor for rust and treat accordingly."
+            "Plant wheat in well-drained fertile soil",
+            "Provide adequate water during the initial growth stage"
          ]
       },
-      "tomato": {
+      "rice": {
          "advisory": [
-            "Provide adequate irrigation to avoid blossom end rot.",
-            "Trellis the plants to support growth."
+            "Keep the rice paddies flooded during the growth period",
+            "Use organic fertilizers for better growth"
          ]
       },
-      "mango": {
+      "poultry": {
          "advisory": [
-            "Prune the trees to improve fruiting.",
-            "Protect from fruit flies using traps."
+            "Ensure proper ventilation in poultry houses",
+            "Monitor for any signs of diseases regularly"
          ]
       }
    },

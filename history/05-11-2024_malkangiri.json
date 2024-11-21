@@ -1,0 +1,103 @@
+{
+   "weather_details": {
+      "01.11.2024": {
+         "rainfall": 8,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "02.11.2024": {
+         "rainfall": 1,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "03.11.2024": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "04.11.2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "pulses",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "cow",
+      "buffalo"
+   ],
+   "general_advisory": "Based on five days weather forecast received from IMD, farmers can continue intercultural operations, harvesting of matured produces and application pesticides mixed with sticker during next five days period as needed. Field preparation should be started for rabi crops. Farmers are advised to transplant mature seedlings (35 -40 days old) of cauliflower, cabbage, broccoli, tomato etc. in raised bed during clear weather. Regular surveillance work should be taken up in all crops in order to know the incidence of various insect pests and initiate the control strategies.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "For neck blast disease management apply Tricyclazole (Beam) @ 0.6 g/l of water (120 g/ac).",
+            "To control steam borer & leaf folder spray chlorpyriofos/profenofos @ 2 ml/ l of water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "American Cob Borer: Apply Flubendiamide 39.35 % SC @ 4 ml mixed with 10 liters of water to control infestation of American cob borer."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Present weather conditions are favorable for sowing of Horse gram & Bengal gram. Hence, farmers are advised to sow the seeds depending upon moisture status of the soil. Before sowing, seeds should be treated with fungicide followed by Rhizobium culture @ 20g/kg seed to enhance nodulation."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 8-10 Kg/ha, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/ l of water to control insects in mustard & toria at seedling stage."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Prepare nursery beds, each measuring 3m length, 1m breadth and 15 -20 cm height. Apply 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200 -250 grams of seed is required for one acre area of cultivation and 100 -150 grams of seed is required in case of hybrids.",
+            "Cauliflower (60 -75 days) - HYV: Pusa Early Synthetic, Early Kuanri, Kartika, Pusa Dipali, Arka kranti, Arka Surathi, Hybrid: Sweta, Puspagiri, Tusar Goodman etc."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Prepare nursery beds, each measuring 3m length, 1m breadth and 15 -20 cm height. Apply 15 -30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed seven days prior to sowing. In case of improved varieties, 200 -250 grams of seed is required for one acre area of cultivation and 100 -150 grams of seed is required in case of hybrids.",
+            "Cabbage (60 -75 days) - HYV: Golden Acre, Pride of India, Pusa Sambandh Hybrid: Green ball, Priya, Genith gold star, Pragati etc."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot - and-mouth disease, PPR."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Regularly check animals for signs of dehydration, heat stress, and parasitic infections. Deworm animals as needed and vaccinate them against common diseases such as foot - and-mouth disease, PPR."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

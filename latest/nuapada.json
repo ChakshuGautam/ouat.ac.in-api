@@ -1,124 +1,142 @@
 {
    "weather_details": {
-      "02-11-2024": {
-         "rainfall": 0.4,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 85.3,
-         "rh_min": 39.9,
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 71,
+         "rh_min": 34,
          "wind_speed": 2,
-         "wind_direction": 296,
-         "cloud_cover": 4
+         "wind_direction": 307,
+         "cloud_cover": 0
       },
-      "03-11-2024": {
-         "rainfall": 0.1,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 73.6,
-         "rh_min": 36.3,
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 292,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 33,
          "wind_speed": 1,
-         "wind_direction": 0,
-         "cloud_cover": 4
+         "wind_direction": 304,
+         "cloud_cover": 1
       },
-      "04-11-2024": {
-         "rainfall": 0.1,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 73.8,
-         "rh_min": 35.3,
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 31,
          "wind_speed": 2,
-         "wind_direction": 258,
-         "cloud_cover": 3
+         "wind_direction": 281,
+         "cloud_cover": 0
       },
-      "05-11-2024": {
-         "rainfall": 0.2,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 73.9,
-         "rh_min": 36.5,
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 65,
+         "rh_min": 30,
          "wind_speed": 2,
-         "wind_direction": 225,
-         "cloud_cover": 3
-      },
-      "06-11-2024": {
-         "rainfall": 0.2,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 79.8,
-         "rh_min": 41.4,
-         "wind_speed": 1,
-         "wind_direction": 236,
-         "cloud_cover": 2
+         "wind_direction": 315,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "paddy",
+      "green gram",
+      "black gram",
+      "toria",
+      "chick pea",
+      "lentil",
+      "sunflower",
+      "groundnut",
+      "cowpea",
+      "field pea",
       "cotton",
-      "mustard & toria",
-      "arhar",
-      "brinjal",
-      "chilli",
-      "cattle & buffalo",
-      "goat & sheep",
-      "poultry"
+      "greengram",
+      "cabbage"
    ],
-   "general_advisory": "Harvest the matured vegetables & pulses and store in a safe place. Protect the vegetable nursery of Chilli, tomato, onion, cole crops and brinjal etc. from rain by covering with plastic or polythene sheet. Field preparation should be started for rabi crops. Now is the suitable time for sowing mustard, sarson, sunflower, field pea, carrot, radish etc. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas.",
+   "general_advisory": "Based on the five-day weather forecast of IMD, farmers are advised to continue necessary agricultural activities, including weeding, fertilization, irrigation, harvesting, and pesticide application. Undertake sowing of rabi crops like green gram, black gram, toria, chick pea, lentil, sunflower, groundnut, cowpea, field pea, etc. in medium or shallow low land to utilize the available soil moisture in the field.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured. Dry grains to appropriate moisture content."
+            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Suitable time for sowing green gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing.",
+            "Seed rate: 8-10 kg/acre",
+            "Suitable varieties: Green gram -IPM 2-03, Virat, Sikha, MH 1142, K-851, PDM 11, PDM-14, OUM-115"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Suitable time for sowing black gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing.",
+            "Seed rate: 8-10 kg/acre",
+            "Suitable varieties: Black gram -PU-10, PU-11, PU-19, PU-30, PU-31, T9"
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Suitable time for sowing toria."
+         ]
+      },
+      "chick pea": {
+         "advisory": [
+            "Undertake sowing of chick pea in suitable areas."
+         ]
+      },
+      "lentil": {
+         "advisory": [
+            "Sowing of lentil in recommended areas."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Suitable time for sowing sunflower."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Suitable time for sowing groundnut."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Suitable time for sowing cowpea in recommended areas."
+         ]
+      },
+      "field pea": {
+         "advisory": [
+            "Suitable time for sowing field pea."
          ]
       },
       "cotton": {
          "advisory": [
-            "Apply Emamectin benzoate or Profenophos for American bollworm control.",
-            "Apply Streptocycline + Copper Oxychloride for bacterial leaf blight control.",
-            "Spray Copper Oxychloride + Plantomycin for grey mildew infestation."
+            "Picking should be done when there is complete bursting of bolls. Dry the seed cotton on concrete floor or tarpaulin sheets to reduce the moisture to 8-10%."
          ]
       },
-      "mustard & toria": {
+      "greengram": {
          "advisory": [
-            "Treat the seed before sowing. Use suitable varieties."
+            "Suitable time for sowing green gram."
          ]
       },
-      "arhar": {
+      "cabbage": {
          "advisory": [
-            "Control leaf webber/leaf folder/defoliators with specified pesticides.",
-            "Control pod borer with neem-based pesticides."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Use pheromone traps for borer insect monitoring.",
-            "Spray specified chemicals for control."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Install blue sticky traps for thrips control.",
-            "Spray specified chemicals for thrips management."
-         ]
-      },
-      "cattle & buffalo": {
-         "advisory": [
-            "Deworm and vaccinate animals regularly.",
-            "Consult veterinary doctors for reproductive issues."
-         ]
-      },
-      "goat & sheep": {
-         "advisory": [
-            "Check animals for dehydration, heat stress, and parasitic infections.",
-            "Deworm and vaccinate animals as needed."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Maintain cleanliness in poultry houses by using raised platforms and deep litter systems.",
-            "Regularly clean and disinfect the house to prevent pathogen buildup.",
-            "Maintain appropriate stocking density to reduce stress and prevent overheating."
+            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm."
          ]
       }
    },
-   "date": "01-11-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "19-11-2024"
 }

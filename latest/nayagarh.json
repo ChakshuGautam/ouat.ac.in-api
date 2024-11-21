@@ -1,139 +1,99 @@
 {
    "weather_details": {
-      "03/04/2024": {
+      "2024-11-09": {
          "rainfall": 0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 46,
-         "rh_min": 11,
-         "wind_speed": 8,
-         "wind_direction": 288,
-         "cloud_cover": 0
-      },
-      "04/04/2024": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 63,
-         "rh_min": 10,
-         "wind_speed": 7,
-         "wind_direction": 198,
-         "cloud_cover": 1
-      },
-      "05/04/2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 27,
-         "rh_max": 53,
-         "rh_min": 16,
-         "wind_speed": 9,
-         "wind_direction": 207,
-         "cloud_cover": 1
-      },
-      "06/04/2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 27,
-         "rh_max": 51,
-         "rh_min": 12,
-         "wind_speed": 9,
-         "wind_direction": 165,
-         "cloud_cover": 1
-      },
-      "07/04/2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 27,
-         "rh_max": 35,
-         "rh_min": 8,
-         "wind_speed": 10,
-         "wind_direction": 202,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 93,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 326,
          "cloud_cover": 2
+      },
+      "2024-11-10": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 92,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 330,
+         "cloud_cover": 2
+      },
+      "2024-11-11": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 91,
+         "rh_min": 47,
+         "wind_speed": 3,
+         "wind_direction": 334,
+         "cloud_cover": 3
+      },
+      "2024-11-12": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 87,
+         "rh_min": 47,
+         "wind_speed": 3,
+         "wind_direction": 337,
+         "cloud_cover": 3
+      },
+      "2024-11-13": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 84,
+         "rh_min": 40,
+         "wind_speed": 3,
+         "wind_direction": 320,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "paddy",
-      "sugarcane",
-      "maize",
-      "tomato",
+      "rice",
+      "pigeon pea",
       "brinjal",
-      "coconut",
-      "vegetables",
-      "fingerlings",
-      "black gram",
-      "green gram",
-      "onion",
-      "mango",
-      "okra"
+      "chilli",
+      "mushroom",
+      "chicken"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Cover rows with dry leaves in sugarcane. Apply sprinkler irrigation for heat effect. Irrigate maize adequately. Spread polythene in irrigation channels for water savings. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves and cover vegetable seedlings. Harvest fingerlings in shallow ponds. For crops like sugarcane and brinjal, specific advice is provided for disease and pest management.",
+   "general_advisory": "Dry weather is likely to prevail in the district.",
    "crops_data": {
-      "paddy": {
+      "rice": {
          "advisory": [
-            "Yellow stem borer management",
-            "Blast disease management"
+            "If medium duration variety of rice is in milking stage then keep standing water upto 3-4 inches. If short duration rice varieties have attained 85% physiological maturity, then harvest it.",
+            "Inorder to control sheath blight in rice, spray Validamycin @ 400 ml or (Trifloxistrobin + Tebuconazole) @ 80 g in 200 litres of water per acre of land.",
+            "Inorder to control green leaf hopper in rice, spray Thiamethoxam @ 100 g in 200 litres of water per acre of land."
          ]
       },
-      "sugarcane": {
+      "pigeon pea": {
          "advisory": [
-            "Early shoot borer management"
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Irrigate the crop adequately"
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Apply 1g Streptocyclin in 10 liter water in root zone"
+            "Pod borer in pigeon pea cultivation has been noticed in some places. Spray Chlorantraniliprole @ 80 ml in 200 litres of water per acre of land to control it."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal shoot and fruit borer management"
+            "Wilting has been noticed in brinjal. Soil drench with Copper oxychloride 50 WP @ 2 gm + Streptocyclin @ 0.1 gm per liter of water to control it.",
+            "Fruit rot disease in brinjal crop has been noticed. Foliar spray with Thiophenate methyl @ 300 g in 200 litre of water per acre of land."
          ]
       },
-      "coconut": {
+      "chilli": {
          "advisory": [
-            "Mulch coconut leaves 1.8 m around a coconut tree"
+            "Thrips and mites are noticed in chilli. Foliar spray with Propar gite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
          ]
       },
-      "vegetables": {
+      "mushroom": {
          "advisory": [
-            "Cover with paper caps on the newly planted vegetable seedlings during day time"
+            "If flies or its larva are seen in mushroom bed, spray 1-1.5 ml Dichlorovos or 1.5-2 ml Malathion in 1 litre of water around the mushroom bed/bag and close the mushroom shed for one day."
          ]
       },
-      "fingerlings": {
+      "chicken": {
          "advisory": [
-            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C"
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Tobacco caterpillar management"
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Tobacco caterpillar management"
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "After harvesting cut the tops leaving 2.0-2.5 cm above bulb"
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Mango hopper management"
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Whitefly infestation prevention"
+            "Deworming of chicks should be done once in every 2-3 months."
          ]
       }
    },
-   "date": "02-04-2024"
+   "date": "11-11-2024"
 }

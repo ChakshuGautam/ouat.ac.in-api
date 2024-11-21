@@ -1,108 +1,108 @@
 {
    "weather_details": {
-      "06/11/2024": {
+      "20/11/2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 19,
-         "rh_max": 82,
-         "rh_min": 42,
-         "wind_speed": 3,
-         "wind_direction": 40,
-         "cloud_cover": 4
-      },
-      "07/11/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 19,
-         "rh_max": 83,
-         "rh_min": 43,
+         "t_max": 30,
+         "t_min": 13,
+         "rh_max": 72,
+         "rh_min": 30,
          "wind_speed": 4,
-         "wind_direction": 34,
-         "cloud_cover": 3
+         "wind_direction": 22,
+         "cloud_cover": 1
       },
-      "08/11/2024": {
+      "21/11/2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 19,
-         "rh_max": 86,
-         "rh_min": 44,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 74,
+         "rh_min": 31,
          "wind_speed": 4,
-         "wind_direction": 31,
-         "cloud_cover": 3
+         "wind_direction": 29,
+         "cloud_cover": 0
       },
-      "09/11/2024": {
+      "22/11/2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 86,
-         "rh_min": 43,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 74,
+         "rh_min": 31,
          "wind_speed": 4,
-         "wind_direction": 31,
+         "wind_direction": 29,
          "cloud_cover": 2
       },
-      "10/11/2024": {
+      "23/11/2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 83,
-         "rh_min": 40,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 71,
+         "rh_min": 29,
          "wind_speed": 4,
-         "wind_direction": 49,
-         "cloud_cover": 2
+         "wind_direction": 29,
+         "cloud_cover": 0
+      },
+      "24/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 11,
+         "rh_max": 66,
+         "rh_min": 27,
+         "wind_speed": 4,
+         "wind_direction": 31,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "paddy",
-      "mung",
-      "wheat",
+      "groundnut",
+      "gram",
       "potato",
       "mustard",
-      "brinjal",
-      "animals",
-      "pisciculture"
+      "vegetables",
+      "poultry",
+      "animal husbandry"
    ],
-   "general_advisory": "In case of moisture stress in pockets, foliar application of 1% KCL solution at reproductive stages will reduce the impact of moisture condition without much loss in yield. For rabi crops, farmers can start their field operations in fallow fields in November month. Tractor drawn rotavator or cultivator can be used and shallow ploughing should be done.",
+   "general_advisory": "For rabi crops, farmers can start their field operations in fallow fields in November month. In case of sufficient moisture in field, sow paira crop.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "The timely sown crop when more than 85% panicle turns yellow than go for harvesting the crop and dry it under sun for 2-3 days."
+            "False smut endemic area, spray Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr Repeat the spraying at seven days interval for effective control of false smut."
          ]
       },
-      "mung": {
+      "groundnut": {
          "advisory": [
-            "In November month, Mung variety like Tram-1, OUM 11-5, Hum-1, IP14-02, IP-02-03 of 8-10 kg per care is to be sown. Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds. After seven days before sowing in the previous night go for Rhizobium treatment @ 20 g per kg of seeds. Also treat with Ammonium Molbdate @ 3 g per 10 kg of seeds for proper nodulation."
+            "Due to decreasing temperature, without delay go for sowing of groundnut like Dharani, Kalinga chinabadam, Kadri. Apply 35 kg DAP and 4kg Urea and 26 kg MOP per acre in the furrows before sowing. Keep line to line spacing of 25 cm and plant to plant spacing of 10 cm and put the seed in 3 cm depth."
          ]
       },
-      "wheat": {
+      "gram": {
          "advisory": [
-            "Collect good quality seeds like UP 262, Kalyansona. Treat the seeds with vitavax power @ 2 g per kg seeds. Before sowing also treat with 600 g PSB per acre. The seed rate is 40 kg per acre."
+            "Sowing of gram should be done. Before sowing farmers are advised to ensure optimum soil moisture for better seed germination. Seed rate: - 60-80 kilogram for small and medium sized varieties and 80 - 100 kilograms for big sized varieties. R x R spacing to be maintained 30-35 cm. Before sowing, seed should be treated with Rhizobium culture and phosphorus solublesing bacteria."
          ]
       },
       "potato": {
          "advisory": [
-            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed. The fertilizer dose at the final land preparation is 5 t FYM, 24-24-48 kg NPK per acre."
+            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. For proper germination keep the seed material inside gunny bag for 5 -7 days. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed. Apply 5 t FYM/acre at final land preparation."
          ]
       },
       "mustard": {
          "advisory": [
-            "In the residual soil moisture condition the toria seeds like Sushree, M27, Anuradha etc. 3 kg seeds are required for cultivation in one acre. Sow the seed in line at a distance of 30 cm. (Row to row) and 10 cm. (Plant to plant)."
+            "At 10 days after sowing go for thinning operation and keep healthy plants and maintain proper plant population."
          ]
       },
-      "brinjal": {
+      "vegetables": {
          "advisory": [
-            "There is chances of Shoot and fruit borer infestation. Spray emamectin benzoate 5% SG @ 80 g in 200 l of water/acre or carbaryl 50% WP @ 800 g in 200 l of water/acre."
+            "At present farmers may raise the seedlings of winter vegetables like cauliflower, cabbage, chilli, tomato, brinjal etc. Seeds should be treated with fungicide before sowing."
          ]
       },
-      "animals": {
+      "poultry": {
          "advisory": [
-            "Prepare the animal shed from the upcoming decreased temperature"
+            "To keep warm the poultry house keep bulbs to maintain temperature. Cover the house with gunny bags."
          ]
       },
-      "pisciculture": {
+      "animal husbandry": {
          "advisory": [
-            "Give mineral feed @ 3% of the body mass."
+            "For protection from cold, the shed house to be kept warm."
          ]
       }
    },
-   "date": "05-11-2024"
+   "date": "19-11-2024"
 }

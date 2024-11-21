@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "06-11-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 84,
+         "rh_min": 44,
+         "wind_speed": 3,
+         "wind_direction": 164,
+         "cloud_cover": 3
+      },
+      "07-11-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 89,
+         "rh_min": 45,
+         "wind_speed": 1,
+         "wind_direction": 124,
+         "cloud_cover": 3
+      },
+      "08-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 91,
+         "rh_min": 49,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 4
+      },
+      "09-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 91,
+         "rh_min": 47,
+         "wind_speed": 2,
+         "wind_direction": 112,
+         "cloud_cover": 4
+      },
+      "10-11-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 17,
+         "rh_max": 88,
+         "rh_min": 41,
+         "wind_speed": 2,
+         "wind_direction": 108,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "cotton",
+      "sunflower",
+      "brinjal",
+      "chilli",
+      "paddy"
+   ],
+   "general_advisory": "In view of above five days weather forecast received from IMD, farmers are advised to carry out weeding, fertilization, irrigation, harvesting, and application of plant protection chemicals as needed. Farmers are advised to transplant 30-45 days old vegetable seedlings like chilli, tomato, capsicum, cabbage, cauliflower, brinjal etc. in the main field. Rouging of viral infested crop should be done in chilli, tomato & brinjal. Infected plants should be uprooted and buried in the soil. Now is the suitable time for sowing mustard, sarson, sunflower, field pea, carrot, radish etc. So, farmers are advised to act accordingly. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas. Apply 20-25 kg DAP + 10 kg MoP per acre as basal before sowing Mustard.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "Sowing should be completed by first fortnight of November. Treat the seed with Thiram @ 2.5g/kg or Bavistin @ 2g/kg seed before sowing. Seed rate for Mustard 2.5-3 kg/acre and 1.5-2.0 kg/acre is for Toria. Suitable variety: Mustard -Pusa bold, Pusa Jaikisan, JD-6. Toria - M 29, Anuradha, Parbati. Nutrient Management: Apply 20-25 kg DAP + 10 kg MoP per acre as basal and 35-40 kg Urea + 5 kg MoP/acre before 1st irrigation."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking should be done when there is complete bursting of bolls. Dry the seed cotton on concrete floor or tarpaulin sheets to reduce the moisture to 8-10%. Store the seed cotton obtained from the 1st picking separately for getting better price. Foliar spray of liquid fertilizers like NPK-19-19-19 should be done @ 20 g/10 liters of water for better plant growth and boll development. Regular monitoring of the crop to know about incidence of any new pest and diseases."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Sowing should be completed by Mid-November. Treat the seed with Vitavax power (Carboxin+Thiram) @ 2.5g/kg or Metalaxyl @ 5g/kg seed before sowing. Seed rate: Inbred-4kg/ac and Hybrid-2kg/ac. Suitable variety: Inbred-Modern, TNAUSUF-7, DRSF-108 (90 days), Hybrid-PAC 36, KBSH 1, MSFH 8, MSFH 17 (95-110 days)"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "For monitoring of borer insect, farmers are advised to use pheromone trap @ 8/acre. To control chemically, spray Spinosad 45% SC @ 1.5 ml/4 liters of water or Emamectin benzoate 5% SG @ 4g/10 ltr of water or Thiodicarb 75% WP @ 2ml/ltr of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Infestation of thrips has been noticed. Plants are affected by thrips if leaves curl upward. To manage thrips infestation install Blue sticky trap @ 8 nos./acre. For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life. Pest Management: Gundhi bug: In prevailing weather condition, infestation of Gundhi bug may notice during milking stage. If more than 2 adults/hill is noticed, Chlorpyriphos 20% EC @ 400 ml or apply Chloropyriphos 20% EC @ 400 ml/acre or Imidacloprid 06% + Lambda-cyhalothrin 04% SL @ 120 ml/acre as foliar spray mixed with 200 liters of water."
+         ]
+      }
+   },
+   "date": "05-11-2024"
+}

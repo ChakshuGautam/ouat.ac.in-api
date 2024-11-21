@@ -11,7 +11,7 @@
          "cloud_cover": 7
       },
       "2024-11-03": {
-         "rainfall": 0,
+         "rainfall": 0.1,
          "t_max": 32,
          "t_min": 25,
          "rh_max": 90,
@@ -21,7 +21,7 @@
          "cloud_cover": 6
       },
       "2024-11-04": {
-         "rainfall": 0,
+         "rainfall": 0.1,
          "t_max": 32,
          "t_min": 24,
          "rh_max": 86,
@@ -31,7 +31,7 @@
          "cloud_cover": 5
       },
       "2024-11-05": {
-         "rainfall": 0,
+         "rainfall": 0.1,
          "t_max": 31,
          "t_min": 24,
          "rh_max": 89,
@@ -54,25 +54,32 @@
    "names_of_crops": [
       "rice",
       "groundnut",
-      "chick"
+      "poultry",
+      "others (soil / land preparation)"
    ],
-   "general_advisory": "Under clear sky conditions, adequate moisture in the soil for sowing of Rabi crops such as Groundnut, Green gram, Black gram, Cowpea, Sweet potato, Sesame, coriander and cole crops like cabbage, and cauliflower . Before winter vaccination should be done for PPR and FMP  in dairy animals.",
+   "general_advisory": "Under clear sky conditions, adequate moisture in the soil for sowing of Rabi crops such as Groundnut, Green gram, Black gram, Cowpea, Sweet potato, Sesame, coriander and cole crops like cabbage, and cauliflower. Before winter vaccination should be done for PPR and FMP in dairy animals. There is a possibility of root rot in vegetable crops after rains, so after the rains, soak the roots of these crops with 20 grams of metalaxyl and mancozeb and 1.5 grams of streptocycline per 1 liter of water.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Leaf Folder and Caseworm pest infestation observed in some places. To control Leaf Folder and Caseworm pest biologically apply 2 no. of Trichogramma chilonis card per acre. In field move a string over the paddy crop by stretching at both the ends of the field. By this method the larva of insects falls to the water and gets killed. To manage Leaf Folder and Case Worm pests in paddy, spray Fipronil 5% SC @ 400-ml/acre or Profenophos 50% EC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
+            "Leaf Folder and Caseworm pest infestation observed in some places. To control Leaf Folder and Caseworm pest biologically apply 2 no. of Trichogramma chilonis card per acre. In field move a string over the paddy crop by stretching at both the ends of the field. By this method the larva of insects falls to the water and gets killed. To manage Leaf Folder and Case Worm pests in paddy spray Fipronil 5% SC @ 400-ml/acre or Profenophos 50% EC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
          ]
       },
       "groundnut": {
          "advisory": [
-            "After the rain to control root rot spray Thiophanate Methyl 1gm in 1 lt of water ."
+            "After the rain to control root rot spray Thiophanate Methyl 1gm in 1 lt of water."
          ]
       },
-      "chick": {
+      "poultry": {
          "advisory": [
             "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease."
          ]
+      },
+      "others (soil / land preparation)": {
+         "advisory": [
+            "There is a possibility of root rot in vegetable crops after rains, so after the rains, soak the roots of these crops with 20 grams of metalaxyl and mancozeb and 1.5 grams of streptocycline per 1 liter of water."
+         ]
       }
    },
-   "date": "01-11-2024"
+   "date": "01-11-2024",
+   "ERROR": "Not getting consistent data."
 }
