@@ -1,0 +1,113 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 78,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 56,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 77,
+         "rh_min": 33,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 0
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 78,
+         "rh_min": 32,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 82,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "black gram",
+      "green gram",
+      "rabi groundnut",
+      "mustard",
+      "beans",
+      "brinjal",
+      "chilli"
+   ],
+   "general_advisory": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop fields as per requirement. Complete nursery sowing for winter vegetable crops. Irrigate the nursery during morning and evening time. Go for sowing of pea, gram, and green gram as paira crop fifteen days prior to the harvest of paddy in low land.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The medium and late duration paddy crop is at panicle emergence to grain filling stage. Keep water in the field up to grain filling stage.",
+            "Stem borer infestation may observe during PI to soft dough stage. To control it spray Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water or Cartrap hydrochloride 50% SP @ 2 g/litre of water during afternoon hours.",
+            "Chances of gundhi bug incidence for crop at milking stage. If observe spray Ethofenoprox 10% EC @ 1 ml/litre of water."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Complete the sowing of black gram and green gram in upland. Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30 for black gram; and K 851, PDM 11, PDM 54, OUM 115 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Complete the sowing of black gram and green gram in upland. Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30 for black gram; and K 851, PDM 11, PDM 54, OUM 115 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture."
+         ]
+      },
+      "rabi groundnut": {
+         "advisory": [
+            "Go for land preparation and sowing of rabi groundnut at a spacing of 25 cm x 10 cm with the seed rate of 50 kg/acre. Apply 35 kg DAP, 4 kg urea, and 27 kg MoP per acre along with 10 kg zinc sulfate and 4 kg borax/acre as basal. Before sowing seed should be treated with 10 g Trichoderma harzianum/viride or 3 g Carboxin 37.5% + Thiram 37.5% DS for one kg seed."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
+            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 2-3 Kg/ac, Spacing - 30 cm X 10 cm.",
+            "Spray neem oil 5 ml/l of water to control insects in mustard & toria at seedling stage."
+         ]
+      },
+      "beans": {
+         "advisory": [
+            "The weather is optimum for french bean sowing. Grow high yielding varieties such as Contender and Arka Kamal and Kentucky Wonder. Use 10 -20 kg seeds/acre depending upon the bean type. Apply 10 tons of FYM/acre and apply 10:30:20 kg NPK /acre as basal Sow the seeds with spacing 40x20 cm."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Apply 44 kg urea and 20 kg MoP per acre at 3 to 4-week stage. To get a higher yield spray a micronutrient mixture @ 3-4 g/litre of water at a 4-week stage.",
+            "Shoot borer may observe in brinjal field, to control it spray Azadirachtin 1% EC @ 3 ml/litre of water or Emamectin benzoate 5% SG @ 0.4 g/litre of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control thrips in chilli spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC @ 4.5 ml or Imidacloprid 17.8% SL @ 7.5 ml in 15 litres of water."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

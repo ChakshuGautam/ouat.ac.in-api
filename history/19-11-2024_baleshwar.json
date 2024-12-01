@@ -1,0 +1,112 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 74,
+         "rh_min": 41,
+         "wind_speed": 6,
+         "wind_direction": 340,
+         "cloud_cover": 2
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 41,
+         "wind_speed": 7,
+         "wind_direction": 335,
+         "cloud_cover": 2
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 71,
+         "rh_min": 39,
+         "wind_speed": 7,
+         "wind_direction": 338,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 72,
+         "rh_min": 38,
+         "wind_speed": 6,
+         "wind_direction": 330,
+         "cloud_cover": 2
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 66,
+         "rh_min": 35,
+         "wind_speed": 7,
+         "wind_direction": 339,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "rapeseed",
+      "mustard",
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Monitor the activity of Gundhy bug in rice field and use rotten snail traps. Regularly check for infestation levels in rice fields and consult a veterinary doctor for animal vaccination and deworming.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Make alleys in the field for better aeration and sunlight penetration.",
+            "Harvest early matured paddy crops with 85% maturity.",
+            "Reduce moisture content of harvested paddy.",
+            "Ensure cleanliness of threshing floor and storage godown."
+         ]
+      },
+      "rapeseed": {
+         "advisory": [
+            "Complete land preparation and sowing of mustard crop.",
+            "Use suitable varieties like Toria - Anuradha, Parbati, Sushree, Indian mustard - NRCHB 101, Mahyco bold, JD 6, Sampoorna.",
+            "Apply recommended fertilizer doses and ratios for Toria and Mustard crops."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Complete land preparation and sowing of mustard crop.",
+            "Use suitable varieties like Toria - Anuradha, Parbati, Sushree, Indian mustard - NRCHB 101, Mahyco bold, JD 6, Sampoorna.",
+            "Apply recommended fertilizer doses and ratios for Toria and Mustard crops."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Select suitable varieties of Cole crops, Chilli, and Brinjal for nursery bed preparation.",
+            "Treat seedlings with appropriate fungicides before transplanting."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Select suitable varieties of papaya seedlings considering damage from cyclone Dana.",
+            "Apply recommended Fipronil during planting to minimize virus incidence."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain ideal dissolved oxygen levels in the pond with aeration methods.",
+            "Consider circulating pond water for oxygenation."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Ensure vaccination against common diseases like FMD, Haemorrhagic Septicaemia, Black Quarter, and Enterotoxemia in animals."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

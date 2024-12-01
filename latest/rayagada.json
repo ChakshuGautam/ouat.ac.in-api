@@ -1,90 +1,79 @@
 {
    "weather_details": {
-      "2024-11-13": {
-         "rainfall": 3,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 93,
-         "rh_min": 49,
-         "wind_speed": 3,
-         "wind_direction": 13,
-         "cloud_cover": 6
-      },
-      "2024-11-14": {
-         "rainfall": 1,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 94,
-         "rh_min": 45,
-         "wind_speed": 3,
-         "wind_direction": 16,
-         "cloud_cover": 4
-      },
-      "2024-11-15": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 90,
-         "rh_min": 37,
-         "wind_speed": 2,
-         "wind_direction": 18,
-         "cloud_cover": 5
-      },
-      "2024-11-16": {
+      "2024-11-27": {
          "rainfall": 0,
          "t_max": 30,
-         "t_min": 19,
-         "rh_max": 83,
-         "rh_min": 31,
-         "wind_speed": 2,
+         "t_min": 14,
+         "rh_max": 77,
+         "rh_min": 30,
+         "wind_speed": 3,
          "wind_direction": 90,
          "cloud_cover": 2
       },
-      "2024-11-17": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 18,
-         "rh_max": 78,
-         "rh_min": 28,
-         "wind_speed": 2,
-         "wind_direction": 338,
-         "cloud_cover": 1
+      "2024-11-28": {
+         "rainfall": 0.1,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 32,
+         "wind_speed": 4,
+         "wind_direction": 5,
+         "cloud_cover": 3
+      },
+      "2024-11-29": {
+         "rainfall": 0.1,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 74,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 8,
+         "cloud_cover": 2
+      },
+      "2024-11-30": {
+         "rainfall": 3,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 82,
+         "rh_min": 50,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "2024-12-01": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 85,
+         "rh_min": 50,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "rice",
-      "cotton",
-      "okra/ladyfinger",
-      "menacinakahi",
-      "chilli"
+      "cauliflower",
+      "chicken"
    ],
-   "general_advisory": "If stored rice grain infestation occurs, take up fumigation by using Aluminium phosphide tablets @ of 3 tab / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gap. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation.",
+   "general_advisory": "During cool winter days to protect the rice nursery from cold injury, apply a thin layer of well decomposed FYM after sowing of seeds in wet bed to keep the bed relatively warm. Preferably use bore well water for irrigation at evening and drain out the cold water at morning to maintain the soil temperature favourable for growth. In severe cold affected areas use polythene cover during night.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If population of Brown Planthopper (BPH) exceeds ETL (5-10 hoppers/hill), it is advised to alter the micro-climate of the rice field by alternate wetting and drying technique (water should not stand in the field for long time). If problem still persists, spray Triflumezopyrim 10% SC @ 94 ml/acre or Pymetrozine 50% WG @ 120 g/acre or Dinotefuran 20% SG @ 80 g/acre or Imidacloprid 17.8% SL @ 50 ml/acre or Acephate 75% SP @ 400 g/acre. Use pesticides recommended for BPH at specified dose only . Avoid using nitrogenous fertilizers during infestation of BPH."
+            "Harvest the matured paddy when more than 80% of grain attained maturity"
          ]
       },
-      "cotton": {
+      "cauliflower": {
          "advisory": [
-            "Now high temperature and humid conditions are favorable for the infestation of sucking pests in cotton. If there is infestation of Aphids and Jassids in early sown cotton crop, go for spraying of Acetamiprid 20%SP 20gm/acre or neem-based pesticide Neem Oil 1500 PPM @600-ml/acre by mixing it in 200-litre of water ."
+            "Bacterial leaf blight has been noticed in cauliflower. Spray Copper oxychloride 50 WP @ 600 gm + plantomycin @ 200 gm in 200 liter of water per acre of land."
          ]
       },
-      "okra/ladyfinger": {
+      "chicken": {
          "advisory": [
-            "To prevent okra from stem & fruit borer apply 70 ml Spinosad or 60gm Ammonium benzoate in 200 liter of water per acre."
-         ]
-      },
-      "menacinakahi": {
-         "advisory": [
-            "To control leaf eating caterpillar and fruit borer in Chilly apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water ."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "To control leaf eating caterpillar and fruit borer in Chilly apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water ."
+            "In winter number of feeders should be increased. Feed should be available to the bird whole of the day. During winter season birds take less water so for maintenance of water in the body, it is necessary to give continuous supply of fresh water which can be taken by the bird. For maintaining the heat in the poultry shed, install heaters in the shed. Use 200W bulbs to generate heat in small scale operations. Carry out necessary vaccinations as and when required."
          ]
       }
    },
-   "date": "12-11-2024"
+   "date": "26-11-2024",
+   "ERROR": "Not getting consistent data."
 }

@@ -1,186 +1,179 @@
 {
    "weather_details": {
-      "20-11-2024": {
+      "30-11-2024": {
          "rainfall": 0,
-         "t_max": 28,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 90,
+         "rh_min": 52,
+         "wind_speed": 4,
+         "wind_direction": 29,
+         "cloud_cover": 6
+      },
+      "01-12-2024": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 13,
+         "rh_max": 95,
+         "rh_min": 64,
+         "wind_speed": 4,
+         "wind_direction": 37,
+         "cloud_cover": 6
+      },
+      "02-12-2024": {
+         "rainfall": 2,
+         "t_max": 25,
          "t_min": 12,
-         "rh_max": 71,
-         "rh_min": 31,
-         "wind_speed": 2,
-         "wind_direction": 154,
-         "cloud_cover": 0
-      },
-      "21-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 71,
-         "rh_min": 30,
-         "wind_speed": 2,
-         "wind_direction": 154,
-         "cloud_cover": 0
-      },
-      "22-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 69,
-         "rh_min": 30,
-         "wind_speed": 2,
-         "wind_direction": 154,
-         "cloud_cover": 0
-      },
-      "23-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 68,
-         "rh_min": 29,
+         "rh_max": 95,
+         "rh_min": 61,
          "wind_speed": 3,
-         "wind_direction": 157,
-         "cloud_cover": 0
+         "wind_direction": 50,
+         "cloud_cover": 5
       },
-      "24-11-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 11,
-         "rh_max": 66,
-         "rh_min": 29,
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 92,
+         "rh_min": 60,
          "wind_speed": 2,
-         "wind_direction": 149,
-         "cloud_cover": 1
+         "wind_direction": 72,
+         "cloud_cover": 5
+      },
+      "04-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 89,
+         "rh_min": 54,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
       "cotton",
+      "arhar",
       "greengram",
       "blackgram",
       "groundnut",
       "mustard",
       "toria",
       "sunflower",
-      "cauliflower",
-      "cabbage",
-      "broccoli",
       "onion",
       "tomato",
+      "chilli",
       "rose",
       "merigold",
       "cattle",
       "buffalo",
       "goat",
       "sheep",
-      "poultry",
-      "duckery"
+      "poultry"
    ],
-   "general_advisory": "Based on the five-day weather forecast of IMD, farmers are advised to continue necessary agricultural activities, including weeding, fertilization, irrigation, harvesting and pesticide application. Undertake sowing of rabi crops like green Gram, Black gram, Toria, Chick pea, Lentil, Sunflower, Groundnut, Cowpea, Field pea etc. in medium or shallow low land to utilize the available soil moisture in the field. Pulses like lentil/black gram/green gram can be broadcasted as paira crop in the standing matured crop (Rice) 7-10 days before harvesting to utilize the residual moisture in the soil in suitable areas. Rouging of viral infested crop should be done in chilli, tomato & brinjal. Infected plants should be uprooted and buried in the soil. Apply Metalaxyl+Mancozeb @ 20g and Plantomycine @ 10g mixed with 10 liters of water to nurseries and at the root zone of the plant as precaution from wilting and root rot. The livestock and poultry shed need to be repaired before winter to protect from low night temperature. The shed may be covered with polythene sheet or gunny cloth to obstruct the flow of wind. Feed animals with a mixture of green grass + hay + minerals + dry feed. Provide clean drinking water. Vaccinate animals against foot & mouth disease (FMD).",
+   "general_advisory": "Light to moderate rainfall very likely to occur in most parts of Odisha & dry over remaining parts of Odisha during the upcoming week.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life. Drain out the water from paddy field, 15 days before harvesting the crop. Store the harvested paddy in Super Grain bag for retaining the quality texture, colors, aroma, fragrance and taste of the commodities for a longer period of time in a safe place (properly stacked with a suitable cover) to avoid damage. For pest management, contact IMD, Bhubaneswar, Tel.#0674-2596116. Neck blast: Present weather condition i.e., low night temperatures combined with high humidity create favorable conditions for the development of neck blast disease. If infestation of Neck Blast disease is noticed, apply biocontrol agent like Trichoderma viride 1% WP (minimum 106 CFU) @ 2kg/acre mixed with 200 liters of water. To control chemically spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 80-gram/acre or Carbendazim 50% WP @ 400 g/acre mixed with 200 liters of water. False smut: False smut is likely to develop in prevailing weather conditions. If infestation is observed, spray Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr. Repeat the spraying at seven days interval for effective control of false smut."
+            "Harvest the crop when 80-85% of the grains are matured.",
+            "Sun-dry paddy grains to 12-14% moisture content for better self-life."
          ]
       },
       "cotton": {
          "advisory": [
-            "Picking should be done when there is complete bursting of bolls. Dry the seed cotton on a concrete floor or tarpaulin sheets to reduce the moisture to 8-10%. Store the seed cotton obtained from the 1st picking separately for getting a better price. Foliar spray of liquid fertilizers like NPK-19-19-19 should be done @ 20 g/10 liters of water for better plant growth and boll development. Regular monitoring of the crop to know about the incidence of any new pest and diseases."
+            "Pick fully opened bolls and store them safely for optimal quality."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Follow recommended control measures for prevailing pests."
          ]
       },
       "greengram": {
          "advisory": [
-            "Suitable time for sowing green gram and black gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing. Seed rate: 8-10 kg/acre. Suitable varieties: Green gram - IPM 2-03, Virat, Sikha, MH 1142, K-851, PDM 11, PDM-14, OUM-115 etc. Black gram - PU-10, PU-11, PU-19, PU-30, PU-31, T9 etc."
+            "Treat seeds with suitable chemicals before sowing."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Suitable time for sowing green gram and black gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing. Seed rate: 8-10 kg/acre. Suitable varieties: Green gram - IPM 2-03, Virat, Sikha, MH 1142, K-851, PDM 11, PDM-14, OUM-115 etc. Black gram - PU-10, PU-11, PU-19, PU-30, PU-31, T9 etc."
+            "Treat seeds with suitable chemicals before sowing.",
+            "Apply recommended nutrient management practices."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Suitable time for sowing rabi groundnut. Treat the seed with Carbendazim 25% + Mancozeb 50% WS @ 3-3.5 g/kg seed before sowing and with Rhizobium culture @ 500g or 250 ml per 25 kg of seed at the time of sowing. Sowing of seed should be done at afternoon hours. Suitable varieties: Devi (ICGV-91114), Kadri-6, Kadri-9, TAG-51, TMV-2, Smruti (OG 52-1), CO-7, Dharani etc. Seed rate: 40-50 kg groundnut seed kernel per acre. Nutrient Management: Apply 40 kg DAP, 25 kg MOP and 12 kg Sulphur per acre before sowing."
+            "Treat seed with appropriate chemicals before sowing.",
+            "Apply recommended nutrient and weed management practices."
          ]
       },
       "mustard": {
          "advisory": [
-            "Weed Management: Apply Oxadiargyl 6% EC as pre-emergence @ 3ml/ltr of water at 1-2 DAS or Quizalofop-ethyl 5% EC as post-emergence @ 2ml/ltr of water at 15-20 DAS."
+            "Apply recommended weed management practices."
          ]
       },
       "toria": {
          "advisory": [
-            "Weed Management: Apply Oxadiargyl 6% EC as pre-emergence @ 3ml/ltr of water at 1-2 DAS or Quizalofop-ethyl 5% EC as post-emergence @ 2ml/ltr of water at 15-20 DAS."
+            "Apply recommended weed management practices."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Weed Management: Spray Pendimithalin 30% EC @ 1.25 ltr/acre by mixing with 200 ltrs of water as pre-emergence herbicide. Power weeding at 21-28 DAS before irrigation plays a significant role to manage the weeds."
-         ]
-      },
-      "cauliflower": {
-         "advisory": [
-            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm. Before transplanting, apply Carbendazim 12% + Mancozeb 63% WP to seedlings, and transplant during the afternoon. Nutrient Management: Apply 26 kg DAP, 10 kg MOP, 15 kg Urea and 5kg Borax as basal at the time of transplanting."
-         ]
-      },
-      "cabbage": {
-         "advisory": [
-            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm. Before transplanting, apply Carbendazim 12% + Mancozeb 63% WP to seedlings, and transplant during the afternoon. Nutrient Management: Apply 26 kg DAP, 10 kg MOP, 15 kg Urea and 5kg Borax as basal at the time of transplanting."
-         ]
-      },
-      "broccoli": {
-         "advisory": [
-            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm. Before transplanting, apply Carbendazim 12% + Mancozeb 63% WP to seedlings, and transplant during the afternoon. Nutrient Management: Apply 26 kg DAP, 10 kg MOP, 15 kg Urea and 5kg Borax as basal at the time of transplanting."
+            "Apply recommended weed management practices."
          ]
       },
       "onion": {
          "advisory": [
-            "Now is the suitable time for sowing onion. Suitable variety: Bhima Raj, Bhima dark red, Bhima Sweta, Bhima Subhra, Bhima Safed, Agrifound Dark Red, Bhima Shakti, Bhima Super, Arka Niketan etc. are suitable cultivars for the winter season. Seed rate: 4 kg/acre."
+            "Sow suitable variety at the right time."
          ]
       },
       "tomato": {
          "advisory": [
-            "Transplant the 30-35 days old seedlings in the main field with row to row spacing of 75-90 cm and plant to plant spacing of 45-60 cm. Before transplanting, treat the seedlings with a solution of Bavistin @ 1.5 g and Plantomycin @ 1 g mixed with 1 liter of water for 10 to 15 minutes, and transplant during the afternoon. Nutrient Management: Apply 66 kg DAP, 33 kg MOP and 80 kg Urea per acre. Apply 1/3rd of Urea + Full DAP + 1/2 MOP as basal."
+            "Transplant seedlings with proper spacing and treatment."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Choose suitable varieties and seed rate."
          ]
       },
       "rose": {
          "advisory": [
-            "Prevailing weather conditions are favorable for infestation of Powdery mildew. To control, spray Carbendazim 50% WP @ 1.5g/lit of water."
+            "Control powdery mildew infestation."
          ]
       },
       "merigold": {
          "advisory": [
-            "Pinching should be performed at 30-45 DAT or before bud formation to encourage branching as well as to enhance overall yield."
+            "Perform pinching at the appropriate stage."
          ]
       },
       "cattle": {
          "advisory": [
-            "Deworm the cattle and buffalo at regular intervals and vaccinate them also. If the animal is not coming to heat even after 4 years consult with the veterinary doctors and follow the doctor's advice for the onset of puberty."
+            "Provide sufficient green grass.",
+            "Provide concentrate mix for lactating animals."
          ]
       },
       "buffalo": {
          "advisory": [
-            "Deworm the cattle and buffalo at regular intervals and vaccinate them also. If the animal is not coming to heat even after 4 years consult with the veterinary doctors and follow the doctor's advice for the onset of puberty."
+            "Repair the goat house to prevent mortality due to chill weather."
          ]
       },
       "goat": {
          "advisory": [
-            "Farmers are advised to repair the goat house before the commencement of the winter season. Because there is a high chance of mortality among kids due to chill weather."
+            "Repair the goat house before winter season."
          ]
       },
       "sheep": {
          "advisory": [
-            "Farmers are advised to repair the goat house before the commencement of the winter season. Because there is a high chance of mortality among kids due to chill weather."
+            "Repair the goat house before winter season."
          ]
       },
       "poultry": {
          "advisory": [
-            "Farmers must take care of brooding management of chicks and ducklings during the winter season to avoid mortality due to cool weather."
-         ]
-      },
-      "duckery": {
-         "advisory": [
-            "Farmers must take care of brooding management of chicks and ducklings during the winter season to avoid mortality due to cool weather."
+            "Make necessary arrangements to provide heat to chicks during night hours.",
+            "Keep the poultry house clean and clamp free."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

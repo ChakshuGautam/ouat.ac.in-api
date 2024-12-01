@@ -1,108 +1,91 @@
 {
    "weather_details": {
-      "20/11/2024": {
+      "30/11/2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 13,
-         "rh_max": 72,
-         "rh_min": 30,
-         "wind_speed": 4,
-         "wind_direction": 22,
-         "cloud_cover": 1
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 36,
+         "cloud_cover": 4
       },
-      "21/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 12,
-         "rh_max": 74,
-         "rh_min": 31,
-         "wind_speed": 4,
-         "wind_direction": 29,
-         "cloud_cover": 0
+      "01/12/2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 81,
+         "rh_min": 51,
+         "wind_speed": 7,
+         "wind_direction": 39,
+         "cloud_cover": 5
       },
-      "22/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 12,
-         "rh_max": 74,
-         "rh_min": 31,
-         "wind_speed": 4,
-         "wind_direction": 29,
-         "cloud_cover": 2
-      },
-      "23/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 12,
-         "rh_max": 71,
-         "rh_min": 29,
-         "wind_speed": 4,
-         "wind_direction": 29,
-         "cloud_cover": 0
-      },
-      "24/11/2024": {
-         "rainfall": 0,
+      "02/12/2024": {
+         "rainfall": 1,
          "t_max": 29,
-         "t_min": 11,
-         "rh_max": 66,
-         "rh_min": 27,
+         "t_min": 15,
+         "rh_max": 86,
+         "rh_min": 58,
+         "wind_speed": 6,
+         "wind_direction": 40,
+         "cloud_cover": 5
+      },
+      "03/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 59,
+         "wind_speed": 5,
+         "wind_direction": 42,
+         "cloud_cover": 4
+      },
+      "04/12/2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 84,
+         "rh_min": 54,
          "wind_speed": 4,
-         "wind_direction": 31,
-         "cloud_cover": 1
+         "wind_direction": 38,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "paddy",
       "groundnut",
-      "gram",
       "potato",
       "mustard",
-      "vegetables",
-      "poultry",
-      "animal husbandry"
+      "onion"
    ],
-   "general_advisory": "For rabi crops, farmers can start their field operations in fallow fields in November month. In case of sufficient moisture in field, sow paira crop.",
+   "general_advisory": "Without much delay sowing the rabi crops. Keep provision of irrigation facility while going for rabi crops. Choose always medium to short duration varieties in rabi crops. Before sowing the field bund and field should be free from the weeds.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "False smut endemic area, spray Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr Repeat the spraying at seven days interval for effective control of false smut."
+            "The harvested grain should be dried under sun and clean to meet the FAQ standard for fetching better market price."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Due to decreasing temperature, without delay go for sowing of groundnut like Dharani, Kalinga chinabadam, Kadri. Apply 35 kg DAP and 4kg Urea and 26 kg MOP per acre in the furrows before sowing. Keep line to line spacing of 25 cm and plant to plant spacing of 10 cm and put the seed in 3 cm depth."
-         ]
-      },
-      "gram": {
-         "advisory": [
-            "Sowing of gram should be done. Before sowing farmers are advised to ensure optimum soil moisture for better seed germination. Seed rate: - 60-80 kilogram for small and medium sized varieties and 80 - 100 kilograms for big sized varieties. R x R spacing to be maintained 30-35 cm. Before sowing, seed should be treated with Rhizobium culture and phosphorus solublesing bacteria."
+            "To control the weeds, spray Zargon @ 80 ml/acre in 200 liters of water."
          ]
       },
       "potato": {
          "advisory": [
-            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. For proper germination keep the seed material inside gunny bag for 5 -7 days. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed. Apply 5 t FYM/acre at final land preparation."
+            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 6 -8 q/ac.",
+            "For proper germination keep the seed material inside gunny bag for 5 -7 days. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed. During Final land preparation apply 10 t of well rotten FYM."
          ]
       },
       "mustard": {
          "advisory": [
-            "At 10 days after sowing go for thinning operation and keep healthy plants and maintain proper plant population."
+            "Go for thinning operation and maintain proper stand of the crop."
          ]
       },
-      "vegetables": {
+      "onion": {
          "advisory": [
-            "At present farmers may raise the seedlings of winter vegetables like cauliflower, cabbage, chilli, tomato, brinjal etc. Seeds should be treated with fungicide before sowing."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "To keep warm the poultry house keep bulbs to maintain temperature. Cover the house with gunny bags."
-         ]
-      },
-      "animal husbandry": {
-         "advisory": [
-            "For protection from cold, the shed house to be kept warm."
+            "When the seedlings are 12 -15 cm height the seedlings are uprooted and transplanted in the afternoon time."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

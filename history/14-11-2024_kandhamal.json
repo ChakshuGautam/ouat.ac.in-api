@@ -1,0 +1,117 @@
+{
+   "weather_details": {
+      "15-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 88,
+         "rh_min": 37,
+         "wind_speed": 1,
+         "wind_direction": 72,
+         "cloud_cover": 3
+      },
+      "16-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 33,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "17-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "18-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 67,
+         "rh_min": 30,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "19-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 65,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "amaranthus",
+      "radish",
+      "maize",
+      "cabbage",
+      "cauliflower",
+      "marigold"
+   ],
+   "general_advisory": "Harvest the matured crops like rice maize at 80 -85% maturity and keep them safe. Use the residual soil moisture to prepare land to grow crops like mustard, marigold, sunflower. Prepare the lands for cole crops like cauliflower, cabbage, radish.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "Flowering initiation",
+            "Leaf miner insect",
+            "Young maggot mines zig-zag galleries in the leaves",
+            "Spray 5% neem seed kernel extract (NSKE)"
+         ]
+      },
+      "amaranthus": {
+         "advisory": [
+            "Vegetative",
+            "Leaf eating caterpillar",
+            "It can be controlled by spraying Carbaryl 50 WP @ 2 g/lit."
+         ]
+      },
+      "radish": {
+         "advisory": [
+            "Vegetative",
+            "Leaf eating caterpillar",
+            "It can be controlled by spraying Carbaryl 50 WP @ 2 g/lit."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Maturity - Harvesting",
+            "Harvest the mature crops.",
+            "In case of fall army worm attack, apply Emamectin Benzoate @0.9gram liter of water."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Vegetative",
+            "Cut Worms",
+            "Set up light trap in summer months. Spray Chlorpyriphos 2 ml/lit in the collar region during evening hours."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Vegetative",
+            "Cut Worms",
+            "Set up light trap in summer months. Spray Chlorpyriphos 2 ml/lit in the collar region during evening hours."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Germination - vegetative stage",
+            "Apply 45:90:75 kg NPK/ha as basal.",
+            "Apply light irrigation to crop when required."
+         ]
+      }
+   },
+   "date": "14-11-2024"
+}

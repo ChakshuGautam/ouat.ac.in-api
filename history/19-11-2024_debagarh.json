@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 32,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 2
+      },
+      "21/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 75,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 1
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 76,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 353,
+         "cloud_cover": 1
+      },
+      "23/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 31,
+         "wind_speed": 3,
+         "wind_direction": 353,
+         "cloud_cover": 0
+      },
+      "24/11/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 66,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 354,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "kharif paddy",
+      "groundnut",
+      "gram crop",
+      "potato",
+      "mustard (toria)"
+   ],
+   "general_advisory": "In case of sufficient moisture in field, sow paira crop as soon as possible. For rabi crops, farmers can start their field operations in fallow fields in November month.",
+   "crops_data": {
+      "kharif paddy": {
+         "advisory": [
+            "False smut endemic area, spray Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr Repeat the spraying at seven days interval for effective control of false smut."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Due to decreasing temperature, without delay go for sowing of groundnut like Dharani, Kalinga chinabadam, Kadri. Apply 35 kg DAP and 4kg Urea and 26 kg MOP per acre in the furrows before sowing. Keep line to line spacing of 25 cm and plant to plant spacing of 10 cm and put the seed in 3 cm depth."
+         ]
+      },
+      "gram crop": {
+         "advisory": [
+            "Sowing of gram should be done. Before sowing farmers are advised to ensure optimum soil moisture for better seed germination. Seed rate: - 60-80 kilogram for small and medium sized varieties and 80 -100 kilograms for big sized varieties. R x R spacing to be maintained 30 -35 cm. Before sowing, seed should be treated with Rhizobium culture and phosphorus solublesing bacteria."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 608 q/ac. For proper germination keep the seed material inside gunny bag for 5 -7 days. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed. Apply 5 t F YM/acre at final land preparation."
+         ]
+      },
+      "mustard (toria)": {
+         "advisory": [
+            "At 10 days after sowing go for thinning operation and keep healthy plants and maintain proper plant population."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

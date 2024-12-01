@@ -1,0 +1,133 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 76,
+         "rh_min": 37,
+         "wind_speed": 4,
+         "wind_direction": 322,
+         "cloud_cover": 2
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 315,
+         "cloud_cover": 1
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 319,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 35,
+         "wind_speed": 4,
+         "wind_direction": 323,
+         "cloud_cover": 2
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 71,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 325,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "black gram",
+      "mustard",
+      "sesame",
+      "groundnut",
+      "brinjal",
+      "tomato",
+      "cabbage",
+      "cauliflower",
+      "cucurbits",
+      "banana",
+      "livestock"
+   ],
+   "general_advisory": "Now it is right time to take up Paira crop which can be sown 15 days before harvesting of paddy. Continue the harvest of medium duration paddy. Store the harvested grains after sun drying for 2 to 3 days in HDPE bags. To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilly & tomato spray 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post harvesting stage: Harvest the rice crop at physiological maturity (85% grains matured in a panicle) and looks pale yellow in colour. Store the harvested grains after sun drying for 2 to 3 days in HDPE bags."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Vegetative stage: Apply pre-emergence herbicide Pendimethalin 30% E.C @ 1 litre / acre at 1-2 DAS in Green gram and Black gram"
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Vegetative stage: In cloudy condition there are chances of Aphid infestation in early sown mustard crop. To manage aphids at early stage, put 8 number of yellow sticky traps per acre and to manage Aphids chemically spray Thiamethoxam 25% WG @ 40g/acre or Acetamiprid 20% SP @ 50-gram/acre in 200 liters of water."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Vegetative stage: To manage leaf Webber in pre Rabi sesame spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400ml/acre or Profenophos 50% EC @ 400-ml/acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage: Apply pre-emergence herbicide Oxyfluorfen 23.5% EC @ 80ml/acre or Pendimethalin 30% EC @ 1-litre/acre at 1-2 DAS. If pre-emergence herbicide is not applied than post emergence herbicide like Imazethapyr 10% SL @ 300-ml/acre or Quizalofop-Ethyl 5% EC @ 400-ml/acre should be applied at 15 -DAS by mixing it in 200 liters of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative to Fruiting stage: To manage Shoot and Fruit Borer insect, install 20 nos. of pheromone trap having Leucin Lure per acre. Spray Neem-based pesticide 1500ppm @ 600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45% SC @ 75 ml/acre or Emamectin Benzoate 5% SG @ 80 g/ acre at 15 days interval."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage: Use yellow sticky traps @ 8-10/acre to attract and kill the whitefly. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre by mixing in 200 liters of water.",
+            "Vegetative stage: Spray Thiamethoxam 25% WG @ 40 g/acre or Pyriproxyfen 10% EC @ 200 ml/acre or Spiromesifen 22.9% SC @ 250 ml/acre by mixing in 200 liters of water."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Vegetative stage: For early and maximum yield spray Gibberellic Acid 0.001% L @ 75 ml/acre at 45 DAT and 65 DAT by mixing in 200 liters of water. Irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Vegetative stage: For early and maximum yield spray Gibberellic Acid 0.001% L @ 75 ml/acre at 45 DAT and 65 DAT by mixing in 200 liters of water. Irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Fruiting Stage: To manage Red Pumpkin Beetle in Cucurbit crops spray Cyantraniliprole 10.26% OD @ 400-ml/acre or Imidacloprid 17.8% SL @ 60-ml/acre or Chlorpyriphos 20% EC @ 400-ml/acre."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Planting stage: November is the optimum time for planting of dwarf variety of banana. Plant Dwarf Cavendish and Robusta variety in 2X2 meter distance and 0.5X0.5X0.5 meter pit size. 300 to 400g disease-free suckers or tissue culture suckers should be used."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "In winter season, animals require a high amount of food as temperature drops. Roughage should be given in a high amount to maintain milk production. Maize, wheat, and concentrate oil cakes @ 3 kg to the large animals such as Buffalo and cattle feeding helps in maintaining the body heat of the animals. Provide proper shelter to the animals with proper ventilation facilities. The floor should be clean, dry, and bedding with straw which acts as insulation and prevention of heat loss."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

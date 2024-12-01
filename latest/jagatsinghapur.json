@@ -1,90 +1,86 @@
 {
    "weather_details": {
-      "20/11/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 18,
-         "rh_max": 76,
-         "rh_min": 40,
-         "wind_speed": 9,
-         "wind_direction": 341,
-         "cloud_cover": 1
+      "30/11/2024": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 22,
+         "rh_max": 83,
+         "rh_min": 56,
+         "wind_speed": 18,
+         "wind_direction": 30,
+         "cloud_cover": 8
+      },
+      "01/12/2024": {
+         "rainfall": 4,
+         "t_max": 24,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 61,
+         "wind_speed": 16,
+         "wind_direction": 32,
+         "cloud_cover": 8
+      },
+      "02/12/2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 13,
+         "wind_direction": 26,
+         "cloud_cover": 8
+      },
+      "03/12/2024": {
+         "rainfall": 4,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 54,
+         "wind_speed": 11,
+         "wind_direction": 27,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "rabi pulses",
-      "oilseeds",
-      "vegetables",
       "paddy",
-      "paira crop",
-      "black gram",
-      "green gram",
       "groundnut",
-      "sugarcane",
-      "pointed gourd",
-      "cole crops"
+      "chilli",
+      "cole crops",
+      "banana",
+      "poultry"
    ],
-   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Rodent- If ‘Rodent/Rats’ problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents.",
+   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables. For early and maximum yield in cole crops, spray Gibberellic Acid 0.001% L. Do proper field surveillance for pests and diseases regularly. In winter, keep doors, windows, and open spaces in cow sheds covered with polythene or gunny bag curtains.",
    "crops_data": {
-      "rabi pulses": {
-         "advisory": [
-            "Sowing of Rabi Pulses, Oilseeds & vegetables are going on.",
-            "Seed treatment is a must before sowing of rabi crops."
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Seed treatment is a must before sowing of rabi crops."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "To control leaf-eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & Tomato, apply 0.5 g Emamectin.",
-            "Farmers are advised to transplant 30-45 days old vegetable seedlings like Chilli, Tomato, Capsicum, Cabbage, Cauliflower, Brinjal, etc. in the main field."
-         ]
-      },
       "paddy": {
          "advisory": [
-            "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting.",
-            "Reduce the moisture of the harvested paddy by sun drying it."
-         ]
-      },
-      "paira crop": {
-         "advisory": [
-            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @ 800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @ 800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+            "Post-harvesting stage - Rodent/Rats problem: Locate the rodent burrow and place Aluminium Phosphide tablet. Stored grain insect pest: Fumigate with Aluminium phosphide tablets."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Groundnut is in the sowing stage."
+            "Vegetative stage - Tobacco Caterpillar: Monitor with Pheromone traps. Spray chemical insecticides."
          ]
       },
-      "sugarcane": {
+      "chilli": {
          "advisory": [
-            "Sugarcane is at ripening stage.",
-            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre."
-         ]
-      },
-      "pointed gourd": {
-         "advisory": [
-            "There is a chance of downy mildew in Pointed gourd. To control downy mildew, spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl - AL 80 % WP @ 600 g/acre."
+            "Vegetative stage - Aphids and Thrips: Use neem-based pesticide or chemical spray."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Cole crops are in the vegetative stage."
+            "Vegetative stage - Diamond Back Moth: Install light traps. Spray neem-based pesticide."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Planting - Follow specific planting instructions for Dwarf Cavendish and Robusta varieties."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper heat provision for chicks. Maintain clean and clamp-free poultry house."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

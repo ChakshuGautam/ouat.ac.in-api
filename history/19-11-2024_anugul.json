@@ -1,0 +1,86 @@
+{
+   "weather_details": {
+      "2024-11-20": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 76,
+         "rh_min": 35,
+         "wind_speed": 3,
+         "wind_direction": 337,
+         "cloud_cover": 2
+      },
+      "2024-11-21": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 76,
+         "rh_min": 35,
+         "wind_speed": 3,
+         "wind_direction": 330,
+         "cloud_cover": 1
+      },
+      "2024-11-22": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 76,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 338,
+         "cloud_cover": 2
+      },
+      "2024-11-23": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 75,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "2024-11-24": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 68,
+         "rh_min": 32,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram",
+      "brinjal",
+      "common fish"
+   ],
+   "general_advisory": "Drain out the water from the paddy field 15 days before harvesting. Harvest rice crop at physiological maturity and dry grains in direct sunlight for desired moisture content. Store harvested products in clean bags covered with polythene to protect from rain.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If population of Brown Planthopper (BPH) exceeds ETL, alter micro-climate by alternate wetting and drying technique.",
+            "Spray recommended pesticides for BPH at specified dose only, avoid nitrogenous fertilizers during infestation."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Podoptera infestation noticed. Spray Emamectin Benzoate to control infestation."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Bacterial wilt noticed. Soil drench with Copper oxychloride to control wilting in brinjal."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Treat pond with CIF AX before winters to prevent diseases.",
+            "Treat pond with potassium permanganate or limestone. Salt application helps protect fish against diseases."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

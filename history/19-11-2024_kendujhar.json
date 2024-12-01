@@ -1,0 +1,136 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 347,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 347,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 74,
+         "rh_min": 38,
+         "wind_speed": 5,
+         "wind_direction": 346,
+         "cloud_cover": 0
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 72,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 0
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 66,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "toria",
+      "chickpea",
+      "paddy",
+      "linseed",
+      "tomato",
+      "cauliflower",
+      "pumpkin",
+      "chilli"
+   ],
+   "general_advisory": "Harvest the matured paddy from the field. Farmers are advised to complete the rabi crops sowing as soon as possible. Seed treatment is necessary before sowing of the crops. For winter, vegetables like tomato, brinjal, chilli along with pulses can be taken for sowing. Spray insecticides and pesticides on the crops during morning and evening hours. Monitor the disease and pests regularly.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "Prepare the land for sowing of Mustard and Toria.",
+            "Plough the land to make it proper tilth.",
+            "Sow the seeds of Mustard and Toria in the field.",
+            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
+            "Irrigate the field after sowing."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Prepare the land for sowing of Mustard and Toria.",
+            "Plough the land to make it proper tilth.",
+            "Sow the seeds of Mustard and Toria in the field.",
+            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
+            "Irrigate the field after sowing."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Farmers are advised to use good quality seed materials and treatment of the seeds with fungicides like Captan and Thiram is must.",
+            "Irrigation of the field after sowing should be done.",
+            "Do not over irrigate the field.",
+            "Regularly remove weeds from the field."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "If 80% of the panicles are matured, farmers can go for the harvesting.",
+            "Reduce the moisture of the harvested paddy by sun drying it.",
+            "Keep the harvested paddy at cleaned threshing floor."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "Broadcast the seeds of linseed in paddy crops willing to be harvested.",
+            "Do not broadcast the seeds in waterlogged condition.",
+            "Farmers can use linseed variety such as Arpita and Kota Barani Alsi-4 for Keonjhar district of Odisha.",
+            "After harvesting of the paddy, watch the germination of the linseed. If required broadcast it again.",
+            "Linseed can be more productive if line sowing is done.",
+            "Farmers are advised to sow the seeds in line maintaining proper spacing."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Transplant the 30-35 days old seedling in the field.",
+            "Remove weeds and irrigate the crop after transplanting."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Do not over irrigate the crop.",
+            "Regularly check for any type of disease and pest infestation."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Leaf blight disease in pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/lt of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Sow the seeds in the soil with proper irrigation.",
+            "Farmers who have used chilli in pro-trays can transplant them in the field.",
+            "Spraying fungicides like Mancozeb or Carbendazim @ 2g/lt to manage any type of fungal disease."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

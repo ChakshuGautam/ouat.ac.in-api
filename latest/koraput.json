@@ -1,113 +1,117 @@
 {
    "weather_details": {
-      "20-11-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 78,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 76,
-         "cloud_cover": 0
+      "30-11-2024": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 10,
+         "rh_max": 90,
+         "rh_min": 58,
+         "wind_speed": 8,
+         "wind_direction": 55,
+         "cloud_cover": 8
       },
-      "21-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 75,
-         "rh_min": 31,
-         "wind_speed": 1,
-         "wind_direction": 56,
-         "cloud_cover": 0
+      "01-12-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 65,
+         "wind_speed": 7,
+         "wind_direction": 69,
+         "cloud_cover": 8
       },
-      "22-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 77,
-         "rh_min": 33,
-         "wind_speed": 2,
-         "wind_direction": 76,
-         "cloud_cover": 0
+      "02-12-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 65,
+         "wind_speed": 7,
+         "wind_direction": 81,
+         "cloud_cover": 7
       },
-      "23-11-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 78,
-         "rh_min": 32,
-         "wind_speed": 1,
+      "03-12-2024": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 79,
+         "cloud_cover": 7
+      },
+      "04-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 11,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 4,
          "wind_direction": 0,
-         "cloud_cover": 1
-      },
-      "24-11-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 82,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 0,
-         "cloud_cover": 1
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "black gram",
-      "green gram",
+      "pulses",
       "rabi groundnut",
       "mustard",
-      "beans",
-      "brinjal",
-      "chilli"
+      "cauliflower/cabbage/broccoli",
+      "tomato",
+      "chilli",
+      "cow"
    ],
-   "general_advisory": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop fields as per requirement. Complete nursery sowing for winter vegetable crops. Irrigate the nursery during morning and evening time. Go for sowing of pea, gram, and green gram as paira crop fifteen days prior to the harvest of paddy in low land.",
+   "general_advisory": "Less rainfall and dry weather expected during next five days. So, go for irrigation in crop fields as per requirement. Complete nursery sowing for winter vegetable crops. Irrigate the nursery during morning and evening time. Go for sowing of pea, gram and green gram as paira crop fifteen days prior to harvest of paddy in low land. Keep your crop field free from weed and provide irrigation as per requirement by the crop. Feed animals with a mixture of green grass + hay + minerals + dry feed. Provide clean drinking water. Vaccinate animals against foot & mouth disease (FMD).",
    "crops_data": {
       "rice": {
          "advisory": [
-            "The medium and late duration paddy crop is at panicle emergence to grain filling stage. Keep water in the field up to grain filling stage.",
-            "Stem borer infestation may observe during PI to soft dough stage. To control it spray Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water or Cartrap hydrochloride 50% SP @ 2 g/litre of water during afternoon hours.",
-            "Chances of gundhi bug incidence for crop at milking stage. If observe spray Ethofenoprox 10% EC @ 1 ml/litre of water."
+            "Harvest the crop when 80-85% of the grains are matured. Drain out the water from paddy field, 15 days before harvesting the crop.",
+            "False smut: False smut is likey to develop in prevailing weather condition. If infestation is observed, spray Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr. Repeat the spraying at seven days interval for effective control of false smut.",
+            "Rodent/Rats: If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents."
          ]
       },
-      "black gram": {
+      "pulses": {
          "advisory": [
-            "Complete the sowing of black gram and green gram in upland. Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30 for black gram; and K 851, PDM 11, PDM 54, OUM 115 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Complete the sowing of black gram and green gram in upland. Grow high yielding varieties like T 9, PU 11, PU 19, and PU 30 for black gram; and K 851, PDM 11, PDM 54, OUM 115 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture."
+            "Complete the sowing of black gram and green gram in upland. Grow high yielding varieties like T 9, PU 11, PU 19 and PU 30 for black gram; and K 851, PDM 11, PDM 54, OUM 115 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Suspend 200g of Rhizobium culture + 250g phosphate solubilizing bacteria (PSB) in 600 ml of water and mix thoroughly. Now pour the slurry on 10 kg of seed drop by drop and mix with the hands till the uniform coating of culture is obtained on all seeds. Dry the treated seeds in shade on clean cloth, paper or polythene sheet and sow then immediately, preferably in afternoon."
          ]
       },
       "rabi groundnut": {
          "advisory": [
-            "Go for land preparation and sowing of rabi groundnut at a spacing of 25 cm x 10 cm with the seed rate of 50 kg/acre. Apply 35 kg DAP, 4 kg urea, and 27 kg MoP per acre along with 10 kg zinc sulfate and 4 kg borax/acre as basal. Before sowing seed should be treated with 10 g Trichoderma harzianum/viride or 3 g Carboxin 37.5% + Thiram 37.5% DS for one kg seed."
+            "Go for land preparation and sowing of rabi groundnut at a spacing of 25 cm x 10 cm with seed rate of 50 kg/acre. Apply 35 kg DAP, 4 kg urea and 27 kg MoP per acre along with 10 kg zinc sulfate and 4 kg borax/acre as basal. Before sowing seed should be treated with 10 g Trichoderma harzianum/viride or 3 g Carboxin 37.5% + Thiram 37.5% DS for one kg seed. After 7 days of above treatment go for treatment with Rhizobium culture @ 600 g for 50 kg seeds.",
+            "To reduce collar rot or stem rot of groundnut apply neem or mustard cake @ 200 kg/acre at 15 days before sowing or in seed furrow at the time of sowing. In termite prone areas spray Chlorpyriphos 20% EC @ 4 ml/litre of water on the soil during final land preparation."
          ]
       },
       "mustard": {
          "advisory": [
-            "Taking the advantage of available soil moisture, land preparation and sowing of the crop should be started to get optimum yield.",
-            "Suitable varieties: Toria - Anuradha, Parbati, Sushree, Indian mustard - Pusa Bold, Pusa Jai kisan. Seed rate - 2-3 Kg/ac, Spacing - 30 cm X 10 cm.",
-            "Spray neem oil 5 ml/l of water to control insects in mustard & toria at seedling stage."
+            "Weed Management: Apply Oxadiargyl 6% EC as pre-emergence @ 3ml/ltr of water at 1-2 DAS or Quizalofop-ethyl 5% EC as post emergence @ 2ml/ltr of water at 15-20 DAS."
          ]
       },
-      "beans": {
+      "cauliflower/cabbage/broccoli": {
          "advisory": [
-            "The weather is optimum for french bean sowing. Grow high yielding varieties such as Contender and Arka Kamal and Kentucky Wonder. Use 10 -20 kg seeds/acre depending upon the bean type. Apply 10 tons of FYM/acre and apply 10:30:20 kg NPK /acre as basal Sow the seeds with spacing 40x20 cm."
+            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm.",
+            "Before transplanting, apply Carbendazim 12% + Mancozeb 63% WP to seedlings, and transplant during the afternoon.",
+            "Nutrient Management: Apply 26 kg DAP, 10 kg MOP, 15 kg Urea and 5kg Borax as basal at the time of transplanting."
          ]
       },
-      "brinjal": {
+      "tomato": {
          "advisory": [
-            "Apply 44 kg urea and 20 kg MoP per acre at 3 to 4-week stage. To get a higher yield spray a micronutrient mixture @ 3-4 g/litre of water at a 4-week stage.",
-            "Shoot borer may observe in brinjal field, to control it spray Azadirachtin 1% EC @ 3 ml/litre of water or Emamectin benzoate 5% SG @ 0.4 g/litre of water."
+            "Transplant the 30-35 days old seedlings in the main field with row to row spacing of 75-90 cm and plant to plant spacing of 45-60 cm.",
+            "Before transplanting, treat the seedlings with solution of Bavistin @ 1.5 g and Plantomycin @ 1 g mixed with 1liter of water for 10 to 15 minutes, and transplant during the afternoon.",
+            "Nutrient Management: Apply 66 kg DAP, 33 kg MOP and 80 kg Urea per acre. Apply 1/3rd of Urea + Full DAP + 1/2 MOP as basal."
          ]
       },
       "chilli": {
          "advisory": [
+            "Suitable varieties: HYVs -Utakala Abha, Utkala Rasmi, Utkala Ragini, Pusa Jwala, Pusa Sadabahar. Hybrid -Jyoti, Agnirekha, Roshni, Tejaswini etc,",
+            "Seed Rate: 200g/acre for HYVs and 100g/acre for Hybrids.",
             "To control thrips in chilli spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC @ 4.5 ml or Imidacloprid 17.8% SL @ 7.5 ml in 15 litres of water."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

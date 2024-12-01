@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 35,
+         "wind_speed": 6,
+         "wind_direction": 336,
+         "cloud_cover": 0
+      },
+      "21/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 72,
+         "rh_min": 34,
+         "wind_speed": 6,
+         "wind_direction": 332,
+         "cloud_cover": 1
+      },
+      "22/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 34,
+         "wind_speed": 6,
+         "wind_direction": 330,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
+      "black gram",
+      "green gram",
+      "groundnut",
+      "sugarcane",
+      "pointed gourd",
+      "cole crops",
+      "fisheries"
+   ],
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, harvest and reduce the moisture by sun drying. Control rodent problems, powdery mildew, weed management, red rot disease, downy mildew, diamond back moth, and maintain proper water depth for fisheries.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Paddy is at soft dough-physiological maturity stage. Harvest the crop and store in a safe place after sun drying."
+         ]
+      },
+      "rabi pulses": {
+         "advisory": [
+            "Sowing is ongoing, ensure seed treatment before sowing."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Seed treatment is mandatory before sowing."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Transplant 30-45 days old vegetable seedlings.",
+            "Control leaf eating caterpillar and fruit borer in winter vegetables by applying specific pesticides."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "At seedling-vegetative stage, watch out for powdery mildew disease and spray appropriate pesticides to control it."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "At seedling-vegetative stage, monitor for pests and diseases for timely intervention."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Sowing stage, ensure proper conditions for growth."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "At ripening stage, control red rot disease and maintain crop health.",
+            "Reduce feeding rates for fish in the winter season."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "At seedling-vegetative stage, prevent downy mildew disease.",
+            "Install light traps for pests infestation management."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "At vegetative stage, manage crops effectively."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Maintain proper water depth for fish in winter season."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

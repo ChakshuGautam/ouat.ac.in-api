@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "20/11/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 76,
+         "rh_min": 40,
+         "wind_speed": 9,
+         "wind_direction": 341,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rabi pulses",
+      "oilseeds",
+      "vegetables",
+      "paddy",
+      "paira crop",
+      "black gram",
+      "green gram",
+      "groundnut",
+      "sugarcane",
+      "pointed gourd",
+      "cole crops"
+   ],
+   "general_advisory": "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting. Reduce the moisture of the harvested paddy by sun drying it. Rodent- If ‘Rodent/Rats’ problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents.",
+   "crops_data": {
+      "rabi pulses": {
+         "advisory": [
+            "Sowing of Rabi Pulses, Oilseeds & vegetables are going on.",
+            "Seed treatment is a must before sowing of rabi crops."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Seed treatment is a must before sowing of rabi crops."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To control leaf-eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilli & Tomato, apply 0.5 g Emamectin.",
+            "Farmers are advised to transplant 30-45 days old vegetable seedlings like Chilli, Tomato, Capsicum, Cabbage, Cauliflower, Brinjal, etc. in the main field."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Harvest the matured paddy. If 80% of the panicles are matured, farmers can go for the harvesting.",
+            "Reduce the moisture of the harvested paddy by sun drying it."
+         ]
+      },
+      "paira crop": {
+         "advisory": [
+            "Right time to take up Paira crop which can be sown 15 days before harvesting of paddy."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @ 800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @ 800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Groundnut is in the sowing stage."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Sugarcane is at ripening stage.",
+            "For controlling Red Rot disease in Sugarcane, spray Carbendazim 12%+ Mancozeb 63 % WP @ 400 g /acre or Metalaxyl 8 % + Mancozeb 64 % WP @ 400 g/acre."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "There is a chance of downy mildew in Pointed gourd. To control downy mildew, spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl - AL 80 % WP @ 600 g/acre."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Cole crops are in the vegetative stage."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

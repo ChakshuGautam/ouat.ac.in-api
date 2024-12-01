@@ -1,85 +1,90 @@
 {
    "weather_details": {
-      "2024-11-02": {
+      "2024-11-30": {
          "rainfall": 5,
-         "t_max": 32,
-         "t_min": 25,
+         "t_max": 21,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 354,
+         "cloud_cover": 8
+      },
+      "2024-12-01": {
+         "rainfall": 4,
+         "t_max": 23,
+         "t_min": 21,
          "rh_max": 92,
-         "rh_min": 50,
-         "wind_speed": 3,
-         "wind_direction": 304,
+         "rh_min": 68,
+         "wind_speed": 5,
+         "wind_direction": 356,
+         "cloud_cover": 8
+      },
+      "2024-12-02": {
+         "rainfall": 3,
+         "t_max": 25,
+         "t_min": 20,
+         "rh_max": 92,
+         "rh_min": 69,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 8
+      },
+      "2024-12-03": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": 88,
+         "rh_min": 65,
+         "wind_speed": 5,
+         "wind_direction": 4,
          "cloud_cover": 7
       },
-      "2024-11-03": {
-         "rainfall": 0.1,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 44,
+      "2024-12-04": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 88,
+         "rh_min": 56,
          "wind_speed": 4,
-         "wind_direction": 311,
+         "wind_direction": 343,
          "cloud_cover": 6
-      },
-      "2024-11-04": {
-         "rainfall": 0.1,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 86,
-         "rh_min": 44,
-         "wind_speed": 4,
-         "wind_direction": 307,
-         "cloud_cover": 5
-      },
-      "2024-11-05": {
-         "rainfall": 0.1,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 89,
-         "rh_min": 47,
-         "wind_speed": 4,
-         "wind_direction": 311,
-         "cloud_cover": 4
-      },
-      "2024-11-06": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 90,
-         "rh_min": 51,
-         "wind_speed": 4,
-         "wind_direction": 326,
-         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "rice",
-      "groundnut",
-      "poultry",
-      "others (soil / land preparation)"
+      "black gram",
+      "green gram",
+      "cabbage",
+      "banana",
+      "cow"
    ],
-   "general_advisory": "Under clear sky conditions, adequate moisture in the soil for sowing of Rabi crops such as Groundnut, Green gram, Black gram, Cowpea, Sweet potato, Sesame, coriander and cole crops like cabbage, and cauliflower. Before winter vaccination should be done for PPR and FMP in dairy animals. There is a possibility of root rot in vegetable crops after rains, so after the rains, soak the roots of these crops with 20 grams of metalaxyl and mancozeb and 1.5 grams of streptocycline per 1 liter of water.",
+   "general_advisory": "Light Rainfall is expected in the coming five days. Postpone spraying of agrochemicals in standing crops.",
    "crops_data": {
-      "rice": {
+      "black gram": {
          "advisory": [
-            "Leaf Folder and Caseworm pest infestation observed in some places. To control Leaf Folder and Caseworm pest biologically apply 2 no. of Trichogramma chilonis card per acre. In field move a string over the paddy crop by stretching at both the ends of the field. By this method the larva of insects falls to the water and gets killed. To manage Leaf Folder and Case Worm pests in paddy spray Fipronil 5% SC @ 400-ml/acre or Profenophos 50% EC @ 400-ml/acre or Chlorantraniliprole 18.5% SC @ 60-ml /acre."
+            "Grow high yielding varieties like T 9, PU 1 1, PU 19 and PU 30 for black gram; and K 851, PDM 1 1, PDM 54, OUM 1 15 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Apply 4 kg urea, 35 kg DAP and 13 kg MOP per acre during final land preparation. Sow the seeds in line of 30 cm apart with 10-15 cm plant to plant distance."
          ]
       },
-      "groundnut": {
+      "green gram": {
          "advisory": [
-            "After the rain to control root rot spray Thiophanate Methyl 1gm in 1 lt of water."
+            "Grow high yielding varieties like T 9, PU 1 1, PU 19 and PU 30 for black gram; and K 851, PDM 1 1, PDM 54, OUM 1 15 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Apply 4 kg urea, 35 kg DAP and 13 kg MOP per acre during final land preparation."
          ]
       },
-      "poultry": {
+      "cabbage": {
          "advisory": [
-            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease."
+            "To manage Diamond Back Moth install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem based pesticide (Azadirachtin) 300 PPM @ 1-litre/acre by mixing in 200-litre of water. Spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ @80-gram/acre by mixing in 200-litre of water."
          ]
       },
-      "others (soil / land preparation)": {
+      "banana": {
          "advisory": [
-            "There is a possibility of root rot in vegetable crops after rains, so after the rains, soak the roots of these crops with 20 grams of metalaxyl and mancozeb and 1.5 grams of streptocycline per 1 liter of water."
+            "To manage panama wilt disease suckers should be dipped with solution of Carbendazim @ 10-gram/10-litre of water before planting followed by bimonthly drenching of soil around the pseudo stem starting from 5 months after planting. Remove and destroy infected plants in the main field."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide medicine for worms and Vaccinate animals before winters."
          ]
       }
    },
-   "date": "01-11-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "29-11-2024"
 }

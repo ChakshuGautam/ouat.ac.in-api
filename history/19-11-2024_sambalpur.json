@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 31,
+         "rh_min": 70,
+         "wind_speed": 4,
+         "wind_direction": 14,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 32,
+         "rh_min": 72,
+         "wind_speed": 3,
+         "wind_direction": 334,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 32,
+         "rh_min": 73,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 30,
+         "rh_min": 70,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 29,
+         "rh_min": 63,
+         "wind_speed": 4,
+         "wind_direction": 11,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "mustard",
+      "okra",
+      "cole crop"
+   ],
+   "general_advisory": "As dry weather condition is prevailed in upcoming week also, farmers are advised to make arrangements for providing irrigation to different standing crops. There is a chance of increase in various disease infestation in both field as well as vegetable crops due to prevailing low night temperature and high humidity so regular monitoring against these diseases should be advised. Looking to the prevailing night temperature condition, farmers are advised to take proper care of their crops as well as animals accordingly to protect them from cold. Deworming and vaccination should be advised in animals to boost immunity and protect them from any harmful diseases.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If rice is at maturity stage, stop irrigation in the field before harvesting. Since the weather is expected to remain dry in upcoming days then harvest the plants when 80-85% of the grains have matured and the plant looks pale yellow in color.",
+            "After harvesting rice should be dried in the field for 2-3 days and thereafter threshing should be done. Rice should be stored at a moisture level of 12%.",
+            "Due to low night temperature and high humidity there may be a chance of high incidence of False Smut and Neck/Panicle blast in late maturing rice varieties so its regular monitoring should be advised."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "To control bollworm complex in cotton crop, farmers are advised to spray Emamectin benzoate 5% SG @ 4g or Profenophos 50% EC @ 30 ml in 10 litres of water under clear weather.",
+            "Harvesting of matured boll should be advised."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "One thinning operation should be advised to maintain optimum plant population in mustard in case of dense planting. Hoeing and weeding operation is advised in case of crop 15 to 20 days old crop."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control Fruit and shoot borer in Okra etc. spraying of Neem based pesticide 1500 ppm @600ml per acre should be advised at initial stages. In severe cases, the alternate spray of Spinosad 45% SC @ 70ml and Emamectin benzoate @ 80 g per acre at 15 days interval should be advised.",
+            "Harvesting of mature crop should be advised."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Nursery bed should be prepared with a length of 3m, 1m breadth and 15-20 cm height. Before sowing, application of 15-30 kg well decomposed FYM and 150 grams of chlorpyriphos dust to each nursery bed should be advised.",
+            "Where irrigation facilities are available, planting of the crop is advised in already prepared field. During planting, straw or polythene can be used as mulching material to maintain moisture as well as soil temperature in newly planted vegetable crops. Before planting, the root should be treated with recommended fungicide to avoid further disease infestation in vegetable crops.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use pheromone trap in the field for this purpose."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

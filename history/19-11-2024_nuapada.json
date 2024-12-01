@@ -1,0 +1,142 @@
+{
+   "weather_details": {
+      "20-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 71,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 307,
+         "cloud_cover": 0
+      },
+      "21-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 292,
+         "cloud_cover": 0
+      },
+      "22-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 33,
+         "wind_speed": 1,
+         "wind_direction": 304,
+         "cloud_cover": 1
+      },
+      "23-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 281,
+         "cloud_cover": 0
+      },
+      "24-11-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 65,
+         "rh_min": 30,
+         "wind_speed": 2,
+         "wind_direction": 315,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "green gram",
+      "black gram",
+      "toria",
+      "chick pea",
+      "lentil",
+      "sunflower",
+      "groundnut",
+      "cowpea",
+      "field pea",
+      "cotton",
+      "greengram",
+      "cabbage"
+   ],
+   "general_advisory": "Based on the five-day weather forecast of IMD, farmers are advised to continue necessary agricultural activities, including weeding, fertilization, irrigation, harvesting, and pesticide application. Undertake sowing of rabi crops like green gram, black gram, toria, chick pea, lentil, sunflower, groundnut, cowpea, field pea, etc. in medium or shallow low land to utilize the available soil moisture in the field.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Suitable time for sowing green gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing.",
+            "Seed rate: 8-10 kg/acre",
+            "Suitable varieties: Green gram -IPM 2-03, Virat, Sikha, MH 1142, K-851, PDM 11, PDM-14, OUM-115"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Suitable time for sowing black gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing.",
+            "Seed rate: 8-10 kg/acre",
+            "Suitable varieties: Black gram -PU-10, PU-11, PU-19, PU-30, PU-31, T9"
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Suitable time for sowing toria."
+         ]
+      },
+      "chick pea": {
+         "advisory": [
+            "Undertake sowing of chick pea in suitable areas."
+         ]
+      },
+      "lentil": {
+         "advisory": [
+            "Sowing of lentil in recommended areas."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Suitable time for sowing sunflower."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Suitable time for sowing groundnut."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Suitable time for sowing cowpea in recommended areas."
+         ]
+      },
+      "field pea": {
+         "advisory": [
+            "Suitable time for sowing field pea."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking should be done when there is complete bursting of bolls. Dry the seed cotton on concrete floor or tarpaulin sheets to reduce the moisture to 8-10%."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Suitable time for sowing green gram."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm."
+         ]
+      }
+   },
+   "date": "19-11-2024"
+}

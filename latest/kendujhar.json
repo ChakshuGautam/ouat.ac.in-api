@@ -1,136 +1,139 @@
 {
    "weather_details": {
-      "20-11-2024": {
-         "rainfall": 0,
+      "30-11-2024": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 17,
+         "rh_max": 84,
+         "rh_min": 50,
+         "wind_speed": 8,
+         "wind_direction": 10,
+         "cloud_cover": 7
+      },
+      "01-12-2024": {
+         "rainfall": 4,
          "t_max": 27,
+         "t_min": 17,
+         "rh_max": 86,
+         "rh_min": 62,
+         "wind_speed": 6,
+         "wind_direction": 22,
+         "cloud_cover": 8
+      },
+      "02-12-2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 88,
+         "rh_min": 67,
+         "wind_speed": 4,
+         "wind_direction": 27,
+         "cloud_cover": 7
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
          "t_min": 14,
-         "rh_max": 74,
-         "rh_min": 39,
-         "wind_speed": 5,
-         "wind_direction": 347,
-         "cloud_cover": 0
-      },
-      "21-11-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 75,
-         "rh_min": 39,
-         "wind_speed": 5,
-         "wind_direction": 347,
-         "cloud_cover": 0
-      },
-      "22-11-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 74,
-         "rh_min": 38,
-         "wind_speed": 5,
-         "wind_direction": 346,
-         "cloud_cover": 0
-      },
-      "23-11-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 13,
-         "rh_max": 72,
-         "rh_min": 36,
+         "rh_max": 85,
+         "rh_min": 64,
          "wind_speed": 4,
-         "wind_direction": 349,
-         "cloud_cover": 0
+         "wind_direction": 22,
+         "cloud_cover": 7
       },
-      "24-11-2024": {
-         "rainfall": 0,
+      "04-12-2024": {
+         "rainfall": 1,
          "t_max": 26,
-         "t_min": 13,
-         "rh_max": 66,
-         "rh_min": 33,
+         "t_min": 12,
+         "rh_max": 83,
+         "rh_min": 58,
          "wind_speed": 4,
-         "wind_direction": 350,
-         "cloud_cover": 1
+         "wind_direction": 11,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "mustard",
-      "toria",
       "chickpea",
-      "paddy",
+      "mustard and toria",
       "linseed",
-      "tomato",
+      "paddy",
       "cauliflower",
       "pumpkin",
-      "chilli"
+      "chilli",
+      "banana",
+      "marigold",
+      "rose"
    ],
-   "general_advisory": "Harvest the matured paddy from the field. Farmers are advised to complete the rabi crops sowing as soon as possible. Seed treatment is necessary before sowing of the crops. For winter, vegetables like tomato, brinjal, chilli along with pulses can be taken for sowing. Spray insecticides and pesticides on the crops during morning and evening hours. Monitor the disease and pests regularly.",
+   "general_advisory": "Complete the sowing of rabi crops as early as possible. Seed treatment is a must before sowing of rabi crops. Irrigate the field after sowing. Resume the spraying activities in early morning or evening hours. Keep a watch on the disease and pests in the field.",
    "crops_data": {
-      "mustard": {
-         "advisory": [
-            "Prepare the land for sowing of Mustard and Toria.",
-            "Plough the land to make it proper tilth.",
-            "Sow the seeds of Mustard and Toria in the field.",
-            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
-            "Irrigate the field after sowing."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "Prepare the land for sowing of Mustard and Toria.",
-            "Plough the land to make it proper tilth.",
-            "Sow the seeds of Mustard and Toria in the field.",
-            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
-            "Irrigate the field after sowing."
-         ]
-      },
       "chickpea": {
          "advisory": [
+            "Land preparation and sowing of chickpea should be complete within the week.",
             "Farmers are advised to use good quality seed materials and treatment of the seeds with fungicides like Captan and Thiram is must.",
             "Irrigation of the field after sowing should be done.",
-            "Do not over irrigate the field.",
-            "Regularly remove weeds from the field."
+            "Do not over irrigate the field."
          ]
       },
-      "paddy": {
+      "mustard and toria": {
          "advisory": [
-            "If 80% of the panicles are matured, farmers can go for the harvesting.",
-            "Reduce the moisture of the harvested paddy by sun drying it.",
-            "Keep the harvested paddy at cleaned threshing floor."
+            "Mustard and Toria seeds should be sown within this week.",
+            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
+            "Irrigate the field after sowing.",
+            "Remove weeds from the field."
          ]
       },
       "linseed": {
          "advisory": [
-            "Broadcast the seeds of linseed in paddy crops willing to be harvested.",
+            "Broadcasting of seeds can be done 10 -15 days prior to harvesting of paddy crops.",
             "Do not broadcast the seeds in waterlogged condition.",
-            "Farmers can use linseed variety such as Arpita and Kota Barani Alsi-4 for Keonjhar district of Odisha.",
-            "After harvesting of the paddy, watch the germination of the linseed. If required broadcast it again.",
-            "Linseed can be more productive if line sowing is done.",
-            "Farmers are advised to sow the seeds in line maintaining proper spacing."
+            "Farmers can use linseed variety such as Arpita and Kota Barani Alsi -4 for Keonjhar district of Odisha."
          ]
       },
-      "tomato": {
+      "paddy": {
          "advisory": [
-            "Transplant the 30-35 days old seedling in the field.",
-            "Remove weeds and irrigate the crop after transplanting."
+            "Harvested paddy should be sundried in the field to reduce the moisture content to 10-12%.",
+            "Keep the threshing floor clean and disinfected.",
+            "Make bundles of paddy ready for threshing with the help of threshers."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Do not over irrigate the crop.",
-            "Regularly check for any type of disease and pest infestation."
+            "Keep the soil moist but avoid any type of waterlogging.",
+            "Transplanting of cauliflower should be done carefully.",
+            "Maintain proper distance between the plants."
          ]
       },
       "pumpkin": {
          "advisory": [
-            "Leaf blight disease in pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/lt of water."
+            "Do not keep the fruit touching the ground. Rather keep a polythene or gunny bag under the fruit to grow.",
+            "Keep proper space for the development of fruits. Remove weeds from the field and keep a watch on the insects and pests.",
+            "Leaf blight disease in pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/L of water."
          ]
       },
       "chilli": {
          "advisory": [
             "Sow the seeds in the soil with proper irrigation.",
-            "Farmers who have used chilli in pro-trays can transplant them in the field.",
-            "Spraying fungicides like Mancozeb or Carbendazim @ 2g/lt to manage any type of fungal disease."
+            "Farmers who have used chilli in pro-trays can transplant them in the field."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Spraying of Imidacloprid @ 1 ml/L can be used to reduce the whitefly and thrips infestation."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Transplant and maintain distance from plant to plant and row to row.",
+            "Monitor the field for whitefly and mealy bug infestation.",
+            "For the management of mealy bug, spray soap or shampoo water to the plants."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Grafting in rose can be taken into consideration.",
+            "Pruning of the plants can be done which will help in more number of branches and flowering.",
+            "Powdery mildew disease can be seen in the plants which can be managed by spraying sulphur powder."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }

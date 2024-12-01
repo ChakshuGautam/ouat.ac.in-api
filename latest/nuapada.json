@@ -1,142 +1,194 @@
 {
    "weather_details": {
-      "20-11-2024": {
+      "30-11-2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 71,
-         "rh_min": 34,
-         "wind_speed": 2,
-         "wind_direction": 307,
-         "cloud_cover": 0
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 87,
+         "rh_min": 52,
+         "wind_speed": 6,
+         "wind_direction": 36,
+         "cloud_cover": 4
       },
-      "21-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
+      "01-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
          "t_min": 17,
-         "rh_max": 74,
-         "rh_min": 34,
-         "wind_speed": 2,
-         "wind_direction": 292,
-         "cloud_cover": 0
+         "rh_max": 93,
+         "rh_min": 63,
+         "wind_speed": 6,
+         "wind_direction": 40,
+         "cloud_cover": 5
       },
-      "22-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
+      "02-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
          "t_min": 17,
-         "rh_max": 73,
-         "rh_min": 33,
-         "wind_speed": 1,
-         "wind_direction": 304,
-         "cloud_cover": 1
+         "rh_max": 94,
+         "rh_min": 62,
+         "wind_speed": 5,
+         "wind_direction": 56,
+         "cloud_cover": 5
       },
-      "23-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 70,
-         "rh_min": 31,
-         "wind_speed": 2,
-         "wind_direction": 281,
-         "cloud_cover": 0
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 90,
+         "rh_min": 62,
+         "wind_speed": 4,
+         "wind_direction": 59,
+         "cloud_cover": 4
       },
-      "24-11-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 65,
-         "rh_min": 30,
-         "wind_speed": 2,
-         "wind_direction": 315,
-         "cloud_cover": 1
+      "04-12-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 90,
+         "rh_min": 56,
+         "wind_speed": 3,
+         "wind_direction": 50,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
-      "green gram",
-      "black gram",
-      "toria",
-      "chick pea",
-      "lentil",
-      "sunflower",
-      "groundnut",
-      "cowpea",
-      "field pea",
       "cotton",
+      "arhar",
       "greengram",
-      "cabbage"
+      "blackgram",
+      "groundnut",
+      "mustard",
+      "toria",
+      "sunflower",
+      "onion",
+      "tomato",
+      "chilli",
+      "rose",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep",
+      "poultry"
    ],
-   "general_advisory": "Based on the five-day weather forecast of IMD, farmers are advised to continue necessary agricultural activities, including weeding, fertilization, irrigation, harvesting, and pesticide application. Undertake sowing of rabi crops like green gram, black gram, toria, chick pea, lentil, sunflower, groundnut, cowpea, field pea, etc. in medium or shallow low land to utilize the available soil moisture in the field.",
+   "general_advisory": "As per extended range of forecast received from IMD, light to moderate rainfall very likely to occur in most parts of Odisha & dry over remaining parts of Odisha during week -1 (29th November to 05th December, 2024). Minimum temperature (night temperature) very likely to be 16 -18°C in Coastal Odisha and adjoining districts of Coastal Odisha, 14 -16°C over some parts of Interior Odisha, 12 -14°C over the remaining parts of Interior Odisha and 18 -20°C over some parts of extreme South Odisha during week -1.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Suitable time for sowing green gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing.",
-            "Seed rate: 8-10 kg/acre",
-            "Suitable varieties: Green gram -IPM 2-03, Virat, Sikha, MH 1142, K-851, PDM 11, PDM-14, OUM-115"
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Suitable time for sowing black gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds before sowing.",
-            "Seed rate: 8-10 kg/acre",
-            "Suitable varieties: Black gram -PU-10, PU-11, PU-19, PU-30, PU-31, T9"
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "Suitable time for sowing toria."
-         ]
-      },
-      "chick pea": {
-         "advisory": [
-            "Undertake sowing of chick pea in suitable areas."
-         ]
-      },
-      "lentil": {
-         "advisory": [
-            "Sowing of lentil in recommended areas."
-         ]
-      },
-      "sunflower": {
-         "advisory": [
-            "Suitable time for sowing sunflower."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Suitable time for sowing groundnut."
-         ]
-      },
-      "cowpea": {
-         "advisory": [
-            "Suitable time for sowing cowpea in recommended areas."
-         ]
-      },
-      "field pea": {
-         "advisory": [
-            "Suitable time for sowing field pea."
+            "Harvest the crop when 80-85% of the grains are matured. Paddy grains need to be sun-dried to 12-14% moisture content for better self-life.",
+            "Store the harvested paddy in Super Grain bag for retaining the quality texture, colors, aroma, fragrance, and taste of the commodities for longer period of time a safer place (properly stacked with suitable cover) to avoid damage.",
+            "Pack each variety separately without mixing for better price of the produce.",
+            "If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents."
          ]
       },
       "cotton": {
          "advisory": [
-            "Picking should be done when there is complete bursting of bolls. Dry the seed cotton on concrete floor or tarpaulin sheets to reduce the moisture to 8-10%."
+            "Picking should be done when there is complete bursting of bolls.",
+            "Dry the seed cotton on a concrete floor or tarpaulin sheets to reduce the moisture to 8-10%. Store the seed cotton obtained from the 1st picking separately for getting a better price.",
+            "Foliar spray of liquid fertilizers like NPK-19-19-19 should be done @ 20 g/10 liters of water for better plant growth and boll development",
+            "Regular monitoring of the crop to know about the incidence of any new pest and diseases.",
+            "Sell seed cotton in the nearby 'Mandi' to get MSP (Rs.7521/ qt) for long staple cotton."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Prevailing weather conditions favor the following pest attack. So, recommended control measures should be followed as required.",
+            "To control pod borer, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
+            "To control pod sucking bug and aphid, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
          ]
       },
       "greengram": {
          "advisory": [
-            "Suitable time for sowing green gram."
+            "Suitable time for sowing green gram and black gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds seven days before sowing.",
+            "Prior to sowing, treat 10kg of seeds with a slurry mixture consisting of 200g Rhizobium culture and 250g PSB, combined with 600ml of water. Allow the treated seeds to dry in a shed before sowing in the afternoon. This will enhance yield up to 15-20%.",
+            "Seed rate: 8-10 kg/acre",
+            "Suitable varieties: Green gram -IPM 2-03, Virat, Sikha, MH 1142, K-851, PDM 11, PDM-14, OUM-115 etc. Black gram -PU-10, PU-11, PU-19, PU-30, PU-31, T9 etc.",
+            "Nutrient Management: For one acre area apply 35kg DAP and 13kg MOP at the time of final land preparation."
          ]
       },
-      "cabbage": {
+      "blackgram": {
          "advisory": [
-            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm."
+            "Suitable time for sowing green gram and black gram. Treat the seeds with Thiram 50 WP or Carbendazim 50 WP @ 2g/kg of seeds seven days before sowing.",
+            "Prior to sowing, treat 10kg of seeds with a slurry mixture consisting of 200g Rhizobium culture and 250g PSB, combined with 600ml of water. Allow the treated seeds to dry in a shed before sowing in the afternoon. This will enhance yield up to 15-20%.",
+            "Seed rate: 8-10 kg/acre",
+            "Suitable varieties: Green gram -IPM 2-03, Virat, Sikha, MH 1142, K-851, PDM 11, PDM-14, OUM-115 etc. Black gram -PU-10, PU-11, PU-19, PU-30, PU-31, T9 etc.",
+            "Nutrient Management: For one acre area apply 35kg DAP and 13kg MOP at the time of final land preparation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Suitable time for sowing rabi groundnut. Treat the seed with Carbendazim 25% + Mancozeb 50% WS @ 3-3.5 g/kg seed before sowing and with Rhizobium culture @ 500g or 250 ml per 25 kg of seed at the time of sowing. Sowing of seed should be done at afternoon hours.",
+            "Suitable varieties: Devi (ICGV-91114), Kadri-6, Kadri-9, TAG-51, TMV-2, Smruti (OG 52-1), CO-7, Dharani etc.",
+            "Seed rate: 40-50 kg groundnut seed kernel per acre.",
+            "Nutrient Management: Apply 40 kg DAP, 25 kg MOP, and 12 kg Sulphur per acre before sowing.",
+            "Weed Management: Apply Oxyflourfen 23.5% EC @ 80ml/acre mixed with 200 liters of water at 2-3 DAS."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Weed Management: Apply Oxadiargyl 6% EC as pre-emergence @ 3ml/ltr of water at 1-2 DAS or Quizalofop-ethyl 5% EC as post-emergence @ 2ml/ltr of water at 15-20 DAS."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Weed Management: Apply Oxadiargyl 6% EC as pre-emergence @ 3ml/ltr of water at 1-2 DAS or Quizalofop-ethyl 5% EC as post-emergence @ 2ml/ltr of water at 15-20 DAS."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Weed Management: Spray Pendimithalin 30% EC @ 1.25 ltr/acre by mixing with 200 ltrs of water as pre-emergence herbicide. Power weeding at 21-28 DAS before irrigation plays a significant role to manage the weeds."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Now is the suitable time for sowing onion.",
+            "Suitable variety: Bhima Raj, Bhima dark red, Bhima Sweta, Bhima Subhra, Bhima Safed, Agrifound Dark Red, Bhima Shakti, Bhima Super, Arka Niketan etc. are suitable cultivar for the winter season.",
+            "Seed rate: 4 kg/acre"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Transplant the 30-35 days old seedlings in the main field with row to row spacing of 75-90 cm and plant to plant spacing of 45-60 cm.",
+            "Before transplanting, treat the seedlings with a solution of Bavistin @ 1.5 g and Plantomycin @ 1 g mixed with 1liter of water for 10 to 15 minutes, and transplant during the afternoon.",
+            "Nutrient Management: Apply 66 kg DAP, 33 kg MOP, and 80 kg Urea per acre. Apply 1/3rd of Urea + Full DAP + 1/2 MOP as basal."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Suitable varieties: HYVs-Utakala Abha, Utkala Rasmi, Utkala Ragini, Pusa Jwala, Pusa Sadabahar. Hybrid-Jyoti, Agnirekha, Roshni, Tejaswini etc.",
+            "Seed Rate: 200g/acre for HYVs and 100g/acre for Hybrids."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Prevailing weather conditions are favorable for infestation of Powdery mildew. To control, spray Carbendazim 50% WP @ 1.5g/lit of water."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Farmers are advised to repair the goat house before the commencement of the winter season. Because there is a high chance of mortality among kids due to chill weather."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Farmers are advised to repair the goat house before the commencement of the winter season. Because there is a high chance of mortality among kids due to chill weather."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat, especially to chicks during the night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
          ]
       }
    },
-   "date": "19-11-2024"
+   "date": "29-11-2024"
 }
