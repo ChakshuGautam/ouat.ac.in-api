@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "30-11-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 44,
+         "rh_min": 84,
+         "wind_speed": 6,
+         "wind_direction": 41,
+         "cloud_cover": 5
+      },
+      "01-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 61,
+         "rh_min": 87,
+         "wind_speed": 6,
+         "wind_direction": 45,
+         "cloud_cover": 5
+      },
+      "02-12-2024": {
+         "rainfall": 2,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 65,
+         "rh_min": 90,
+         "wind_speed": 5,
+         "wind_direction": 58,
+         "cloud_cover": 4
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 89,
+         "wind_speed": 5,
+         "wind_direction": 58,
+         "cloud_cover": 5
+      },
+      "04-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 59,
+         "rh_min": 89,
+         "wind_speed": 4,
+         "wind_direction": 62,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram",
+      "black gram",
+      "mustard",
+      "ground nut",
+      "cole crop",
+      "livestock"
+   ],
+   "general_advisory": "Cloudy weather is expected in upcoming days so farmers are advised to take precautionary measures to keep the harvested produce in safe place. There is a chance of increase in various disease infestation in both field as well as vegetable crops. Farmers are advised to complete the sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram etc. Deworming and vaccination should be advised in animals to boost immunity and protect them from any harmful diseases.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If rice is at maturity stage, stop irrigation in the field before harvesting. Harvest the plants when 80-85% of the grains have matured and the plant looks pale yellow in color. After harvesting rice should be dried in the field for 2-3 days and thereafter threshing should be done. Rice should be stored at a moisture level of 12% in safe places. Due to low night temperature and high humidity, there may be a chance of False Smut disease infestation in late maturing rice varieties so regular monitoring should be advised. If infestation is noticed, then spraying of Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr should be advised. Repeat the spray after 7-10 days for its effective control."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "One week before sowing, seed should be treated with carbendazim @1.5-2.0g and imidacloprid @5g per kg seeds. Seed should be sown with a seed rate of 8-10 kg/ac with a spacing of 30cm×10cm. Varieties: Green Gram - Kamadeva, Durga, IPM 02-3, IPM 02-14, TARM1."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "One week before sowing, seed should be treated with carbendazim @1.5-2.0g and imidacloprid @5g per kg seeds. Seed should be sown with a seed rate of 8-10 kg/ac with a spacing of 30cm×10cm. Varieties: Black Gram - Prasada, Usala, PU 31, IPU2-43, Mahuri."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "One thinning operation should be advised to maintain optimum plant population in mustard in case of dense planting. Hoeing and weeding operation is advised in case of crop 15 to 20 days old crop."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Farmers who have not yet sown seeds can use improved Groundnut varieties such as TAG-24, JL-24, Girnar-3, Smruti, TG-3, TG-22, Kadri-5, Kadri-6, Kadri-9, TPG-41, GPBD-4, Devi, CO-7, Dharani, and Divya etc. Ensure seed treatment before sowing of seed and if possible, treat with bacteria or phospho culture 7 days after treatment. If the seedlings are of 10 days old, it is recommended to conduct gap filling where the seedlings have not emerged."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "During planting, polythene can be used as mulching material or if planting already done straw can be used for the same purpose to maintain moisture as well as soil temperature of vegetable crops. Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use pheromone trap in the field for this purpose."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Farmers should make proper provision to protect the animal from cold during winter season and provide clean drinking water to cattle and keep their sheds clean. Don't allow the urine or excreta to deposit around the shed which may lead to flies. Vaccination and deworming should be done to control different harmful diseases and stomach worms. Antibiotic treatment and consultation should be made with a qualified veterinary Doctor."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

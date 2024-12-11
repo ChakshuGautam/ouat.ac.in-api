@@ -1,139 +1,131 @@
 {
    "weather_details": {
-      "30-11-2024": {
-         "rainfall": 5,
-         "t_max": 26,
-         "t_min": 17,
-         "rh_max": 84,
-         "rh_min": 50,
-         "wind_speed": 8,
-         "wind_direction": 10,
-         "cloud_cover": 7
-      },
-      "01-12-2024": {
-         "rainfall": 4,
-         "t_max": 27,
-         "t_min": 17,
-         "rh_max": 86,
-         "rh_min": 62,
-         "wind_speed": 6,
-         "wind_direction": 22,
-         "cloud_cover": 8
-      },
-      "02-12-2024": {
-         "rainfall": 3,
+      "11-12-2024": {
+         "rainfall": 0,
          "t_max": 27,
          "t_min": 16,
-         "rh_max": 88,
-         "rh_min": 67,
+         "rh_max": 89,
+         "rh_min": 42,
          "wind_speed": 4,
-         "wind_direction": 27,
-         "cloud_cover": 7
+         "wind_direction": 90,
+         "cloud_cover": 4
       },
-      "03-12-2024": {
-         "rainfall": 1,
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 70,
+         "rh_min": 34,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 64,
+         "rh_min": 29,
+         "wind_speed": 5,
+         "wind_direction": 356,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
          "t_max": 26,
          "t_min": 14,
-         "rh_max": 85,
-         "rh_min": 64,
-         "wind_speed": 4,
-         "wind_direction": 22,
-         "cloud_cover": 7
+         "rh_max": 56,
+         "rh_min": 25,
+         "wind_speed": 6,
+         "wind_direction": 357,
+         "cloud_cover": 1
       },
-      "04-12-2024": {
-         "rainfall": 1,
+      "15-12-2024": {
+         "rainfall": 0,
          "t_max": 26,
-         "t_min": 12,
-         "rh_max": 83,
-         "rh_min": 58,
-         "wind_speed": 4,
-         "wind_direction": 11,
-         "cloud_cover": 6
+         "t_min": 14,
+         "rh_max": 55,
+         "rh_min": 24,
+         "wind_speed": 7,
+         "wind_direction": 354,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
+      "paddy",
       "chickpea",
       "mustard and toria",
       "linseed",
-      "paddy",
       "cauliflower",
+      "brinjal",
       "pumpkin",
-      "chilli",
       "banana",
-      "marigold",
-      "rose"
+      "papaya"
    ],
-   "general_advisory": "Complete the sowing of rabi crops as early as possible. Seed treatment is a must before sowing of rabi crops. Irrigate the field after sowing. Resume the spraying activities in early morning or evening hours. Keep a watch on the disease and pests in the field.",
+   "general_advisory": "Harvested paddy should be threshed in the clean floor. Spray pesticides during morning hours or evening hours to manage the pests. Keep a watch on disease and pests attack on the crops.",
    "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Complete the harvesting of paddy.",
+            "Harvested paddy to be kept at safe places.",
+            "The moisture should be reduced to 12-14%.",
+            "Remove the false smut-affected paddy panicles during harvesting and threshing process.",
+            "Carefully thresh the paddy. Remember to thresh the paddy in clean and disinfected threshing floor."
+         ]
+      },
       "chickpea": {
          "advisory": [
-            "Land preparation and sowing of chickpea should be complete within the week.",
-            "Farmers are advised to use good quality seed materials and treatment of the seeds with fungicides like Captan and Thiram is must.",
-            "Irrigation of the field after sowing should be done.",
-            "Do not over irrigate the field."
+            "If soil moisture is low, provide irrigation to the soil.",
+            "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
+            "Weeding from the field should be done regularly.",
+            "The wilted plants should be uprooted and disposed away from the field."
          ]
       },
       "mustard and toria": {
          "advisory": [
-            "Mustard and Toria seeds should be sown within this week.",
-            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
-            "Irrigate the field after sowing.",
-            "Remove weeds from the field."
+            "Maintain the spacing of 30 cm row to row and 10 cm plant to plant in the field.",
+            "After sowing, provide irrigation to the crops for better and early germination.",
+            "Remove weeds from the field.",
+            "Spray Imidacloprid 17.8 SL @ 1 ml/lt to manage aphids and whitefly infestation."
          ]
       },
       "linseed": {
          "advisory": [
-            "Broadcasting of seeds can be done 10 -15 days prior to harvesting of paddy crops.",
-            "Do not broadcast the seeds in waterlogged condition.",
-            "Farmers can use linseed variety such as Arpita and Kota Barani Alsi -4 for Keonjhar district of Odisha."
-         ]
-      },
-      "paddy": {
-         "advisory": [
-            "Harvested paddy should be sundried in the field to reduce the moisture content to 10-12%.",
-            "Keep the threshing floor clean and disinfected.",
-            "Make bundles of paddy ready for threshing with the help of threshers."
+            "Complete the sowing of linseed in line sowing.",
+            "One irrigation is required after the sowing.",
+            "Make sure to maintain the spacing and plant population."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Keep the soil moist but avoid any type of waterlogging.",
-            "Transplanting of cauliflower should be done carefully.",
-            "Maintain proper distance between the plants."
+            "Remove any weeds from the root zone.",
+            "Cauliflower borer can be managed by manually destroying the borers.",
+            "In case of heavy infestation, spray Cartap hydrochloride @ 6 g/15 lts."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Fruit and shoot borer infestation can be reduced by spraying Emamectin benzoate 5% SG @ 4g/10 lt.",
+            "Harvest the fruits and keep them at safe places."
          ]
       },
       "pumpkin": {
          "advisory": [
-            "Do not keep the fruit touching the ground. Rather keep a polythene or gunny bag under the fruit to grow.",
-            "Keep proper space for the development of fruits. Remove weeds from the field and keep a watch on the insects and pests.",
-            "Leaf blight disease in pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/L of water."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Sow the seeds in the soil with proper irrigation.",
-            "Farmers who have used chilli in pro-trays can transplant them in the field."
+            "Remove the leaf blight-affected leaves and damaged twigs.",
+            "Harvest the matured fruit and keep them at safe places."
          ]
       },
       "banana": {
          "advisory": [
-            "Spraying of Imidacloprid @ 1 ml/L can be used to reduce the whitefly and thrips infestation."
+            "If the banana bunch is broken and fruits are not matured yet, spray ethrel/ethylene for rapid ripening.",
+            "For managing aphids, spray Imidacloprid @ 1 ml/lt."
          ]
       },
-      "marigold": {
+      "papaya": {
          "advisory": [
-            "Transplant and maintain distance from plant to plant and row to row.",
-            "Monitor the field for whitefly and mealy bug infestation.",
-            "For the management of mealy bug, spray soap or shampoo water to the plants."
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "Grafting in rose can be taken into consideration.",
-            "Pruning of the plants can be done which will help in more number of branches and flowering.",
-            "Powdery mildew disease can be seen in the plants which can be managed by spraying sulphur powder."
+            "Papaya ring spot virus can be managed by spraying Malathion or Imidacloprid @ 1ml/lt."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

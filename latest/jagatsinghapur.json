@@ -1,86 +1,85 @@
 {
    "weather_details": {
-      "30/11/2024": {
-         "rainfall": 5,
-         "t_max": 26,
-         "t_min": 22,
-         "rh_max": 83,
-         "rh_min": 56,
-         "wind_speed": 18,
-         "wind_direction": 30,
-         "cloud_cover": 8
-      },
-      "01/12/2024": {
-         "rainfall": 4,
-         "t_max": 24,
-         "t_min": 22,
-         "rh_max": 81,
-         "rh_min": 61,
-         "wind_speed": 16,
-         "wind_direction": 32,
-         "cloud_cover": 8
-      },
-      "02/12/2024": {
-         "rainfall": 3,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 85,
-         "rh_min": 64,
-         "wind_speed": 13,
-         "wind_direction": 26,
-         "cloud_cover": 8
-      },
-      "03/12/2024": {
-         "rainfall": 4,
+      "11/12/2024": {
+         "rainfall": 0,
          "t_max": 29,
-         "t_min": 16,
-         "rh_max": 77,
-         "rh_min": 54,
+         "t_min": 21,
+         "rh_max": 76,
+         "rh_min": 46,
          "wind_speed": 11,
-         "wind_direction": 27,
-         "cloud_cover": 6
+         "wind_direction": 25,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 66,
+         "rh_min": 32,
+         "wind_speed": 14,
+         "wind_direction": 18,
+         "cloud_cover": 2
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 28,
+         "rh_max": 54,
+         "rh_min": 26,
+         "wind_speed": 14,
+         "wind_direction": 14,
+         "cloud_cover": 1
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 52,
+         "rh_min": 24,
+         "wind_speed": 15,
+         "wind_direction": 18,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
-      "groundnut",
-      "chilli",
-      "cole crops",
-      "banana",
-      "poultry"
+      "cotton",
+      "pulses",
+      "oilseeds",
+      "vegetables",
+      "sugarcane",
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold"
    ],
-   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables. For early and maximum yield in cole crops, spray Gibberellic Acid 0.001% L. Do proper field surveillance for pests and diseases regularly. In winter, keep doors, windows, and open spaces in cow sheds covered with polythene or gunny bag curtains.",
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There will be chances of infestation of sucking pests, leaf blight, powdery mildew in the rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. Harvest the mature sugarcanes below one inch of ground level for a successful ratoon crop.",
    "crops_data": {
-      "paddy": {
+      "PADDY": {
          "advisory": [
-            "Post-harvesting stage - Rodent/Rats problem: Locate the rodent burrow and place Aluminium Phosphide tablet. Stored grain insect pest: Fumigate with Aluminium phosphide tablets."
+            "Post-harvesting stage. Rodent - Place Aluminium Phosphide with mud to kill rodents."
          ]
       },
-      "groundnut": {
+      "POTATO": {
          "advisory": [
-            "Vegetative stage - Tobacco Caterpillar: Monitor with Pheromone traps. Spray chemical insecticides."
+            "Vegetative stage. Hoeing and hand weeding. High ridges for tubers. Irrigate properly."
          ]
       },
-      "chilli": {
+      "TOMATO": {
          "advisory": [
-            "Vegetative stage - Aphids and Thrips: Use neem-based pesticide or chemical spray."
+            "Vegetative stage. Late blight - spray Metalaxyl + Mancozeb to avoid infection."
          ]
       },
-      "cole crops": {
+      "BRINJAL": {
          "advisory": [
-            "Vegetative stage - Diamond Back Moth: Install light traps. Spray neem-based pesticide."
+            "Vegetative to fruit formation stage. Fruit and shoot borer - Spray Neem-based pesticide. Alternate spray of Spinosad."
          ]
       },
-      "banana": {
+      "MARIGOLD": {
          "advisory": [
-            "Planting - Follow specific planting instructions for Dwarf Cavendish and Robusta varieties."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Ensure proper heat provision for chicks. Maintain clean and clamp-free poultry house."
+            "Vegetative to flowering. Thrips - Install Blue sticky traps or apply Fipronil 5% SC. Mealy bug - Apply Profenophos 50% EC."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

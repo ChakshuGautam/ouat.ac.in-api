@@ -1,102 +1,114 @@
 {
    "weather_details": {
-      "2024-11-23": {
+      "2024-12-10": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 16,
-         "rh_max": 83,
-         "rh_min": 38,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 1
-      },
-      "2024-11-24": {
-         "rainfall": 0,
-         "t_max": 29,
+         "t_max": 27,
          "t_min": 17,
+         "rh_max": 91,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 21,
+         "cloud_cover": 4
+      },
+      "2024-12-11": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
          "rh_max": 85,
          "rh_min": 39,
-         "wind_speed": 2,
-         "wind_direction": 90,
-         "cloud_cover": 3
-      },
-      "2024-11-25": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 17,
-         "rh_max": 83,
-         "rh_min": 37,
          "wind_speed": 3,
-         "wind_direction": 8,
-         "cloud_cover": 5
+         "wind_direction": 32,
+         "cloud_cover": 2
       },
-      "2024-11-26": {
+      "2024-12-12": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 82,
-         "rh_min": 36,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 77,
+         "rh_min": 31,
+         "wind_speed": 3,
+         "wind_direction": 21,
+         "cloud_cover": 0
+      },
+      "2024-12-13": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 64,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 21,
+         "cloud_cover": 0
+      },
+      "2024-12-14": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 62,
+         "rh_min": 24,
          "wind_speed": 4,
          "wind_direction": 17,
-         "cloud_cover": 6
-      },
-      "2024-11-27": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 76,
-         "rh_min": 32,
-         "wind_speed": 5,
-         "wind_direction": 27,
-         "cloud_cover": 7
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "rice",
-      "cotton",
-      "marigold",
+      "black gram",
+      "menacinakahi",
+      "chilli",
+      "cabbage",
+      "tomato",
       "cow",
-      "goat",
       "common fish",
-      "chicken"
+      "plant protection"
    ],
-   "general_advisory": "The mean maximum daily temperature was 31.7°C and the mean minimum daily temperature was 18.1°C of the Gajapati district during the last week. The district received no rainfall during the last week. Based on the five-day weather forecast of IMD, farmers are advised to undertake necessary agricultural activities, including weeding, fertilization, irrigation, harvesting and pesticide application. Undertake sowing of rabi crops like green Gram, Black gram, Toria, Chick pea, Lentil, Sunflower, Groundnut, Cowpea, Field pea etc. in medium or shallow low land to utilize the available soil moisture in the field. Rouging of viral infested crop should be done in chilli, tomato & brinjal. Infected plants should be uprooted and buried in the soil. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas. Spraying or dusting of plant protection chemicals should be done in a clear weather condition and rainy days should be avoided.",
+   "general_advisory": "The mean maximum daily temperature was 31.9°C and the mean minimum daily temperature was 18.6°C of the Gajapati district during the last week. The district received 02.3 mm of rainfall during the last week. Provide light irrigation to standing vegetables and crops during morning hours to prevent damage from fog, low temperature and moisture stress. Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air . For maintaining the heat in the poultry shed during winter season, install heaters in the shed.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better shelf-life. Drain out the water from paddy field, 15 days before harvesting the crop. Store the harvested paddy in a Super Grain bag for retaining the quality texture, colors, aroma, fragrance, and taste of the commodities for a longer period of time in a safer place (properly stacked with a suitable cover) to avoid damage. To control earhead caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. As the pest is nocturnal in behavior, spraying of pesticide should be done in the evening hours for better results."
+            "Soon after noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of plastic cover should be plastered with 6- inch thick layer of mud/ adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
          ]
       },
-      "cotton": {
+      "black gram": {
          "advisory": [
-            "The cotton crop is at boll development to boll bursting stage (sixteen to nineteen-week) stage. Boll worm complex may feed on the bolls during this stage in cotton. To control boll worm complex in cotton, spray 80g Emamectin Benzoate 5% SG or Chlorantraniliprole 60ml 18.5% SC mixing with 200 liters of water per acre. Harvest cotton from bursted bolls and keep the harvested produce in a safe place to protect from rain damage."
+            "There is a chance of powdery mildew disease in Black gram and Green gram. To control this disease, spray Sulphur 80% WP @800 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
          ]
       },
-      "marigold": {
+      "menacinakahi": {
          "advisory": [
-            "To manage Red Spider Mites in flowers like Marigold and rose, spray wettable sulfur 80% WP (Sulfex/Balwan/Sulfadex) @ 2-gram/liter of water or Propargite 57% EC (Omite/Mitekill/Super Dynamite) @ 2-ml/liter of water or Fenpyroximate 5% EC (Seagate/Mitigate/Formite) @ 2-ml/liter of water."
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400- ml/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400- ml/acre."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "To manage Diamond Back Moth install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 300 PPM @ 1-litre/acre by mixing in 200-litre of water . Spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ @80-gram/acre by mixing in 200-litre of water ."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps @ 8-10/acre to attract and kill the insects. During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre by mixing in 200 litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Pyriproxifen 10% EC @ 200 ml/acre or Spiromesifen 22.9% SC @ 250 ml/acre by mixing in 200 litre of water ."
          ]
       },
       "cow": {
          "advisory": [
-            "Deworm the cattle and buffalo at regular intervals and vaccinate them also. If the animal is not coming to heat even after 4 years, consult with the veterinary doctors and follow the doctor's advice for the onset of puberty."
-         ]
-      },
-      "goat": {
-         "advisory": [
-            "Farmers are advised to repair the goat house before the commencement of the winter season. Because there is a high chance of mortality among kids due to chill weather."
+            "Animal’s shed and its floor should not remain wet and cool for longer periods of time.This may expose the animals, especially younger ones, to various ailments like pneumonia, fever , coccidiosis, diarrhoea and even death in severe case. Good ventilation must be ensured during winter ."
          ]
       },
       "common fish": {
          "advisory": [
-            "In winter, fish can be prone to fungal, bacterial, and parasitic infections. To prevent these, apply CIFAX @ 400 ml per acre just before winter starts. Additionally, treat the pond with potassium permanganate @ 1-2 kg per acre or limestone @ 50-100 kg per acre. Applying salt at 100 kg per acre is also effective in protecting fish from disease outbreaks during the winter months."
+            "During winters, there is a possibility of “EUS” disease in fish. Farmers are advised to apply Cifax @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
          ]
       },
-      "chicken": {
+      "plant protection": {
          "advisory": [
-            "Farmers must take care of the brooding management of chicks and ducklings during the winter season to avoid mortality due to cool weather."
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower , Cabbage, Chilly & tomato apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water ."
          ]
       }
    },
-   "date": "22-11-2024"
+   "date": "10-12-2024"
 }

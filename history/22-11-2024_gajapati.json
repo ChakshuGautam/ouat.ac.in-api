@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "2024-11-23": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 38,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "2024-11-24": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 85,
+         "rh_min": 39,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "2024-11-25": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 3,
+         "wind_direction": 8,
+         "cloud_cover": 5
+      },
+      "2024-11-26": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 82,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 17,
+         "cloud_cover": 6
+      },
+      "2024-11-27": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 76,
+         "rh_min": 32,
+         "wind_speed": 5,
+         "wind_direction": 27,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "marigold",
+      "cow",
+      "goat",
+      "common fish",
+      "chicken"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 31.7°C and the mean minimum daily temperature was 18.1°C of the Gajapati district during the last week. The district received no rainfall during the last week. Based on the five-day weather forecast of IMD, farmers are advised to undertake necessary agricultural activities, including weeding, fertilization, irrigation, harvesting and pesticide application. Undertake sowing of rabi crops like green Gram, Black gram, Toria, Chick pea, Lentil, Sunflower, Groundnut, Cowpea, Field pea etc. in medium or shallow low land to utilize the available soil moisture in the field. Rouging of viral infested crop should be done in chilli, tomato & brinjal. Infected plants should be uprooted and buried in the soil. Pulses like lentil/black gram/green gram can be broadcasted in the standing matured crop (Rice) one week before harvesting to utilize the residual moisture in the soil in suitable areas. Spraying or dusting of plant protection chemicals should be done in a clear weather condition and rainy days should be avoided.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In early maturing varieties, harvest the crop when 80-85% of the grains are matured either manually by sickle or by using combine harvester or reaper. Paddy grains need to be sun-dried to 14% moisture content for consumption purpose and for seed purpose it should be dried to 12% moisture for better shelf-life. Drain out the water from paddy field, 15 days before harvesting the crop. Store the harvested paddy in a Super Grain bag for retaining the quality texture, colors, aroma, fragrance, and taste of the commodities for a longer period of time in a safer place (properly stacked with a suitable cover) to avoid damage. To control earhead caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5% EC @ 400 ml/acre or Profenophos 50% EC @ 400 ml/acre. As the pest is nocturnal in behavior, spraying of pesticide should be done in the evening hours for better results."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "The cotton crop is at boll development to boll bursting stage (sixteen to nineteen-week) stage. Boll worm complex may feed on the bolls during this stage in cotton. To control boll worm complex in cotton, spray 80g Emamectin Benzoate 5% SG or Chlorantraniliprole 60ml 18.5% SC mixing with 200 liters of water per acre. Harvest cotton from bursted bolls and keep the harvested produce in a safe place to protect from rain damage."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites in flowers like Marigold and rose, spray wettable sulfur 80% WP (Sulfex/Balwan/Sulfadex) @ 2-gram/liter of water or Propargite 57% EC (Omite/Mitekill/Super Dynamite) @ 2-ml/liter of water or Fenpyroximate 5% EC (Seagate/Mitigate/Formite) @ 2-ml/liter of water."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Deworm the cattle and buffalo at regular intervals and vaccinate them also. If the animal is not coming to heat even after 4 years, consult with the veterinary doctors and follow the doctor's advice for the onset of puberty."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Farmers are advised to repair the goat house before the commencement of the winter season. Because there is a high chance of mortality among kids due to chill weather."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "In winter, fish can be prone to fungal, bacterial, and parasitic infections. To prevent these, apply CIFAX @ 400 ml per acre just before winter starts. Additionally, treat the pond with potassium permanganate @ 1-2 kg per acre or limestone @ 50-100 kg per acre. Applying salt at 100 kg per acre is also effective in protecting fish from disease outbreaks during the winter months."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Farmers must take care of the brooding management of chicks and ducklings during the winter season to avoid mortality due to cool weather."
+         ]
+      }
+   },
+   "date": "22-11-2024"
+}

@@ -1,0 +1,67 @@
+{
+   "weather_details": {
+      "29.11.2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 5,
+         "wind_direction": 120,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "pointed gourd",
+      "chilli",
+      "cabbage & cauliflower",
+      "livestock",
+      "fishery",
+      "poultry"
+   ],
+   "general_advisory": "Farmers are advised to take necessary precautions for cold weather conditions and pest management as per the specific crop requirements.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "In low temperature conditions, monitor for aphid infestation in early sown mustard crop.",
+            "Use yellow sticky traps and chemical sprays like Thiamethoxam or Acetamiprid for aphid control."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "To control downy mildew, spray Metalaxyl + Mancozeb or Fosetyl -AL."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Watch out for aphids and thrips infestation in chilli crops.",
+            "Use neem-based pesticides and chemical sprays like Thiamethoxam, Acetamiprid, or Profenophos + Fenpyroximate for pest management."
+         ]
+      },
+      "cabbage & cauliflower": {
+         "advisory": [
+            "Install light traps for Diamond Back Moth pests.",
+            "Use neem-based pesticides and chemical sprays like Tolfenpyrad, Flubendiamide, or Emamectin Benzoate for pest management."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover cow sheds during cold hours to prevent direct exposure to cold air."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Maintain water depth at 6 feet in winter season.",
+            "Reduce feeding rate as temperature drops and avoid adding organic manures to the pond."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Install heaters and use 200W bulbs for heat generation in poultry shed during winter season.",
+            "Carry out necessary vaccinations for poultry health."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

@@ -1,87 +1,91 @@
 {
    "weather_details": {
-      "30/11/2024": {
-         "rainfall": 5,
-         "t_max": 25,
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 77,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 33,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
          "t_min": 21,
-         "rh_max": 84,
-         "rh_min": 55,
-         "wind_speed": 21,
-         "wind_direction": 29,
-         "cloud_cover": 8
-      },
-      "01/12/2024": {
-         "rainfall": 3,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 82,
-         "rh_min": 62,
-         "wind_speed": 17,
-         "wind_direction": 16,
-         "cloud_cover": 8
-      },
-      "02/12/2024": {
-         "rainfall": 3,
-         "t_max": 29,
-         "t_min": 19,
-         "rh_max": 82,
-         "rh_min": 60,
-         "wind_speed": 16,
+         "rh_max": 67,
+         "rh_min": 33,
+         "wind_speed": 15,
          "wind_direction": 28,
-         "cloud_cover": 7
+         "cloud_cover": 2
       },
-      "03/12/2024": {
-         "rainfall": 3,
+      "13/12/2024": {
+         "rainfall": 0,
          "t_max": 29,
-         "t_min": 18,
-         "rh_max": 79,
-         "rh_min": 57,
-         "wind_speed": 12,
-         "wind_direction": 20,
-         "cloud_cover": 5
+         "t_min": 20,
+         "rh_max": 61,
+         "rh_min": 28,
+         "wind_speed": 27,
+         "wind_direction": 21,
+         "cloud_cover": 1
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 54,
+         "rh_min": 27,
+         "wind_speed": 13,
+         "wind_direction": 15,
+         "cloud_cover": 24
+      },
+      "15/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 53,
+         "rh_min": 25,
+         "wind_speed": 13,
+         "wind_direction": 15,
+         "cloud_cover": 24
       }
    },
    "names_of_crops": [
-      "paddy",
-      "groundnut",
-      "chilli",
-      "cole crops",
-      "banana",
-      "poultry"
+      "potato",
+      "tomato",
+      "brinjal",
+      "fisheries"
    ],
-   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. For early and maximum yield in Cole crops spray Gibberellic Acid 0.001% L. Do proper field surveillance for pests and diseases regularly.",
+   "general_advisory": "Monitor crops and vegetables for pests and diseases. Transplant winter vegetables carefully. Harvest sugarcane properly.",
    "crops_data": {
-      "paddy": {
+      "potato": {
          "advisory": [
-            "Rodent/Rats: If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide tablet to kill the rodents.",
-            "Stored grain insect pest: Take up fumigation using Aluminium phosphide tablets in air-tight containers to prevent infestation."
+            "Go for hoeing and hand weeding.",
+            "Ridges should be high to cover tubers.",
+            "Irrigate every 7-8 days."
          ]
       },
-      "groundnut": {
+      "tomato": {
          "advisory": [
-            "Tobacco Caterpillar: Collect and destroy egg mass and caterpillar of the pest. Monitor the emergence of adult moths by setting up Pheromone traps. Apply insecticides as needed."
+            "Be wary of late blight.",
+            "Control aphids and caterpillars.",
+            "Avoid excess nitrogen and close spacing."
          ]
       },
-      "chilli": {
+      "brinjal": {
          "advisory": [
-            "Aphids and Thrips: Spray neem-based pesticide or chemically spray recommended insecticides for infestation control."
+            "Control fruit and shoot borers.",
+            "Install blue sticky traps for thrips.",
+            "Apply profenophos for mealy bugs."
          ]
       },
-      "cole crops": {
+      "fisheries": {
          "advisory": [
-            "Diamond Back Moth: Install light traps and use neem-based pesticide. Spray recommended insecticides if infestation occurs."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Planting: Plant Dwarf Cavendish and Robusta variety in specified distances and pit size. Use disease-free suckers or tissue culture suckers."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Make necessary arrangements to provide heat to chicks during night hours. Ensure proper brooding arrangement and cleanliness in poultry house."
+            "Apply Cifax as a preventive measure for EUS disease.",
+            "Feed fishes with oil cake bran mixture daily."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

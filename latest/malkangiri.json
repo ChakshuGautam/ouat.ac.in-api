@@ -1,132 +1,131 @@
 {
    "weather_details": {
-      "30-11-2024": {
-         "rainfall": 5,
-         "t_max": 26,
-         "t_min": 19,
-         "rh_max": 88,
-         "rh_min": 50,
-         "wind_speed": 6,
-         "wind_direction": 40,
-         "cloud_cover": 8
-      },
-      "01-12-2024": {
-         "rainfall": 4,
-         "t_max": 25,
-         "t_min": 19,
-         "rh_max": 92,
-         "rh_min": 57,
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 86,
+         "rh_min": 40,
          "wind_speed": 5,
-         "wind_direction": 56,
-         "cloud_cover": 8
+         "wind_direction": 61,
+         "cloud_cover": 4
       },
-      "02-12-2024": {
-         "rainfall": 4,
-         "t_max": 25,
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
          "t_min": 18,
-         "rh_max": 95,
-         "rh_min": 57,
-         "wind_speed": 4,
-         "wind_direction": 63,
-         "cloud_cover": 7
-      },
-      "03-12-2024": {
-         "rainfall": 3,
-         "t_max": 26,
-         "t_min": 18,
-         "rh_max": 94,
-         "rh_min": 57,
+         "rh_max": 82,
+         "rh_min": 37,
          "wind_speed": 3,
-         "wind_direction": 69,
-         "cloud_cover": 7
+         "wind_direction": 76,
+         "cloud_cover": 1
       },
-      "04-12-2024": {
-         "rainfall": 1,
-         "t_max": 26,
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
          "t_min": 17,
-         "rh_max": 92,
-         "rh_min": 56,
+         "rh_max": 82,
+         "rh_min": 34,
          "wind_speed": 3,
-         "wind_direction": 83,
-         "cloud_cover": 6
+         "wind_direction": 74,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 76,
+         "cloud_cover": 1
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 74,
+         "rh_min": 24,
+         "wind_speed": 3,
+         "wind_direction": 72,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "rice",
-      "pulses",
-      "rabi groundnut",
+      "arhar",
+      "groundnut",
       "mustard",
       "cauliflower",
       "cabbage",
       "broccoli",
-      "tomato",
-      "chilli",
-      "cow"
+      "okra",
+      "cow",
+      "goat",
+      "poultry"
    ],
-   "general_advisory": "Less rainfall and dry weather expected during next five days. Complete nursery sowing for winter vegetable crops. Go for sowing of pea, gram and green gram as paira crop fifteen days prior to harvest of paddy in low land. Keep your crop field free from weed and provide irrigation as per requirement by the crop. Feed animals with a mixture of green grass + hay + minerals + dry feed. Provide clean drinking water. Vaccinate animals against foot & mouth disease (FMD).",
+   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop, go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all crops as per soil test based recommendations mentioned in the soil health card. Farmers are advised to repair the goat house before commencement of winter season due to high chance of mortality among kids. Make necessary arrangements to provide heat, especially to chicks during night hours to reduce the mortality rate. Keep poultry house clean and clamp free.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Harvest the crop when 80 -85% of the grains are matured. Drain out the water from paddy field, 15 days before harvesting the crop.",
-            "False smut: False smut is likey to develop in prevailing weather condition. If infestation is observed, spray Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr Repeat the spraying at seven days interval for effective control of false smut.",
-            "Rodent/Rats: If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents."
+            "Continuing harvesting of kharif paddy. Harvest and process different varieties separately without mixing for better price. Dry paddy properly before storage.",
+            "Do not burn residue of kharif paddy in fields. Mix residue in soil to increase fertility and use as mulching for conserving soil moisture.",
+            "If 'Rodent/Rats' problem is noticed, locate and place Aluminium Phosphide 6% tablet per burrow to kill rodents."
          ]
       },
-      "pulses": {
+      "arhar": {
          "advisory": [
-            "Complete the sowing of black gram and green gram in upland. Grow high yielding varieties like T 9, PU 11, PU 19 and PU 30 for black gram; and K 851, PDM 11, PDM 54, OUM 115 for green gram. Use 10 kg seeds/acre. Before sowing, seeds are to be treated with the Rhizobium culture. Suspend 200g of Rhizobium culture + 250g phosphate solubilizing bacteria (PSB) in 600 ml of water and mix thoroughly."
+            "Follow recommended control measures for prevailing pest attacks like Pod borer and Pod sucking bug.",
+            "To control pod borer, apply Benfuracarb, Deltamethrin, Spinosad, or Flubendiamide mixed with water as per instructions."
          ]
       },
-      "rabi groundnut": {
+      "groundnut": {
          "advisory": [
-            "Go for land preparation and sowing of rabi groundnut at a spacing of 25 cm x 10 cm with seed rate of 50 kg/acre. Apply 35 kg DAP, 4 kg urea and 27 kg MoP per acre along with 10 kg zinc sulfate and 4 kg borax/acre as basal. Before sowing seed should be treated with 10 g Trichoderma harzianum /viride or 3 g Carboxin 37.5% + Thiram 37.5% DS for one kg seed. After 7 days of above treatment go for treatment with Rhizobium culture @ 600 g for 50 kg seeds."
+            "Apply Oxyflourfen 23.5% EC for weed management.",
+            "Apply Imazethapyr 10% SL as post emergence herbicide."
          ]
       },
       "mustard": {
          "advisory": [
-            "Weed Management: Apply Oxadiargyl 6% EC as pre -emergence @ 3ml/ltr of water at 1-2 DAS or Quizalofop -ethyl 5% EC as post emergence @ 2ml /ltr of water at 15-20 DAS."
+            "Apply Oxadiargyl 6% EC as pre-emergence or Quizalofop-ethyl 5% EC as post-emergence for weed management."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm.",
-            "Before transplanting, apply Carbendazim 12% + Mancozeb 63% WP to seedlings, and transplant during the afternoon.",
-            "Nutrient Management: Apply 26 kg DAP, 10 kg MOP, 15 kg Urea and 5kg Borax as basal at the time of transplanting."
+            "Spray bio insecticide or chemical insecticides to control Dimond back moth and Tobacco leaf eating caterpillar."
          ]
       },
       "cabbage": {
          "advisory": [
-            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm.",
-            "Before transplanting, apply Carbendazim 12% + Mancozeb 63% WP to seedlings, and transplant during the afternoon.",
-            "Nutrient Management: Apply 26 kg DAP, 10 kg MOP, 15 kg Urea and 5kg Borax as basal at the time of transplanting."
+            "Spray bio insecticide or chemical insecticides to control Dimond back moth and Tobacco leaf eating caterpillar."
          ]
       },
       "broccoli": {
          "advisory": [
-            "Transplant the 30-45 days old seedlings in the main field with row to row spacing of 45-60 cm and plant to plant spacing of 30-45 cm.",
-            "Before transplanting, apply Carbendazim 12% + Mancozeb 63% WP to seedlings, and transplant during the afternoon.",
-            "Nutrient Management: Apply 26 kg DAP, 10 kg MOP, 15 kg Urea and 5kg Borax as basal at the time of transplanting."
+            "Spray bio insecticide or chemical insecticides to control Dimond back moth and Tobacco leaf eating caterpillar."
          ]
       },
-      "tomato": {
+      "okra": {
          "advisory": [
-            "Transplant the 30-35 days old seedlings in the main field with row to row spacing of 75-90 cm and plant to plant spacing of 45-60 cm.",
-            "Before transplanting, treat the seedlings with solution of Bavistin @ 1.5 g and Plantomycin @ 1 g mixed with 1liter of water for 10 to 15 minutes, and transplant during the afternoon.",
-            "Nutrient Management: Apply 66 kg DAP, 33 kg MOP and 80 kg Urea per acre. Apply 1/3rd of Urea + Full DAP + 1/2 MOP as basal."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Suitable varieties: HYVs -Utakala Abha, Utkala Rasmi, Utkala Ragini, Pusa Jwala, Pusa Sadabahar. Hybrid -Jyoti, Agnirekha, Roshni, Tejaswini etc.",
-            "Seed Rate: 200g/acre for HYVs and 100g/acre for Hybrids.",
-            "To control thrips in chilli spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC @ 4.5 ml or Imidacloprid 17.8% SL @ 7.5 ml in 15 litres of water."
+            "To control aphid infestation, spray Buprofezin, Acephate, or Thiamethoxam as per instructions.",
+            "To control fruit borer, spray neem-based pesticide and later stages spray Spinosad."
          ]
       },
       "cow": {
          "advisory": [
-            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
+            "Provide sufficient green grass and concentrate mix for lactating animals."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Repair the goat house before winter season due to high chance of mortality among kids."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements for heat supply, especially to chicks during night hours. Keep poultry house clean and clamp free."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

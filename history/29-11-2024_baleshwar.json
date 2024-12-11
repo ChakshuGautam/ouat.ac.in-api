@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "30-11-2024": {
+         "rainfall": 5,
+         "t_max": 24,
+         "t_min": 20,
+         "rh_max": 74,
+         "rh_min": 48,
+         "wind_speed": 13,
+         "wind_direction": 13,
+         "cloud_cover": 7
+      },
+      "01-12-2024": {
+         "rainfall": 4,
+         "t_max": 26,
+         "t_min": 20,
+         "rh_max": 76,
+         "rh_min": 53,
+         "wind_speed": 13,
+         "wind_direction": 14,
+         "cloud_cover": 8
+      },
+      "02-12-2024": {
+         "rainfall": 4,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": 77,
+         "rh_min": 56,
+         "wind_speed": 10,
+         "wind_direction": 22,
+         "cloud_cover": 7
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 72,
+         "rh_min": 49,
+         "wind_speed": 10,
+         "wind_direction": 17,
+         "cloud_cover": 6
+      },
+      "04-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 45,
+         "wind_speed": 8,
+         "wind_direction": 13,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "rapeseed and mustard",
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "As per IMD there may be chances of Very light to light rain, so farmers are advised to harvest matured paddy crops as soon as possible and store them in a safer place.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If the crop has already been harvested, store them in a safe place by covering with polythene sheet.",
+            "Paddy is in harvesting stage. If panicle turns 85% yellow and matured, then go for harvesting of the crop.",
+            "Make the threshing floor and storage godown clean and disinfectant the same."
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Withhold application of fertilizer and pesticides for the time being.",
+            "Drain out excess water from the field."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Make arrangement for covering plastic cover or polythene sheet for vegetables nursery like chilli and brinjal and cole crops.",
+            "Provide stacking to tomato plants.",
+            "Keep the drainage channels open to drain out excess rainwater from vegetable crops.",
+            "Postpone spraying operations of pesticide & foliar fertilizer application.",
+            "Harvestable vegetables should be plucked before rain and disposed to market."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Provide mechanical support to fruit plants to prevent lodging.",
+            "Pluck the matured fruit before rainfall & dispose to market.",
+            "Cover a plastic bag to the fruits of banana."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "As the winter is in the starting phase, there is a possibility of “EUS” disease in fish. Farmers are advised to apply ‘Cifax’ @ 400 ml mixed with 40 litres of water in one-acre pond area as a preventive measure.",
+            "The fishes should be fed daily with oil cake bran mixture at the rate of 2-3% of their total biomass."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% - 20% in the daily ration during the winter season to meet the energy requirements of the animals.",
+            "Keep the animal inside the shed.",
+            "Avoid mixing of rainwater into the drinking water of animals."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

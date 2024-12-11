@@ -1,114 +1,105 @@
 {
    "weather_details": {
-      "30-11-2024": {
-         "rainfall": 4,
-         "t_max": 25,
-         "t_min": 11,
-         "rh_max": 95,
-         "rh_min": 55,
-         "wind_speed": 4,
-         "wind_direction": 68,
-         "cloud_cover": 7
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 87,
+         "rh_min": 39,
+         "wind_speed": 1,
+         "wind_direction": 342,
+         "cloud_cover": 3
       },
-      "01-12-2024": {
-         "rainfall": 4,
-         "t_max": 25,
-         "t_min": 11,
-         "rh_max": 95,
-         "rh_min": 72,
-         "wind_speed": 4,
-         "wind_direction": 96,
-         "cloud_cover": 8
-      },
-      "02-12-2024": {
-         "rainfall": 2,
-         "t_max": 25,
-         "t_min": 10,
-         "rh_max": 97,
-         "rh_min": 69,
-         "wind_speed": 4,
-         "wind_direction": 110,
-         "cloud_cover": 7
-      },
-      "03-12-2024": {
-         "rainfall": 1,
-         "t_max": 26,
-         "t_min": 10,
-         "rh_max": 94,
-         "rh_min": 68,
-         "wind_speed": 4,
-         "wind_direction": 112,
-         "cloud_cover": 7
-      },
-      "04-12-2024": {
-         "rainfall": 2,
-         "t_max": 26,
-         "t_min": 9,
-         "rh_max": 90,
-         "rh_min": 59,
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 74,
+         "rh_min": 32,
          "wind_speed": 2,
-         "wind_direction": 117,
-         "cloud_cover": 6
+         "wind_direction": 76,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 27,
+         "wind_speed": 1,
+         "wind_direction": 72,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 64,
+         "rh_min": 25,
+         "wind_speed": 1,
+         "wind_direction": 34,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 61,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "cauliflower",
-      "cabbage",
-      "niger",
-      "dhanicha",
-      "banana",
+      "brinjal",
+      "sweet potato",
+      "papaya",
       "garden pea",
-      "fisheries"
+      "marigold",
+      "fishes"
    ],
-   "general_advisory": "As per the forecast there will be continuous very light to light rainfall. Farmers can utilize the rainfall for specific crops like cauliflower, cabbage, radish, and garden peas. Harvested rice crops should be dried in the sun and stored safely.",
+   "general_advisory": "Seeing the clear and sunny sky in upcoming days, farmers are advised to resume their spraying activities in crops. Harvested rice crop should be dried in sun, and then threshed & stored in safe place.",
    "crops_data": {
-      "cauliflower": {
+      "brinjal": {
          "advisory": [
-            "Vegetative-maturity",
-            "Black spot",
-            "First foliar spraying with Tridemorph 0.1% followed by spraying with Mancozeb 0.25% a month interval."
+            "Maturity -harvesting",
+            "To control leaf eating caterpillar and fruit borer in Brinjal, spray 80 g Emamectin benzoate or 80 ml Spinosad per 200 liters of water."
          ]
       },
-      "cabbage": {
+      "sweet potato": {
          "advisory": [
-            "Vegetative-maturity",
-            "Black spot",
-            "First foliar spraying with Tridemorph 0.1% followed by spraying with Mancozeb 0.25% a month interval."
+            "Reduce watering sweet potato to prevent cracking, which can cause problems in storage.",
+            "Sweet potatoes gain most of their size and weight late in the season so do not immediately harvest after leaves turn yellow, wait until vines wither."
          ]
       },
-      "niger": {
+      "papaya": {
          "advisory": [
-            "Maturity-Harvesting",
-            "Cut the plants at the bottom",
-            "Keep the plants in the threshing floor and beat the plants with sticks till the mature seeds are separated",
-            "Winnow the seed and dry in the sun"
-         ]
-      },
-      "dhanicha": {
-         "advisory": [
-            "Harvesting",
-            "Harvest the mature pods and beat to remove the seeds",
-            "Dry it in the sun and store safely"
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Harvesting",
-            "Harvest the matured banana at 85% maturity and it will be completely ripened within a week and sell it"
+            "Aphids",
+            "Nymphs and adults suck the sap from leaves, petioles and fruits",
+            "Remove and destroy damaged plant parts",
+            "Spray dimethoate 0.03% or methyl demeton 0.025%"
          ]
       },
       "garden pea": {
          "advisory": [
-            "Seed treatment in garden pea before sowing",
-            "Treat the seeds with Trichoderma@ 4 g/kg or Thiram or Captan@ 2 g/kg of seeds to avoid seed borne diseases"
+            "Seed treatment in garden pea before sowing.",
+            "Treat the seeds with Trichoderma@ 4 g/kg or Thiram or Captan@ 2 g/kg of seeds a to avoid seed borne diseases."
          ]
       },
-      "fisheries": {
+      "marigold": {
          "advisory": [
-            "To combat EU S disease in fish, farmers are advised to apply Cifax@ 400 ml mixed with 40 liters of water in one acre pond as a preventive measure",
-            "The fishes should be fed daily with oil cake bran mixture @ 2-3% of their total biomass"
+            "Vegetative",
+            "Provide irrigation to the plants regularly.",
+            "Pinching process i.e. removing the top axis/branch of the plant to encourage a greater number of branches can be taken within 15 -30 days of transplanting."
+         ]
+      },
+      "fishes": {
+         "advisory": [
+            "In winters there may be various fungal, bacterial and parasitic diseases in the fish.",
+            "Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1 -2 kg/acre or limestone @ 50-100 kg/acre."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

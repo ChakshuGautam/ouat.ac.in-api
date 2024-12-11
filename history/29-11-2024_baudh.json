@@ -1,0 +1,111 @@
+{
+   "weather_details": {
+      "30-11-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 90,
+         "rh_min": 48,
+         "wind_speed": 4,
+         "wind_direction": 53,
+         "cloud_cover": 4
+      },
+      "01-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 17,
+         "rh_max": 92,
+         "rh_min": 66,
+         "wind_speed": 4,
+         "wind_direction": 75,
+         "cloud_cover": 5
+      },
+      "02-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 17,
+         "rh_max": 93,
+         "rh_min": 61,
+         "wind_speed": 4,
+         "wind_direction": 81,
+         "cloud_cover": 5
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 16,
+         "rh_max": 91,
+         "rh_min": 64,
+         "wind_speed": 4,
+         "wind_direction": 84,
+         "cloud_cover": 4
+      },
+      "04-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 87,
+         "rh_min": 54,
+         "wind_speed": 3,
+         "wind_direction": 104,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram",
+      "black gram",
+      "mustard",
+      "ground nut",
+      "cole crop",
+      "livestock"
+   ],
+   "general_advisory": "Cloudy weather is expected in upcoming days so farmers are advised to take precautionary measures to keep the harvested produce in a safe place. Regular monitoring against disease infestation in both field and vegetable crops is advised. Sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram should be completed. Deworming and vaccination in animals is recommended to boost immunity and protect them from diseases.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "If rice is at maturity stage, stop irrigation in the field before harvesting.",
+            "Harvest the plants when 80-85% of the grains have matured and the plant looks pale yellow in color.",
+            "After harvesting, dry rice in the field for 2-3 days and then proceed with threshing. Store rice at a moisture level of 12% in safe places.",
+            "Regular monitoring for False Smut disease infestation in late maturing rice varieties is advised. If infestation is noticed, spraying of Copper hydroxide 77% or Tebuconazole 25% is recommended."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "One week before sowing, treat seed with carbendazim and imidacloprid. After treatment, mix Rizobium culture and sodium molybdate in seeds. Sow seeds with a seed rate of 8-10 kg/ac.",
+            "Varieties: Green Gram - Kamadeva, Durga, IPM 02-3, IPM 02-14, TARM1."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "One week before sowing, treat seed with carbendazim and imidacloprid. After treatment, mix Rizobium culture and sodium molybdate in seeds. Sow seeds with a seed rate of 8-10 kg/ac.",
+            "Varieties: Black Gram - Prasada, Usala, PU 31, IPU2-43, Mahuri."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Thin out plants to maintain plant population. Conduct hoeing and weeding operations in 15-20 day-old crops."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Sow improved groundnut varieties following seed treatment. Use bacteria or phospho culture for treatments. Sow seeds within 2-3 days of husking at a depth of 5 cm.",
+            "For seedlings older than 10 days, conduct gap filling where needed."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use polythene or straw as mulching material during planting to maintain moisture and soil temperature.",
+            "Regular monitoring for Diamond back moth in cauliflower is advised. Consider using pheromone traps in the field."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold during winter season and provide clean drinking water.",
+            "Keep animal sheds clean and free from urine or excreta to prevent flies.",
+            "Deworming and vaccination are recommended to control diseases. Consult with a qualified veterinary doctor if needed."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

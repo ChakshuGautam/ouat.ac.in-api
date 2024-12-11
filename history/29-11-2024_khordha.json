@@ -1,0 +1,56 @@
+{
+   "weather_details": {
+      "30/11/2024": {
+         "rainfall": 5,
+         "t_max": 23,
+         "t_min": 22,
+         "rh_max": 86,
+         "rh_min": 52,
+         "wind_speed": 13,
+         "wind_direction": 23,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "chilli",
+      "cole crops",
+      "banana",
+      "poultry"
+   ],
+   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. For early and maximum yield in cole crops spray Gibberellic Acid 0.001% L. Do proper field surveillance for pests and diseases regularly.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Rodent-If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet per burrow and seal the burrow with mud which will kill the rodents."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Tobacco Caterpillar-Collect and destroy egg mass and caterpillar of the pest. Monitor the emergence of adult moths by setting up Pheromone traps. Spray insecticides as needed."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Aphids and Thrips-For infestation, spray neem-based pesticide. Chemical sprays may also be used depending on the severity."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Diamond Back Moth-Install light traps per acre and spray neem-based pesticide for pest management."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "November is the optimum time for planting dwarf variety banana. Use disease-free suckers for planting."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat to chicks during night hours. Keep the poultry house clean and free of clamps."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

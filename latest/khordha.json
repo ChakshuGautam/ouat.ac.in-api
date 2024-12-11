@@ -1,56 +1,84 @@
 {
    "weather_details": {
-      "30/11/2024": {
-         "rainfall": 5,
-         "t_max": 23,
-         "t_min": 22,
-         "rh_max": 86,
-         "rh_min": 52,
-         "wind_speed": 13,
-         "wind_direction": 23,
-         "cloud_cover": 8
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 81,
+         "rh_min": 43,
+         "wind_speed": 8,
+         "wind_direction": 34,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 71,
+         "rh_min": 31,
+         "wind_speed": 9,
+         "wind_direction": 22,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "paddy",
+      "rice",
+      "blackgram",
+      "greengram",
       "groundnut",
-      "chilli",
-      "cole crops",
-      "banana",
-      "poultry"
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
    ],
-   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. For early and maximum yield in cole crops spray Gibberellic Acid 0.001% L. Do proper field surveillance for pests and diseases regularly.",
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There will be chances of infestation of sucking pests, leaf blight, powdery mildew in the crops and vegetables due to low night temperature. Monitor the crops and vegetables and take appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. Harvest the mature sugarcanes below one inch of ground level for a successful ratoon crop.",
    "crops_data": {
-      "paddy": {
+      "rice": {
          "advisory": [
-            "Rodent-If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet per burrow and seal the burrow with mud which will kill the rodents."
+            "PADDY Post harvesting stage - Rodent areas, Place Aluminium Phosphide with mud to kill rodents."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "BLACKGRAM AND GREENGRAM Vegetative stage - Aphids, Neem Based Pesticide, Thiamethoxam 25% W.G, Acetamiprid 20% S.P."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "BLACKGRAM AND GREENGRAM Vegetative stage - Aphids, Neem Based Pesticide, Thiamethoxam 25% W.G, Acetamiprid 20% S.P."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Tobacco Caterpillar-Collect and destroy egg mass and caterpillar of the pest. Monitor the emergence of adult moths by setting up Pheromone traps. Spray insecticides as needed."
+            "GROUNDNUT Vegetative stage - Tobacco Caterpillar, Pheromone traps, Chlorpyriphos 1.5% D, Novaluron 5.25% + Indoxacarb 4.25%, Lambda Cyhalothrin 4.9 CS, Flubendiamide 20% WG."
          ]
       },
-      "chilli": {
+      "potato": {
          "advisory": [
-            "Aphids and Thrips-For infestation, spray neem-based pesticide. Chemical sprays may also be used depending on the severity."
+            "POTATO Vegetative stage - Hoeing and hand weeding, proper irrigation, avoid excess nitrogen fertilizer."
          ]
       },
-      "cole crops": {
+      "tomato": {
          "advisory": [
-            "Diamond Back Moth-Install light traps per acre and spray neem-based pesticide for pest management."
+            "TOMATO Vegetative stage - Late blight, Metalaxyl + Mancozeb, Tri choderma treatment."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "November is the optimum time for planting dwarf variety banana. Use disease-free suckers for planting."
+            "BRINJAL Vegetative - Fruit formation stage - Fruit and shoot borer, Neem based pesticide, Spinosad 45% SC, Thiodicarb."
          ]
       },
-      "poultry": {
+      "marigold": {
          "advisory": [
-            "Make necessary arrangements to provide heat to chicks during night hours. Keep the poultry house clean and free of clamps."
+            "MARIGOLD Vegetative to Flowering - Thrips, profenophos 50% EC, Mealy bug."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, possibility of “EUS” disease in fish, preventive measures with Cifax, proper feeding."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

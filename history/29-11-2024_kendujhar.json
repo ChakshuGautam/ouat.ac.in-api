@@ -1,0 +1,139 @@
+{
+   "weather_details": {
+      "30-11-2024": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 17,
+         "rh_max": 84,
+         "rh_min": 50,
+         "wind_speed": 8,
+         "wind_direction": 10,
+         "cloud_cover": 7
+      },
+      "01-12-2024": {
+         "rainfall": 4,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 86,
+         "rh_min": 62,
+         "wind_speed": 6,
+         "wind_direction": 22,
+         "cloud_cover": 8
+      },
+      "02-12-2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 88,
+         "rh_min": 67,
+         "wind_speed": 4,
+         "wind_direction": 27,
+         "cloud_cover": 7
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 4,
+         "wind_direction": 22,
+         "cloud_cover": 7
+      },
+      "04-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 83,
+         "rh_min": 58,
+         "wind_speed": 4,
+         "wind_direction": 11,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "chickpea",
+      "mustard and toria",
+      "linseed",
+      "paddy",
+      "cauliflower",
+      "pumpkin",
+      "chilli",
+      "banana",
+      "marigold",
+      "rose"
+   ],
+   "general_advisory": "Complete the sowing of rabi crops as early as possible. Seed treatment is a must before sowing of rabi crops. Irrigate the field after sowing. Resume the spraying activities in early morning or evening hours. Keep a watch on the disease and pests in the field.",
+   "crops_data": {
+      "chickpea": {
+         "advisory": [
+            "Land preparation and sowing of chickpea should be complete within the week.",
+            "Farmers are advised to use good quality seed materials and treatment of the seeds with fungicides like Captan and Thiram is must.",
+            "Irrigation of the field after sowing should be done.",
+            "Do not over irrigate the field."
+         ]
+      },
+      "mustard and toria": {
+         "advisory": [
+            "Mustard and Toria seeds should be sown within this week.",
+            "Late sowing of the mustard and toria will be vulnerable to the powdery mildew disease.",
+            "Irrigate the field after sowing.",
+            "Remove weeds from the field."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "Broadcasting of seeds can be done 10 -15 days prior to harvesting of paddy crops.",
+            "Do not broadcast the seeds in waterlogged condition.",
+            "Farmers can use linseed variety such as Arpita and Kota Barani Alsi -4 for Keonjhar district of Odisha."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Harvested paddy should be sundried in the field to reduce the moisture content to 10-12%.",
+            "Keep the threshing floor clean and disinfected.",
+            "Make bundles of paddy ready for threshing with the help of threshers."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Keep the soil moist but avoid any type of waterlogging.",
+            "Transplanting of cauliflower should be done carefully.",
+            "Maintain proper distance between the plants."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Do not keep the fruit touching the ground. Rather keep a polythene or gunny bag under the fruit to grow.",
+            "Keep proper space for the development of fruits. Remove weeds from the field and keep a watch on the insects and pests.",
+            "Leaf blight disease in pumpkin can be corrected by spraying Mancozeb or Captan @ 2g/L of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Sow the seeds in the soil with proper irrigation.",
+            "Farmers who have used chilli in pro-trays can transplant them in the field."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Spraying of Imidacloprid @ 1 ml/L can be used to reduce the whitefly and thrips infestation."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Transplant and maintain distance from plant to plant and row to row.",
+            "Monitor the field for whitefly and mealy bug infestation.",
+            "For the management of mealy bug, spray soap or shampoo water to the plants."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Grafting in rose can be taken into consideration.",
+            "Pruning of the plants can be done which will help in more number of branches and flowering.",
+            "Powdery mildew disease can be seen in the plants which can be managed by spraying sulphur powder."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

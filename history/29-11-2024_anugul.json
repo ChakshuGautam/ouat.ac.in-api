@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "2024-11-30": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 49,
+         "wind_speed": 4,
+         "wind_direction": 11,
+         "cloud_cover": 7
+      },
+      "2024-12-01": {
+         "rainfall": 5,
+         "t_max": 25,
+         "t_min": 14,
+         "rh_max": 90,
+         "rh_min": 67,
+         "wind_speed": 3,
+         "wind_direction": 45,
+         "cloud_cover": 8
+      },
+      "2024-12-02": {
+         "rainfall": 1,
+         "t_max": 25,
+         "t_min": 14,
+         "rh_max": 88,
+         "rh_min": 64,
+         "wind_speed": 3,
+         "wind_direction": 74,
+         "cloud_cover": 7
+      },
+      "2024-12-03": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 86,
+         "rh_min": 66,
+         "wind_speed": 3,
+         "wind_direction": 67,
+         "cloud_cover": 7
+      },
+      "2024-12-04": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 85,
+         "rh_min": 58,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "common carp",
+      "chicken"
+   ],
+   "general_advisory": "District is likely to receive light rainfall on Tuesday, Wednesday and Thursday, do not go for application of any pesticides on these days.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanted rice is at milking to soft dough stage. After rain crop is likely to be infested by ear cutting caterpillar, go for application of 2g of Chloropyriphos + cypermethrin) per litre of water."
+         ]
+      },
+      "common carp": {
+         "advisory": [
+            "To control Argulosis in winter go for application of Cypermethrin 15ml/acre three times in five days interval. Reduce the amount of feed as the growth rate is low in winter. Use of water heater in the ornamental fish aquarium/tank."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "In view of upcoming reduced temperature make provision for 2 watt light bulb per chick to ensure their health from cold wave. In case of backyard poultry, birds should be allowed to move in open yard in the daytime. Water should be given at ambient temperature at 2 times feed intake. Feed to water ratio should be maintained at 1:5 as against 1:2 during winter."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

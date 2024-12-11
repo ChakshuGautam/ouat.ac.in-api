@@ -1,92 +1,126 @@
 {
    "weather_details": {
-      "30/11/2024": {
-         "rainfall": 5,
-         "t_max": 26,
-         "t_min": 21,
-         "rh_max": 80,
-         "rh_min": 56,
-         "wind_speed": 16,
-         "wind_direction": 28,
-         "cloud_cover": 8
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 48,
+         "wind_speed": 15,
+         "wind_direction": 16,
+         "cloud_cover": 4
       },
-      "01/12/2024": {
-         "rainfall": 4,
-         "t_max": 27,
-         "t_min": 21,
-         "rh_max": 80,
-         "rh_min": 60,
-         "wind_speed": 14,
-         "wind_direction": 29,
-         "cloud_cover": 8
-      },
-      "02/12/2024": {
-         "rainfall": 2,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 82,
-         "rh_min": 64,
-         "wind_speed": 13,
-         "wind_direction": 26,
-         "cloud_cover": 8
-      },
-      "03/12/2024": {
-         "rainfall": 1,
+      "12/12/2024": {
+         "rainfall": 0,
          "t_max": 29,
-         "t_min": 18,
-         "rh_max": 74,
-         "rh_min": 55,
-         "wind_speed": 11,
-         "wind_direction": 28,
-         "cloud_cover": 8
+         "t_min": 15,
+         "rh_max": 64,
+         "rh_min": 34,
+         "wind_speed": 30,
+         "wind_direction": 14,
+         "cloud_cover": 15
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 53,
+         "rh_min": 28,
+         "wind_speed": 29,
+         "wind_direction": 17,
+         "cloud_cover": 4
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 52,
+         "rh_min": 26,
+         "wind_speed": 28,
+         "wind_direction": 14,
+         "cloud_cover": 16
+      },
+      "15/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 53,
+         "rh_min": 26,
+         "wind_speed": 17,
+         "wind_direction": 16,
+         "cloud_cover": 14
       }
    },
    "names_of_crops": [
       "paddy",
+      "cotton",
+      "sugarcane",
+      "blackgram",
+      "greengram",
       "groundnut",
-      "tobacco",
-      "chilli",
-      "cole crops",
-      "banana",
-      "poultry"
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
    ],
-   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetable nursery to avoid poor germination due to low temperature. For early and maximum yield in Cole crops spray Gibberellic Acid 0.001% L. Do proper field surveillance for pests and diseases regularly and take appropriate plant protection measures accordingly.",
+   "general_advisory": "Rice grains must be dried under sun. Monitor crops for pests and diseases. Complete transplanting of winter vegetable crops. Harvest mature sugarcane below one inch of ground level.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Post-harvesting stage - If ‘Rodent/Rats’ problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet per burrow and seal the burrow with mud which will kill the rodents."
+            "Post harvesting - Monitor for rodents. Place Aluminium Phosphide with mud in rodent areas."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Vegetative stage - Manage Aphids by spraying Neem Based Pesticide. Then spray recommended insecticides."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Vegetative stage - Control Tobacco Caterpillar using Pheromone traps and insecticides."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative stage - Control aphids by spraying recommended insecticides."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative stage - Control aphids by spraying recommended insecticides."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Vegetative stage - Control Tobacco Caterpillar by dusting with specified chemicals."
+            "Vegetative stage - Control Tobacco Caterpillar by setting up traps and spraying insecticides."
          ]
       },
-      "tobacco": {
+      "potato": {
          "advisory": [
-            "Vegetative stage - Monitor and control Tobacco Caterpillar using specified methods."
+            "Vegetative stage - Hoeing and hand weeding. Irrigate the crop as needed."
          ]
       },
-      "chilli": {
+      "tomato": {
          "advisory": [
-            "Vegetative stage - Control Aphids and Thrips using specified pesticides."
+            "Vegetative stage - Control Late Blight by spraying recommended pesticide."
          ]
       },
-      "cole crops": {
+      "brinjal": {
          "advisory": [
-            "Vegetative stage - Manage Diamond Back Moth infestation with neem-based pesticide."
+            "Vegetative - Fruit formation stage - Control Fruit and shoot borer by spraying recommended pesticides."
          ]
       },
-      "banana": {
+      "marigold": {
          "advisory": [
-            "Planting - Plant Dwarf Cavendish and Robusta variety in specified distances and pit sizes using recommended suckers."
+            "Vegetative to Flowering - Control Thrips and Mealy bug by applying recommended pesticides."
          ]
       },
-      "poultry": {
+      "fisheries": {
          "advisory": [
-            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce mortality. Keep the poultry house clean and clamp free."
+            "During winters, prevent 'EUS' disease by applying Cifax. Feed fishes with oil cake bran mixture."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

@@ -1,93 +1,110 @@
 {
    "weather_details": {
-      "30/11/2024": {
-         "rainfall": 1,
-         "t_max": 29,
-         "t_min": 15,
-         "rh_max": 83,
-         "rh_min": 44,
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 88,
+         "rh_min": 37,
          "wind_speed": 4,
-         "wind_direction": 5,
-         "cloud_cover": 5
+         "wind_direction": 6,
+         "cloud_cover": 3
       },
-      "01/12/2024": {
+      "12/12/2024": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 16,
-         "rh_max": 88,
-         "rh_min": 62,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 32,
          "wind_speed": 3,
-         "wind_direction": 27,
-         "cloud_cover": 4
+         "wind_direction": 6,
+         "cloud_cover": 2
       },
-      "02/12/2024": {
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 72,
+         "rh_min": 27,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 1
+      },
+      "14/12/2024": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 16,
-         "rh_max": 90,
-         "rh_min": 66,
-         "wind_speed": 2,
-         "wind_direction": 31,
-         "cloud_cover": 4
+         "rh_max": 63,
+         "rh_min": 23,
+         "wind_speed": 4,
+         "wind_direction": 351,
+         "cloud_cover": 0
       },
-      "03/12/2024": {
-         "rainfall": 1,
+      "15/12/2024": {
+         "rainfall": 0,
          "t_max": 27,
          "t_min": 15,
-         "rh_max": 90,
-         "rh_min": 67,
-         "wind_speed": 2,
-         "wind_direction": 39,
-         "cloud_cover": 5
-      },
-      "04/12/2024": {
-         "rainfall": 1,
-         "t_max": 28,
-         "t_min": 15,
-         "rh_max": 88,
-         "rh_min": 59,
-         "wind_speed": 2,
-         "wind_direction": 18,
-         "cloud_cover": 4
+         "rh_max": 61,
+         "rh_min": 22,
+         "wind_speed": 5,
+         "wind_direction": 356,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "kharif paddy",
+      "rabi paddy",
+      "wheat",
       "groundnut",
       "potato",
-      "mustard (toria)",
-      "onion"
+      "mustard",
+      "pulses",
+      "animal husbandry",
+      "pisciculture"
    ],
-   "general_advisory": "Without much delay sowing the rabi crops. Keep provision of irrigation facility while going for rabi crops. Choose always medium to short duration varieties in rabi crops. Before sowing the field bund and field should be free from the weeds.",
+   "general_advisory": "Due to forecast no rainfall, harvest all matured crops & Keep provision of critical irrigation for rabi crops. Choose always medium to short duration varieties in rabi paddy. Before sowing the field bund and field should be clean.",
    "crops_data": {
-      "kharif paddy": {
+      "rabi paddy": {
          "advisory": [
-            "The harvested grain should be dried under sun and clean to meet the FAQ standard for fetching better market price."
+            "The good varieties are MTU 1156, MTU 1153.",
+            "Prepare the nursery in 10 decimal for one acre."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "21 days after germination, apply 6 -8 kg Nitrogen/acre."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To control the weeds, spray Zargon @ 80 ml/acre in 200 liters of water."
+            "At 3-4 week stage of groundnut, go for inter Gramin Krishi Mausam Sewa India cultivation, after that do not disturb the soil specially at peg formation stage.",
+            "Apply 50 kg Gypsum per acre leaving 5 cm from the row."
          ]
       },
       "potato": {
          "advisory": [
-            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 6 -8 q/ac.",
-            "For proper germination keep the seed material inside gunny bag for 5 -7 days.",
-            "Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed.",
-            "During Final land preparation apply 10 t of well rotten FYM."
+            "After intercultivation apply balance half nitrogen i.e 30 kg/acre."
          ]
       },
-      "mustard (toria)": {
+      "mustard": {
          "advisory": [
-            "Go for thinning operation and maintain proper stand of the crop."
+            "Due to weather there may be powdery mildew attack, to manage this spray sulfur powder @ 1kg in 200 liters of water."
          ]
       },
-      "onion": {
+      "pulses": {
          "advisory": [
-            "When the seedlings are 12 -15 cm height the seedlings are uprooted and transplanted in the afternoon time."
+            "Sow the pulses to avoid effect of decreasing temperature."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "The animals are to be vaccinated in consultation of line departments."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Due to weather there will be deficit in oxygen, to manage stir the water from one corner to maintain the oxygen level."
          ]
       }
    },
-   "date": "29-11-2024"
+   "date": "10-12-2024"
 }

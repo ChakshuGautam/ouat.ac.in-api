@@ -2,45 +2,48 @@
    "weather_details": {
       "2022-10-01": {
          "rainfall": 5,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 80,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 85,
          "rh_min": 50,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 6
+         "cloud_cover": 5
       },
       "2022-10-02": {
-         "rainfall": 2,
-         "t_max": 28,
+         "rainfall": 0,
+         "t_max": 25,
          "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 55,
-         "wind_speed": 12,
+         "rh_max": 80,
+         "rh_min": 45,
+         "wind_speed": 8,
          "wind_direction": 200,
-         "cloud_cover": 5
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
+      "rice",
       "wheat",
-      "corn",
-      "cattle"
+      "poultry"
    ],
-   "general_advisory": "Sow wheat seeds after consulting the weather forecast. Keep an eye on the livestock during the rainy season.",
+   "general_advisory": "Ensure proper irrigation for rice and wheat crops. Monitor poultry health regularly.",
    "crops_data": {
+      "rice": {
+         "advisory": [
+            "Maintain optimum water levels in the fields.",
+            "Check for any signs of pests."
+         ]
+      },
       "wheat": {
          "advisory": [
-            "Plant wheat in well-drained soil. Apply fertilizer before sowing."
+            "Protect from frost during colder nights.",
+            "Apply fertilizer as per schedule."
          ]
       },
-      "corn": {
+      "poultry": {
          "advisory": [
-            "Choose a sunny location for planting corn. Water regularly to ensure proper growth."
-         ]
-      },
-      "cattle": {
-         "advisory": [
-            "Ensure cattle have access to clean water at all times. Vaccinate them against common diseases."
+            "Monitor feed intake and water consumption of poultry birds.",
+            "Vaccinate as per vaccination schedule."
          ]
       }
    },

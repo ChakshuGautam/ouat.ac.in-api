@@ -1,0 +1,86 @@
+{
+   "weather_details": {
+      "30/11/2024": {
+         "rainfall": 5,
+         "t_max": 26,
+         "t_min": 22,
+         "rh_max": 83,
+         "rh_min": 56,
+         "wind_speed": 18,
+         "wind_direction": 30,
+         "cloud_cover": 8
+      },
+      "01/12/2024": {
+         "rainfall": 4,
+         "t_max": 24,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 61,
+         "wind_speed": 16,
+         "wind_direction": 32,
+         "cloud_cover": 8
+      },
+      "02/12/2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 13,
+         "wind_direction": 26,
+         "cloud_cover": 8
+      },
+      "03/12/2024": {
+         "rainfall": 4,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 54,
+         "wind_speed": 11,
+         "wind_direction": 27,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "chilli",
+      "cole crops",
+      "banana",
+      "poultry"
+   ],
+   "general_advisory": "Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables. For early and maximum yield in cole crops, spray Gibberellic Acid 0.001% L. Do proper field surveillance for pests and diseases regularly. In winter, keep doors, windows, and open spaces in cow sheds covered with polythene or gunny bag curtains.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post-harvesting stage - Rodent/Rats problem: Locate the rodent burrow and place Aluminium Phosphide tablet. Stored grain insect pest: Fumigate with Aluminium phosphide tablets."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage - Tobacco Caterpillar: Monitor with Pheromone traps. Spray chemical insecticides."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Vegetative stage - Aphids and Thrips: Use neem-based pesticide or chemical spray."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Vegetative stage - Diamond Back Moth: Install light traps. Spray neem-based pesticide."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Planting - Follow specific planting instructions for Dwarf Cavendish and Robusta varieties."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper heat provision for chicks. Maintain clean and clamp-free poultry house."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

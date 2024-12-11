@@ -53,60 +53,124 @@
    },
    "names_of_crops": [
       "paddy",
-      "maize",
       "sugarcane",
+      "maize",
       "tomato",
       "brinjal",
+      "coconut",
+      "vegetables",
+      "fingerlings",
       "black gram",
+      "green gram",
       "okra",
       "onion",
-      "mango"
+      "mango",
+      "poultry",
+      "value added products",
+      "bio-fertilizer",
+      "bio-pesticides",
+      "vermi & vermicompost",
+      "farm implements"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical. Cover the rows with dry leaves in Sugarcane. Manage water scarcity by applying sprinkler irrigation. Proper irrigation for maize crop. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves around a coconut tree. Cover newly planted vegetable seedlings with paper caps. Harvest fingerlings in shallow ponds if water temperature rises. Manage Yellow stem borer in paddy and Blast Disease.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages...",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit during these stages."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "High temperature increases water requirement of maize crop. Irrigate the crop timely."
+            "Water deficit during critical stages should be avoided."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves. Top-dress with 4% potassium. Apply sprinkler irrigation. Irrigate frequently during hot months."
+            "Cover the rows with dry leaves to protect from water scarcity.",
+            "Top-dress with 4% potassium to protect crop from water scarcity during summer."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "High temperature increases water requirement, irrigate the crop.",
+            "Avoid stagnant water for more than six hours in the field."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature may lead to wilting. Apply 1g Streptocyclin in root zone."
+            "Apply Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps. Spray neem-based pesticide during primary stage of pest infestation."
+            "Install pheromone traps to manage shoot and fruit borer.",
+            "Spray neem-based pesticide in case of pest infestation."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves around a coconut tree to reduce water loss."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover newly planted vegetable seedlings with paper caps during the day time."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings if water temperature rises to 30°C in shallow ponds."
          ]
       },
       "black gram": {
          "advisory": [
-            "Check migration of caterpillars. For chemical control, spray recommended insecticides."
+            "Check the migration of caterpillars and apply appropriate insecticides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Check the migration of caterpillars and apply appropriate insecticides."
          ]
       },
       "okra": {
          "advisory": [
-            "Treat okra seeds with Imidacloprid before sowing. Install yellow sticky traps to prevent whitefly infestation."
+            "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation."
          ]
       },
       "onion": {
          "advisory": [
-            "After harvesting, cut the tops leaving 2.0-2.5 cm above bulb. Dry harvested bulbs in a ventilated room."
+            "Cut the tops after harvesting and dry bulbs in a ventilated room for storage."
          ]
       },
       "mango": {
          "advisory": [
-            "To control mango hoppers, spray recommended insecticides. Use smoke below plants to reduce pest population."
+            "Control mango hoppers with appropriate insecticides.",
+            "Application of smoke below the plants can help in reducing the pest population."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "For better agricultural benefits, use OUAT KALINGA products."
+         ]
+      },
+      "value added products": {
+         "advisory": [
+            "For better agricultural benefits, use OUAT KALINGA products."
+         ]
+      },
+      "bio-fertilizer": {
+         "advisory": [
+            "For better agricultural benefits, use OUAT KALINGA products."
+         ]
+      },
+      "bio-pesticides": {
+         "advisory": [
+            "For better agricultural benefits, use OUAT KALINGA products."
+         ]
+      },
+      "vermi & vermicompost": {
+         "advisory": [
+            "For better agricultural benefits, use OUAT KALINGA products."
+         ]
+      },
+      "farm implements": {
+         "advisory": [
+            "For better agricultural benefits, use OUAT KALINGA products."
          ]
       }
    },

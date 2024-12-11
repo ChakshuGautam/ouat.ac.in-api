@@ -1,0 +1,179 @@
+{
+   "weather_details": {
+      "30-11-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 90,
+         "rh_min": 52,
+         "wind_speed": 4,
+         "wind_direction": 29,
+         "cloud_cover": 6
+      },
+      "01-12-2024": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 13,
+         "rh_max": 95,
+         "rh_min": 64,
+         "wind_speed": 4,
+         "wind_direction": 37,
+         "cloud_cover": 6
+      },
+      "02-12-2024": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 12,
+         "rh_max": 95,
+         "rh_min": 61,
+         "wind_speed": 3,
+         "wind_direction": 50,
+         "cloud_cover": 5
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 92,
+         "rh_min": 60,
+         "wind_speed": 2,
+         "wind_direction": 72,
+         "cloud_cover": 5
+      },
+      "04-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 89,
+         "rh_min": 54,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "greengram",
+      "blackgram",
+      "groundnut",
+      "mustard",
+      "toria",
+      "sunflower",
+      "onion",
+      "tomato",
+      "chilli",
+      "rose",
+      "merigold",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep",
+      "poultry"
+   ],
+   "general_advisory": "Light to moderate rainfall very likely to occur in most parts of Odisha & dry over remaining parts of Odisha during the upcoming week.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Harvest the crop when 80-85% of the grains are matured.",
+            "Sun-dry paddy grains to 12-14% moisture content for better self-life."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Pick fully opened bolls and store them safely for optimal quality."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Follow recommended control measures for prevailing pests."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Treat seeds with suitable chemicals before sowing."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Treat seeds with suitable chemicals before sowing.",
+            "Apply recommended nutrient management practices."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Treat seed with appropriate chemicals before sowing.",
+            "Apply recommended nutrient and weed management practices."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Apply recommended weed management practices."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Apply recommended weed management practices."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Apply recommended weed management practices."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Sow suitable variety at the right time."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Transplant seedlings with proper spacing and treatment."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Choose suitable varieties and seed rate."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Control powdery mildew infestation."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "Perform pinching at the appropriate stage."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Provide sufficient green grass.",
+            "Provide concentrate mix for lactating animals."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Repair the goat house to prevent mortality due to chill weather."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Repair the goat house before winter season."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Repair the goat house before winter season."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat to chicks during night hours.",
+            "Keep the poultry house clean and clamp free."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

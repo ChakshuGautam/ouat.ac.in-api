@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "30-11-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 55,
+         "wind_speed": 4,
+         "wind_direction": 68,
+         "cloud_cover": 7
+      },
+      "01-12-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 95,
+         "rh_min": 72,
+         "wind_speed": 4,
+         "wind_direction": 96,
+         "cloud_cover": 8
+      },
+      "02-12-2024": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 10,
+         "rh_max": 97,
+         "rh_min": 69,
+         "wind_speed": 4,
+         "wind_direction": 110,
+         "cloud_cover": 7
+      },
+      "03-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 10,
+         "rh_max": 94,
+         "rh_min": 68,
+         "wind_speed": 4,
+         "wind_direction": 112,
+         "cloud_cover": 7
+      },
+      "04-12-2024": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 90,
+         "rh_min": 59,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "cauliflower",
+      "cabbage",
+      "niger",
+      "dhanicha",
+      "banana",
+      "garden pea",
+      "fisheries"
+   ],
+   "general_advisory": "As per the forecast there will be continuous very light to light rainfall. Farmers can utilize the rainfall for specific crops like cauliflower, cabbage, radish, and garden peas. Harvested rice crops should be dried in the sun and stored safely.",
+   "crops_data": {
+      "cauliflower": {
+         "advisory": [
+            "Vegetative-maturity",
+            "Black spot",
+            "First foliar spraying with Tridemorph 0.1% followed by spraying with Mancozeb 0.25% a month interval."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Vegetative-maturity",
+            "Black spot",
+            "First foliar spraying with Tridemorph 0.1% followed by spraying with Mancozeb 0.25% a month interval."
+         ]
+      },
+      "niger": {
+         "advisory": [
+            "Maturity-Harvesting",
+            "Cut the plants at the bottom",
+            "Keep the plants in the threshing floor and beat the plants with sticks till the mature seeds are separated",
+            "Winnow the seed and dry in the sun"
+         ]
+      },
+      "dhanicha": {
+         "advisory": [
+            "Harvesting",
+            "Harvest the mature pods and beat to remove the seeds",
+            "Dry it in the sun and store safely"
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Harvesting",
+            "Harvest the matured banana at 85% maturity and it will be completely ripened within a week and sell it"
+         ]
+      },
+      "garden pea": {
+         "advisory": [
+            "Seed treatment in garden pea before sowing",
+            "Treat the seeds with Trichoderma@ 4 g/kg or Thiram or Captan@ 2 g/kg of seeds to avoid seed borne diseases"
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "To combat EU S disease in fish, farmers are advised to apply Cifax@ 400 ml mixed with 40 liters of water in one acre pond as a preventive measure",
+            "The fishes should be fed daily with oil cake bran mixture @ 2-3% of their total biomass"
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}

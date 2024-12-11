@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "30/11/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 36,
+         "cloud_cover": 4
+      },
+      "01/12/2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 81,
+         "rh_min": 51,
+         "wind_speed": 7,
+         "wind_direction": 39,
+         "cloud_cover": 5
+      },
+      "02/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 86,
+         "rh_min": 58,
+         "wind_speed": 6,
+         "wind_direction": 40,
+         "cloud_cover": 5
+      },
+      "03/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 59,
+         "wind_speed": 5,
+         "wind_direction": 42,
+         "cloud_cover": 4
+      },
+      "04/12/2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 84,
+         "rh_min": 54,
+         "wind_speed": 4,
+         "wind_direction": 38,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "potato",
+      "mustard",
+      "onion"
+   ],
+   "general_advisory": "Without much delay sowing the rabi crops. Keep provision of irrigation facility while going for rabi crops. Choose always medium to short duration varieties in rabi crops. Before sowing the field bund and field should be free from the weeds.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "The harvested grain should be dried under sun and clean to meet the FAQ standard for fetching better market price."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To control the weeds, spray Zargon @ 80 ml/acre in 200 liters of water."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Collect seeds like K. Pokhraj, K. Lalima, K. Sinduri, K. Surya @ 6 -8 q/ac.",
+            "For proper germination keep the seed material inside gunny bag for 5 -7 days. Treat the seeds in 10 liters of water mixed with 20 g Mancozeb, 1 g Streptocyclin and deep the tubers for 30 minutes and after that dry under shed. During Final land preparation apply 10 t of well rotten FYM."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Go for thinning operation and maintain proper stand of the crop."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "When the seedlings are 12 -15 cm height the seedlings are uprooted and transplanted in the afternoon time."
+         ]
+      }
+   },
+   "date": "29-11-2024"
+}
