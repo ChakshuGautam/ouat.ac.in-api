@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "2024-12-10": {
+         "rainfall": 0.2,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 91,
+         "rh_min": 41,
+         "wind_speed": 2,
+         "wind_direction": 18,
+         "cloud_cover": 4
+      },
+      "2024-12-12": {
+         "rainfall": 0.1,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 77,
+         "rh_min": 35,
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 2
+      },
+      "2024-12-13": {
+         "rainfall": 0.1,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 74,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "2024-12-14": {
+         "rainfall": 0.1,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 65,
+         "rh_min": 26,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "2024-12-15": {
+         "rainfall": 0.1,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "potato",
+      "mustard",
+      "brinjal",
+      "common fish",
+      "chicken"
+   ],
+   "general_advisory": "Clear weather is expected for next five days in Angul district. Potato crop is at 3 week stage. Go for hoeing and weeding. Apply the rest 30-45 kg N/acre. In rainfed shallow low lands, where irrigation facilities are not available. Go for Paira cultivation of latyrus, field pea, linseed 10-15 days before harvesting the crop.",
+   "crops_data": {
+      "potato": {
+         "advisory": [
+            "Potato crop is at 3 week stage. Go for hoeing and weeding. Apply the rest 30-45 kg N/acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Thinning and weeding is recommended in late sown mustard crop. If low temperature continues for two weeks, white rust infection may start. Therefore, farmers are advised to keep observation on leaves for white rust appearance."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Minimum temperature in the district is going to fall by around 2 °C, the seedlings of solaneous crop is sensitive to lowering of temperature. Covering the crop with poly bags that must not have a hole, in a way that the polysheet will not touch the crop during nights and opening of the polybags during days."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Reduce the amount of feed as the growth rate is low in winter."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Provision for 2 watt light bulb per chick to ensure their health from cold wave. In case of backyard poultry, birds should be allowed to move in open yard in the daytime. Water should be given at ambient temperature at 2 times feed intake. Feed to water ratio should be maintained at 1:5 as against1:2 during winter."
+         ]
+      }
+   },
+   "date": "10-12-2024",
+   "ERROR": "Not getting consistent data."
+}

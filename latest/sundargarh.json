@@ -1,114 +1,114 @@
 {
    "weather_details": {
-      "11/12/2024": {
-         "rainfall": 0,
+      "21/12/2024": {
+         "rainfall": 8,
          "t_max": 29,
-         "t_min": 15,
-         "rh_max": 80,
-         "rh_min": 31,
-         "wind_speed": 5,
-         "wind_direction": 30,
-         "cloud_cover": 4
-      },
-      "12/12/2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 70,
-         "rh_min": 28,
-         "wind_speed": 4,
-         "wind_direction": 31,
-         "cloud_cover": 1
-      },
-      "13/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 66,
-         "rh_min": 24,
-         "wind_speed": 4,
-         "wind_direction": 34,
-         "cloud_cover": 1
-      },
-      "14/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 57,
-         "rh_min": 20,
-         "wind_speed": 5,
-         "wind_direction": 30,
-         "cloud_cover": 0
-      },
-      "15/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
          "t_min": 12,
-         "rh_max": 54,
-         "rh_min": 18,
+         "rh_max": 86,
+         "rh_min": 51,
+         "wind_speed": 6,
+         "wind_direction": 40,
+         "cloud_cover": 6
+      },
+      "22/12/2024": {
+         "rainfall": 2,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 81,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 38,
+         "cloud_cover": 5
+      },
+      "23/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 68,
+         "rh_min": 28,
          "wind_speed": 5,
-         "wind_direction": 30,
+         "wind_direction": 39,
+         "cloud_cover": 5
+      },
+      "24/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 11,
+         "rh_max": 66,
+         "rh_min": 28,
+         "wind_speed": 5,
+         "wind_direction": 45,
+         "cloud_cover": 1
+      },
+      "25/12/2024": {
+         "rainfall": 1,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 65,
+         "rh_min": 26,
+         "wind_speed": 3,
+         "wind_direction": 45,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "rabi paddy",
       "wheat",
-      "groundnut",
+      "pulses",
       "potato",
       "mustard",
-      "pulses",
+      "chilli",
       "onion",
-      "animal",
+      "poultry",
       "pisciculture"
    ],
-   "general_advisory": "Due to forecast no rainfall, harvest all matured crops & Keep provision of critical irrigation for rabi crops. Choose always medium to short duration varieties in rabi paddy. Before sowing the field bund and field should be clean.",
+   "general_advisory": "Due to forecast of cloudy & rain weather, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather, there are chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "Nursery stage - The good varieties are MTU 1156, MTU 1153. Prepare the nursery in 10 decimal for one acre."
+            "Provide irrigation to the nursery. Survey for any insect and pest. Apply 2% Urea solution at 15 Days old seedling"
          ]
       },
       "wheat": {
          "advisory": [
-            "Growth stage - 21 days after germination, apply 6-8 kg Nitrogen/acre."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Growth stage - At 3-4 week stage of groundnut, go for inter cultivation, after that do not disturb the soil specially at peg formation stage. Apply 50 kg Gypsum per acre leaving 5 cm from the row."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "Growth stage - After intercultivation apply balance half nitrogen i.e. 30 kg/acre."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Growth stage - Due to weather there may be powdery mildew attack, to manage this spray sulfur powder @ 1kg in 200 liters of water."
+            "Due to weather there is chances of stem borer attack, to manage spray Triazophos @ 2 ml per liter of water."
          ]
       },
       "pulses": {
          "advisory": [
-            "Sowing stage - Sow the pulses to avoid effect of decreasing temperature."
+            "Due to cloudy forecast, chances of powdery mildew attack may be there, spray Sulphure powder @ 1 kg per 200 liters of water."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Due to forecast of cloud weather, there are chances leaf Blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Due to forecast of cloud weather, there are chances of leaf spot disease. To manage this spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g /acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control the sucking pest, spray Thiomathaxam @ 0.4 g per liter of water."
          ]
       },
       "onion": {
          "advisory": [
-            "Nursery/Sowing stage - Keep the nursery weed free by uprooting the weeds for healthy seedlings."
+            "Sow the seedling when it is 15 cm height. Provide irrigation to the onion nursery."
          ]
       },
-      "animal": {
+      "poultry": {
          "advisory": [
-            "The animals are to be vaccinated in consultation of line departments."
+            "Due to cold wave forecast, fix 200 watt bulb in the poultry house"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Due to weather reduce the feed quantity as there is reduction of metabolic activity."
+            "Due to forecast of decreasing temperature, reduce the feed quantity as there is reduction of metabolic activity."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

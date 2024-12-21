@@ -1,0 +1,126 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 48,
+         "wind_speed": 15,
+         "wind_direction": 16,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 64,
+         "rh_min": 34,
+         "wind_speed": 30,
+         "wind_direction": 14,
+         "cloud_cover": 15
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 53,
+         "rh_min": 28,
+         "wind_speed": 29,
+         "wind_direction": 17,
+         "cloud_cover": 4
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 52,
+         "rh_min": 26,
+         "wind_speed": 28,
+         "wind_direction": 14,
+         "cloud_cover": 16
+      },
+      "15/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 53,
+         "rh_min": 26,
+         "wind_speed": 17,
+         "wind_direction": 16,
+         "cloud_cover": 14
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "sugarcane",
+      "blackgram",
+      "greengram",
+      "groundnut",
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "fisheries"
+   ],
+   "general_advisory": "Rice grains must be dried under sun. Monitor crops for pests and diseases. Complete transplanting of winter vegetable crops. Harvest mature sugarcane below one inch of ground level.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post harvesting - Monitor for rodents. Place Aluminium Phosphide with mud in rodent areas."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Vegetative stage - Manage Aphids by spraying Neem Based Pesticide. Then spray recommended insecticides."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Vegetative stage - Control Tobacco Caterpillar using Pheromone traps and insecticides."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative stage - Control aphids by spraying recommended insecticides."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative stage - Control aphids by spraying recommended insecticides."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage - Control Tobacco Caterpillar by setting up traps and spraying insecticides."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Vegetative stage - Hoeing and hand weeding. Irrigate the crop as needed."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage - Control Late Blight by spraying recommended pesticide."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative - Fruit formation stage - Control Fruit and shoot borer by spraying recommended pesticides."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Vegetative to Flowering - Control Thrips and Mealy bug by applying recommended pesticides."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "During winters, prevent 'EUS' disease by applying Cifax. Feed fishes with oil cake bran mixture."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 87,
+         "rh_min": 39,
+         "wind_speed": 1,
+         "wind_direction": 342,
+         "cloud_cover": 3
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 74,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 27,
+         "wind_speed": 1,
+         "wind_direction": 72,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 64,
+         "rh_min": 25,
+         "wind_speed": 1,
+         "wind_direction": 34,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 61,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "brinjal",
+      "sweet potato",
+      "papaya",
+      "garden pea",
+      "marigold",
+      "fishes"
+   ],
+   "general_advisory": "Seeing the clear and sunny sky in upcoming days, farmers are advised to resume their spraying activities in crops. Harvested rice crop should be dried in sun, and then threshed & stored in safe place.",
+   "crops_data": {
+      "brinjal": {
+         "advisory": [
+            "Maturity -harvesting",
+            "To control leaf eating caterpillar and fruit borer in Brinjal, spray 80 g Emamectin benzoate or 80 ml Spinosad per 200 liters of water."
+         ]
+      },
+      "sweet potato": {
+         "advisory": [
+            "Reduce watering sweet potato to prevent cracking, which can cause problems in storage.",
+            "Sweet potatoes gain most of their size and weight late in the season so do not immediately harvest after leaves turn yellow, wait until vines wither."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Aphids",
+            "Nymphs and adults suck the sap from leaves, petioles and fruits",
+            "Remove and destroy damaged plant parts",
+            "Spray dimethoate 0.03% or methyl demeton 0.025%"
+         ]
+      },
+      "garden pea": {
+         "advisory": [
+            "Seed treatment in garden pea before sowing.",
+            "Treat the seeds with Trichoderma@ 4 g/kg or Thiram or Captan@ 2 g/kg of seeds a to avoid seed borne diseases."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Vegetative",
+            "Provide irrigation to the plants regularly.",
+            "Pinching process i.e. removing the top axis/branch of the plant to encourage a greater number of branches can be taken within 15 -30 days of transplanting."
+         ]
+      },
+      "fishes": {
+         "advisory": [
+            "In winters there may be various fungal, bacterial and parasitic diseases in the fish.",
+            "Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1 -2 kg/acre or limestone @ 50-100 kg/acre."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

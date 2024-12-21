@@ -1,98 +1,111 @@
 {
    "weather_details": {
-      "11-12-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 15,
-         "rh_max": 77,
-         "rh_min": 34,
-         "wind_speed": 8,
-         "wind_direction": 38,
-         "cloud_cover": 3
-      },
-      "12-12-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 70,
-         "rh_min": 32,
-         "wind_speed": 7,
-         "wind_direction": 41,
-         "cloud_cover": 1
-      },
-      "13-12-2024": {
-         "rainfall": 0,
+      "21-12-2024": {
+         "rainfall": 7,
          "t_max": 28,
          "t_min": 14,
-         "rh_max": 67,
-         "rh_min": 29,
-         "wind_speed": 5,
-         "wind_direction": 42,
-         "cloud_cover": 0
+         "rh_max": 86,
+         "rh_min": 56,
+         "wind_speed": 9,
+         "wind_direction": 45,
+         "cloud_cover": 6
       },
-      "14-12-2024": {
-         "rainfall": 0,
+      "22-12-2024": {
+         "rainfall": 2,
          "t_max": 28,
          "t_min": 14,
-         "rh_max": 61,
-         "rh_min": 25,
+         "rh_max": 81,
+         "rh_min": 47,
          "wind_speed": 7,
-         "wind_direction": 34,
-         "cloud_cover": 0
+         "wind_direction": 49,
+         "cloud_cover": 5
       },
-      "15-12-2024": {
-         "rainfall": 0,
+      "23-12-2024": {
+         "rainfall": 1,
          "t_max": 28,
          "t_min": 13,
-         "rh_max": 59,
-         "rh_min": 22,
-         "wind_speed": 7,
-         "wind_direction": 39,
+         "rh_max": 70,
+         "rh_min": 34,
+         "wind_speed": 8,
+         "wind_direction": 50,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 67,
+         "rh_min": 33,
+         "wind_speed": 8,
+         "wind_direction": 56,
+         "cloud_cover": 2
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 66,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 53,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "rice",
+      "kharif rice",
+      "summer rice",
       "green gram/black gram",
-      "cotton",
       "ground nut",
-      "cole crop"
+      "cole crop",
+      "livestock",
+      "poultry"
    ],
-   "general_advisory": "According to the dry weather condition in upcoming days, farmers are advised to harvest their matured crops and conduct spraying operations during that period. Farmers are advised to complete the sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram etc. and start land preparation for nursery sowing of Rabi Paddy where irrigation facilities are available. Deworming and vaccination should be advised in animals to boost immunity and protect them from any harmful diseases.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations according to the extended range forecast. Take care of crops and animals to protect them from cold. Complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram, and start nursery sowing of Summer Paddy where irrigation facilities are available.",
    "crops_data": {
-      "rice": {
+      "kharif rice": {
          "advisory": [
-            "There is no rainfall expected in upcoming days so farmers are advised to conduct harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
-            "After harvesting, rice should be dried in the field for 2-3 days and thereafter threshing should be done. Rice should be stored at a moisture level of 12% in safe places.",
-            "Prevailing weather condition is favourable for False Smut disease infestation in late maturing rice varieties so its regular monitoring should be advised. If infestation is noticed, then spraying of Copper hydroxide 77% @ 2g/ltr or Tebuconazole 25% @ 2g/ltr should be advised when sky is clear. Repeat the spray after 7-10 days for its effective control."
+            "There is expected rainfall, so wait for harvesting operations and store the harvested paddy crop in safe places."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer rice cultivation."
          ]
       },
       "green gram/black gram": {
          "advisory": [
-            "Farmers are advised to complete sowing of green gram/black gram in upcoming week.",
-            "One week before sowing, seed should be treated with carbendazim @ 1.5-2.0g and imidacloprid @ 5g per kg seeds. Seven days after this treatment, 200g Rizobium culture and 3-4g sodium molybdate should be mixed in 10kg seeds in 400ml of water and mixed it thoroughly and dry it in shade for half an hour then go for sowing in field. Seed should be sown with a seed rate of 8-10 kg/ac with a spacing of 30cm×10cm.",
-            "Varieties: Green Gram: - Kamadeva, Durga, IPM 02-3, IPM 02-14, TARM1. Black Gram: - Prasada, Usala, PU 31, IPU2-43, Mahuri"
-         ]
-      },
-      "cotton": {
-         "advisory": [
-            "Dry weather is expected in the upcoming week so picking of matured bolls should be advised and dry the seed cotton to reduce the moisture to 8-10%."
+            "Farmers should treat seed with carbendazim and imidacloprid before sowing.",
+            "Seed should be sown with a spacing of 30cm×10cm.",
+            "Avoid irrigation for some days due to expected rainfall."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Farmers who have not yet sown seeds can use improved Groundnut varieties such as TAG-24, JL-24, Girnar-3, Smruti, TG-3, TG-22, Kadri-5, Kadri-6, Kadri-9, TPG-41, GPBD-4, Devi, CO-7, Dharani and Divya etc. All these varieties are harvested within 100 to 130 days.",
-            "Ensure seed treatment before sowing of seed and if possible, treat with bacteria or phospho culture 7 days after treatment. For 10 kg of seed, farmer can use 200 grams of rhizobium culture and 200 grams of phospho culture within 3 hours of sowing. 40 to 50 kg of seed or 60 to 70 kg of pod is required per acre. Seeds should be sown within 2 to 3 days of husking at a depth of 5 cm.",
-            "If the seedlings are 10 days old, it is recommended to conduct gap filling where the seedlings have not emerged."
+            "Use improved varieties for sowing.",
+            "Ensure seed treatment before sowing.",
+            "Regular monitoring against insect attack is advised."
          ]
       },
       "cole crop": {
          "advisory": [
-            "During planting, polythene can be used as mulching material or if planting already done straw can be used for the same purpose to maintain moisture as well as soil temperature for vegetable crops.",
-            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use pheromone trap in the field for this purpose.",
-            "If attack observed then spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter water should be advised after the occurrence of rain."
+            "Use straw for mulching in vegetable crops.",
+            "Monitor for Diamond back moth attack.",
+            "Spray neem oil or Emamectin Benzoate after rain if attack is observed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold.",
+            "Vaccination and deworming should be done."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry house.",
+            "Provide external heat source to keep the shed warm.",
+            "Maintain suitable temperature for drinking water."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

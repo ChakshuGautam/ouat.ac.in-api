@@ -1,8 +1,72 @@
 {
-   "date": "10-12-2024",
-   "error": "Error in getting the response.",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "2024-12-21": {
+         "rainfall": 6,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 97,
+         "rh_min": 58,
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 6
+      },
+      "2024-12-22": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 92,
+         "rh_min": 44,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "2024-12-23": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": 87,
+         "rh_min": 33,
+         "wind_speed": 3,
+         "wind_direction": 34,
+         "cloud_cover": 4
+      },
+      "2024-12-24": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 84,
+         "rh_min": 33,
+         "wind_speed": 2,
+         "wind_direction": 76,
+         "cloud_cover": 3
+      },
+      "2024-12-25": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 78,
+         "rh_min": 30,
+         "wind_speed": 1,
+         "wind_direction": 34,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "black gram"
+   ],
+   "general_advisory": "If stored rice grain infestation occurs, take up fumigation by using Aluminium phosphide tablets @ of 3 tab / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gap. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation. Postpone the spraying insecticides, pesticides as it may wipe out due to rain. Spray insecticides or pesticides in crops mixing with sticker if necessary.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 1 1, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season. Seed rate for an acre of land is 20 kg for these varieties. Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3-gram /1 kg of seeds before sowing in the nursery"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Powdery mildew disease has been observed in black gram. Spray Sulphur 80 WP @ 800 gm in 200 litres of water per acre of land to control powdery mildew"
+         ]
+      }
+   },
+   "date": "20-12-2024"
 }

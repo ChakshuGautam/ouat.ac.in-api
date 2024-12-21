@@ -1,0 +1,131 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 89,
+         "rh_min": 42,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 70,
+         "rh_min": 34,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 64,
+         "rh_min": 29,
+         "wind_speed": 5,
+         "wind_direction": 356,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 56,
+         "rh_min": 25,
+         "wind_speed": 6,
+         "wind_direction": 357,
+         "cloud_cover": 1
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 55,
+         "rh_min": 24,
+         "wind_speed": 7,
+         "wind_direction": 354,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "chickpea",
+      "mustard and toria",
+      "linseed",
+      "cauliflower",
+      "brinjal",
+      "pumpkin",
+      "banana",
+      "papaya"
+   ],
+   "general_advisory": "Harvested paddy should be threshed in the clean floor. Spray pesticides during morning hours or evening hours to manage the pests. Keep a watch on disease and pests attack on the crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Complete the harvesting of paddy.",
+            "Harvested paddy to be kept at safe places.",
+            "The moisture should be reduced to 12-14%.",
+            "Remove the false smut-affected paddy panicles during harvesting and threshing process.",
+            "Carefully thresh the paddy. Remember to thresh the paddy in clean and disinfected threshing floor."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "If soil moisture is low, provide irrigation to the soil.",
+            "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
+            "Weeding from the field should be done regularly.",
+            "The wilted plants should be uprooted and disposed away from the field."
+         ]
+      },
+      "mustard and toria": {
+         "advisory": [
+            "Maintain the spacing of 30 cm row to row and 10 cm plant to plant in the field.",
+            "After sowing, provide irrigation to the crops for better and early germination.",
+            "Remove weeds from the field.",
+            "Spray Imidacloprid 17.8 SL @ 1 ml/lt to manage aphids and whitefly infestation."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "Complete the sowing of linseed in line sowing.",
+            "One irrigation is required after the sowing.",
+            "Make sure to maintain the spacing and plant population."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Remove any weeds from the root zone.",
+            "Cauliflower borer can be managed by manually destroying the borers.",
+            "In case of heavy infestation, spray Cartap hydrochloride @ 6 g/15 lts."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Fruit and shoot borer infestation can be reduced by spraying Emamectin benzoate 5% SG @ 4g/10 lt.",
+            "Harvest the fruits and keep them at safe places."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Remove the leaf blight-affected leaves and damaged twigs.",
+            "Harvest the matured fruit and keep them at safe places."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "If the banana bunch is broken and fruits are not matured yet, spray ethrel/ethylene for rapid ripening.",
+            "For managing aphids, spray Imidacloprid @ 1 ml/lt."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Papaya ring spot virus can be managed by spraying Malathion or Imidacloprid @ 1ml/lt."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

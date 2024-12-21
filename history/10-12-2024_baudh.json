@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 36,
+         "wind_speed": 2,
+         "wind_direction": 259,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 30,
+         "wind_speed": 1,
+         "wind_direction": 162,
+         "cloud_cover": 2
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 25,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 1
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 65,
+         "rh_min": 20,
+         "wind_speed": 1,
+         "wind_direction": 214,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram/black gram",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "According to medium range weather forecast, there is no chance of rainfall in the upcoming week. Farmers are advised to harvest matured crops, complete sowing of Rabi crops, conduct spraying operations, deworm and vaccinate animals, and protect livestock from cold. Proper ventilation and insulation are essential for poultry.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "There is no rainfall expected, so conduct harvesting operations and store the harvested paddy crop in safe places.",
+            "Dry rice in the field for 2-3 days after harvesting and thresh at a moisture level of 12%."
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "Complete sowing of green gram/black gram in the upcoming week.",
+            "Treat seeds with carbendazim and imidacloprid before sowing, use specified varieties, and maintain appropriate seed rate and spacing."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Use improved varieties for sowing, treat seeds before sowing, ensure bacteria or phospho culture treatment, and conduct seedling gap filling if necessary."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use polythene or straw for mulching during planting, monitor against Diamond back moth, and spray neem oil or Emamectin Benzoate if needed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold, provide clean drinking water, vaccination, and deworming to control diseases and worms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation, use external heat sources, maintain suitable drinking water temperature."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

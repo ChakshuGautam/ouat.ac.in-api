@@ -1,0 +1,132 @@
+{
+   "weather_details": {
+      "2024-12-10": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 86,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 348,
+         "cloud_cover": 3
+      },
+      "2024-12-11": {
+         "rainfall": 0,
+         "t_max": 24,
+         "t_min": 13,
+         "rh_max": 68,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 1
+      },
+      "2024-12-12": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 12,
+         "rh_max": 63,
+         "rh_min": 28,
+         "wind_speed": 4,
+         "wind_direction": 345,
+         "cloud_cover": 0
+      },
+      "2024-12-13": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 12,
+         "rh_max": 55,
+         "rh_min": 25,
+         "wind_speed": 5,
+         "wind_direction": 352,
+         "cloud_cover": 1
+      },
+      "2024-12-14": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 11,
+         "rh_max": 55,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 349,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "mustard",
+      "green gram",
+      "amaranth",
+      "sunflower",
+      "cauliflower",
+      "onion",
+      "tomato",
+      "brinjal",
+      "marigold",
+      "garden pea",
+      "pumpkin"
+   ],
+   "general_advisory": "If harvesting of paddy is completed then its should be collected and stored in a safer place. Make facility for drainage in the field. If the wilt disease incidence seen in early transplanted vegetable crops than drench the soil and root zone with mixture of Streptocycline @ 1.5 gram and Copper Oxychloride 25-gram by mixing it in 10-litre of water. Dry the rain affected harvested paddy under sun for better storage. Drain out the water from paddy field, 15 days before harvesting of the crop. Harvest the rice crop at physiological maturity (85% grains matured in a panicle) and looks pale yellow in colour. Harvest the crop by leaving one metre from the bund if grain is to be kept for seed purpose. Keep the harvested products in safe place.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Harvest the paddy if 85% of grains are matured. Keep the harvested products in safe place. Make provision for draining out rain water in standing rice crop by making alleys (Pahi) and keep the drain ends open. Do not leave harvested paddy in field. If paddy is lodged then it should be tied together in standing condition in the field."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Optimum time for sowing of Rabi mustard has come, use varieties like T-9, PT-303, Nirmal black gold, uttra and 3-5 kg of seed for line sowing. Use 3 gram of Captan or Thiram per 1 kg of seed. Give spacing of 20*10 cm in late varieties and 30*10 cm in early sown varieties."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Treat the seeds with Carbendazim 50% WP @ 2-gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing. Before sowing, treat the seeds with Rhizobium culture @ 20-gram/ kg of seeds. Apply 2 ton of FYM or Compost at the time of last ploughing along with 35 kg DAP , 13 kg MOP , 4 kg of Urea per acre as basal fertilizer ."
+         ]
+      },
+      "amaranth": {
+         "advisory": [
+            "October to March is suitable for greens amaranth. Amaranth are of two types- White or Red. Use 3 kg seeds/acre. Layout 5 ft long beds of 4 ft wide with bunds. Pulverise the beds, remove the weeds and apply 1 to 2 baskets of FYM/ bed. Because of small size seeds, mix some coarse sands with the seeds for easy and uniform sowing. After sowing cover the seeds with thin layer of soil and cover it with straw followed by light irrigation. Remove the straw after emergence."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Sunflower is a profitable rabi oilseed crop. Now the time is optimum for sowing of sunflower . Grow high yielding varieties like Morden, Sunrise, Surya and Hybrid varieties like KBSH-1, KBSH-3 and MSFH. Use 4 kg seeds/acre for high yielding varieties for rainfed condition, 3.5 kg for irrigated condition, 2-2.5 kg seeds/acre for hybrid varieties under rainfed condition and 1.5-2 kg seeds for irrigated condition. Before sowing treat the seeds with 2 g Carbendazim/kg seeds. To protect the crop from fungal wilt, treat the seeds with 4 g Trichoderma/kg. Soak the seeds for 10-12 hours for batter germination. Use 600 g PSB culture per acre after draining out the water . Apply 2 ton FYM along with 8:16:12 kg NPK per acre for high yielding varieties and double of it for hybrid varieities before sowing. Sow the seeds 30 cm apart maintaining a row spacing of 45 cm for loamy soil and 60 cm for clayey soil."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply 25-kg of Urea per acre after hoeing and hand weeding at 15-20 DA T and 25 kg of urea and 25-kg of MOP  per acre as last top-dressing fertilizer at 30-35 DA T. If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Varieties like Agrifound light Red, Agrifound Dark Red, Bhima Shakti, Bhima Super , Arka Niketan etc are suitable for our Odisha condition during winter season. For one acre of Onion cultivation 4-Kg of seeds require to raise the nursery . Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2-gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds. To prevent Damping of f disease in nursery , drench the nursery bed with Carbendazim @ 2-gram/litre of water at 15 days interval. Seedlings of 8-weeks old are planted in the main field."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "For tomato apply 30-kg of urea and 20-kg of Murate of potash after hoeing and hand weeding at 20-25 DA T and rest 30 kg of urea at 40-45 DA T. For better yield spray mixture of micronutrient @ 3-gram/litre two to three times at 10-15 days interval after 45 DA T."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control Phomopsis Blight disease in Brinjal spray Metalaxyl 8%+ Mancozeb 64 % WP @ 400 gram/acre or Propineb 70 % WP @ 400- gram/acre."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57 % EC (Omite/Mitekill/Super Dynamite) @ 2-ml/litre of water or Fenpyroximate 5 % EC (Seagate/Mitigate/Formite) @ 2-ml/litre of water ."
+         ]
+      },
+      "garden pea": {
+         "advisory": [
+            "Now it is optimum time for sowing of green pea in the fallow uplands. High Yielding varieties suitable for Odisha such as Rachana, Arkel and T -163 Use 25-30 kg seeds/acre. Before sowing seeds are to be treated with 2 g Carbendazim/kg seeds. Apply 10:16:10 kg NPK/acre during final land preparation. Sow the seeds in line 30 cm apart with 10 cm plant to plant distance."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400- gram Jaggery and 8-ml Malathion or DDVP  in 4-litre of water . Keep this mixture in Plastic cups or clay pots @80-nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

@@ -1,0 +1,131 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 86,
+         "rh_min": 40,
+         "wind_speed": 5,
+         "wind_direction": 61,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 82,
+         "rh_min": 37,
+         "wind_speed": 3,
+         "wind_direction": 76,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 82,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 74,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 76,
+         "cloud_cover": 1
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 74,
+         "rh_min": 24,
+         "wind_speed": 3,
+         "wind_direction": 72,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "groundnut",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "okra",
+      "cow",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop, go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all crops as per soil test based recommendations mentioned in the soil health card. Farmers are advised to repair the goat house before commencement of winter season due to high chance of mortality among kids. Make necessary arrangements to provide heat, especially to chicks during night hours to reduce the mortality rate. Keep poultry house clean and clamp free.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Continuing harvesting of kharif paddy. Harvest and process different varieties separately without mixing for better price. Dry paddy properly before storage.",
+            "Do not burn residue of kharif paddy in fields. Mix residue in soil to increase fertility and use as mulching for conserving soil moisture.",
+            "If 'Rodent/Rats' problem is noticed, locate and place Aluminium Phosphide 6% tablet per burrow to kill rodents."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Follow recommended control measures for prevailing pest attacks like Pod borer and Pod sucking bug.",
+            "To control pod borer, apply Benfuracarb, Deltamethrin, Spinosad, or Flubendiamide mixed with water as per instructions."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Oxyflourfen 23.5% EC for weed management.",
+            "Apply Imazethapyr 10% SL as post emergence herbicide."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Apply Oxadiargyl 6% EC as pre-emergence or Quizalofop-ethyl 5% EC as post-emergence for weed management."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticides to control Dimond back moth and Tobacco leaf eating caterpillar."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticides to control Dimond back moth and Tobacco leaf eating caterpillar."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticides to control Dimond back moth and Tobacco leaf eating caterpillar."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control aphid infestation, spray Buprofezin, Acephate, or Thiamethoxam as per instructions.",
+            "To control fruit borer, spray neem-based pesticide and later stages spray Spinosad."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide sufficient green grass and concentrate mix for lactating animals."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Repair the goat house before winter season due to high chance of mortality among kids."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements for heat supply, especially to chicks during night hours. Keep poultry house clean and clamp free."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

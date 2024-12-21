@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 30,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 70,
+         "rh_min": 28,
+         "wind_speed": 4,
+         "wind_direction": 31,
+         "cloud_cover": 1
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 66,
+         "rh_min": 24,
+         "wind_speed": 4,
+         "wind_direction": 34,
+         "cloud_cover": 1
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 57,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 30,
+         "cloud_cover": 0
+      },
+      "15/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 54,
+         "rh_min": 18,
+         "wind_speed": 5,
+         "wind_direction": 30,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rabi paddy",
+      "wheat",
+      "groundnut",
+      "potato",
+      "mustard",
+      "pulses",
+      "onion",
+      "animal",
+      "pisciculture"
+   ],
+   "general_advisory": "Due to forecast no rainfall, harvest all matured crops & Keep provision of critical irrigation for rabi crops. Choose always medium to short duration varieties in rabi paddy. Before sowing the field bund and field should be clean.",
+   "crops_data": {
+      "rabi paddy": {
+         "advisory": [
+            "Nursery stage - The good varieties are MTU 1156, MTU 1153. Prepare the nursery in 10 decimal for one acre."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Growth stage - 21 days after germination, apply 6-8 kg Nitrogen/acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Growth stage - At 3-4 week stage of groundnut, go for inter cultivation, after that do not disturb the soil specially at peg formation stage. Apply 50 kg Gypsum per acre leaving 5 cm from the row."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Growth stage - After intercultivation apply balance half nitrogen i.e. 30 kg/acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Growth stage - Due to weather there may be powdery mildew attack, to manage this spray sulfur powder @ 1kg in 200 liters of water."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Sowing stage - Sow the pulses to avoid effect of decreasing temperature."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Nursery/Sowing stage - Keep the nursery weed free by uprooting the weeds for healthy seedlings."
+         ]
+      },
+      "animal": {
+         "advisory": [
+            "The animals are to be vaccinated in consultation of line departments."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Due to weather reduce the feed quantity as there is reduction of metabolic activity."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

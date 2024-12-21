@@ -1,110 +1,102 @@
 {
    "weather_details": {
-      "11/12/2024": {
-         "rainfall": 0,
+      "21/12/2024": {
+         "rainfall": 5,
          "t_max": 28,
          "t_min": 17,
-         "rh_max": 88,
-         "rh_min": 37,
-         "wind_speed": 4,
-         "wind_direction": 6,
-         "cloud_cover": 3
+         "rh_max": 89,
+         "rh_min": 57,
+         "wind_speed": 3,
+         "wind_direction": 27,
+         "cloud_cover": 6
       },
-      "12/12/2024": {
-         "rainfall": 0,
+      "22/12/2024": {
+         "rainfall": 2,
          "t_max": 28,
          "t_min": 17,
-         "rh_max": 74,
-         "rh_min": 32,
+         "rh_max": 84,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "23/12/2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 31,
          "wind_speed": 3,
          "wind_direction": 6,
-         "cloud_cover": 2
+         "cloud_cover": 5
       },
-      "13/12/2024": {
+      "24/12/2024": {
          "rainfall": 0,
-         "t_max": 28,
+         "t_max": 29,
          "t_min": 16,
-         "rh_max": 72,
-         "rh_min": 27,
-         "wind_speed": 4,
-         "wind_direction": 349,
+         "rh_max": 73,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 40,
+         "cloud_cover": 4
+      },
+      "25/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 66,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 37,
          "cloud_cover": 1
-      },
-      "14/12/2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 63,
-         "rh_min": 23,
-         "wind_speed": 4,
-         "wind_direction": 351,
-         "cloud_cover": 0
-      },
-      "15/12/2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 61,
-         "rh_min": 22,
-         "wind_speed": 5,
-         "wind_direction": 356,
-         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "rabi paddy",
       "wheat",
-      "groundnut",
-      "potato",
-      "mustard",
       "pulses",
-      "animal husbandry",
-      "pisciculture"
+      "potato",
+      "mustard (toria)",
+      "chilli",
+      "onion"
    ],
-   "general_advisory": "Due to forecast no rainfall, harvest all matured crops & Keep provision of critical irrigation for rabi crops. Choose always medium to short duration varieties in rabi paddy. Before sowing the field bund and field should be clean.",
+   "general_advisory": "Due to forecast of cloudy & rainy weather, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather, there is a chance of powdery mildew in various crops, to manage spray sulphur powder. Contact the Met. Centre for more information.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "The good varieties are MTU 1156, MTU 1153.",
-            "Prepare the nursery in 10 decimal for one acre."
+            "Provide irrigation to the nursery. Survey for any insect and pest. Apply 2% Urea solution at 15 days old seedling."
          ]
       },
       "wheat": {
          "advisory": [
-            "21 days after germination, apply 6 -8 kg Nitrogen/acre."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "At 3-4 week stage of groundnut, go for inter Gramin Krishi Mausam Sewa India cultivation, after that do not disturb the soil specially at peg formation stage.",
-            "Apply 50 kg Gypsum per acre leaving 5 cm from the row."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "After intercultivation apply balance half nitrogen i.e 30 kg/acre."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Due to weather there may be powdery mildew attack, to manage this spray sulfur powder @ 1kg in 200 liters of water."
+            "Due to weather there is a chance of stem borer Gramin Krishi Mausam Sewa India Meteorological Department. Attack, to manage spray Triazophos at 2 ml per liter of water."
          ]
       },
       "pulses": {
          "advisory": [
-            "Sow the pulses to avoid effect of decreasing temperature."
+            "Due to cloudy forecast, chances of powdery mildew attack may be there, spray Sulphur powder at 1 kg per 200 liters of water."
          ]
       },
-      "animal husbandry": {
+      "potato": {
          "advisory": [
-            "The animals are to be vaccinated in consultation of line departments."
+            "Due to forecast of cloudy weather, there are chances leaf Blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P at 400 g/acre."
          ]
       },
-      "pisciculture": {
+      "mustard (toria)": {
          "advisory": [
-            "Due to weather there will be deficit in oxygen, to manage stir the water from one corner to maintain the oxygen level."
+            "Due to forecast of cloudy weather, there are chances of leaf spot disease, to manage this spray Carbendazim 12% + Mancozeb 63% W.P at 400 g/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control the sucking pest, spray Thiomathaxam at 0.4 g per liter of water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Sow the seedling when it is 15 cm high. Provide irrigation to the onion nursery."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

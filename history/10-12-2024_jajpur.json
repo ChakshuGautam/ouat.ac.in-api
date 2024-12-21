@@ -1,0 +1,105 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 82,
+         "rh_min": 41,
+         "wind_speed": 7,
+         "wind_direction": 20,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 17,
+         "rh_max": 66,
+         "rh_min": 29,
+         "wind_speed": 7,
+         "wind_direction": 11,
+         "cloud_cover": 2
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 62,
+         "rh_min": 25,
+         "wind_speed": 7,
+         "wind_direction": 6,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 54,
+         "rh_min": 23,
+         "wind_speed": 7,
+         "wind_direction": 9,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 53,
+         "rh_min": 20,
+         "wind_speed": 7,
+         "wind_direction": 3,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "rapeseed and mustard",
+      "vegetables",
+      "fruit",
+      "livestock",
+      "pisciculture"
+   ],
+   "general_advisory": "Sowing of rabi crops like mustard/toria, sunflower should not be delayed to get maximum yield. Due to cloudy & foggy weather check regularly for any disease and pest attack in crops & vegetables. Provide necessary irrigation to standing crops & vegetables.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Remove the false smut affected paddy panicles during harvesting and threshing process.",
+            "Make the threshing floor and storage ground clean and disinfectant the same.",
+            "Grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Clean the storage go down properly and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/l to minimize the chance of future infestation of storage pest."
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Check for diseases & other pests in mustard due to foggy weather.",
+            "Provide irrigation to the crop if necessary.",
+            "50%N and all P2O5 and K2O fertilizers should be applied as basal.",
+            "Application of Bentonite Sulphur @30kg/ha for increasing the oil content. Otherwise select Grommer (20:20:0:13) and MOP as a source of N,P,K & S."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Select high yielding and mosaic disease resistant varieties of legume vegetables like French bean & cowpea and complete transplanting as early as possible.",
+            "In cucurbit crops there may be chances of infestation of Tobacco caterpillar & cabbage Webber, to prevent this, apply flubendiamide @ 70 ml per acre with 200 liters of water."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
+            "Alternate spraying of Neem oil formulation 1500ppm @3ml/l of water and flonicamid 50WG @0.3g/l to control whitefly.",
+            "Avoid Growing of crops like – Okra, Cowpea in the near vicinity of papaya crops."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "As the winter is in the starting phase, there is a possibility of 'EUS' disease in fish. Farmers are advised to apply 'Cifax' @ 400 ml mixed with 40 liters of water in one acre pond area as a preventive measure."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

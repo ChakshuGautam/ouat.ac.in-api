@@ -1,104 +1,108 @@
 {
    "weather_details": {
-      "11-12-2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 18,
-         "rh_max": 71,
-         "rh_min": 32,
-         "wind_speed": 5,
-         "wind_direction": 4,
-         "cloud_cover": 4
-      },
-      "12-12-2024": {
-         "rainfall": 0,
-         "t_max": 30,
+      "21-12-2024": {
+         "rainfall": 6,
+         "t_max": 29,
          "t_min": 17,
-         "rh_max": 68,
+         "rh_max": 88,
+         "rh_min": 52,
+         "wind_speed": 6,
+         "wind_direction": 47,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 41,
+         "wind_speed": 6,
+         "wind_direction": 48,
+         "cloud_cover": 5
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 30,
+         "wind_speed": 6,
+         "wind_direction": 40,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 69,
          "rh_min": 29,
-         "wind_speed": 4,
-         "wind_direction": 17,
-         "cloud_cover": 1
-      },
-      "13-12-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 66,
-         "rh_min": 26,
-         "wind_speed": 4,
-         "wind_direction": 11,
-         "cloud_cover": 1
-      },
-      "14-12-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 61,
-         "rh_min": 22,
-         "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 0
-      },
-      "15-12-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 59,
-         "rh_min": 20,
          "wind_speed": 5,
-         "wind_direction": 4,
-         "cloud_cover": 0
+         "wind_direction": 56,
+         "cloud_cover": 3
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 66,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 49,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "rice",
-      "cotton",
-      "green gram",
-      "black gram",
+      "kharif rice",
+      "green gram/black gram",
       "ground nut",
-      "cole crop"
+      "cole crop",
+      "livestock",
+      "poultry"
    ],
-   "general_advisory": "According to the dry weather condition in the upcoming days, farmers are advised to harvest their matured crops and conduct spraying operations. Also, complete the sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram, and start land preparation for nursery sowing of Rabi Paddy.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Make provision to take proper care of crops and animals to protect them from cold. Complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram and start nursery sowing of Summer Paddy where irrigation facilities are available.",
    "crops_data": {
-      "rice": {
+      "kharif rice": {
          "advisory": [
-            "There is no rainfall expected in the upcoming days, so farmers are advised to conduct harvesting operations and store the harvested paddy crop safely.",
-            "Monitor the False Smut disease in late maturing rice varieties and spray with Copper hydroxide or Tebuconazole when infestation is noticed."
+            "There is some rainfall event expected in the first half of upcoming days, so farmers are advised to wait for harvesting operations and store the harvested paddy crop properly to avoid damage."
          ]
       },
-      "cotton": {
+      "green gram/black gram": {
          "advisory": [
-            "Dry weather is expected in the upcoming week, so picking matured bolls should be advised and drying the seed cotton to reduce moisture."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Complete sowing of green gram/black gram in the upcoming week.",
-            "Treat seeds before sowing with carbendazim and imidacloprid, mix with Rizobium culture, sodium molybdate, and sow with the specified seed rate and spacing.",
-            "Varieties: Kamadeva, Durga, IPM 02-3, IPM 02-14, TARM1."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Complete sowing of green gram/black gram in the upcoming week.",
-            "Treat seeds before sowing with carbendazim and imidacloprid, mix with Rizobium culture, sodium molybdate, and sow with the specified seed rate and spacing.",
-            "Varieties: Prasada, Usala, PU 31, IPU2-43, Mahuri."
+            "Seed treatment with carbendazim and imidacloprid is recommended before sowing.",
+            "Seed should be sown with a spacing of 30cm x 10cm.",
+            "Recommended varieties include Kamadeva, Durga, IPM 02-3 for Green Gram and Prasada, Usala, PU 31 for Black Gram.",
+            "Avoid irrigation for some days due to expected rainfall."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Use improved Groundnut varieties for sowing.",
-            "Ensure seed treatment before sowing and treat with bacteria or phospho culture.",
-            "Conduct gap filling for seedlings that have not emerged."
+            "Use improved Groundnut varieties like TAG-24, JL-24, Girnar-3 for sowing.",
+            "Ensure seed treatment before sowing and treat with bacteria or phospho culture after 7 days.",
+            "Conduct gap filling for 10-day-old seedlings.",
+            "Regular monitoring against insect attack is advised."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Use polythene or straw as mulching material during planting to maintain moisture and soil temperature.",
-            "Monitor against Diamond back moth in cauliflower and spray neem oil or Emamectin Benzoate if attack is observed."
+            "Use straw as mulching material to maintain soil moisture and temperature.",
+            "Regular monitoring against Diamond back moth attack is important.",
+            "Spraying of neem oil or Emamectin Benzoate is advised after rain if attack is observed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold by using jute bag as cover and straw as bedding material.",
+            "Provide clean drinking water and keep sheds clean to prevent diseases.",
+            "Vaccination and deworming are important to control diseases."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry sheds.",
+            "Use external heat sources to keep sheds warm and dry.",
+            "Maintain drinking water at suitable temperature."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

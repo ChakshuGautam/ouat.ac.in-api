@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 71,
+         "rh_min": 32,
+         "wind_speed": 5,
+         "wind_direction": 4,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 68,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 17,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 66,
+         "rh_min": 26,
+         "wind_speed": 4,
+         "wind_direction": 11,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 61,
+         "rh_min": 22,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 59,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 4,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "green gram",
+      "black gram",
+      "ground nut",
+      "cole crop"
+   ],
+   "general_advisory": "According to the dry weather condition in the upcoming days, farmers are advised to harvest their matured crops and conduct spraying operations. Also, complete the sowing of Rabi crops like Mustard, Chickpea, Groundnut, Green gram/Black Gram, and start land preparation for nursery sowing of Rabi Paddy.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "There is no rainfall expected in the upcoming days, so farmers are advised to conduct harvesting operations and store the harvested paddy crop safely.",
+            "Monitor the False Smut disease in late maturing rice varieties and spray with Copper hydroxide or Tebuconazole when infestation is noticed."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Dry weather is expected in the upcoming week, so picking matured bolls should be advised and drying the seed cotton to reduce moisture."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Complete sowing of green gram/black gram in the upcoming week.",
+            "Treat seeds before sowing with carbendazim and imidacloprid, mix with Rizobium culture, sodium molybdate, and sow with the specified seed rate and spacing.",
+            "Varieties: Kamadeva, Durga, IPM 02-3, IPM 02-14, TARM1."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Complete sowing of green gram/black gram in the upcoming week.",
+            "Treat seeds before sowing with carbendazim and imidacloprid, mix with Rizobium culture, sodium molybdate, and sow with the specified seed rate and spacing.",
+            "Varieties: Prasada, Usala, PU 31, IPU2-43, Mahuri."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Use improved Groundnut varieties for sowing.",
+            "Ensure seed treatment before sowing and treat with bacteria or phospho culture.",
+            "Conduct gap filling for seedlings that have not emerged."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use polythene or straw as mulching material during planting to maintain moisture and soil temperature.",
+            "Monitor against Diamond back moth in cauliflower and spray neem oil or Emamectin Benzoate if attack is observed."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

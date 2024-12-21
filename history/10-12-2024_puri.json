@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 77,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 33,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 67,
+         "rh_min": 33,
+         "wind_speed": 15,
+         "wind_direction": 28,
+         "cloud_cover": 2
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 61,
+         "rh_min": 28,
+         "wind_speed": 27,
+         "wind_direction": 21,
+         "cloud_cover": 1
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 54,
+         "rh_min": 27,
+         "wind_speed": 13,
+         "wind_direction": 15,
+         "cloud_cover": 24
+      },
+      "15/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 53,
+         "rh_min": 25,
+         "wind_speed": 13,
+         "wind_direction": 15,
+         "cloud_cover": 24
+      }
+   },
+   "names_of_crops": [
+      "potato",
+      "tomato",
+      "brinjal",
+      "fisheries"
+   ],
+   "general_advisory": "Monitor crops and vegetables for pests and diseases. Transplant winter vegetables carefully. Harvest sugarcane properly.",
+   "crops_data": {
+      "potato": {
+         "advisory": [
+            "Go for hoeing and hand weeding.",
+            "Ridges should be high to cover tubers.",
+            "Irrigate every 7-8 days."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Be wary of late blight.",
+            "Control aphids and caterpillars.",
+            "Avoid excess nitrogen and close spacing."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control fruit and shoot borers.",
+            "Install blue sticky traps for thrips.",
+            "Apply profenophos for mealy bugs."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "Apply Cifax as a preventive measure for EUS disease.",
+            "Feed fishes with oil cake bran mixture daily."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

@@ -1,0 +1,62 @@
+{
+   "weather_details": {
+      "10.12.2024": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "mustard",
+      "garlic",
+      "chilli",
+      "potato",
+      "cauliflower",
+      "marigold"
+   ],
+   "general_advisory": "It is advised to monitor the pest population in crops regularly and take necessary actions as mentioned in the advisory for each crop.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Due to present cloudy weather, the population of Aphids may rise in Groundnut crop. To manage these pests at an early stage of infestation, spray neem-based pesticide (Neem Oil 15,000 PPM) @ 600 ml/acre by mixing in 200 liters of water. Use yellow sticky trap @ 8/acre. To manage these pests chemically, spray Thiamethoxam 25% WG @ 40g/acre or Emamectin Benzoate 5% SG @ 80 g/acre or Spinosad 45% SC @ 75 ml/acre by mixing in 200 liters of water."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "There will be chances of Sawfly infestation in Mustard crop. To manage this pest, irrigation should be done in the seedling stage (3-4 weeks) and manually collect and destroy grubs of sawfly in morning and evening hours. To manage Mustard sawfly, spray Ethofenprox 10% EC @ 200 ml/acre or Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre by mixing it in 200 liters of water."
+         ]
+      },
+      "garlic": {
+         "advisory": [
+            "Currently is the perfect time for planting garlic. Some varieties of Garlic include Agrifound white, Jamuna Safed (G-1), G-282, Agrifound Parvati (G-323) etc. In Garlic, 200-300 Kg cloves per acre is required for cultivation. Garlic cloves should be treated with Carbendazim @ 2 g per kg of seeds. A spacing of 15 cm between the rows and 8 cm within the rows is optimum for Garlic."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage aphids at an early stage, put 8 number of yellow sticky traps per acre. If the infestation is severe, then spray chemical pesticide Thiamethoxam 25% WG @ 50-gram/acre or Acetamiprid 20% SP @ 50-gram/acre in 200 liters of water."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "There are chances of Early leaf Blight disease incidence in potato crop. To control early leaf blight in potato, spray Mancozeb 75% WP @600 g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400 g/acre."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply borax @ 4-kg/acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings, then spray Borax @ 2.5-gram/litre or Folibor/Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "To manage Leaf eating caterpillar pest biologically use Pheromone trap Spodolure @ 6/acre. Apply Bacillus thuringenesis @ 500 g/acre or Beauveria bassiana @ 500g/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 liters of water."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

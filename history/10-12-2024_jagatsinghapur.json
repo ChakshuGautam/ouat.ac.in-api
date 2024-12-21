@@ -1,0 +1,85 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 76,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 25,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 66,
+         "rh_min": 32,
+         "wind_speed": 14,
+         "wind_direction": 18,
+         "cloud_cover": 2
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 28,
+         "rh_max": 54,
+         "rh_min": 26,
+         "wind_speed": 14,
+         "wind_direction": 14,
+         "cloud_cover": 1
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 52,
+         "rh_min": 24,
+         "wind_speed": 15,
+         "wind_direction": 18,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "pulses",
+      "oilseeds",
+      "vegetables",
+      "sugarcane",
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold"
+   ],
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There will be chances of infestation of sucking pests, leaf blight, powdery mildew in the rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. Harvest the mature sugarcanes below one inch of ground level for a successful ratoon crop.",
+   "crops_data": {
+      "PADDY": {
+         "advisory": [
+            "Post-harvesting stage. Rodent - Place Aluminium Phosphide with mud to kill rodents."
+         ]
+      },
+      "POTATO": {
+         "advisory": [
+            "Vegetative stage. Hoeing and hand weeding. High ridges for tubers. Irrigate properly."
+         ]
+      },
+      "TOMATO": {
+         "advisory": [
+            "Vegetative stage. Late blight - spray Metalaxyl + Mancozeb to avoid infection."
+         ]
+      },
+      "BRINJAL": {
+         "advisory": [
+            "Vegetative to fruit formation stage. Fruit and shoot borer - Spray Neem-based pesticide. Alternate spray of Spinosad."
+         ]
+      },
+      "MARIGOLD": {
+         "advisory": [
+            "Vegetative to flowering. Thrips - Install Blue sticky traps or apply Fipronil 5% SC. Mealy bug - Apply Profenophos 50% EC."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

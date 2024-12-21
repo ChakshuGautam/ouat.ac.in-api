@@ -1,131 +1,136 @@
 {
    "weather_details": {
-      "11-12-2024": {
-         "rainfall": 0,
-         "t_max": 27,
+      "21-12-2024": {
+         "rainfall": 8,
+         "t_max": 25,
          "t_min": 16,
-         "rh_max": 89,
-         "rh_min": 42,
+         "rh_max": 84,
+         "rh_min": 55,
          "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 4
+         "wind_direction": 27,
+         "cloud_cover": 7
       },
-      "12-12-2024": {
-         "rainfall": 0,
-         "t_max": 27,
+      "22-12-2024": {
+         "rainfall": 5,
+         "t_max": 25,
          "t_min": 16,
-         "rh_max": 70,
-         "rh_min": 34,
+         "rh_max": 79,
+         "rh_min": 45,
          "wind_speed": 5,
          "wind_direction": 90,
-         "cloud_cover": 1
+         "cloud_cover": 6
       },
-      "13-12-2024": {
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 73,
+         "rh_min": 33,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "24-12-2024": {
          "rainfall": 0,
-         "t_max": 27,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 6,
+         "cloud_cover": 4
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
          "t_min": 15,
          "rh_max": 64,
          "rh_min": 29,
-         "wind_speed": 5,
-         "wind_direction": 356,
-         "cloud_cover": 0
-      },
-      "14-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 14,
-         "rh_max": 56,
-         "rh_min": 25,
-         "wind_speed": 6,
-         "wind_direction": 357,
+         "wind_speed": 2,
+         "wind_direction": 334,
          "cloud_cover": 1
-      },
-      "15-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 14,
-         "rh_max": 55,
-         "rh_min": 24,
-         "wind_speed": 7,
-         "wind_direction": 354,
-         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
-      "chickpea",
       "mustard and toria",
+      "chickpea",
       "linseed",
+      "tomato",
       "cauliflower",
-      "brinjal",
-      "pumpkin",
-      "banana",
-      "papaya"
+      "marigold",
+      "rose",
+      "banana"
    ],
-   "general_advisory": "Harvested paddy should be threshed in the clean floor. Spray pesticides during morning hours or evening hours to manage the pests. Keep a watch on disease and pests attack on the crops.",
+   "general_advisory": "Hold the irrigation for next few days as rainfall is expected. Make drainage to remove excess water from the field. Make arrangement to store rainwater for further use in irrigation. Harvest the paddy as soon as possible. Postpone the spraying activities for few days.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Complete the harvesting of paddy.",
-            "Harvested paddy to be kept at safe places.",
-            "The moisture should be reduced to 12-14%.",
-            "Remove the false smut-affected paddy panicles during harvesting and threshing process.",
-            "Carefully thresh the paddy. Remember to thresh the paddy in clean and disinfected threshing floor."
-         ]
-      },
-      "chickpea": {
-         "advisory": [
-            "If soil moisture is low, provide irrigation to the soil.",
-            "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
-            "Weeding from the field should be done regularly.",
-            "The wilted plants should be uprooted and disposed away from the field."
+            "Harvest the paddy as early as possible.",
+            "Keep the harvested ones at safe and dry places.",
+            "If harvesting cannot be completed before the rain occurs, leave it to dry under the sun for a few more days."
          ]
       },
       "mustard and toria": {
          "advisory": [
-            "Maintain the spacing of 30 cm row to row and 10 cm plant to plant in the field.",
-            "After sowing, provide irrigation to the crops for better and early germination.",
-            "Remove weeds from the field.",
-            "Spray Imidacloprid 17.8 SL @ 1 ml/lt to manage aphids and whitefly infestation."
+            "Postpone spraying activities for the next few days.",
+            "Maintain plant population by thinning the plants.",
+            "Make drainage to remove excess water from the field in case of excess rainfall."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Provide smoke to the crops to reduce chilling injury.",
+            "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
+            "Powdery mildew in chickpea may be seen in the near future. To manage the same, spray Dithane M-45 @ 2.5 g/lt.",
+            "Spraying should be done after the rainfall activity."
          ]
       },
       "linseed": {
          "advisory": [
-            "Complete the sowing of linseed in line sowing.",
-            "One irrigation is required after the sowing.",
-            "Make sure to maintain the spacing and plant population."
+            "Drain out excess water from the field if waterlogging condition prevails.",
+            "Protect the crop from cold waves.",
+            "Make sure to maintain the spacing and plant population.",
+            "Remove any weeds present within the crop.",
+            "Regularly keep a watch on the diseases."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Postpone irrigation till the next advisory.",
+            "Harvest the matured fruits.",
+            "Provide staking to the plants.",
+            "Fruit and shoot borer in tomato plants can be managed by spraying Flubendiamide 20 WG @ 2g/10lt or Emamectin benzoate 4% SG @ 4 g/10lt of water.",
+            "Remove weeds from the field."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Remove any weeds from the root zone.",
             "Cauliflower borer can be managed by manually destroying the borers.",
-            "In case of heavy infestation, spray Cartap hydrochloride @ 6 g/15 lts."
+            "In case of heavy infestation spray Cartap hydrochloride @ 6 g/15 lts.",
+            "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @ 4g/lt.",
+            "Spraying activities should be continued after 3-4 days."
          ]
       },
-      "brinjal": {
+      "marigold": {
          "advisory": [
-            "Fruit and shoot borer infestation can be reduced by spraying Emamectin benzoate 5% SG @ 4g/10 lt.",
-            "Harvest the fruits and keep them at safe places."
+            "Provide irrigation to the crops.",
+            "Pinching process should be done to encourage branching.",
+            "Powdery mildew disease can be controlled by spraying Wettable sulphur powder."
          ]
       },
-      "pumpkin": {
+      "rose": {
          "advisory": [
-            "Remove the leaf blight-affected leaves and damaged twigs.",
-            "Harvest the matured fruit and keep them at safe places."
+            "Pruning of rose plant is necessary to encourage new flushes of branches.",
+            "Mealy bug infestation may be seen in the plants. Keep a watch on it."
          ]
       },
       "banana": {
          "advisory": [
-            "If the banana bunch is broken and fruits are not matured yet, spray ethrel/ethylene for rapid ripening.",
-            "For managing aphids, spray Imidacloprid @ 1 ml/lt."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Papaya ring spot virus can be managed by spraying Malathion or Imidacloprid @ 1ml/lt."
+            "Provide support to the plant where banana bunch has emerged.",
+            "Cover the bunch with gunny bags to protect from the rain and monkeys."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

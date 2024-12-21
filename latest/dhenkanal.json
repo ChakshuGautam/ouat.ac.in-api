@@ -1,62 +1,64 @@
 {
    "weather_details": {
-      "10.12.2024": {
+      "20.12.2024": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 19,
-         "rh_max": 80,
-         "rh_min": 60,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 87,
+         "rh_min": 45,
          "wind_speed": 10,
          "wind_direction": 120,
-         "cloud_cover": 6
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "groundnut",
       "mustard",
+      "cucurbits",
+      "indian bean",
+      "spinach",
       "garlic",
-      "chilli",
       "potato",
-      "cauliflower",
-      "marigold"
+      "cauliflower"
    ],
-   "general_advisory": "It is advised to monitor the pest population in crops regularly and take necessary actions as mentioned in the advisory for each crop.",
+   "general_advisory": "Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, diarrhoea and even death in severe cases. Good ventilation must be ensured during winter.",
    "crops_data": {
-      "groundnut": {
-         "advisory": [
-            "Due to present cloudy weather, the population of Aphids may rise in Groundnut crop. To manage these pests at an early stage of infestation, spray neem-based pesticide (Neem Oil 15,000 PPM) @ 600 ml/acre by mixing in 200 liters of water. Use yellow sticky trap @ 8/acre. To manage these pests chemically, spray Thiamethoxam 25% WG @ 40g/acre or Emamectin Benzoate 5% SG @ 80 g/acre or Spinosad 45% SC @ 75 ml/acre by mixing in 200 liters of water."
-         ]
-      },
       "mustard": {
          "advisory": [
-            "There will be chances of Sawfly infestation in Mustard crop. To manage this pest, irrigation should be done in the seedling stage (3-4 weeks) and manually collect and destroy grubs of sawfly in morning and evening hours. To manage Mustard sawfly, spray Ethofenprox 10% EC @ 200 ml/acre or Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre by mixing it in 200 liters of water."
+            "There will be chances of Sawfly infestation in Must ard crop. To manage this pest, irrigation should be done in seed ling stage (3-4 weeks) because most of the larvae die due to drowni ng effect. Manually collect and destroy grubs of sawfly in mor ning and evening hours.",
+            "To manage Mustard sawfly spray Ethofenprox 10 % EC @ 200- ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "There will be increase infestation of downy mildew due to present low temperature and foggy condition. To control thi s disease in cucurbits, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl -AL 80 % WP @ 600 g/acre."
+         ]
+      },
+      "indian bean": {
+         "advisory": [
+            "To manage aphids at early stage, put 8 numbers of y ellow sticky traps per acre. Spray Neem based pesticide 15000 PP M @ 600ml/acre by mixing in 200litre of water. If the i nfestation is severe than spray chemical pesticide Thiamethoxam 2 5 % WG @ 50g/acre or Acetamiprid 20 % SP @ 50 g/acre in 200- liter of water."
+         ]
+      },
+      "spinach": {
+         "advisory": [
+            "Some varieties of Palak are Pusa Palak, All Green, Pusa Jyoti, Pusa Harit, Komal, Punjab Green. For cultivation of Pala k 10 12 kg seed is required per acre. Line sowing is done with a sp acing of 20 cm and 2-3 cm depth. Let's discuss about seed treatmen t and sowing time of Palak. Soak the seeds in water for 10-12 ho ur before sowing."
          ]
       },
       "garlic": {
          "advisory": [
-            "Currently is the perfect time for planting garlic. Some varieties of Garlic include Agrifound white, Jamuna Safed (G-1), G-282, Agrifound Parvati (G-323) etc. In Garlic, 200-300 Kg cloves per acre is required for cultivation. Garlic cloves should be treated with Carbendazim @ 2 g per kg of seeds. A spacing of 15 cm between the rows and 8 cm within the rows is optimum for Garlic."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "To manage aphids at an early stage, put 8 number of yellow sticky traps per acre. If the infestation is severe, then spray chemical pesticide Thiamethoxam 25% WG @ 50-gram/acre or Acetamiprid 20% SP @ 50-gram/acre in 200 liters of water."
+            "Currently it is the perfect time for planting garli c. Some varieties of Garlic include Agrifound white, Jamuna Safed (G-1), G-282, Agrifound Parvati (G-323) etc. In Garlic, 200-300 K g cloves per acre is required for Cultivation.",
+            "Garlic cloves should be treated with Carbendazim @ 2 g per kg of seeds. A spacing of 15 cm between the rows and 8 cm  within the rows is optimum for Garlic."
          ]
       },
       "potato": {
          "advisory": [
-            "There are chances of Early leaf Blight disease incidence in potato crop. To control early leaf blight in potato, spray Mancozeb 75% WP @600 g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400 g/acre."
+            "There are chances of Early leaf Blight disease inci dence in potato crop. To control early leaf blight in potato, spray  Mancozeb 75% WP @600 g /acre or Carbendazim 12% + Mancozeb 63% W .P @ 400 g /acre."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Apply borax @ 4-kg/acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings, then spray Borax @ 2.5-gram/litre or Folibor/Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "To manage Leaf eating caterpillar pest biologically use Pheromone trap Spodolure @ 6/acre. Apply Bacillus thuringenesis @ 500 g/acre or Beauveria bassiana @ 500g/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 liters of water."
+            "To manage Alternaria leaf spot disease in Cole crop s spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-l itre of water."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

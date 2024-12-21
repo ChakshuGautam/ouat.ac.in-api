@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 7,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 60,
+         "rh_min": 31,
+         "wind_speed": 9,
+         "wind_direction": 4,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 57,
+         "rh_min": 26,
+         "wind_speed": 9,
+         "wind_direction": 7,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 50,
+         "rh_min": 23,
+         "wind_speed": 11,
+         "wind_direction": 6,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 47,
+         "rh_min": 22,
+         "wind_speed": 11,
+         "wind_direction": 7,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "rapeseed and mustard",
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "cattle"
+   ],
+   "general_advisory": "Sowing of rabi crops like mustard/toria, sunflower should not be delayed to get maximum yield. Due to cloudy & foggy weather check regularly for any disease and pest attack in crops & vegetables. Provide necessary irrigation to standing crops & vegetables.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Remove the false smut affected paddy panicles during harvesting and threshing process.",
+            "Make the threshing floor and storage ground clean and disinfectant the same.",
+            "Grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Clean the storage Go down properly and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li of water to minimize the chance of future infestation of storage pest."
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Check for diseases & other pests in mustard due to foggy weather.",
+            "Provide irrigation to the crop if necessary.",
+            "50% N and all P2O5 and K2O fertilizers should be applied as basal.",
+            "Application of Bentonite Sulphur @30kg/ha for increasing the oil content. Otherwise select Grommer (20:20:0:13) and MOP as a source of N,P,K & S."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Select high yielding and mosaic disease resistant varieties of legume vegetables like French bean & cowpea and complete transplanting as early as possible.",
+            "In cucurbit crops there may be chances of infestation of Tobacco caterpillar & cabbage Webber, to prevent this, apply flubendiamide @ 70 ml per acre with 200 liters of water."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @ 3ml/lit of water and flonicamid 50WG @ 0.3g/lit re to control whitefly.",
+            "Avoid growing of crops like Okra, Cowpea in the near vicinity of papaya crops."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "As the winter is in the starting phase, there is a possibility of “EUS” disease in fish. Farmers are advised to apply „Cifax‟ @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

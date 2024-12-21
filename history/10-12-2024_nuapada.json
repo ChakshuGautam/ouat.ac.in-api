@@ -1,0 +1,162 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 70,
+         "rh_min": 32,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 3
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 342,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 65,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 334,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 57,
+         "rh_min": 24,
+         "wind_speed": 4,
+         "wind_direction": 338,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 56,
+         "rh_min": 23,
+         "wind_speed": 4,
+         "wind_direction": 336,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "greengram/blackgram",
+      "groundnut",
+      "mustard & toria",
+      "sunflower",
+      "onion",
+      "cauliflower & cabbage",
+      "tomato",
+      "rose",
+      "merigold",
+      "cattle & buffalo",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "In view of dry weather prediction during next five days, farmers are advised to resume harvesting of matured rice. Farmers are advised not to burn the residue of kharif paddy in the field. To prevent damage from fog, low temperature and moisture stress, provide light irrigation to standing crops & vegetables during morning hours. Cover the vegetable nursery with polythene to avoid poor germination due to low temperature. Farmers are advised to undertake intercultural operations in vegetables to remove the weed. Application of optimum dose of fertilizers is recommended followed by irrigation in timely sown vegetables.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Farmers are advised for, not to burn the residue of kharif paddy in the fields because it not only pollutes the environment but also causes severe health (respiratory) problems. Farmers are advised to mix the residue of paddy crop in the soil. It increases the soil fertility. It can be used as mulching for decreasing soil evaporation and to conserve soil moisture.",
+            "Rodent/Rats: If 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking should be done when there is complete bursting of bolls.",
+            "Dry the seed cotton on a concrete floor or tarpaulin sheets to reduce the moisture to 8 - 10%. Store the seed cotton obtained from the 1st picking separately for getting a better price.",
+            "Foliar spray of liquid fertilizers like NPK -19-19-19 should be done @ 20 g/10 liters of water for better plant growth and boll development",
+            "Regular monitoring of the crop to know about the incidence of any new pest and diseases.",
+            "Farmers are advised to sell their seed cotton in the nearby 'Mandi' to get MSP (Rs.7521/qt) for long staple cotton."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Prevailing weather conditions favour the following pest attack. So, recommended control measures should be followed as required.",
+            "Pod borer: To control, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
+            "Pod sucking bug and Aphid: To control, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Weed Management: Apply Pendimithalin 30% EC @ 1.20 liter/acre mixed with 200 liters of water at 1 -2 DAS."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Weed Management: Apply Oxyflourfen 23.5% EC @ 80ml/acre mixed with 200 liters of water at 2 -3 DAS.",
+            "Apply Imazethapyr 10% SL @ 3ml/ltr of water within 15 DAS as early post-emergence herbicide."
+         ]
+      },
+      "mustard & toria": {
+         "advisory": [
+            "Weed Management: Apply Quizalofop-ethyl 5% EC as post-emergence @ 2ml/liter of water at 15 -20 DAS.",
+            "Undertake intercultural operation like weeding and earthing up followed by fertilizer application (Urea @ 35-40kg/ac + MOP @ 10kg/ac) and irrigation at 3-week stage."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Undertake intercultural operation like weeding and earthing up followed by 1st top dressing (Urea @ 6 -10 kg/ac) and irrigation at 3 -week stage.",
+            "Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather conditions favour the development of sucking pests. Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Pest Management: Damping off: Application of Bavistin or Thiram @ 2g/liter of water is recommended in fifteen days interval as a preventive measure of damping off."
+         ]
+      },
+      "cauliflower & cabbage": {
+         "advisory": [
+            "Pest Management: Dimond back moth: Spray bio insecticide Azadiractin 0.03% (300 ppm) @ 5 ml/liter of water or Beauveria bassiana 5% WP @ 800 g/acre mixed with 200 liters of water. To control chemically, spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water.",
+            "Tobacco leaf-eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6 ml/5 ltr of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "In view of high humid condition, wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if a symptom is noticed."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Black spot: Prevailing weather condition is favorable for black spot disease. To control, spray Copper Oxychloride 50% WP @ 3 g/lit of water."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "Flower and bud rot: Flower and bud rot may occur in the prevailing weather condition. Spray Mancozeb 75% WP @ 2g/ltr of water as a control measure."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Farmers are requested to vaccinate their cattle & buffalo against FMD through NADCP. Farmers can increase milk production by controlling and preventing Foot and Mouth Disease (FMD).",
+            "Calves of 4 - 8 months of age should be vaccinated against Brucellosis."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Protect Goat from chill wind and damp floors."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

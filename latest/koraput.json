@@ -1,121 +1,149 @@
 {
    "weather_details": {
-      "11-12-2024": {
+      "21-12-2024": {
+         "rainfall": 7,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 96,
+         "rh_min": 61,
+         "wind_speed": 2,
+         "wind_direction": 72,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 3,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 6
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 73,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 86,
-         "rh_min": 43,
-         "wind_speed": 3,
-         "wind_direction": 27,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 84,
+         "rh_min": 38,
+         "wind_speed": 4,
+         "wind_direction": 107,
          "cloud_cover": 4
       },
-      "12-12-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 12,
-         "rh_max": 81,
-         "rh_min": 37,
+      "25-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 78,
+         "rh_min": 35,
          "wind_speed": 3,
-         "wind_direction": 63,
-         "cloud_cover": 1
-      },
-      "13-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 12,
-         "rh_max": 82,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 63,
-         "cloud_cover": 0
-      },
-      "14-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 12,
-         "rh_max": 70,
-         "rh_min": 29,
-         "wind_speed": 2,
-         "wind_direction": 51,
-         "cloud_cover": 0
-      },
-      "15-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 12,
-         "rh_max": 66,
-         "rh_min": 22,
-         "wind_speed": 3,
-         "wind_direction": 40,
-         "cloud_cover": 0
+         "wind_direction": 97,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
       "arhar",
       "groundnut",
+      "greengram",
+      "blackgram",
       "mustard",
       "cauliflower",
+      "cabbage",
+      "broccoli",
+      "brinjal",
+      "tomato",
       "okra",
-      "cow",
       "goat",
       "poultry"
    ],
-   "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
+   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card. Hold off on spraying of pesticides for the time being. Complete the impending rabi crop sowing to utilize anticipated rainfall.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Continuing harvesting of kharif paddy. Farmers are advised to harvest and process different varieties separately without mixing for better price. Before storing of paddy, it should be dried properly.",
-            "Farmers are advised for, not to burn the residue of kharif paddy in the fields because it not only pollutes the environment but also causes the severe health (respiratory) problems. Farmers are advised to mix the residue of paddy crop in the soil. It increases the soil fertility. It can be used as mulching for deceasing soil evaporation and to conserve soil moisture.",
-            "Rodent/Rats: If ‘Rodent/Rats’ problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud which will kill the rodents"
+            "Go for nursery raising of summer rice from Dec to 1st week of January. Early planting reduces stem borer attack.",
+            "Select certified 3-4 months duration HYV resistant to biotic stress like Khandagiri, Mandakini, Sahabhagi Dhan, MTU 1010, Sidhant, Lalat, CR Dhan 101etc.",
+            "Dip the seeds in the brine solution to discard the chaffs & half filled seeds."
          ]
       },
       "arhar": {
          "advisory": [
             "Prevailing weather condition favours the following pest attack. So, recommended control measures should be followed as required.",
-            "Pod borer: To control, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
-            "Pod sucking bug and Aphid: To control, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water"
+            "To control pod borer, apply recommended insecticides."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Weed Management: Apply Oxyflourfen 23.5% EC @ 80ml/acre mixed with 200 liters of water at 2 -3 DAS.",
-            "Apply Imazethapyr 10% SL @ 3ml/ltr of water within 15 DAS as early post emergence herbicide"
+            "Apply Imazethapyr for weed management."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Apply Pendimithalin for weed management."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Apply Pendimithalin for weed management."
          ]
       },
       "mustard": {
          "advisory": [
-            "Weed Management: Apply Oxadiargyl 6% EC as pre -emergence @ 3ml/ltr of water at 1-2 DAS or Quizalofop -ethyl 5% EC as post emergence @ 2ml /ltr of water at 15 -20 DAS"
+            "For control of Aphids and fly, spray recommended insecticides.",
+            "For weed management, apply Quizalofop-ethyl."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Dimond back moth: Spray bio insecticide Azadiractin 0.03% (300 ppm) @ 5 ml/liter of water or Beauveria bassiana 5% WP @ 800 g/acre mixed with 200 liters of water. To control chemically, spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water.",
-            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6 ml/5ltr of water"
+            "For pest management, spray recommended bio insecticides."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "For pest management, spray recommended insecticides.",
+            "Chances of aphid infestation in cabbage, if observed, spray Thiamethoxam or Acetamiprid."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "For pest management, spray recommended bio insecticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control shoot borer, spray recommended insecticides."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Keep an eye out for early blight infestation and white fly infestation. Spray recommended fungicides and insecticides accordingly."
          ]
       },
       "okra": {
          "advisory": [
-            "To control the vector of YMV and leaf curling due to aphid infestation in okra spray Buprofezin 15% + Acephate 35% WP @ 1.5 g/litre of water or Thiamethoxam 25% WG @ 3 g in 15 litre of water.",
-            "To control fruit borer in okra spray neem based pesticide 1500 ppm @ 600ml/acre. At later stages spray of Spinosad 45% SC @ 70 ml/acre"
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production"
+            "To control aphid infestation, spray recommended insecticides."
          ]
       },
       "goat": {
          "advisory": [
-            "Farmers are advised to repair the goat house before commencement of winter season. Because there is a high chance of mortality among kids due to chill weather"
+            "Protect goats from chill wind and damp floors."
          ]
       },
       "poultry": {
          "advisory": [
-            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free"
+            "Make necessary arrangements to provide heat to chicks during night hours to reduce mortality rate."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "20-12-2024"
 }

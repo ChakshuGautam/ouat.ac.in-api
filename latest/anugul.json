@@ -1,91 +1,92 @@
 {
    "weather_details": {
-      "2024-12-10": {
-         "rainfall": 0.2,
-         "t_max": 27,
+      "2024-12-21": {
+         "rainfall": 5,
+         "t_max": 25,
          "t_min": 16,
-         "rh_max": 91,
-         "rh_min": 41,
-         "wind_speed": 2,
-         "wind_direction": 18,
-         "cloud_cover": 4
+         "rh_max": 87,
+         "rh_min": 57,
+         "wind_speed": 3,
+         "wind_direction": 58,
+         "cloud_cover": 6
       },
-      "2024-12-12": {
-         "rainfall": 0.1,
-         "t_max": 26,
-         "t_min": 14,
-         "rh_max": 77,
-         "rh_min": 35,
+      "2024-12-22": {
+         "rainfall": 3,
+         "t_max": 25,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 47,
+         "wind_speed": 3,
+         "wind_direction": 14,
+         "cloud_cover": 6
+      },
+      "2024-12-23": {
+         "rainfall": 1,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 32,
          "wind_speed": 2,
          "wind_direction": 27,
-         "cloud_cover": 2
+         "cloud_cover": 4
       },
-      "2024-12-13": {
-         "rainfall": 0.1,
+      "2024-12-24": {
+         "rainfall": 0,
          "t_max": 26,
-         "t_min": 13,
-         "rh_max": 74,
+         "t_min": 15,
+         "rh_max": 75,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 74,
+         "cloud_cover": 3
+      },
+      "2024-12-25": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 69,
          "rh_min": 29,
-         "wind_speed": 2,
-         "wind_direction": 90,
-         "cloud_cover": 0
-      },
-      "2024-12-14": {
-         "rainfall": 0.1,
-         "t_max": 26,
-         "t_min": 13,
-         "rh_max": 65,
-         "rh_min": 26,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 0
-      },
-      "2024-12-15": {
-         "rainfall": 0.1,
-         "t_max": 26,
-         "t_min": 12,
-         "rh_max": 64,
-         "rh_min": 23,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 1
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "potato",
       "mustard",
-      "brinjal",
       "common fish",
-      "chicken"
+      "chicken",
+      "general advice"
    ],
-   "general_advisory": "Clear weather is expected for next five days in Angul district. Potato crop is at 3 week stage. Go for hoeing and weeding. Apply the rest 30-45 kg N/acre. In rainfed shallow low lands, where irrigation facilities are not available. Go for Paira cultivation of latyrus, field pea, linseed 10-15 days before harvesting the crop.",
+   "general_advisory": "Make arrangement for drainage of water from vegetable crops in view of upcoming rain.",
    "crops_data": {
-      "potato": {
-         "advisory": [
-            "Potato crop is at 3 week stage. Go for hoeing and weeding. Apply the rest 30-45 kg N/acre."
-         ]
-      },
       "mustard": {
          "advisory": [
-            "Thinning and weeding is recommended in late sown mustard crop. If low temperature continues for two weeks, white rust infection may start. Therefore, farmers are advised to keep observation on leaves for white rust appearance."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Minimum temperature in the district is going to fall by around 2 °C, the seedlings of solaneous crop is sensitive to lowering of temperature. Covering the crop with poly bags that must not have a hole, in a way that the polysheet will not touch the crop during nights and opening of the polybags during days."
+            "In present weather condition due to foggy weather and upcoming cloudy days, constant monitoring of aphid and white rust is advised in mustard crop.",
+            "Early sown mustard are likely to be affected by Aphids due to foggy weather.",
+            "Spray 80g Thiamethoxam or 80ml Imidacloprid in 200lt of water after cessation of rainfall."
          ]
       },
       "common fish": {
          "advisory": [
-            "Reduce the amount of feed as the growth rate is low in winter."
+            "To increase amount of oxygen use 4-5 aerator/ ha for 4-5 hours.",
+            "Go for application of 80-100 kg stone lime after heavy rainfall."
          ]
       },
       "chicken": {
          "advisory": [
-            "Provision for 2 watt light bulb per chick to ensure their health from cold wave. In case of backyard poultry, birds should be allowed to move in open yard in the daytime. Water should be given at ambient temperature at 2 times feed intake. Feed to water ratio should be maintained at 1:5 as against1:2 during winter."
+            "Prevent the feed ingredients from getting wet, and the amount of feed should not be too much.",
+            "The compound feed in the house should be placed on the platform above the ground to prevent the feed from regaining moisture.",
+            "Regular checking of feeders to avoid fungus contamination.",
+            "Provide your birds with warm water periodically during this season to encourage consumption and help them keep warm without using up energy reserved in the process."
+         ]
+      },
+      "general advice": {
+         "advisory": [
+            "Make provision for storage of harvested rice in view of upcoming rainfall.",
+            "Make provision for fumigation by using Aluminium phosphide tablets @ of 3 tablets / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gaps.",
+            "The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation."
          ]
       }
    },
-   "date": "10-12-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "20-12-2024"
 }

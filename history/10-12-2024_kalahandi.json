@@ -1,0 +1,151 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 17,
+         "rh_max": 85,
+         "rh_min": 35,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 68,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 68,
+         "rh_min": 28,
+         "wind_speed": 1,
+         "wind_direction": 108,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 63,
+         "rh_min": 25,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 63,
+         "rh_min": 22,
+         "wind_speed": 1,
+         "wind_direction": 63,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "greengram/blackgram",
+      "groundnut",
+      "mustard & toria",
+      "sunflower",
+      "onion",
+      "cauliflower & cabbage",
+      "tomato",
+      "rose",
+      "merigold",
+      "cattle & buffalo",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "In view of dry weather prediction during the next five days, farmers are advised to resume harvesting of matured rice. Farmers are advised not to burn the residue of kharif paddy in the field but rather to incorporate it into the soil by ploughing. Light irrigation to standing crops & vegetables during morning hours is recommended to prevent damage from fog, low temperature, and moisture stress. Cover vegetable nurseries with polythene to avoid poor germination due to low temperature. Undertake intercultural operations in vegetables to remove weeds. Vaccinate animals against FMD, BQ, HS, PPR & Goat Pox.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Farmers are advised not to burn the residue of kharif paddy in the fields because it not only pollutes the environment but also causes severe health problems. Mix the residue of paddy crop in the soil to increase soil fertility and use it as mulching to conserve moisture.",
+            "If 'Rodent/Rats' problem is noticed, place Aluminium Phosphide 6% tablet @ One tablet per burrow to kill rodents."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking should be done when there is complete bursting of bolls. Dry the seed cotton on concrete floor or tarpaulin sheets to reduce moisture. Store seed cotton obtained from the 1st picking separately for better pricing. Foliar spray of NPK-19-19-19 recommended for better plant growth and boll development."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Recommended control measures for prevailing pest attack include application of specific chemicals. Spray as needed to control pod borer, pod sucking bug, Aphid, etc."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Apply Pendimithalin 30% EC for weed management."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Oxyflourfen 23.5% EC for weed management. Apply Imazethapyr 10% SL within 15 DAS as early post emergence herbicide."
+         ]
+      },
+      "mustard & toria": {
+         "advisory": [
+            "Apply Quizalofop-ethyl 5% EC as post emergence for weed management. Undertake intercultural operations like weeding and earthing up followed by fertilizer application and irrigation at 3-week stage."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Undertake intercultural operations like weeding and earthing up followed by 1st top dressing and irrigation at 3-week stage. Need-based spray of Acetamiprid 20% SP recommended for sucking pest complex."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "For pest management against damping off, apply Bavistin or Thiram as recommended."
+         ]
+      },
+      "cauliflower & cabbage": {
+         "advisory": [
+            "For pest management against Dimond back moth and Tobacco leaf eating caterpillar, specific sprays are recommended."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "In view of high humidity causing wilting, spray Mancozeb 75% WP if symptoms are noticed."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control black spot disease, spray Copper Oxychloride 50% WP as recommended."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "For managing flower and bud rot, spray Mancozeb 75% WP as a control measure."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Vaccinate against FMD and control and prevent Foot and Mouth Disease for increased milk production. Vaccinate young calves against Brucellosis."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Protect goats from chill wind and damp floors."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide necessary heat, especially to chicks during the night to reduce mortality rate. Maintain clean and damp-free poultry houses."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}
