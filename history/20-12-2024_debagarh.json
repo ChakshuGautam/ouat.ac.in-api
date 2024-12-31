@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 89,
+         "rh_min": 57,
+         "wind_speed": 3,
+         "wind_direction": 27,
+         "cloud_cover": 6
+      },
+      "22/12/2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 84,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "23/12/2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 3,
+         "wind_direction": 6,
+         "cloud_cover": 5
+      },
+      "24/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 40,
+         "cloud_cover": 4
+      },
+      "25/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 66,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 37,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rabi paddy",
+      "wheat",
+      "pulses",
+      "potato",
+      "mustard (toria)",
+      "chilli",
+      "onion"
+   ],
+   "general_advisory": "Due to forecast of cloudy & rainy weather, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather, there is a chance of powdery mildew in various crops, to manage spray sulphur powder. Contact the Met. Centre for more information.",
+   "crops_data": {
+      "rabi paddy": {
+         "advisory": [
+            "Provide irrigation to the nursery. Survey for any insect and pest. Apply 2% Urea solution at 15 days old seedling."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Due to weather there is a chance of stem borer Gramin Krishi Mausam Sewa India Meteorological Department. Attack, to manage spray Triazophos at 2 ml per liter of water."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Due to cloudy forecast, chances of powdery mildew attack may be there, spray Sulphur powder at 1 kg per 200 liters of water."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Due to forecast of cloudy weather, there are chances leaf Blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P at 400 g/acre."
+         ]
+      },
+      "mustard (toria)": {
+         "advisory": [
+            "Due to forecast of cloudy weather, there are chances of leaf spot disease, to manage this spray Carbendazim 12% + Mancozeb 63% W.P at 400 g/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control the sucking pest, spray Thiomathaxam at 0.4 g per liter of water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Sow the seedling when it is 15 cm high. Provide irrigation to the onion nursery."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

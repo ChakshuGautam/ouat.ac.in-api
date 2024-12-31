@@ -1,0 +1,138 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 7,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 55,
+         "wind_speed": 5,
+         "wind_direction": 51,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": 87,
+         "rh_min": 42,
+         "wind_speed": 3,
+         "wind_direction": 36,
+         "cloud_cover": 4
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 32,
+         "wind_speed": 5,
+         "wind_direction": 53,
+         "cloud_cover": 2
+      },
+      "24-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 77,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 0,
+         "cloud_cover": 2
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 73,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 63,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "groundnut",
+      "greengram/blackgram",
+      "mustard",
+      "cauliflower/cabbage/broccoli",
+      "brinjal",
+      "tomato",
+      "okra",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card. Hold off on spraying of pesticides for the time being. Complete the impending rabi crop sowing to utilize anticipated rainfall.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Go for nursery raising of summer rice from Dec to 1st week of January. Early planting reduces stem borer attack.",
+            "Select certified 3-4 months duration HYV resistant to biotic stress like Khandagiri, Mandakini, Sahabhagi Dhan, MTU 1010, Sidhant, Lalat, CR Dhan 101etc.",
+            "Dip the seeds in the brine solution (165 g common salt in one litre of water) to discard the chaffs & half filled seeds.",
+            "After discard, wash the seeds with clear water & dry it.",
+            "Before sowing, to reduce the incidence of seed-borne diseases, treat the seeds with Carbendazim @ 1.5 g/kg seed or Vitavax Power @ 2.5 g/kg seed."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Prevailing weather condition favors the following pest attack. So, recommended control measures should be followed as required.",
+            "Pod borer: To control, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
+            "Pod sucking bug and Aphid: To control, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Weed Management: Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as early post-emergence herbicide or apply Fenoxaprop-P-ethyl 9.3% @ 35 ml/drum (15 liter capacity) at 15-20 DAS."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Weed Management: Apply Pendimithalin 30% EC @ 1.20 liter/acre mixed with 200 liters of water at 1-2 DAS."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "For control of Aphids spray Dimethoate 30% EC (1.5 ml/l) or Imidacloprid 17.8 % SL (0.6 ml/l) or Thiomethoxam 25 % WG (0.2g/l). For control of fly spray Ethofenprox 10 % EC @ 1 ml/l water or Quinalphos 25% EC @ 2.5ml/l water or Acephate 75 % SP @ 1g per liter of water.",
+            "Weed Management: Apply Quizalofop-ethyl 5% EC as post-emergence @ 2ml/liter of water at 15-20 DAS.",
+            "Undertake intercultural operation like weeding and earthing up followed by fertilizer application (Urea @ 35-40kg/ac + MOP @ 10kg/ac) and irrigation at 3-week stage."
+         ]
+      },
+      "cauliflower/cabbage/broccoli": {
+         "advisory": [
+            "Dimond back moth: Spray bio insecticide Azadiractin 0.03% (300 ppm) @ 5 ml/liter of water or Beauveria bassiana 5% WP @ 800 g/acre mixed with 200 liters of water. To control chemically, spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6 ml/5ltr of water.",
+            "Chances of aphid infestation in cabbage, if observed spray Thiamethoxam 25% WG @ 6 g or Acetamiprid 20% SP @ 3 g per 15 liter of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Shoot borer may observe in brinjal field, to control it spray Azadirachtin 1% EC @ 3 ml/liter of water or Emamectin benzoate 5% SG @ 0.4 g/liter of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptoms are noticed.",
+            "Chances of early blight infestation in tomato, if observed spray Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/liter of water or Captan 50% WP @ 2.5 g/liter of water.",
+            "White fly may observe in tomato, to control it spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5 ZC @ 3.75 ml or Imidacloprid 70% WG @ 1.5 g in 15 liter of water."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control the vector of YMV and leaf curling due to aphid infestation in okra spray Buprofezin 15% + Acephate 35% WP @ 1.5 g/liter of water or Thiamethoxam 25% WG @ 3 g in 15 liter of water."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Protect Goat from chill wind and damp floors."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

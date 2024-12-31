@@ -1,0 +1,75 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 16,
+         "t_max": 23,
+         "t_min": 20,
+         "rh_max": 90,
+         "rh_min": 64,
+         "wind_speed": 10,
+         "wind_direction": 18,
+         "cloud_cover": 7
+      },
+      "22/12/2024": {
+         "rainfall": 12,
+         "t_max": 24,
+         "t_min": 20,
+         "rh_max": 87,
+         "rh_min": 50,
+         "wind_speed": 9,
+         "wind_direction": 7,
+         "cloud_cover": 6
+      },
+      "23/12/2024": {
+         "rainfall": 24,
+         "t_max": 25,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 36,
+         "wind_speed": 8,
+         "wind_direction": 15,
+         "cloud_cover": 5
+      },
+      "24/12/2024": {
+         "rainfall": 27,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 70,
+         "rh_min": 32,
+         "wind_speed": 10,
+         "wind_direction": 10,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "brinjal",
+      "cauliflower"
+   ],
+   "general_advisory": "Light to moderate rainfall may occur on Saturday & Sunday with generally cloudy sky condition. Farmers are advised to withhold harvesting for the time being. Keep the harvested paddy in a safe place with polythene to keep it safe from rain. Make provision for draining out excess rainwater in late duration rice crop by making alleys (Pahi) and keep the drain ends open. After receding of rainwater in case of lodging, tie the panicles of paddy in bundles and keep straight. Withhold application of fertilizers and pesticides for the time being. Make provision for draining out rainwater from pulse crops. Keep the drain ends open. Make arrangement for covering a plastic cover or polythene sheet for vegetables nursery like tomato, chilli, and brinjal. Keep the drainage channels open to drain out excess rainwater from vegetable crops. After receding of rainwater, wash the muddy leaves of vegetable crops or remove them from plants. To manage wilt and rot disease in vegetable crops, drench the root zone with a solution of 1.5 Metalaxyl 8% + Mancozeb 64 % WP mixed in 10 litres of water.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare the wet nursery seed beds for paddy. Using rainwater, the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP, and 1 kg of Zinc sulphate during the last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ line sowing with 5 cm gap between each line."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Planting November to February is the optimum time for planting of sugarcane for Odisha climate. After receding of rain, farmers are advised to go for planting of sugarcane in well-drained soil having good irrigation facility."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control Fruit and shoot borer in Brinjal, Spray Neem-based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45% SC @70ml/acre and Thiodicarb@300g/acre at 15 days interval in dry weather.",
+            "Apply borax @ 4 kg/acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5 g/litre or Folibor/Solubor @ 1.5 g/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply borax @ 4 kg/acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5 g/litre or Folibor/Solubor @ 1.5 g/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

@@ -1,0 +1,132 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 5,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 54,
+         "wind_speed": 2,
+         "wind_direction": 18,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 89,
+         "rh_min": 43,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 4
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 2
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 76,
+         "rh_min": 31,
+         "wind_speed": 3,
+         "wind_direction": 124,
+         "cloud_cover": 2
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 71,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 101,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "greengram/blackgram",
+      "groundnut",
+      "mustard & toria",
+      "sunflower",
+      "onion",
+      "cauliflower & cabbage",
+      "tomato"
+   ],
+   "general_advisory": "As per extended range forecast received from IMD, very light to light rain very likely to occur over Coastal Odisha & adjoining districts of Interior Odisha during week-1 (20th to 26th December, 2024). Minimum temperature (night temperature) very likely to be 18-20°C in some parts of South Odisha, 14-16°C in most parts of Coastal Odisha and some parts of Interior Odisha and 10-14°C over the remaining parts of Interior Odisha during week-1. Dry weather likely to prevail over Odisha during week-2 (27th December, 2024 to 02nd January, 2025). Minimum temperature (night temperature) very likely to be 16-18°C in some parts of South Odisha, 14-16°C in most parts of Coastal Odisha and some parts of Interior Odisha, and 10-14°C over the remaining parts of Interior Odisha during week-2. In light of anticipated rain during next three days of the week, farmers are advised to postpone paddy harvesting. If paddy has already been harvested, ensure safe storage by covering with polythene sheets. Due to expected light rainfall, cotton farmers should harvest fully opened bolls and store them safely to preserve quality. Hold off on spraying of pesticides for the time being. Complete the sowing of rabi crops to utilize anticipated rainfall. Confine domestic animals indoors till rain recedes.",
+   "crops_data": {
+      "transplanted paddy": {
+         "advisory": [
+            "This is the right time for nursery preparation for rabi season. 10 decimal of nursery area is required to cultivate one acre of paddy. Arrange suitable high yielding varieties like MTU 1010, MTU 1001, DRR 44, Sahabhagi Dhan, Lalat, Improved lalat, Mandakini, Bina 11 etc. Treat the seeds with 2g Carbendazim or 3g Carboxin or Thiram per 1kg of seed before sowing in the nursery.",
+            "To protect the rice nursery from cold injury, apply a thin layer of well decomposed FYM after sowing of seeds in wet bed to keep the bed relatively warm. Preferably use bore well water for irrigation at evening and drain out the cold water at morning to maintain the soil temperature favourable for growth. In severe cold affected areas use polythene cover at night time.",
+            "Apply 13-15 kg DAP and 10-12 kg MOP along with 200 kg of FYM and 200 g Zn per 10 decimal as basal dose for healthy production of seedlings."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking should be done when there is complete bursting of bolls.",
+            "Dry the seed cotton on concrete floor or tarpaulin sheets to reduce the moisture to 8-10%.",
+            "Farmers are advised to sell their seed cotton in the nearby 'Mandi' to get MSP (Rs.7521/qt) for long staple cotton."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Pest Management:",
+            "Prevailing weather condition favours the following pest attack. So, recommended control measures should be followed as required.",
+            "Pod borer: To control, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
+            "Pod sucking bug and Aphid: To control, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Weed Management: Apply Pendimithalin 30% EC @ 1.20 liter /acre mixed with 200 liters of water at 1-2 DAS."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Weed Management: Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as early post emergence herbicide or apply Fenoxaprop-P-ethyl 9.3% @ 35 ml/drum (15-liter capacity) at 15-20 DAS.",
+            "Prevailing weather condition favours the development of sucking pest like aphid, jassids and whitefly. Install yellow sticky trap @ 8nos/acre to monitor the pest population. Apply Neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
+         ]
+      },
+      "mustard & toria": {
+         "advisory": [
+            "Weed Management: Apply Quizalofop-ethyl 5% EC as post emergence @ 2ml/liter of water at 15-20 DAS.",
+            "Undertake intercultural operation like weeding and earthing up followed by fertilizer application (Urea @ 35-40kg/ac + MOP @ 10kg/ac) and irrigation at 3-week stage."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Undertake intercultural operation like weeding and earthing up followed by 1st top dressing (Urea @ 6-10 kg/ac) and irrigation at 3-week stage.",
+            "Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favours the development of sucking pests. Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Prepare the main field for transplanting onion seedlings at eight-week stage.",
+            "Nutrient Management: For one acre area, apply 43kg DAP, 27kg urea, 33kg MOP and 20kg Sulphur prior to the transplanting of onion seedlings in the main field."
+         ]
+      },
+      "cauliflower & cabbage": {
+         "advisory": [
+            "Nutrient Management: At three-week stage, undertake hoeing, weeding and apply Urea @ 55kg/ac followed by irrigation.",
+            "Go for hoeing, weeding and apply 27 kg urea + 25kg MOP at six-to-seven-week stage followed by irrigation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

@@ -1,72 +1,95 @@
 {
    "weather_details": {
-      "21/12/2024": {
-         "rainfall": 15,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 91,
-         "rh_min": 66,
-         "wind_speed": 14,
-         "wind_direction": 32,
-         "cloud_cover": 8
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 76,
+         "rh_min": 45,
+         "wind_speed": 8,
+         "wind_direction": 11,
+         "cloud_cover": 1
       },
-      "22/12/2024": {
-         "rainfall": 10,
+      "29/12/2024": {
+         "rainfall": 0,
          "t_max": 28,
-         "t_min": 17,
-         "rh_max": 91,
-         "rh_min": 56,
-         "wind_speed": 13,
-         "wind_direction": 15,
-         "cloud_cover": 15
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 11,
+         "wind_direction": 11,
+         "cloud_cover": 1
       },
-      "23/12/2024": {
-         "rainfall": 1,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 74,
-         "rh_min": 38,
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 73,
+         "rh_min": 50,
          "wind_speed": 10,
-         "wind_direction": 15,
-         "cloud_cover": 15
+         "wind_direction": 10,
+         "cloud_cover": 1
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 48,
+         "wind_speed": 11,
+         "wind_direction": 4,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
-      "brinjal",
-      "cauliflower"
+      "blackgram",
+      "greengram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
    ],
-   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep the harvested paddy in a safe place with polythene to protect from rain. Make arrangements for draining excess rainwater from crops.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Use rainwater for regular puddling and irrigation. Apply appropriate fertilizers and treatments for specific crops as needed.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare wet nursery seed beds for paddy",
-            "Apply fertilizers like FYM, DAP, MOP, and Zinc sulphate",
-            "Sow sprouted seeds with proper spacing",
-            "Make alleys for irrigation and drainage",
-            "Tie panicles of paddy in bundles after lodging"
+            "Nursery Management - Prepare the wet nursery seed beds for paddy. Use rainwater for regular puddling and irrigation. Apply appropriate fertilizers and treatments for specific crops as needed.",
+            "Seed treatment - Treat the paddy seeds with prescribed chemicals before sowing in the nursery.",
+            "After rain, tie the panicles of paddy to prevent lodging."
          ]
       },
-      "sugarcane": {
+      "blackgram": {
          "advisory": [
-            "Plant sugarcane in well-drained soil",
-            "Plant during November to February",
-            "Ensure good irrigation facilities"
+            "Control yellow mosaic virus by spraying recommended chemicals."
          ]
       },
-      "brinjal": {
+      "greengram": {
          "advisory": [
-            "Spray Neem based pesticide for Fruit and shoot borer control",
-            "Follow up with alternate sprays in dry weather"
+            "Control yellow mosaic virus by spraying recommended chemicals."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Manage wilting and fruit & shoot borer infestations."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Apply borax during transplanting to prevent Brown rot",
-            "Spray Boron micronutrient after transplanting"
+            "Manage Alternaria leaf spot disease in Cole crops."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Remove wilted plants and manage aphids and jassids infestation."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Manage leaf eating caterpillar infestation.",
+            "Use biological or chemical controls as necessary."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

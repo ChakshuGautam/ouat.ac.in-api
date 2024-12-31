@@ -1,64 +1,102 @@
 {
    "weather_details": {
-      "20.12.2024": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 3,
+         "wind_direction": 344,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 42,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "30-12-2024": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 15,
-         "rh_max": 87,
+         "rh_max": 78,
+         "rh_min": 48,
+         "wind_speed": 2,
+         "wind_direction": 51,
+         "cloud_cover": 1
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 81,
          "rh_min": 45,
-         "wind_speed": 10,
-         "wind_direction": 120,
-         "cloud_cover": 5
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 2
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 81,
+         "rh_min": 41,
+         "wind_speed": 3,
+         "wind_direction": 6,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "mustard",
-      "cucurbits",
-      "indian bean",
-      "spinach",
-      "garlic",
-      "potato",
-      "cauliflower"
+      "paddy",
+      "blackgram",
+      "greengram",
+      "groundnut",
+      "cabbage",
+      "coriander",
+      "mango"
    ],
-   "general_advisory": "Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, diarrhoea and even death in severe cases. Good ventilation must be ensured during winter.",
+   "general_advisory": "By utilizing the soil moisture from past rainfall, continue sowing operation of summer paddy. Polythene to cover the paddy nursery at night-time. Protect the paddy nursery, apply a thin layer of well-decomposed FYM in wet. Cover the recently planted cole crops with paper pockets during nighttime to avoid low temperature. There will be a chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms of pests or diseases are noticed, undertake appropriate plant protection measures.",
    "crops_data": {
-      "mustard": {
+      "paddy": {
          "advisory": [
-            "There will be chances of Sawfly infestation in Must ard crop. To manage this pest, irrigation should be done in seed ling stage (3-4 weeks) because most of the larvae die due to drowni ng effect. Manually collect and destroy grubs of sawfly in mor ning and evening hours.",
-            "To manage Mustard sawfly spray Ethofenprox 10 % EC @ 200- ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water."
+            "Nursery: Utilize soil moisture for sowing, cover with polythene at night, apply well-decomposed FYM for warmth"
          ]
       },
-      "cucurbits": {
+      "blackgram": {
          "advisory": [
-            "There will be increase infestation of downy mildew due to present low temperature and foggy condition. To control thi s disease in cucurbits, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl -AL 80 % WP @ 600 g/acre."
+            "Vegetative stage: Continue care and monitoring"
          ]
       },
-      "indian bean": {
+      "greengram": {
          "advisory": [
-            "To manage aphids at early stage, put 8 numbers of y ellow sticky traps per acre. Spray Neem based pesticide 15000 PP M @ 600ml/acre by mixing in 200litre of water. If the i nfestation is severe than spray chemical pesticide Thiamethoxam 2 5 % WG @ 50g/acre or Acetamiprid 20 % SP @ 50 g/acre in 200- liter of water."
+            "Vegetative stage: Continue care and monitoring"
          ]
       },
-      "spinach": {
+      "groundnut": {
          "advisory": [
-            "Some varieties of Palak are Pusa Palak, All Green, Pusa Jyoti, Pusa Harit, Komal, Punjab Green. For cultivation of Pala k 10 12 kg seed is required per acre. Line sowing is done with a sp acing of 20 cm and 2-3 cm depth. Let's discuss about seed treatmen t and sowing time of Palak. Soak the seeds in water for 10-12 ho ur before sowing."
+            "Vegetative stage: Treat for stem rot with appropriate fungicides"
          ]
       },
-      "garlic": {
+      "cabbage": {
          "advisory": [
-            "Currently it is the perfect time for planting garli c. Some varieties of Garlic include Agrifound white, Jamuna Safed (G-1), G-282, Agrifound Parvati (G-323) etc. In Garlic, 200-300 K g cloves per acre is required for Cultivation.",
-            "Garlic cloves should be treated with Carbendazim @ 2 g per kg of seeds. A spacing of 15 cm between the rows and 8 cm  within the rows is optimum for Garlic."
+            "Vegetative stage: Monitor for webber and tobacco caterpillar, apply recommended insecticides"
          ]
       },
-      "potato": {
+      "coriander": {
          "advisory": [
-            "There are chances of Early leaf Blight disease inci dence in potato crop. To control early leaf blight in potato, spray  Mancozeb 75% WP @600 g /acre or Carbendazim 12% + Mancozeb 63% W .P @ 400 g /acre."
+            "Sowing: Choose high yielding varieties, treat seeds for better germination, apply appropriate fertilizers"
          ]
       },
-      "cauliflower": {
+      "mango": {
          "advisory": [
-            "To manage Alternaria leaf spot disease in Cole crop s spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-l itre of water."
+            "Vegetative stage: Mulch around the basin, apply chloropyriphos for termite management"
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

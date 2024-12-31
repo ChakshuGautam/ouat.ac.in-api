@@ -1,0 +1,110 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 5,
+         "t_max": 23,
+         "t_min": 14,
+         "rh_max": 93,
+         "rh_min": 56,
+         "wind_speed": 4,
+         "wind_direction": 79,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 2,
+         "t_max": 23,
+         "t_min": 14,
+         "rh_max": 87,
+         "rh_min": 44,
+         "wind_speed": 2,
+         "wind_direction": 72,
+         "cloud_cover": 5
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 24,
+         "t_min": 13,
+         "rh_max": 83,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 108,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 24,
+         "t_min": 13,
+         "rh_max": 80,
+         "rh_min": 28,
+         "wind_speed": 4,
+         "wind_direction": 119,
+         "cloud_cover": 3
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 13,
+         "rh_max": 69,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 166,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "summer rice",
+      "green gram/black gram",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, minimum temperature (night temperature) very likely to be 18-20°C in some parts of South Odisha, 14-16°C in most parts of Coastal Odisha and some parts of Interior Odisha and 10-14°C over the remaining parts of Interior Odisha during week-1 (20th to 26th December, 2024). Minimum temperature very likely to be normal to above normal over the districts of Odisha and very light to light rain very likely to occur over Coastal Odisha & adjoining districts of Interior Odisha during that period. Overall Rainfall activity very likely to be normal to above normal over the state during week-1.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some rainfall event expected in the first half of upcoming days, so farmers are advised to wait for harvesting operations and keep the harvested paddy crop in safe places to avoid further damage.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy properly bagged and stacked with a suitable cover to avoid damage due to untimely rain."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer season rice cultivation. For this purpose, farmers may select improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "One week before sowing of green gram/black gram crop, seed should be treated with carbendazim @ 1.5-2.0g and imidacloprid @ 5g per kg seeds.",
+            "Seed should be sown with a seed rate of 8-10 kg/ac with a spacing of 30cm×10cm.",
+            "Avoid irrigation for some days because some amount of rainfall is expected in the upcoming week."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Farmers who have not yet sown seeds can use improved Groundnut varieties such as TAG-24, JL-24, Girnar-3, Smruti, TG-3, TG-22, Kadri-5, Kadri-6, Kadri-9, TPG-41, GPBD-4, Devi, CO-7, Dharani, and Divya etc.",
+            "Ensure seed treatment before sowing of seed and if possible, treat with bacteria or phospho culture 7 days after treatment."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Straw can be used as mulching material in vegetable crops to maintain soil moisture and soil temperature in the field during the winter season.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, use pheromone trap in the field for this purpose."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Farmers should make provision to protect animals from cold (if possible use jute bag to cover the animal and straw as bedding material) during the winter season and provide clean drinking water to cattle.",
+            "Vaccination and deworming should be done to control different harmful diseases and stomach worms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Proper ventilation is required to provide fresh air and remove gases inside the house.",
+            "External heat source is provided to keep the poultry shed warm and dry.",
+            "The drinking water should be maintained at a suitable temperature to promote water intake."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

@@ -1,92 +1,72 @@
 {
    "weather_details": {
-      "2024-12-21": {
-         "rainfall": 5,
-         "t_max": 25,
-         "t_min": 16,
-         "rh_max": 87,
-         "rh_min": 57,
-         "wind_speed": 3,
-         "wind_direction": 58,
-         "cloud_cover": 6
-      },
-      "2024-12-22": {
-         "rainfall": 3,
-         "t_max": 25,
-         "t_min": 16,
-         "rh_max": 83,
-         "rh_min": 47,
-         "wind_speed": 3,
-         "wind_direction": 14,
-         "cloud_cover": 6
-      },
-      "2024-12-23": {
-         "rainfall": 1,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 81,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 27,
-         "cloud_cover": 4
-      },
-      "2024-12-24": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 75,
-         "rh_min": 30,
-         "wind_speed": 3,
-         "wind_direction": 74,
-         "cloud_cover": 3
-      },
-      "2024-12-25": {
+      "2024-12-28": {
          "rainfall": 0,
          "t_max": 26,
          "t_min": 14,
-         "rh_max": 69,
-         "rh_min": 29,
-         "wind_speed": 1,
+         "rh_max": 78,
+         "rh_min": 39,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 1
+      },
+      "2024-12-29": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 80,
+         "rh_min": 41,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 4
+      },
+      "2024-12-30": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 83,
+         "rh_min": 48,
+         "wind_speed": 3,
          "wind_direction": 0,
-         "cloud_cover": 3
+         "cloud_cover": 4
+      },
+      "2024-12-31": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 84,
+         "rh_min": 44,
+         "wind_speed": 2,
+         "wind_direction": 39,
+         "cloud_cover": 2
+      },
+      "2025-01-01": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 80,
+         "rh_min": 38,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "mustard",
       "common fish",
-      "chicken",
-      "general advice"
+      "others (soil / land preparation)"
    ],
-   "general_advisory": "Make arrangement for drainage of water from vegetable crops in view of upcoming rain.",
+   "general_advisory": "Keep the livestock indoors during rainfall. Keep feed for 3-5 days, in case of any emergency. Repair the sheds before rainfall. Keep animals indoors in rainy conditions. Keep fodder at a safe place to avoid spoilage from rainfall.",
    "crops_data": {
-      "mustard": {
-         "advisory": [
-            "In present weather condition due to foggy weather and upcoming cloudy days, constant monitoring of aphid and white rust is advised in mustard crop.",
-            "Early sown mustard are likely to be affected by Aphids due to foggy weather.",
-            "Spray 80g Thiamethoxam or 80ml Imidacloprid in 200lt of water after cessation of rainfall."
-         ]
-      },
       "common fish": {
          "advisory": [
-            "To increase amount of oxygen use 4-5 aerator/ ha for 4-5 hours.",
-            "Go for application of 80-100 kg stone lime after heavy rainfall."
+            "During winters, there is a possibility of “EUS” disease in fish. Farmers are advised to apply Cifax @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
          ]
       },
-      "chicken": {
+      "others (soil / land preparation)": {
          "advisory": [
-            "Prevent the feed ingredients from getting wet, and the amount of feed should not be too much.",
-            "The compound feed in the house should be placed on the platform above the ground to prevent the feed from regaining moisture.",
-            "Regular checking of feeders to avoid fungus contamination.",
-            "Provide your birds with warm water periodically during this season to encourage consumption and help them keep warm without using up energy reserved in the process."
-         ]
-      },
-      "general advice": {
-         "advisory": [
-            "Make provision for storage of harvested rice in view of upcoming rainfall.",
-            "Make provision for fumigation by using Aluminium phosphide tablets @ of 3 tablets / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gaps.",
-            "The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation."
+            "To manage fungal and bacterial diseases (leaf blight, wilt, and rot) in different standing crops, spray (Metalaxyl+ Mancozeb) @ 2-gram/litre of water or (Carbendazim+ Mancozeb) @ 2-gram/litre of water along with Plantomycin @ 1-gram/litre of water."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

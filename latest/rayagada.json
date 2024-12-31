@@ -1,72 +1,84 @@
 {
    "weather_details": {
-      "2024-12-21": {
-         "rainfall": 6,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 97,
-         "rh_min": 58,
-         "wind_speed": 2,
-         "wind_direction": 27,
-         "cloud_cover": 6
-      },
-      "2024-12-22": {
-         "rainfall": 3,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 92,
-         "rh_min": 44,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 5
-      },
-      "2024-12-23": {
-         "rainfall": 1,
-         "t_max": 28,
-         "t_min": 19,
-         "rh_max": 87,
-         "rh_min": 33,
-         "wind_speed": 3,
-         "wind_direction": 34,
-         "cloud_cover": 4
-      },
-      "2024-12-24": {
+      "2024-12-28": {
          "rainfall": 0,
-         "t_max": 28,
+         "t_max": 24,
          "t_min": 17,
-         "rh_max": 84,
-         "rh_min": 33,
+         "rh_max": 92,
+         "rh_min": 42,
          "wind_speed": 2,
-         "wind_direction": 76,
+         "wind_direction": 63,
+         "cloud_cover": 1
+      },
+      "2024-12-29": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 16,
+         "rh_max": 87,
+         "rh_min": 45,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "2024-12-30": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 49,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "2024-12-31": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 88,
+         "rh_min": 44,
+         "wind_speed": 1,
+         "wind_direction": 90,
          "cloud_cover": 3
       },
-      "2024-12-25": {
+      "2025-01-01": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 17,
-         "rh_max": 78,
-         "rh_min": 30,
-         "wind_speed": 1,
-         "wind_direction": 34,
-         "cloud_cover": 2
+         "t_min": 14,
+         "rh_max": 84,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 349,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
-      "black gram"
+      "maize",
+      "mustard",
+      "cauliflower"
    ],
-   "general_advisory": "If stored rice grain infestation occurs, take up fumigation by using Aluminium phosphide tablets @ of 3 tab / ton grain in fairly air tight containers or by covering with thick tarpaulin leaving no gap. The tablets should be wrapped in cotton pouches before placing them in the stacks, which helps to discard the remnants after completing the fumigation. Postpone the spraying insecticides, pesticides as it may wipe out due to rain. Spray insecticides or pesticides in crops mixing with sticker if necessary.",
+   "general_advisory": "If stored rice grain infestation occurs, take up fumigation by using Aluminium phosphide tablets @ of 3 tab / ton grain in fairly air tight container or by covering with thick tarpaulin leaving no gap",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 1 1, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season. Seed rate for an acre of land is 20 kg for these varieties. Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3-gram /1 kg of seeds before sowing in the nursery"
+            "Upland rice varieties (Matures in 100-120 days) like Khandagiri, Sahabhagi Dhan, DRR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama etc. can be cultivated. Medium land rice varieties (Matures in 120-140 days) like MTU 1 153, CR Dhan 310, RGL 2538, Lalat, Improved Lalat, Manaswini, MTU-1001, Sampada, Gitanjali, Nua acharmati etc can be cultivated. Low land rice varieties (Matures >140 days) like Pratikshya, Swarna, Swarna Sub-1, RGL-2537, MTU-1075, Mrinalini, Hashanta, Rani Dhan, CR 1009, CR 1009 Sub-1, DRR 50, Pooja, MTU-1064, CR-1018, Sarala, Durga, Pradhan Dhan, Nua Kalajeera, Nua chinikamini, CR Sungadhi Dhan-907 etc can be cultivated. Before sowing, seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP or thiram 75 % WS @ 3 gm/kg of seeds"
          ]
       },
-      "black gram": {
+      "maize": {
          "advisory": [
-            "Powdery mildew disease has been observed in black gram. Spray Sulphur 80 WP @ 800 gm in 200 litres of water per acre of land to control powdery mildew"
+            "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Downy mildew disease is being noticed in mustard cultivation. Spray Azoxystrobin 23% SC @ 200 ml in 200 litres of water per acre of land."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in Cauliflower apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

@@ -1,106 +1,117 @@
 {
    "weather_details": {
-      "21-12-2024": {
-         "rainfall": 15,
-         "t_max": 25,
-         "t_min": 20,
-         "rh_max": 89,
-         "rh_min": 60,
-         "wind_speed": 13,
-         "wind_direction": 25,
-         "cloud_cover": 8
-      },
-      "22-12-2024": {
-         "rainfall": 10,
-         "t_max": 25,
-         "t_min": 20,
-         "rh_max": 88,
-         "rh_min": 51,
-         "wind_speed": 12,
-         "wind_direction": 16,
-         "cloud_cover": 7
-      },
-      "23-12-2024": {
-         "rainfall": 2,
-         "t_max": 26,
-         "t_min": 19,
-         "rh_max": 71,
-         "rh_min": 34,
-         "wind_speed": 11,
-         "wind_direction": 15,
-         "cloud_cover": 6
-      },
-      "24-12-2024": {
-         "rainfall": 1,
-         "t_max": 26,
-         "t_min": 19,
-         "rh_max": 65,
-         "rh_min": 30,
-         "wind_speed": 8,
-         "wind_direction": 2,
-         "cloud_cover": 4
-      },
-      "25-12-2024": {
+      "28-12-2024": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 18,
-         "rh_max": 64,
-         "rh_min": 29,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 41,
+         "wind_speed": 10,
+         "wind_direction": 13,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 41,
          "wind_speed": 7,
-         "wind_direction": 345,
-         "cloud_cover": 4
+         "wind_direction": 357,
+         "cloud_cover": 3
+      },
+      "30-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 46,
+         "wind_speed": 9,
+         "wind_direction": 23,
+         "cloud_cover": 2
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 74,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 16,
+         "cloud_cover": 1
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 38,
+         "wind_speed": 11,
+         "wind_direction": 8,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rice",
       "rapeseed and mustard",
-      "vegetables",
-      "fruit",
+      "groundnut",
+      "brinjal",
+      "cole crops",
+      "papaya",
       "pisciculture",
-      "cattle"
+      "livestock"
    ],
-   "general_advisory": "As per IMD there may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in a safer place. Provide stacking to fruits & vegetables. Harvestable vegetables should be plucked before rain and disposed to the market. Don’t spray insecticide & herbicide during rainy hours.",
+   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollutes the environment but also causes severe health problems. Keep harvested matured paddy crops in a safe place & if possible dry under the sun. Drain out excess water from crop & vegetable fields. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "There may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in a safer place.",
-            "Store them in a safe place by covering with a polythene sheet.",
-            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li of water to minimize the chance of future infestation of storage pests."
+            "Rice grains must be dried under the sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Transfer the already harvested paddy from the field to a godown or any shaded place.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS.",
+            "Lambda Cyahalothrin 4.9CS @ 1.5ml/l of water to minimize the chance of future infestation of storage pests."
          ]
       },
       "rapeseed and mustard": {
          "advisory": [
-            "Withhold application of fertilizer and pesticides for the time being.",
-            "Drain out excess water from the field.",
-            "Check for diseases & other pests in mustard due to foggy weather."
+            "Thinning should be carried out before top dressing to maintain optimum plant population.",
+            "Monitor the activity of Aphid, Tobacco caterpillar & incidence of alternaria leaf spot disease in mustard."
          ]
       },
-      "vegetables": {
+      "groundnut": {
          "advisory": [
-            "Make arrangements for covering plastic cover or polythene sheet for vegetables nursery like brinjal, tomato and cole crops.",
-            "Provide stacking to tomato plants.",
-            "Postpone spraying operations of pesticide & foliar fertilizer application.",
-            "Harvestable vegetables should be plucked before rain and disposed to the market."
+            "After the cessation of rain, spraying of Rhidomil M-Z @ 2g/l of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
          ]
       },
-      "fruit": {
+      "brinjal": {
          "advisory": [
-            "Provide mechanical support to fruit plants to prevent lodging.",
-            "Pluck the matured fruit before rainfall & dispose to the market.",
-            "Cover plastic bag to the fruits of banana."
+            "High moisture content followed by rainfall increases wilting or partial wilting in brinjal, drain excess water from the field.",
+            "Apply Neem or Karanja cake @ 1 quintal/acre.",
+            "Drenching of Tebuconazole @ 1ml/l can be recommended."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Uproot the disease-infected plants & expose the soil to the sun."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
+            "Alternate spraying of Neem oil formulation 1500ppm & spray flonicamid 50WG."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "There is a possibility of “EUS” disease in fish. Farmers are advised to apply „Cifax‟ @ 400 ml mixed with 40 litres of water in one acre pond area as a preventive measure."
+            "Regular monitoring of disease infestation & feed supplements for fish advised.",
+            "After heavy rainfall, test water quality of fish ponds and apply lime as recommended."
          ]
       },
-      "cattle": {
+      "livestock": {
          "advisory": [
-            "Keep the animal inside the shed.",
-            "Avoid mixing of rainwater into drinking water of animals."
+            "Keep the animals inside the shed.",
+            "Clean the animal shed by spraying disinfectant/bleaching powder/phenyl."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

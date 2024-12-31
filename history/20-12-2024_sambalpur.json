@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 7,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": 56,
+         "rh_min": 89,
+         "wind_speed": 5,
+         "wind_direction": 54,
+         "cloud_cover": 5
+      },
+      "22-12-2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": 43,
+         "rh_min": 84,
+         "wind_speed": 5,
+         "wind_direction": 52,
+         "cloud_cover": 5
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 31,
+         "rh_min": 78,
+         "wind_speed": 5,
+         "wind_direction": 50,
+         "cloud_cover": 3
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": 29,
+         "rh_min": 71,
+         "wind_speed": 5,
+         "wind_direction": 70,
+         "cloud_cover": 1
+      },
+      "25-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": 28,
+         "rh_min": 68,
+         "wind_speed": 4,
+         "wind_direction": 67,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "ground nut"
+   ],
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They are advised to take proper care of crops and animals to protect them from the cold. Sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram should be completed and nursery sowing of Summer Paddy should be started where irrigation facilities are available.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some rainfall event expected in the first half of upcoming days so farmers are advised to wait for harvesting operations and make provisions to keep the harvested paddy in safe places to avoid damage. Use 'Super Grain Bag' for safe storage of paddy/rice for longer periods or store the harvested paddy properly to avoid damage due to untimely rain."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Farmers should use improved Groundnut varieties for sowing seeds and ensure seed treatment before sowing. Conduct gap filling for seedlings that have not emerged. Regular monitoring against insect attacks is advised."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

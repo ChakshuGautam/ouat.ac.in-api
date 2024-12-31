@@ -1,0 +1,106 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 12,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 87,
+         "rh_min": 59,
+         "wind_speed": 9,
+         "wind_direction": 28,
+         "cloud_cover": 8
+      },
+      "22-12-2024": {
+         "rainfall": 9,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 83,
+         "rh_min": 49,
+         "wind_speed": 8,
+         "wind_direction": 3,
+         "cloud_cover": 7
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 32,
+         "wind_speed": 7,
+         "wind_direction": 3,
+         "cloud_cover": 6
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 66,
+         "rh_min": 28,
+         "wind_speed": 6,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 63,
+         "rh_min": 27,
+         "wind_speed": 5,
+         "wind_direction": 334,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "rapeseed and mustard",
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "As per IMD there may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in safer place. Provide stacking to fruits & vegetables. Harvestable vegetables should be plucked before rain and dispose to market. Don't spray insecticide & herbicide during rainy hours.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "There may be chances of light to moderate rain, so farmers are advised to keep harvested matured paddy crops in safer place.",
+            "Store them in safe place by covering with polythene sheet.",
+            "Make the thr eshing floor and storage godown clean and and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li . of water to minimize the chance of future infestation of storage pest."
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Withhold application of fertilizer and pesticides for the time being.",
+            "Drainout excess water from field.",
+            "Check for diseases & other pests in mustard due to foggy weather."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Make arrangement for covering plastic cover or polythene sheet for vegetables nursery like brinjal, tomato  and colecrops.",
+            "Provide stacking to tomato plants.",
+            "Postpone spraying operations of pesticide & foliar fertilizer application.",
+            "Harvestable vegetables should be plucked before rain and dispose to market."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Provide mechanical support to fruit plants to prevent lodging.",
+            "Pluck the matured fruit before rainfall & disposed to market.",
+            "Cover plastic bag to the fruits of banana."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "There is a possibility of 'EUS' disease in fish. Farmers are advised to apply 'Cifax' @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Keep the animal inside shed.",
+            "Avoid mixing of rainwater into drinking water of animals."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

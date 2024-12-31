@@ -1,0 +1,64 @@
+{
+   "weather_details": {
+      "20.12.2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 87,
+         "rh_min": 45,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "cucurbits",
+      "indian bean",
+      "spinach",
+      "garlic",
+      "potato",
+      "cauliflower"
+   ],
+   "general_advisory": "Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, diarrhoea and even death in severe cases. Good ventilation must be ensured during winter.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "There will be chances of Sawfly infestation in Must ard crop. To manage this pest, irrigation should be done in seed ling stage (3-4 weeks) because most of the larvae die due to drowni ng effect. Manually collect and destroy grubs of sawfly in mor ning and evening hours.",
+            "To manage Mustard sawfly spray Ethofenprox 10 % EC @ 200- ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "There will be increase infestation of downy mildew due to present low temperature and foggy condition. To control thi s disease in cucurbits, Spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre or Fosetyl -AL 80 % WP @ 600 g/acre."
+         ]
+      },
+      "indian bean": {
+         "advisory": [
+            "To manage aphids at early stage, put 8 numbers of y ellow sticky traps per acre. Spray Neem based pesticide 15000 PP M @ 600ml/acre by mixing in 200litre of water. If the i nfestation is severe than spray chemical pesticide Thiamethoxam 2 5 % WG @ 50g/acre or Acetamiprid 20 % SP @ 50 g/acre in 200- liter of water."
+         ]
+      },
+      "spinach": {
+         "advisory": [
+            "Some varieties of Palak are Pusa Palak, All Green, Pusa Jyoti, Pusa Harit, Komal, Punjab Green. For cultivation of Pala k 10 12 kg seed is required per acre. Line sowing is done with a sp acing of 20 cm and 2-3 cm depth. Let's discuss about seed treatmen t and sowing time of Palak. Soak the seeds in water for 10-12 ho ur before sowing."
+         ]
+      },
+      "garlic": {
+         "advisory": [
+            "Currently it is the perfect time for planting garli c. Some varieties of Garlic include Agrifound white, Jamuna Safed (G-1), G-282, Agrifound Parvati (G-323) etc. In Garlic, 200-300 K g cloves per acre is required for Cultivation.",
+            "Garlic cloves should be treated with Carbendazim @ 2 g per kg of seeds. A spacing of 15 cm between the rows and 8 cm  within the rows is optimum for Garlic."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "There are chances of Early leaf Blight disease inci dence in potato crop. To control early leaf blight in potato, spray  Mancozeb 75% WP @600 g /acre or Carbendazim 12% + Mancozeb 63% W .P @ 400 g /acre."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "To manage Alternaria leaf spot disease in Cole crop s spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-l itre of water."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

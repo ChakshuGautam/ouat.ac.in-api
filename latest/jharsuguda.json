@@ -1,111 +1,87 @@
 {
    "weather_details": {
-      "21-12-2024": {
-         "rainfall": 7,
-         "t_max": 28,
-         "t_min": 14,
-         "rh_max": 86,
-         "rh_min": 56,
-         "wind_speed": 9,
-         "wind_direction": 45,
-         "cloud_cover": 6
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 53,
+         "cloud_cover": 1
       },
-      "22-12-2024": {
-         "rainfall": 2,
+      "29-12-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 58,
+         "cloud_cover": 3
+      },
+      "30-12-2024": {
+         "rainfall": 5,
          "t_max": 28,
-         "t_min": 14,
+         "t_min": 15,
          "rh_max": 81,
          "rh_min": 47,
          "wind_speed": 7,
-         "wind_direction": 49,
-         "cloud_cover": 5
-      },
-      "23-12-2024": {
-         "rainfall": 1,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 70,
-         "rh_min": 34,
-         "wind_speed": 8,
-         "wind_direction": 50,
-         "cloud_cover": 5
-      },
-      "24-12-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 13,
-         "rh_max": 67,
-         "rh_min": 33,
-         "wind_speed": 8,
-         "wind_direction": 56,
+         "wind_direction": 39,
          "cloud_cover": 2
       },
-      "25-12-2024": {
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 78,
+         "rh_min": 38,
+         "wind_speed": 8,
+         "wind_direction": 40,
+         "cloud_cover": 1
+      },
+      "01-01-2025": {
          "rainfall": 0,
          "t_max": 29,
          "t_min": 13,
-         "rh_max": 66,
-         "rh_min": 31,
-         "wind_speed": 5,
-         "wind_direction": 53,
-         "cloud_cover": 0
+         "rh_max": 73,
+         "rh_min": 34,
+         "wind_speed": 8,
+         "wind_direction": 37,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "kharif rice",
-      "summer rice",
-      "green gram/black gram",
       "ground nut",
       "cole crop",
-      "livestock",
-      "poultry"
+      "summer rice"
    ],
-   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations according to the extended range forecast. Take care of crops and animals to protect them from cold. Complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram, and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "general_advisory": "Far mers are advised to conduct harvest ing, sowing and spraying operations accordingly. Farmers are advised to make provision to take proper care of crops as well as animals to protect them from cold. Farmers are advised to complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer  Paddy where irrigation facilities are available.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is expected rainfall, so wait for harvesting operations and store the harvested paddy crop in safe places."
-         ]
-      },
-      "summer rice": {
-         "advisory": [
-            "Farmers should start field preparation for summer rice cultivation."
-         ]
-      },
-      "green gram/black gram": {
-         "advisory": [
-            "Farmers should treat seed with carbendazim and imidacloprid before sowing.",
-            "Seed should be sown with a spacing of 30cm×10cm.",
-            "Avoid irrigation for some days due to expected rainfall."
+            "There is some  rainfall event is expected in first half of upcoming  days so farmers are advised to wait some days for  harvesting operations and make provision to keep  the harvested paddy  crop in safe places to avoid any further damage.",
+            "Use ‘Super Grain Bag’ for safe storage of paddy/rice for longer period of time or store the harvested paddy in properly bagged and stacked with suitable cover to avoid damage due to untimely rain."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Use improved varieties for sowing.",
-            "Ensure seed treatment before sowing.",
-            "Regular monitoring against insect attack is advised."
+            "Past weather condition  (cloudy and foggy ) is favourable for sucking insect attack in groundnut crop so its regular monitoring should be advised. If attack observed, then  at initial stage spraying of Azadiractin or neem -based insecticide  1500 ppm  @ 600 ml  in 200  liters of water per acre. Use 8 yellow sticky traps  per acre. Trichogramma chilonis cards  @ 1-2 nos. per acre can also be used at one week interval. Cut the card into 12 pieces at the designated place. For chemical management, apply 40 grams of thiamethox am or 80 grams of Emamectin benzoate per acre in 200  liters of water. As some amount of rain is expected in upcoming two days so farmer should wait some days for irrigation and spraying operations."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Use straw for mulching in vegetable crops.",
-            "Monitor for Diamond back moth attack.",
-            "Spray neem oil or Emamectin Benzoate after rain if attack is observed."
+            "Straw can be used as mulching  material  in vegetable crops to soil maintain moisture as well as soil temperature in field during winter season.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower  should be advised  and if possible,  farmers should use pheromone trap in field for this purpose.",
+            "If attack observed then  spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter water should be advised after occurrence of rain."
          ]
       },
-      "livestock": {
+      "summer rice": {
          "advisory": [
-            "Protect animals from cold.",
-            "Vaccination and deworming should be done."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Ensure proper ventilation in poultry house.",
-            "Provide external heat source to keep the shed warm.",
-            "Maintain suitable temperature for drinking water."
+            "Farmers should start field preparation for summer season rice cultivation. For this purpose farmers may select some improved varieties like MTU 1010, MTU 1156, MTU 1001 , Lalat , Improved Lalat, Chandan , Swarna, etc."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

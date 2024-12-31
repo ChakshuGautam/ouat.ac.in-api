@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 8,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 96,
+         "rh_min": 65,
+         "wind_speed": 2,
+         "wind_direction": 108,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 3,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 90,
+         "rh_min": 49,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 4
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 83,
+         "rh_min": 34,
+         "wind_speed": 2,
+         "wind_direction": 108,
+         "cloud_cover": 2
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 81,
+         "rh_min": 33,
+         "wind_speed": 3,
+         "wind_direction": 120,
+         "cloud_cover": 3
+      },
+      "25-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 30,
+         "wind_speed": 1,
+         "wind_direction": 135,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "tomato/brinjal",
+      "cabbage",
+      "cauliflower",
+      "marigold",
+      "potato"
+   ],
+   "general_advisory": "The light rainfall will be very essential for the winter crops so farmers can skip the irrigation. Make the drainage channel open to avoid water stagnation. Harvested rice crop should be dried in sun, and then threshed & stored in a safe place.",
+   "crops_data": {
+      "tomato/brinjal": {
+         "advisory": [
+            "Harvest the mature crop and prevent water stagnation in the field",
+            "Maturity -harvesting",
+            "To control leaf eating caterpillar and fruit borer in Brinjal, spray 80 g Emamectin benzoate or 80 ml Spinosad per 200 liters of water after the rain recedes."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Make arrangements to prevent water stagnation in the field.",
+            "Harvest the mature crops.",
+            "Diamond Back Moth",
+            "Install 6-8 light traps per acre.",
+            "Spray Emamectin Benzoate 5% SG @80-gram/acre by mixing in 200-liters of water or Flubendiamide 20% WG @20-gram/acre after the rain recedes."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Maturity",
+            "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @4g/lt."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Mealy bug",
+            "Spray prophenophos or dimethoate @2ml/liter.",
+            "Provide irrigation to the plants regularly."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Sowing -Germination",
+            "Seed rate 25 quintal/hectare is required",
+            "Apply 15 t/ha of FYM and 2 kg each of Azospirillum and Phosphobacterium as basal and 235kg urea, 150kg DAP, 166 kg MOP in two split doses @basal and after 30 days after sowing."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

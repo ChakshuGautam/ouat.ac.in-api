@@ -1,53 +1,53 @@
 {
    "weather_details": {
-      "2024-12-18": {
+      "2024-12-28": {
          "rainfall": 0,
          "t_max": 26,
-         "t_min": 12,
-         "rh_max": 69,
-         "rh_min": 34,
-         "wind_speed": 3,
-         "wind_direction": 334,
-         "cloud_cover": 5
-      },
-      "2024-12-19": {
-         "rainfall": 0.1,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 70,
-         "rh_min": 37,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 41,
          "wind_speed": 4,
-         "wind_direction": 6,
-         "cloud_cover": 6
+         "wind_direction": 90,
+         "cloud_cover": 1
       },
-      "2024-12-20": {
-         "rainfall": 3.5,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 72,
+      "2024-12-29": {
+         "rainfall": 2,
+         "t_max": 25,
+         "t_min": 16,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      },
+      "2024-12-30": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 16,
+         "rh_max": 76,
          "rh_min": 44,
          "wind_speed": 4,
-         "wind_direction": 20,
-         "cloud_cover": 7
+         "wind_direction": 9,
+         "cloud_cover": 4
       },
-      "2024-12-21": {
-         "rainfall": 22,
-         "t_max": 27,
+      "2024-12-31": {
+         "rainfall": 0,
+         "t_max": 26,
          "t_min": 14,
-         "rh_max": 81,
-         "rh_min": 48,
-         "wind_speed": 4,
-         "wind_direction": 31,
-         "cloud_cover": 5
-      },
-      "2024-12-22": {
-         "rainfall": 6,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 75,
+         "rh_max": 80,
          "rh_min": 47,
          "wind_speed": 5,
-         "wind_direction": 90,
+         "wind_direction": 98,
+         "cloud_cover": 1
+      },
+      "2025-01-01": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 73,
+         "rh_min": 37,
+         "wind_speed": 5,
+         "wind_direction": 356,
          "cloud_cover": 2
       }
    },
@@ -55,167 +55,132 @@
       "rice",
       "mustard",
       "green gram",
-      "amaranth",
       "sunflower",
+      "amaranth",
+      "chilli",
+      "cabbage",
+      "tomato",
       "cauliflower",
       "onion",
-      "tomato",
       "brinjal",
       "marigold",
       "banana",
       "papaya",
       "garlic",
-      "garden pea",
+      "green pea",
       "pumpkin",
       "cow",
+      "goat",
       "fresh water",
       "chick"
    ],
-   "general_advisory": "Go for harvesting of rice at physiological maturity stage to avoid lodging and germination in the field itself. Make provision for draining out water in standing rice crop by making alleys (Pahi) and keep the drain ends open. Go for threshing of the harvested paddy. After threshing, paddy grains need to be sun-dried to 14% moisture for consumption purpose and for seed purpose it should be dried to 12% moisture for better self-life. Rodent infestation has been found in the threshing floor and in the field itself. Use poison bait. For the preparation of 100 g poison bait mix 96 g flour , 2 g edible oil and 2 g Zinc phosphide. Keep water in earthen bowl near the poison bait. Keep one celphos tablet in the mouth of each rat hole. Use ‘Super Grain Bag’ for safe storage of paddy/rice for longer period of time or store the harvested paddy in properly bagged and stacked with suitable cover to avoid damage due to untimely rain. Start field preparation for green gram and black gram where irrigation facilities are available, grow Rabi crops like groundnut, Cowpea in medium/shallow lowlands utilising the available soil moisture in the field.",
+   "general_advisory": "Go for harvesting of rice at harvest maturity stage to avoid lodging and germination in the field itself...",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Harvest the paddy if 85% of grains are matured.",
-            "Keep the harvested products in a safe place.",
-            "Make provision for draining out water in standing rice crop by making alleys (Pahi) and keep the drain ends open.",
-            "Do not leave harvested paddy in the field.",
-            "If paddy is lodged then it should be tied together in a standing condition in the field.",
-            "The transplanted paddy is at harvesting stage.",
-            "The direct-seeded rice crop is at a harvesting stage.",
-            "Drain out water from the crop field at the maturity stage.",
-            "Keep the harvested paddy by covering or carry to covered threshing floor."
+            "Soon after noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of plastic cover should be plastered with 6- inch thick layer of mud/ adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
          ]
       },
       "mustard": {
          "advisory": [
-            "Optimum time for sowing of Rabi mustard has come, use varieties like T-9, PT-303, Nirmal black gold, uttra and 3-5 kg of seed for line sowing.",
-            "Use 3-gram of Captan or Thiram per 1 kg of seed.",
-            "Give spacing of 20*10 cm in late varieties and 30*10 cm in early sown varieties."
+            "Optimum time for sowing of Rabi mustard has come, use varieties like T-9, PT-303, Nirmal black gold, uttra and 3-5 kg of seed for line sowing. Use 3 gram of Captan or Thiram per 1 kg of seed. Give spacing of 20*10 cm in late varieties and 30*10 cm in early sown varieties."
          ]
       },
       "green gram": {
          "advisory": [
-            "Treat the seeds with Carbendazim 50% WP @ 2-gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing.",
-            "Before sowing, treat the seeds with Rhizobium culture @ 20-gram/ kg of seeds.",
-            "Apply 2 tons of FYM or Compost at the time of last ploughing along with 35 kg DAP, 13 kg MOP, 4 kg of Urea per acre as basal fertilizer."
-         ]
-      },
-      "amaranth": {
-         "advisory": [
-            "October to March is suitable for greens amaranth.",
-            "Amaranth are of two types- White or Red.",
-            "Use 3 kg seeds/acre.",
-            "Layout 5 ft long beds of 4 ft wide with bunds.",
-            "Pulverise the beds, remove the weeds and apply 1 to 2 baskets of FYM/ bed.",
-            "Because of small size seeds, mix some coarse sands with the seeds for easy and uniform sowing.",
-            "After sowing cover the seeds with a thin layer of soil and cover it with straw followed by light irrigation.",
-            "Remove the straw after emergence."
+            "Treat the seeds with Carbendazim 50% WP @ 2-gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing. Before sowing, treat the seeds with Rhizobium culture @ 20- gram/ kg of seeds. Apply 2 ton of FYM or Compost at the time of last ploughing along with 35 kg DAP , 13 kg MOP , 4 kg of Urea per acre as basal fertilizer ."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Sunflower is a profitable rabi oilseed crop.",
-            "Now the time is optimum for sowing of sunflower.",
-            "Grow high yielding varieties like Morden, Sunrise, Surya and Hybrid varieties like KBSH-1, KBSH-3 and MSFH.",
-            "Use 4 kg seeds/acre for high yielding varieties for rainfed conditions, 3.5 kg for irrigated conditions, 2-2.5 kg seeds/acre for hybrid varieties under rainfed conditions and 1.5-2 kg seeds for irrigated conditions.",
-            "Before sowing treat the seeds with 2 g Carbendazim/kg seeds.",
-            "To protect the crop from fungal wilt, treat the seeds with 4 g Trichoderma/kg.",
-            "Soak the seeds for 10-12 hours for better germination.",
-            "Use 600 g PSB culture per acre after draining out the water.",
-            "Apply 2 tons FYM along with 8:16:12 kg NPK per acre for high yielding varieties and double of it for hybrid varieties before sowing.",
-            "Sow the seeds 30 cm apart maintaining a row spacing of 45 cm for loamy soil and 60 cm for clayey soil."
+            "Sunflower is a profitable rabi oilseed crop. Now the time is optimum for sowing of sunflower . Grow high yielding varieties like Morden, Sunrise, Surya and Hybrid varieties like KBSH-1, KBSH-3 and MSFH. Use 4 kg seeds/acre for high yielding varieties for rainfed condition, 3.5 kg for irrigated condition, 2-2.5 kg seeds/acre for hybrid varieties under rainfed condition and 1.5-2 kg seeds for irrigated condition. Before sowing treat the seeds with 2 g Carbendazim/kg seeds. To protect the crop from fungal wilt, treat the seeds with 4 g Trichoderma/kg. Soak the seeds for 10-12 hours for batter germination. Use 600 g PSB culture per acre after draining out the water . Apply 2 ton FYM along with 8:16:12 kg NPK per acre for high yielding varieties and double of it for hybrid varieities before sowing. Sow the seeds 30 cm apart maintaining a row spacing of 45 cm for loamy soil and 60 cm for clayey soil."
          ]
       },
-      "cauliflower": {
+      "amaranth": {
          "advisory": [
-            "Apply 25-kg of Urea per acre after hoeing and hand weeding at 15-20 DAT and 25 kg of urea and 25-kg of MOP per acre as last top-dressing fertilizer at 30-35 DAT.",
-            "If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor/Solubor @ 1.5 gram/litre.",
-            "Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+            "October to March is suitable for greens amaranth. Amaranth are of two types- White or Red. Use 3 kg seeds/acre.Layout 5 ft long beds of 4 ft wide with bunds. Pulverise the beds, remove the weeds and apply 1 to 2 baskets of FYM/ bed. Because of small size seeds, mix some coarse sands with the seeds for easy and uniform sowing. After sowing cover the seeds with thin layer of soil and cover it with straw followed by light irrigation. Remove the straw after emergence."
          ]
       },
-      "onion": {
+      "chilli": {
          "advisory": [
-            "Varieties like Agrifound light Red, Agrifound Dark Red, Bhima Shakti, Bhima Super, Arka Niketan etc are suitable for our Odisha condition during the winter season.",
-            "For one acre of Onion cultivation 4-Kg of seeds require to raise the nursery.",
-            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2-gram/ per kg of seeds or Carboxin 37.5% + Thiram 37.5% D.S @ 3-gram/ kg of seeds.",
-            "To prevent Damping of f disease in the nursery, drench the nursery bed with Carbendazim @ 2-gram/litre of water at 15 days interval.",
-            "Seedlings of 8-weeks old are planted in the main field."
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "To manage Diamond Back Moth install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 300 PPM @ 1-litre/acre by mixing in 200-litre of water . Spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ @80-gram/acre by mixing in 200-litre of water ."
          ]
       },
       "tomato": {
          "advisory": [
-            "For tomato apply 30-kg of urea and 20-kg of Murate of potash after hoeing and hand weeding at 20-25 DAT and rest 30 kg of urea at 40-45 DAT.",
-            "For better yield spray mixture of micronutrient @ 3-gram/litre two to three times at 10-15 days interval after 45 DAT."
+            "Use yellow sticky traps @ 8-10/acre to attract and kill the insects. During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre by mixing in 200 litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Pyriproxifen 10% EC @ 200 ml/acre or Spiromesifen 22.9% SC @ 250 ml/acre by mixing in 200 litre of water ."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply 25-kg of Urea per acre after hoeing and hand weeding at 15-20 DAT and 25 kg of urea and 25-kg of MOP per acre as last top-dressing fertilizer at 30-35 DAT. If Borax was not applied during transplanting of seedlings than spray Borax @ 4 kg/acre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Varieties like Agrifound light Red, Agrifound Dark Red, Bhima Shakti, Bhima Super , Arka Niketan etc are suitable for our Odisha condition during winter season. For one acre of Onion cultivation 4-Kg of seeds require to raise the nursery . Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2-gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds. To prevent Damping of f disease in nursery , drench the nursery bed with Carbendazim @ 2-gram/litre of water at 15 days interval. Seedlings of 8-weeks old are planted in the main field."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To control Phomopsis Blight disease in Brinjal spray Metalaxyl 8%+ Mancozeb 64 % WP @ 400 gram/acre or Propineb 70 % WP @ 400-gram/acre."
+            "For Brinjal apply 30 kg of Urea and 20 kg of Muriate of potash per acre after hoeing and hand weeding at 30 DAT and 30 kg of rest urea as last top-dressing fertilizer at 45 DAT. For better yield spray mixture of micronutrient @ 3-gram/litre twice at 30 and 60 DAT."
          ]
       },
       "marigold": {
          "advisory": [
-            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57 % EC (Omite/Mitekill/Super Dynamite) @ 2-ml/litre of water or Fenpyroximate 5 % EC (Seagate/Mitigate/Formite) @ 2-ml/litre of water."
+            "To manage Red Spider Mites in flower like Marigold and rose spray wettable sulphur 80 % WP (Sulfex/Balwan/Sulfadex) @ 2-gram/litre of water or Propargite 57 % EC (Omite/Mitekill/Super Dynamite) @ 2-ml/litre of water or Fenpyroximate 5 % EC (Seagate/Mitigate/Formite) @ 2-ml/litre of water ."
          ]
       },
       "banana": {
          "advisory": [
-            "To manage stem weevil, install Cosmolure pheromone traps @ 10/acre in banana garden.",
-            "Dip the banana stem in warm water for 30 minutes before planting.",
-            "Fill the pit with 25 g neem pedia or 25-50 g any granular insecticide before planting.",
-            "Cut the affected plant into pieces and dry under the sun.",
-            "Keep the banana garden neat and clean."
+            "To manage stem weevil, install Cosmolure pheromone traps @ 10/acre in banana garden. Dip the banana stem in warm water for 30 minutes before planting. Fill the pit with 25 g neem pedia or 25-50 g any granular insecticide before planting. Cut the affected plant into pieces and dry under sun. Keep the banana garden neat and clean."
          ]
       },
       "papaya": {
          "advisory": [
-            "To manage mealy bug at the early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water or insecticidal soap.",
-            "In case of severe infestation spray Profenphos 50 % EC @ 20-ml/10-litre of water or Thiamethoxam 25 % WG @ 3-gram/10-litre of water."
+            "To manage mealy bug at early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @30- ml/10-litre of water or insecticidal soap. In case of severe infestation spray Profenphos 50 % EC @ 20-ml/10-litre of water or Thiamethoxam 25 % WG @ 3-gram/10-litre of water ."
          ]
       },
       "garlic": {
          "advisory": [
-            "The weather is optimum for sowing of garlic in irrigated upland and medium land Grow HYV like Phawari, Jamnagar and G-282.",
-            "Use 150 kg seed material per acre.",
-            "Apply 24:24:24 kg NPK per acre as basal along with 15 tons of FYM.",
-            "Sow the seeds at 8 cm apart, maintaining a row spacing of 20 cm."
+            "The weather is optimum for sowing of garlic in irrigated upland and medium land Grow HYV  like Phawari, Jamnagar and G-282. Use 150 kg seed material per acre. Apply 24:24:24 kg NPK per acre as basal along with 15 tons of FYM. Sow the seeds at 8 cm apart, maintaining a row spacing of 20 cm."
          ]
       },
-      "garden pea": {
+      "green pea": {
          "advisory": [
-            "Now it is the optimum time for sowing of green pea in the fallow uplands.",
-            "High Yielding varieties suitable for Odisha such as Rachana, Arkel and T -163 Use 25-30 kg seeds/acre.",
-            "Before sowing seeds are to be treated with 2 g Carbendazim/kg seeds.",
-            "Apply 10:16:10 kg NPK/acre during final land preparation.",
-            "Sow the seeds in line 30 cm apart with 10 cm plant to plant distance."
+            "Now it is optimum time for sowing of green pea in the fallow uplands. High Yielding varieties suitable for Odisha such as Rachana, Arkel and T -163 Use 25-30 kg seeds/acre. Before sowing seeds are to be treated with 2 g Carbendazim/kg seeds. Apply 10:16:10 kg NPK/acre during final land preparation. Sow the seeds in line 30 cm apart with 10 cm plant to plant distance."
          ]
       },
       "pumpkin": {
          "advisory": [
-            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion or DDVP in 4-litre of water.",
-            "Keep this mixture in plastic cups or clay pots @80-nos/acre.",
-            "The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400- gram Jaggery and 8-ml Malathion or DDVP in 4-litre of water . Keep this mixture in Plastic cups or clay pots @80-nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
          ]
       },
       "cow": {
          "advisory": [
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
+            "Provide proper shelter to the animals with proper ventilation facilities. Floor should be clean, dry and bedding with straw which act as insulation and prevention of heat loss. In winter season animal required high amount of food as temperature drops. Roughage should be given high amount to maintain the milk production. Maize, wheat and concentrate oil cakes @ 3 kg to the large animals such as Buffalo and cattle feedling helps in maintaining the body heat of the animals."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, diarrhea and even death in severe case. Good ventilation must be ensured during winter."
          ]
       },
       "fresh water": {
          "advisory": [
-            "During winters, various fungal, bacterial, and parasitic diseases may appear in the fish.",
-            "Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters.",
-            "Also treat the pond with potassium permanganate @ 1-2 kg/acre or limestone @ 50-100 kg/acre.",
-            "Salt application @ 100 kg/acre also helps in protecting fish against disease outbreak during winters."
+            "During winters, various fungal, bacterial and parasitic diseases may appear in the fish. Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1-2 kg/acre or limestone @ 50-100 kg/acre. Salt application @ 100 kg/acre also helps in protecting fish against disease outbreak during winters."
          ]
       },
       "chick": {
          "advisory": [
-            "If the Poultry bird is 3-4 weeks old then go for Vaccination against Ranikhet disease."
+            "If the Poultry bird is 3-4 weeks old, then go for Vaccination against Ranikhet disease."
          ]
       }
    },
-   "date": "17-12-2024",
-   "ERROR": "Not getting consistent data."
+   "date": "27-12-2024"
 }

@@ -1,0 +1,67 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 15,
+         "t_max": 26,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 13,
+         "wind_direction": 23,
+         "cloud_cover": 8
+      },
+      "22/12/2024": {
+         "rainfall": 10,
+         "t_max": 26,
+         "t_min": 21,
+         "rh_max": 92,
+         "rh_min": 55,
+         "wind_speed": 14,
+         "wind_direction": 16,
+         "cloud_cover": 7
+      },
+      "23/12/2024": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 77,
+         "rh_min": 39,
+         "wind_speed": 13,
+         "wind_direction": 19,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "brinjal",
+      "cauliflower"
+   ],
+   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep the harvested paddy in a safe place with polythene to protect it from rain. Make provisions for draining out excess rainwater.",
+   "crops_data": {
+      "PADDY": {
+         "advisory": [
+            "Prepare the wet nursery seed beds for paddy. Apply fertilizers and prepare for transplanting.",
+            "Maintain irrigation channels for drainage purposes.",
+            "Sow sprouted seeds with appropriate spacing."
+         ]
+      },
+      "SUGARCANE": {
+         "advisory": [
+            "Planting should be done in well-drained soil with good irrigation facilities."
+         ]
+      },
+      "BRINJAL": {
+         "advisory": [
+            "Spray Neem-based pesticide for fruit and shoot borer control.",
+            "Follow up with alternate sprays for effective control."
+         ]
+      },
+      "CAULIFLOWER": {
+         "advisory": [
+            "Apply borax for browning or brown rot prevention."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

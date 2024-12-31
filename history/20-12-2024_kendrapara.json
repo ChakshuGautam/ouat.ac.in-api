@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "21/12/2024": {
+         "rainfall": 15,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 91,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 32,
+         "cloud_cover": 8
+      },
+      "22/12/2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 91,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 15,
+         "cloud_cover": 15
+      },
+      "23/12/2024": {
+         "rainfall": 1,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 74,
+         "rh_min": 38,
+         "wind_speed": 10,
+         "wind_direction": 15,
+         "cloud_cover": 15
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "brinjal",
+      "cauliflower"
+   ],
+   "general_advisory": "Light rainfall may occur on Saturday & Sunday with generally cloudy to overcast sky. Keep the harvested paddy in a safe place with polythene to protect from rain. Make arrangements for draining excess rainwater from crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare wet nursery seed beds for paddy",
+            "Apply fertilizers like FYM, DAP, MOP, and Zinc sulphate",
+            "Sow sprouted seeds with proper spacing",
+            "Make alleys for irrigation and drainage",
+            "Tie panicles of paddy in bundles after lodging"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Plant sugarcane in well-drained soil",
+            "Plant during November to February",
+            "Ensure good irrigation facilities"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Spray Neem based pesticide for Fruit and shoot borer control",
+            "Follow up with alternate sprays in dry weather"
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply borax during transplanting to prevent Brown rot",
+            "Spray Boron micronutrient after transplanting"
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

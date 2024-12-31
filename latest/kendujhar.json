@@ -1,136 +1,145 @@
 {
    "weather_details": {
-      "21-12-2024": {
-         "rainfall": 8,
-         "t_max": 25,
-         "t_min": 16,
-         "rh_max": 84,
-         "rh_min": 55,
+      "27-12-2024": {
+         "rainfall": 18,
+         "t_max": 24,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
          "wind_speed": 4,
-         "wind_direction": 27,
-         "cloud_cover": 7
+         "wind_direction": 90,
+         "cloud_cover": 1
       },
-      "22-12-2024": {
-         "rainfall": 5,
-         "t_max": 25,
-         "t_min": 16,
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 352,
+         "cloud_cover": 1
+      },
+      "30-12-2024": {
+         "rainfall": 4,
+         "t_max": 27,
+         "t_min": 15,
          "rh_max": 79,
+         "rh_min": 46,
+         "wind_speed": 4,
+         "wind_direction": 17,
+         "cloud_cover": 1
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 83,
          "rh_min": 45,
          "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 6
+         "wind_direction": 8,
+         "cloud_cover": 2
       },
-      "23-12-2024": {
-         "rainfall": 1,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 73,
-         "rh_min": 33,
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 78,
+         "rh_min": 39,
          "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 6
-      },
-      "24-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 66,
-         "rh_min": 30,
-         "wind_speed": 3,
-         "wind_direction": 6,
-         "cloud_cover": 4
-      },
-      "25-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 64,
-         "rh_min": 29,
-         "wind_speed": 2,
-         "wind_direction": 334,
+         "wind_direction": 4,
          "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "paddy",
-      "mustard and toria",
+      "mustard",
+      "toria",
       "chickpea",
       "linseed",
       "tomato",
       "cauliflower",
-      "marigold",
+      "chilli",
+      "brinjal",
       "rose",
       "banana"
    ],
-   "general_advisory": "Hold the irrigation for next few days as rainfall is expected. Make drainage to remove excess water from the field. Make arrangement to store rainwater for further use in irrigation. Harvest the paddy as soon as possible. Postpone the spraying activities for few days.",
+   "general_advisory": "Reduce the moisture content of the paddy by sun drying. Rabi crops to be sown as soon as possible. Spraying activities can be taken into consideration in the morning and evening hours.",
    "crops_data": {
-      "paddy": {
+      "mustard": {
          "advisory": [
-            "Harvest the paddy as early as possible.",
-            "Keep the harvested ones at safe and dry places.",
-            "If harvesting cannot be completed before the rain occurs, leave it to dry under the sun for a few more days."
+            "Spray Imidachloprid 17.8% SL @ 2 ml/lt to reduce the incidence of aphids and mustard sawfly in Mustard and Toria.",
+            "Carry out thinning of plants to maintain optimum plant population."
          ]
       },
-      "mustard and toria": {
+      "toria": {
          "advisory": [
-            "Postpone spraying activities for the next few days.",
-            "Maintain plant population by thinning the plants.",
-            "Make drainage to remove excess water from the field in case of excess rainfall."
+            "Spray Imidachloprid 17.8% SL @ 2 ml/lt to reduce the incidence of aphids and mustard sawfly in Mustard and Toria.",
+            "Carry out thinning of plants to maintain optimum plant population."
          ]
       },
       "chickpea": {
          "advisory": [
-            "Provide smoke to the crops to reduce chilling injury.",
             "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
-            "Powdery mildew in chickpea may be seen in the near future. To manage the same, spray Dithane M-45 @ 2.5 g/lt.",
-            "Spraying should be done after the rainfall activity."
+            "Powdery mildew in chickpea may be seen in near future. To manage the same, spray Dithane M -45 @ 2.5 g/lt.",
+            "Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt."
          ]
       },
       "linseed": {
          "advisory": [
-            "Drain out excess water from the field if waterlogging condition prevails.",
-            "Protect the crop from cold waves.",
             "Make sure to maintain the spacing and plant population.",
             "Remove any weeds present within the crop.",
-            "Regularly keep a watch on the diseases."
+            "Powder mildew in linseed can be reduced by spraying wettable sulphur @ 3% or Karathane @ 2g/lt."
          ]
       },
       "tomato": {
          "advisory": [
-            "Postpone irrigation till the next advisory.",
-            "Harvest the matured fruits.",
             "Provide staking to the plants.",
-            "Fruit and shoot borer in tomato plants can be managed by spraying Flubendiamide 20 WG @ 2g/10lt or Emamectin benzoate 4% SG @ 4 g/10lt of water.",
-            "Remove weeds from the field."
+            "Fruit and shoot borer in tomato plants can be managed by spraying Flubendiamide 20 WG @ 2g/10lt or Emamectin benzoate 4%SG @ 4 g/10lt of water.",
+            "Provide irrigation to the crop if plants getting wilted."
          ]
       },
       "cauliflower": {
          "advisory": [
             "Cauliflower borer can be managed by manually destroying the borers.",
-            "In case of heavy infestation spray Cartap hydrochloride @ 6 g/15 lts.",
-            "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @ 4g/lt.",
-            "Spraying activities should be continued after 3-4 days."
+            "In case of heavy infestation of borers spray Cartap hydrochloride @ 6 g/15 lts.",
+            "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @ 4g/lt."
          ]
       },
-      "marigold": {
+      "chilli": {
          "advisory": [
-            "Provide irrigation to the crops.",
-            "Pinching process should be done to encourage branching.",
-            "Powdery mildew disease can be controlled by spraying Wettable sulphur powder."
+            "Remove the wilted plants from the field and destroy them away from the field.",
+            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Remove weeds from the field and keep the plant root zone clean.",
+            "For managing Fruit and shoot borer spray Emamectin benzoate 4% SG @ 4g/10 lt."
          ]
       },
       "rose": {
          "advisory": [
             "Pruning of rose plant is necessary to encourage new flushes of branches.",
-            "Mealy bug infestation may be seen in the plants. Keep a watch on it."
+            "Mealy bug infestation may be seen in the plants. Keep a watch on it.",
+            "Pour Sampoo water or soap water to reduce the mealy bug incidence."
          ]
       },
       "banana": {
          "advisory": [
-            "Provide support to the plant where banana bunch has emerged.",
-            "Cover the bunch with gunny bags to protect from the rain and monkeys."
+            "Apply irrigation to the plants in ring basin system.",
+            "Harvest the matured banana bunch and cover the unripened bunch with bags to protect it from monkeys and birds."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }

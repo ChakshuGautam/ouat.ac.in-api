@@ -1,0 +1,149 @@
+{
+   "weather_details": {
+      "21-12-2024": {
+         "rainfall": 7,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 96,
+         "rh_min": 61,
+         "wind_speed": 2,
+         "wind_direction": 72,
+         "cloud_cover": 6
+      },
+      "22-12-2024": {
+         "rainfall": 3,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 91,
+         "rh_min": 46,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 6
+      },
+      "23-12-2024": {
+         "rainfall": 1,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 73,
+         "cloud_cover": 5
+      },
+      "24-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 84,
+         "rh_min": 38,
+         "wind_speed": 4,
+         "wind_direction": 107,
+         "cloud_cover": 4
+      },
+      "25-12-2024": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 78,
+         "rh_min": 35,
+         "wind_speed": 3,
+         "wind_direction": 97,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "groundnut",
+      "greengram",
+      "blackgram",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "brinjal",
+      "tomato",
+      "okra",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card. Hold off on spraying of pesticides for the time being. Complete the impending rabi crop sowing to utilize anticipated rainfall.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Go for nursery raising of summer rice from Dec to 1st week of January. Early planting reduces stem borer attack.",
+            "Select certified 3-4 months duration HYV resistant to biotic stress like Khandagiri, Mandakini, Sahabhagi Dhan, MTU 1010, Sidhant, Lalat, CR Dhan 101etc.",
+            "Dip the seeds in the brine solution to discard the chaffs & half filled seeds."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Prevailing weather condition favours the following pest attack. So, recommended control measures should be followed as required.",
+            "To control pod borer, apply recommended insecticides."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Imazethapyr for weed management."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Apply Pendimithalin for weed management."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Apply Pendimithalin for weed management."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "For control of Aphids and fly, spray recommended insecticides.",
+            "For weed management, apply Quizalofop-ethyl."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "For pest management, spray recommended bio insecticides."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "For pest management, spray recommended insecticides.",
+            "Chances of aphid infestation in cabbage, if observed, spray Thiamethoxam or Acetamiprid."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "For pest management, spray recommended bio insecticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control shoot borer, spray recommended insecticides."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Keep an eye out for early blight infestation and white fly infestation. Spray recommended fungicides and insecticides accordingly."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control aphid infestation, spray recommended insecticides."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Protect goats from chill wind and damp floors."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat to chicks during night hours to reduce mortality rate."
+         ]
+      }
+   },
+   "date": "20-12-2024"
+}

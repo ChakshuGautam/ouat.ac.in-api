@@ -1,78 +1,78 @@
 {
    "weather_details": {
-      "2024-12-10": {
-         "rainfall": 0,
-         "t_max": 28,
+      "2024-12-25": {
+         "rainfall": 10,
+         "t_max": 25,
+         "t_min": 20,
+         "rh_max": 84,
+         "rh_min": 57,
+         "wind_speed": 4,
+         "wind_direction": 354,
+         "cloud_cover": 8
+      },
+      "2024-12-26": {
+         "rainfall": 6,
+         "t_max": 25,
+         "t_min": 20,
+         "rh_max": 87,
+         "rh_min": 50,
+         "wind_speed": 3,
+         "wind_direction": 354,
+         "cloud_cover": 8
+      },
+      "2024-12-27": {
+         "rainfall": 1,
+         "t_max": 26,
          "t_min": 19,
-         "rh_max": 86,
-         "rh_min": 46,
+         "rh_max": 84,
+         "rh_min": 42,
          "wind_speed": 4,
-         "wind_direction": 343,
-         "cloud_cover": 3
+         "wind_direction": 338,
+         "cloud_cover": 6
       },
-      "2024-12-12": {
+      "2024-12-28": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 78,
-         "rh_min": 36,
-         "wind_speed": 5,
-         "wind_direction": 346,
-         "cloud_cover": 1
-      },
-      "2024-12-13": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 74,
-         "rh_min": 30,
+         "t_max": 26,
+         "t_min": 19,
+         "rh_max": 82,
+         "rh_min": 43,
          "wind_speed": 4,
-         "wind_direction": 329,
-         "cloud_cover": 0
+         "wind_direction": 323,
+         "cloud_cover": 4
       },
-      "2024-12-14": {
+      "2024-12-29": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 64,
-         "rh_min": 28,
-         "wind_speed": 4,
-         "wind_direction": 329,
-         "cloud_cover": 0
-      },
-      "2024-12-15": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 63,
-         "rh_min": 23,
-         "wind_speed": 5,
-         "wind_direction": 334,
-         "cloud_cover": 1
+         "t_max": 26,
+         "t_min": 19,
+         "rh_max": 81,
+         "rh_min": 39,
+         "wind_speed": 3,
+         "wind_direction": 320,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "mustard",
-      "potato",
-      "cabbage"
+      "rice",
+      "cabbage",
+      "cow"
    ],
-   "general_advisory": "Rainfall followed by clear sky , dry weather favours sucking pest like aphids, Jassids, thrips and whiteflies. To manage these pests at early stage of infestation spray neem-based pesticide (Neem Oil) 1500 PPM @600-ml/acre by mixing it in 200-litre of water . To manage these sucking pests chemically spray Thiamethoxam 25 % WG) @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre or Tolfenpyrad 15 % EC @ 400-ml/acre by mixing it in 200- litre of water . Dry weather is expected in the coming five days. Farmers can go for irrigation and spray operation.",
+   "general_advisory": "Postpone harvesting of rice. Store harvested produce in safe place or cover with polythene. Store the harvested rice safe place away from rats.",
    "crops_data": {
-      "mustard": {
+      "rice": {
          "advisory": [
-            "Optimum time for sowing of Rabi mustard has come, use varieties like T-9, PT-303, Nirmal black gold, uttra and 3-5 kg of seed for line sowing. Use 3 gram of Captan or Thiram per 1 kg of seed. Give spacing of 20*10 cm in late varieties and 30*10 cm in early sown varieties."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "As weather is expected to be clear farmers can go for sowing of potato. Furrows are opened at a distance of 50-60 cm before planting. The whole or cut tubers are planted 15- 20 cm apart on the centre of the ridge at a depth of 5-7 cm and covered with soil. The seed rate of potato depends upon the season of planting, duration, seed size, spacing etc. The seed rate is 1.5-1.8 t/ha for round varieties and 2.0-2.5 t/ha for oval varieties."
+            "As light rain is expected postpone harvesting of matured rice. If already harvested store in safe places."
          ]
       },
       "cabbage": {
          "advisory": [
-            "To manage Diamond Back Moth install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem based pesticide (Azadirachtin) 300 PPM @ 1-litre/acre by mixing in 200-litre of water . Spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ @80-gram/acre by mixing in 200-litre of water ."
+            "For the late sown cabbage, spray NSKE 5% after the primordial stage to the diamondback moth, Or spray Cartap Hydrochloride 1gm/lt at the primordial stage on clear sky condition."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Animals should be given a mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
          ]
       }
    },
-   "date": "10-12-2024"
+   "date": "24-12-2024"
 }

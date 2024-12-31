@@ -1,72 +1,95 @@
 {
    "weather_details": {
-      "21-12-2024": {
-         "rainfall": 7,
-         "t_max": 27,
-         "t_min": 19,
-         "rh_max": 56,
-         "rh_min": 89,
-         "wind_speed": 5,
-         "wind_direction": 54,
-         "cloud_cover": 5
-      },
-      "22-12-2024": {
-         "rainfall": 3,
-         "t_max": 27,
-         "t_min": 19,
-         "rh_max": 43,
-         "rh_min": 84,
-         "wind_speed": 5,
-         "wind_direction": 52,
-         "cloud_cover": 5
-      },
-      "23-12-2024": {
-         "rainfall": 1,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 31,
-         "rh_min": 78,
-         "wind_speed": 5,
-         "wind_direction": 50,
-         "cloud_cover": 3
-      },
-      "24-12-2024": {
+      "28-12-2024": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 19,
-         "rh_max": 29,
-         "rh_min": 71,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 36,
+         "rh_min": 79,
          "wind_speed": 5,
-         "wind_direction": 70,
+         "wind_direction": 69,
          "cloud_cover": 1
       },
-      "25-12-2024": {
-         "rainfall": 1,
+      "29-12-2024": {
+         "rainfall": 5,
          "t_max": 28,
-         "t_min": 19,
-         "rh_max": 28,
-         "rh_min": 68,
+         "t_min": 17,
+         "rh_max": 39,
+         "rh_min": 77,
          "wind_speed": 4,
-         "wind_direction": 67,
+         "wind_direction": 0,
+         "cloud_cover": 6
+      },
+      "30-12-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 45,
+         "rh_min": 82,
+         "wind_speed": 4,
+         "wind_direction": 18,
+         "cloud_cover": 5
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 37,
+         "rh_min": 80,
+         "wind_speed": 6,
+         "wind_direction": 5,
+         "cloud_cover": 2
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 31,
+         "rh_min": 77,
+         "wind_speed": 5,
+         "wind_direction": 355,
          "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "kharif rice",
-      "ground nut"
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
    ],
-   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They are advised to take proper care of crops and animals to protect them from the cold. Sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram should be completed and nursery sowing of Summer Paddy should be started where irrigation facilities are available.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They should also take proper care of crops and animals to protect them from cold. Sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram is recommended.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall event expected in the first half of upcoming days so farmers are advised to wait for harvesting operations and make provisions to keep the harvested paddy in safe places to avoid damage. Use 'Super Grain Bag' for safe storage of paddy/rice for longer periods or store the harvested paddy properly to avoid damage due to untimely rain."
+            "There is some rainfall event expected in the first half of upcoming days, so farmers are advised to wait for harvesting operations and store the harvested paddy crop in safe places.",
+            "Use 'Super Grain Bag' or proper bagging and stacking methods for safe storage of paddy/rice."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Farmers should use improved Groundnut varieties for sowing seeds and ensure seed treatment before sowing. Conduct gap filling for seedlings that have not emerged. Regular monitoring against insect attacks is advised."
+            "Regular monitoring for sucking insect attack in groundnut crops is advised, with spraying of Azadiractin or neem-based insecticide if attack is observed.",
+            "Wait for irrigation and spraying operations due to expected rainfall in the upcoming days."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use straw as mulching material in vegetable crops to maintain soil moisture and temperature during winter season.",
+            "Regular monitoring against Diamond back moth in cauliflower is recommended, with neem oil or Emamectin Benzoate spraying after rain."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold using jute bags and bedding material, provide clean drinking water, and maintain clean sheds.",
+            "Vaccination and deworming should be done to control diseases and worms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation and use external heat sources to keep the poultry shed warm and dry.",
+            "Maintain suitable water temperature for poultry intake."
          ]
       }
    },
-   "date": "20-12-2024"
+   "date": "27-12-2024"
 }
