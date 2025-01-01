@@ -53,48 +53,50 @@
    },
    "names_of_crops": [
       "paddy",
-      "blackgram",
-      "greengram",
+      "blackgram and greengram",
       "groundnut",
       "cabbage",
       "coriander",
       "mango"
    ],
-   "general_advisory": "By utilizing the soil moisture from past rainfall, continue sowing operation of summer paddy. Polythene to cover the paddy nursery at night-time. Protect the paddy nursery, apply a thin layer of well-decomposed FYM in wet. Cover the recently planted cole crops with paper pockets during nighttime to avoid low temperature. There will be a chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms of pests or diseases are noticed, undertake appropriate plant protection measures.",
+   "general_advisory": "By utilizing the soil moisture from past rainfall, continue sowing operation of summer paddy. Polythene to cover the paddy nursery at night-time. Protect the paddy nursery, apply a thin layer of well decomposed FYM in wet bed to keep the bed relatively warm. Cover the recently planted cole crops with paper pockets during night time to avoid low temperature. Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf rust, blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Nursery: Utilize soil moisture for sowing, cover with polythene at night, apply well-decomposed FYM for warmth"
+            "By utilizing the soil moisture from past rainfall, continue sowing operation of summer paddy.",
+            "Polythene to cover the paddy nursery at night-time.",
+            "Protect the paddy nursery, apply a thin layer of well decomposed FYM in wet bed to keep the bed relatively warm."
          ]
       },
-      "blackgram": {
+      "blackgram and greengram": {
          "advisory": [
-            "Vegetative stage: Continue care and monitoring"
-         ]
-      },
-      "greengram": {
-         "advisory": [
-            "Vegetative stage: Continue care and monitoring"
+            "Agromet Advisory: Farmers those are going for Wet direct sown rice cultivation should apply 35 kg DAP, 27 kg Potash and 8 kg Urea per acre during last puddling."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Vegetative stage: Treat for stem rot with appropriate fungicides"
+            "To control stem rot in groundnut go for seed treatment with tricoderma viride @4g per kg of seed.",
+            "Drench the root zone with Validamycin @ 400 ml or Captan and Hexaconazole @ 300 g / acre by mixing it in 200 litre of water."
          ]
       },
       "cabbage": {
          "advisory": [
-            "Vegetative stage: Monitor for webber and tobacco caterpillar, apply recommended insecticides"
+            "Current weather is favourable for attack of Cabbage webber and tobacco caterpillar in Cabbage. To control these insects, go for alternate spray of Neem based formulation 1500ppm@600ml/acre and Emamectin benzoate@70g/acre in 200 lit water."
          ]
       },
       "coriander": {
          "advisory": [
-            "Sowing: Choose high yielding varieties, treat seeds for better germination, apply appropriate fertilizers"
+            "Now the weather is favourable for Coriander sowing. Grow high yielding varieties like CO-1, CO-2, CO-3, Swati, Sadhana, Ram Selection and Udi.",
+            "Use 6 kg seeds/acre.",
+            "Treat the seeds with 1.5 g Carbendazim or 3 g Thiram/kg of seeds. Soak the seeds overnight for 10 to 12 hours for better germination.",
+            "Apply 1 ton FYM along with 4:16 kg NP per acre as basal during final land preparation. Sow the seeds in lines with 30 X 8 cm."
          ]
       },
       "mango": {
          "advisory": [
-            "Vegetative stage: Mulch around the basin, apply chloropyriphos for termite management"
+            "New Plantation - Mulching around the basin either with grass or polythene (100 μ).",
+            "Spray chloropyriphos 20EC @ 2.5ml/ltr on trunk and collar region to manage termite.",
+            "Growing Plant - Mulching around the basin either with grass or polythene (100 μ). Irrigation may be given through ring or drip method at 15 days interval."
          ]
       }
    },

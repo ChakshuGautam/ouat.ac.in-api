@@ -1,0 +1,103 @@
+{
+   "weather_details": {
+      "27-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 81,
+         "rh_min": 34,
+         "wind_speed": 5,
+         "wind_direction": 54,
+         "cloud_cover": 2
+      },
+      "28-12-2024": {
+         "rainfall": 5,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 76,
+         "rh_min": 41,
+         "wind_speed": 3,
+         "wind_direction": 76,
+         "cloud_cover": 6
+      },
+      "29-12-2024": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 77,
+         "rh_min": 46,
+         "wind_speed": 4,
+         "wind_direction": 9,
+         "cloud_cover": 5
+      },
+      "30-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 16,
+         "rh_max": 76,
+         "rh_min": 37,
+         "wind_speed": 6,
+         "wind_direction": 4,
+         "cloud_cover": 4
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 67,
+         "rh_min": 30,
+         "wind_speed": 5,
+         "wind_direction": 4,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "summer rice",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhub aneswar, minimum temperature (night temperature) very likely to be 16-18°C over the district of Coastal Odisha and also in the districts adjoining to Coastal Odisha, 14-16°C in some parts of Interior Odisha and 12-14°C over the remaining parts of Interior Odisha during week-1 (27th December, 2024 to 2nd January, 2025). Normal to above normal Minimum temperature very likely to be expected over the districts of Odisha during that period. Overall Rainfall activity very likely to be normal to below normal over the state during week-1. Minimum temperature (night temperature) very likely to be 12-14°C over the district of Coastal Odisha and adjoining districts of Coastal Odisha, 12-14°C in some parts of Interior Odisha, and 10-12°C over the rest parts of Western Odisha during week-2 (03rd to 9th January, 2025). Minimum temperature very likely to be normal over the state during week-2. Dry weather likely to prevail over Odisha during that period. Looking to the above mentioned weather condition, farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Farmers are advised to make provision to take proper care of crops as well as animals to protect them from cold. Farmers are advised to complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some rainfall event is expected in first half of upcoming days so farmers are advised to wait some days for harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice for longer period of time or store the harvested paddy in properly bagged and stacked with suitable cover to avoid damage due to untimely rain.",
+            "After noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ton grain (total 9g of tablets) in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of plastic cover should be plastered with 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer season rice cultivation. For this purpose farmers may select some improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Past weather condition (cloudy and foggy) is favourable for sucking insect attack in groundnut crop so its regular monitoring should be advised. If attack observed, then at initial stage spraying of Azadiractin or neem-based insecticide 1500 ppm @ 600 ml in 200 liters of water per acre. Use 8 yellow sticky traps per acre. Trichogramma chilonis cards @ 1-2 nos. per acre can also be used at one week interval. Cut the card into 12 pieces at the designated place. For chemical management, apply 40 grams of thiamethoxam or 80 grams of Emamectin benzoate per acre in 200 liters of water. As some amount of rain is expected in upcoming two days so farmer should wait some days for irrigation and spraying operations."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Straw can be used as mulching material in vegetable crops to maintain soil moisture as well as soil temperature in field during winter season.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use pheromone trap in field for this purpose.",
+            "If attack observed then spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter water should be advised after occurrence of rain."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Farmers should make provision to protect the animal from cold (if possible use jute bag to cover the animal and straw as bedding material) during winter season and provide clean drinking water to cattle and keep their sheds clean. Don't allow the urine or excreta to deposit around the shed which may lead to flies and make provision to restrict the entry of rainwater into the shed.",
+            "Vaccination and deworming should be done to control different harmful diseases and stomach worms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Proper ventilation is required to provide fresh air and removing gases inside house.",
+            "External heat source is provided to keep the poultry shed warm and dry. Various types and layers of curtains and jute bags are used to insulate the farm.",
+            "The drinking water should be maintained at suitable temperature to promote water intake."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

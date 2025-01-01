@@ -1,0 +1,145 @@
+{
+   "weather_details": {
+      "27-12-2024": {
+         "rainfall": 18,
+         "t_max": 24,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 352,
+         "cloud_cover": 1
+      },
+      "30-12-2024": {
+         "rainfall": 4,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 46,
+         "wind_speed": 4,
+         "wind_direction": 17,
+         "cloud_cover": 1
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 5,
+         "wind_direction": 8,
+         "cloud_cover": 2
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 78,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 4,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "toria",
+      "chickpea",
+      "linseed",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "brinjal",
+      "rose",
+      "banana"
+   ],
+   "general_advisory": "Reduce the moisture content of the paddy by sun drying. Rabi crops to be sown as soon as possible. Spraying activities can be taken into consideration in the morning and evening hours.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "Spray Imidachloprid 17.8% SL @ 2 ml/lt to reduce the incidence of aphids and mustard sawfly in Mustard and Toria.",
+            "Carry out thinning of plants to maintain optimum plant population."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Spray Imidachloprid 17.8% SL @ 2 ml/lt to reduce the incidence of aphids and mustard sawfly in Mustard and Toria.",
+            "Carry out thinning of plants to maintain optimum plant population."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
+            "Powdery mildew in chickpea may be seen in near future. To manage the same, spray Dithane M -45 @ 2.5 g/lt.",
+            "Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "Make sure to maintain the spacing and plant population.",
+            "Remove any weeds present within the crop.",
+            "Powder mildew in linseed can be reduced by spraying wettable sulphur @ 3% or Karathane @ 2g/lt."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Provide staking to the plants.",
+            "Fruit and shoot borer in tomato plants can be managed by spraying Flubendiamide 20 WG @ 2g/10lt or Emamectin benzoate 4%SG @ 4 g/10lt of water.",
+            "Provide irrigation to the crop if plants getting wilted."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Cauliflower borer can be managed by manually destroying the borers.",
+            "In case of heavy infestation of borers spray Cartap hydrochloride @ 6 g/15 lts.",
+            "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @ 4g/lt."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Remove the wilted plants from the field and destroy them away from the field.",
+            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Remove weeds from the field and keep the plant root zone clean.",
+            "For managing Fruit and shoot borer spray Emamectin benzoate 4% SG @ 4g/10 lt."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Pruning of rose plant is necessary to encourage new flushes of branches.",
+            "Mealy bug infestation may be seen in the plants. Keep a watch on it.",
+            "Pour Sampoo water or soap water to reduce the mealy bug incidence."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Apply irrigation to the plants in ring basin system.",
+            "Harvest the matured banana bunch and cover the unripened bunch with bags to protect it from monkeys and birds."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

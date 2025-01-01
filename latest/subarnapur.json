@@ -1,6 +1,6 @@
 {
    "weather_details": {
-      "27-12-2024": {
+      "27.12.2024": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 18,
@@ -10,7 +10,7 @@
          "wind_direction": 69,
          "cloud_cover": 1
       },
-      "28-12-2024": {
+      "28.12.2024": {
          "rainfall": 5,
          "t_max": 27,
          "t_min": 17,
@@ -20,7 +20,7 @@
          "wind_direction": 0,
          "cloud_cover": 6
       },
-      "29-12-2024": {
+      "29.12.2024": {
          "rainfall": 2,
          "t_max": 27,
          "t_min": 17,
@@ -30,7 +30,7 @@
          "wind_direction": 18,
          "cloud_cover": 5
       },
-      "30-12-2024": {
+      "30.12.2024": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 16,
@@ -40,7 +40,7 @@
          "wind_direction": 5,
          "cloud_cover": 3
       },
-      "31-12-2024": {
+      "31.12.2024": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 14,
@@ -53,31 +53,45 @@
    },
    "names_of_crops": [
       "kharif rice",
-      "summer rice",
       "ground nut",
-      "cole crop"
+      "cole crop",
+      "livestock",
+      "poultry"
    ],
-   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They should also take care of crops and animals to protect them from the cold weather. Sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. is recommended where irrigation facilities are available.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They should also make provision to take care of crops and animals to protect them from cold. Additionally, farmers are encouraged to complete the sowing of Rabi crops and start nursery sowing of Summer Paddy where irrigation facilities are available.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall expected in the first half of upcoming days, so farmers are advised to wait for harvesting operations and ensure safe storage of harvested paddy crops."
-         ]
-      },
-      "summer rice": {
-         "advisory": [
-            "Farmers should start field preparation for summer season rice cultivation and consider using improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
+            "There is expected rainfall in the upcoming days, so wait for harvesting operations.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Regular monitoring for sucking insect attacks in groundnut crop is advised due to favorable weather conditions. If attacks are observed, spraying of Azadiractin or neem-based insecticides is recommended after some days of expected rain."
+            "Regular monitoring against insect attack is advised.",
+            "Use Azadiractin or neem-based insecticide if attack observed.",
+            "Wait for irrigation and spraying operations due to expected rain."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Straw mulching can be used in vegetable crops to maintain soil moisture and temperature during the winter season.",
-            "Regular monitoring for the attack of Diamond back moth in cauliflower is advised, and neem oil or Emamectin Benzoate spraying is recommended after rain if attacks are observed."
+            "Use straw as mulching material in vegetable crops.",
+            "Regular monitoring against Diamond back moth in cauliflower is advised.",
+            "Spray neem oil or Emamectin Benzoate after occurrence of rain if attack observed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold by using jute bags and straw as bedding material.",
+            "Provide clean drinking water to cattle and keep sheds clean.",
+            "Vaccination and deworming should be done to control diseases and worms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry houses.",
+            "Provide external heat source to keep the shed warm and dry.",
+            "Maintain suitable temperature for drinking water."
          ]
       }
    },

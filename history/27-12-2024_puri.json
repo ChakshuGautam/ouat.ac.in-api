@@ -1,0 +1,95 @@
+{
+   "weather_details": {
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 77,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 12,
+         "cloud_cover": 1
+      },
+      "29/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 48,
+         "wind_speed": 9,
+         "wind_direction": 354,
+         "cloud_cover": 1
+      },
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 78,
+         "rh_min": 50,
+         "wind_speed": 7,
+         "wind_direction": 9,
+         "cloud_cover": 1
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 46,
+         "wind_speed": 13,
+         "wind_direction": 7,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "greengram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
+   ],
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply fertilizers and maintain proper plant protection measures.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Nursery Management - Prepare the wet nursery seed beds for paddy.",
+            "Seed treatment - Treat the paddy seeds with Carbendazim or Thiram before sowing in the nursery."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Wilting - Spray Mancozeb if symptoms are noticed.",
+            "Fruit & Shoot borer - Install pheromone trap to monitor population."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "To manage Alternaria - Spray Mancozeb or Carbendazim."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Aphids and Jassids infestation - Manage with Imidachloprid.",
+            "Remove wilted plants from the field."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Leaf eating caterpillar - Manage biologically with Pheromone trap or chemical control."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

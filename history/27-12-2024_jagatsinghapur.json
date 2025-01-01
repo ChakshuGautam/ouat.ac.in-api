@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 76,
+         "rh_min": 45,
+         "wind_speed": 10,
+         "wind_direction": 12,
+         "cloud_cover": 1
+      },
+      "29/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 76,
+         "rh_min": 46,
+         "wind_speed": 8,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 74,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 15,
+         "cloud_cover": 3
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 76,
+         "rh_min": 46,
+         "wind_speed": 8,
+         "wind_direction": 9,
+         "cloud_cover": 2
+      },
+      "01/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 9,
+         "wind_direction": 5,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "blackgram",
+      "greengram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
+   ],
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line. Seed treatment - Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery. Present weather condition is favourable for the incidence of yellow mosaic virus which is caused by the vector white fly. To control go for spraying of triazophos @ 400 ml/acre. In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP. Install pheromone trap @ 8nos/acre to monitor pest population. To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75% WP @ 600 g/acre or carbendazim 12% + Mancozeb 63 % WP @ 400 g/acre by mixing in 200-litre of water. Remove the wilted plants from the field and destroy them away from the field. Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt. To manage the leaf eating caterpillar biologically use Pheromone trap Spodolure @ 6/acre or Installlight trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyriphos 50 % + Cypermethrin 5 % ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 litres of water.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Pre-sowing - Nursery Management: Beds may puddle 2-3 times followed by planking. Apply FYM, DAP, MOP, and Zinc sulphate during last puddling. Sow sprouted seeds.",
+            "Seed treatment: Treat seeds with Carbendazim and Thiram before sowing."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Picking is in progress."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative - Control Yellow mosaic virus with triazophos or Acetamipride."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative - Control Yellow mosaic virus with triazophos or Acetamipride."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative to fruiting - Manage wilting with Mancozeb. Control Fruit & Shoot borer."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Vegetative to Curd formation stage - Control Alternaria leaf spot disease with Mancozeb or carbendazim + Mancozeb."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Vegetative/Flowering - Remove wilted plants. Manage Aphids and Jassids with Imidachloprid."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Vegetative/Flowering - Manage leaf eating caterpillar with Spodolure or chemical control."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

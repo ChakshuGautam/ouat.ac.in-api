@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "2024-12-25": {
+         "rainfall": 10,
+         "t_max": 25,
+         "t_min": 20,
+         "rh_max": 84,
+         "rh_min": 57,
+         "wind_speed": 4,
+         "wind_direction": 354,
+         "cloud_cover": 8
+      },
+      "2024-12-26": {
+         "rainfall": 6,
+         "t_max": 25,
+         "t_min": 20,
+         "rh_max": 87,
+         "rh_min": 50,
+         "wind_speed": 3,
+         "wind_direction": 354,
+         "cloud_cover": 8
+      },
+      "2024-12-27": {
+         "rainfall": 1,
+         "t_max": 26,
+         "t_min": 19,
+         "rh_max": 84,
+         "rh_min": 42,
+         "wind_speed": 4,
+         "wind_direction": 338,
+         "cloud_cover": 6
+      },
+      "2024-12-28": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 19,
+         "rh_max": 82,
+         "rh_min": 43,
+         "wind_speed": 4,
+         "wind_direction": 323,
+         "cloud_cover": 4
+      },
+      "2024-12-29": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 19,
+         "rh_max": 81,
+         "rh_min": 39,
+         "wind_speed": 3,
+         "wind_direction": 320,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cabbage",
+      "cow"
+   ],
+   "general_advisory": "Postpone harvesting of rice. Store harvested produce in safe place or cover with polythene. Store the harvested rice safe place away from rats.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "As light rain is expected postpone harvesting of matured rice. If already harvested store in safe places."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "For the late sown cabbage, spray NSKE 5% after the primordial stage to the diamondback moth, Or spray Cartap Hydrochloride 1gm/lt at the primordial stage on clear sky condition."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Animals should be given a mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
+         ]
+      }
+   },
+   "date": "24-12-2024"
+}

@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 37,
+         "wind_speed": 2,
+         "wind_direction": 18,
+         "cloud_cover": 2
+      },
+      "29/12/2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 41,
+         "wind_speed": 1,
+         "wind_direction": 56,
+         "cloud_cover": 4
+      },
+      "30/12/2024": {
+         "rainfall": 3,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 45,
+         "cloud_cover": 3
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 83,
+         "rh_min": 41,
+         "wind_speed": 4,
+         "wind_direction": 6,
+         "cloud_cover": 1
+      },
+      "01/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 79,
+         "rh_min": 34,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rabi paddy",
+      "rabi groundnut",
+      "wheat",
+      "potato",
+      "pulse crop",
+      "chilli",
+      "onion",
+      "fish farming"
+   ],
+   "general_advisory": "Due to forecast of Light rainfall in coming 5 days, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there are chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "crops_data": {
+      "rabi paddy": {
+         "advisory": [
+            "At present, care should be taken in the paddy field.",
+            "When the paddy field is 15 days old, sprinkle with 2% urea.",
+            "A week before planting, apply 800 grams of potassium per 10 deciliters of field and soak in water for 2 to 3 days."
+         ]
+      },
+      "rabi groundnut": {
+         "advisory": [
+            "Spray metalaxyl and mancozeb mixture at the rate of 2 gm per liter of water to control the attack of Chinese blight.",
+            "To control the budding disease in Rabi cinnamon, sprinkle with carbendazim at the rate of 2 grams per liter of water when the plant has two leaves."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "After 25 days of late-planted wheat, select weeds or spray 1 kg/ha of 2-4-D-sodium herbicide for weed control."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Due to forecast of cloud weather, there are chances of leaf blight disease incidence in potato crop.",
+            "To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g/acre."
+         ]
+      },
+      "pulse crop": {
+         "advisory": [
+            "Apply 2% DAP immediately after pea grown as pea crop has matured.",
+            "In case of possible infestation of mung bean etc., spray 50 ml of imidacloprid or 400 ml of methyl demiton in 2000 liters of water per acre.",
+            "Apply 300 grams of carbendazim per acre in 200 liters of water for control of pea and boot blight."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray ethion 50% EC at the rate of 2.5 ml per liter of water to control aphids in pepper crop."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Weeds are the main enemy of onion crops.",
+            "Onion plants should have a light top layer of soil and should not overcrowd the onion.",
+            "After 60 days of planting onions, the soil should not be disturbed.",
+            "Therefore, before 60 days, mow lightly 2-3 times and select unplanted grass.",
+            "After 60 days, if necessary, remove the dead grass by hand and keep it clean."
+         ]
+      },
+      "fish farming": {
+         "advisory": [
+            "If acidity is less than 7.5 in fish pond 7 days before application of organic fertilizers, apply 100 kg of lime per hectare meter of water.",
+            "Feed 3 kg 750 grams of Candiakunda with 3 kg 750 grams of almond pidia daily for 12500 twins in 1 hectare fish pond.",
+            "Mirikali and Bilati Rohi in the lower level of the pond rose to the upper level of the pond. Use 50 kg of zeolite per hectare meter of water if the soil smells."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

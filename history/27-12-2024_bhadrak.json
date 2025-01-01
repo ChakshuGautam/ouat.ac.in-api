@@ -1,0 +1,117 @@
+{
+   "weather_details": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 41,
+         "wind_speed": 10,
+         "wind_direction": 13,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 74,
+         "rh_min": 41,
+         "wind_speed": 7,
+         "wind_direction": 357,
+         "cloud_cover": 3
+      },
+      "30-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 70,
+         "rh_min": 46,
+         "wind_speed": 9,
+         "wind_direction": 23,
+         "cloud_cover": 2
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 16,
+         "rh_max": 74,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 16,
+         "cloud_cover": 1
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 38,
+         "wind_speed": 11,
+         "wind_direction": 8,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "rapeseed and mustard",
+      "groundnut",
+      "brinjal",
+      "cole crops",
+      "papaya",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollutes the environment but also causes severe health problems. Keep harvested matured paddy crops in a safe place & if possible dry under the sun. Drain out excess water from crop & vegetable fields. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Rice grains must be dried under the sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Transfer the already harvested paddy from the field to a godown or any shaded place.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS.",
+            "Lambda Cyahalothrin 4.9CS @ 1.5ml/l of water to minimize the chance of future infestation of storage pests."
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Thinning should be carried out before top dressing to maintain optimum plant population.",
+            "Monitor the activity of Aphid, Tobacco caterpillar & incidence of alternaria leaf spot disease in mustard."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "After the cessation of rain, spraying of Rhidomil M-Z @ 2g/l of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "High moisture content followed by rainfall increases wilting or partial wilting in brinjal, drain excess water from the field.",
+            "Apply Neem or Karanja cake @ 1 quintal/acre.",
+            "Drenching of Tebuconazole @ 1ml/l can be recommended."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Uproot the disease-infected plants & expose the soil to the sun."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
+            "Alternate spraying of Neem oil formulation 1500ppm & spray flonicamid 50WG."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Regular monitoring of disease infestation & feed supplements for fish advised.",
+            "After heavy rainfall, test water quality of fish ponds and apply lime as recommended."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Keep the animals inside the shed.",
+            "Clean the animal shed by spraying disinfectant/bleaching powder/phenyl."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

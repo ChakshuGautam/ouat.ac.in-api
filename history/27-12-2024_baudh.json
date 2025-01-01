@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 16,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 3,
+         "wind_direction": 139,
+         "cloud_cover": 3
+      },
+      "29-12-2024": {
+         "rainfall": 4,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 39,
+         "wind_speed": 3,
+         "wind_direction": 154,
+         "cloud_cover": 5
+      },
+      "30-12-2024": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 83,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 166,
+         "cloud_cover": 4
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 84,
+         "rh_min": 41,
+         "wind_speed": 1,
+         "wind_direction": 198,
+         "cloud_cover": 1
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 76,
+         "rh_min": 33,
+         "wind_speed": 1,
+         "wind_direction": 236,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "summer rice",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "Looking to the above mentioned weather condition, farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Farmers are advised to make provision to take proper care of crops as well as animals to protect them from cold. Farmers are advised to complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some rainfall event expected in the first half of upcoming days so farmers are advised to wait for harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy properly bagged and stacked with suitable cover to avoid damage due to untimely rain."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer season rice cultivation. For this purpose, farmers may select some improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Past weather conditions (cloudy and foggy) are favorable for sucking insect attack in groundnut crop so regular monitoring should be advised."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Straw can be used as mulching material in vegetable crops to maintain soil moisture and soil temperature in the field during the winter season.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised, and if possible, farmers should use a pheromone trap in the field for this purpose."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Farmers should make provision to protect the animals from cold during the winter season and provide clean drinking water to cattle.",
+            "Vaccination and deworming should be done to control different harmful diseases and stomach worms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Proper ventilation is required to provide fresh air and remove gases inside the house.",
+            "External heat sources should be provided to keep the poultry shed warm and dry.",
+            "The drinking water should be maintained at a suitable temperature to promote water intake."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

@@ -1,0 +1,95 @@
+{
+   "weather_details": {
+      "28/12/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 76,
+         "rh_min": 45,
+         "wind_speed": 8,
+         "wind_direction": 11,
+         "cloud_cover": 1
+      },
+      "29/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 11,
+         "wind_direction": 11,
+         "cloud_cover": 1
+      },
+      "30/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 73,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 10,
+         "cloud_cover": 1
+      },
+      "31/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 48,
+         "wind_speed": 11,
+         "wind_direction": 4,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "greengram",
+      "tomato",
+      "cauliflower",
+      "chilli",
+      "marigold"
+   ],
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Use rainwater for regular puddling and irrigation. Apply appropriate fertilizers and treatments for specific crops as needed.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Nursery Management - Prepare the wet nursery seed beds for paddy. Use rainwater for regular puddling and irrigation. Apply appropriate fertilizers and treatments for specific crops as needed.",
+            "Seed treatment - Treat the paddy seeds with prescribed chemicals before sowing in the nursery.",
+            "After rain, tie the panicles of paddy to prevent lodging."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Control yellow mosaic virus by spraying recommended chemicals."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Control yellow mosaic virus by spraying recommended chemicals."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Manage wilting and fruit & shoot borer infestations."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Manage Alternaria leaf spot disease in Cole crops."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Remove wilted plants and manage aphids and jassids infestation."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Manage leaf eating caterpillar infestation.",
+            "Use biological or chemical controls as necessary."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

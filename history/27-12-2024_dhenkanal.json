@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 3,
+         "wind_direction": 344,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 42,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "30-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 48,
+         "wind_speed": 2,
+         "wind_direction": 51,
+         "cloud_cover": 1
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 81,
+         "rh_min": 45,
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 2
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 81,
+         "rh_min": 41,
+         "wind_speed": 3,
+         "wind_direction": 6,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "greengram",
+      "groundnut",
+      "cabbage",
+      "coriander",
+      "mango"
+   ],
+   "general_advisory": "By utilizing the soil moisture from past rainfall, continue sowing operation of summer paddy. Polythene to cover the paddy nursery at night-time. Protect the paddy nursery, apply a thin layer of well-decomposed FYM in wet. Cover the recently planted cole crops with paper pockets during nighttime to avoid low temperature. There will be a chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms of pests or diseases are noticed, undertake appropriate plant protection measures.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Nursery: Utilize soil moisture for sowing, cover with polythene at night, apply well-decomposed FYM for warmth"
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Vegetative stage: Continue care and monitoring"
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Vegetative stage: Continue care and monitoring"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage: Treat for stem rot with appropriate fungicides"
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Vegetative stage: Monitor for webber and tobacco caterpillar, apply recommended insecticides"
+         ]
+      },
+      "coriander": {
+         "advisory": [
+            "Sowing: Choose high yielding varieties, treat seeds for better germination, apply appropriate fertilizers"
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Vegetative stage: Mulch around the basin, apply chloropyriphos for termite management"
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

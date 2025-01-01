@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 76,
+         "rh_min": 40,
+         "wind_speed": 6,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 4,
+         "wind_direction": 351,
+         "cloud_cover": 3
+      },
+      "30-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 72,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 21,
+         "cloud_cover": 2
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 77,
+         "rh_min": 44,
+         "wind_speed": 5,
+         "wind_direction": 8,
+         "cloud_cover": 1
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 38,
+         "wind_speed": 7,
+         "wind_direction": 9,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "rapeseed and mustard",
+      "groundnut",
+      "brinjal",
+      "cole crops",
+      "papaya"
+   ],
+   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollutes the environment but also causes severe health problems. Keep harvested matured paddy crops in a safe place & if possible dry under the sun. Drain out excess water from crop & vegetable fields. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Rice grains must be dried under the sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Transfer the already harvested paddy from the field to go down/any shade place.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pests."
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Thinning should be carried out before top dressing to maintain an optimum plant population.",
+            "Monitor the activity of Aphid, Tobacco caterpillar & incidence of alternaria leaf spot disease in mustard."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "After the cessation of rain, Spraying of Rhidomil M-Z @2g/li of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "High moisture content followed by rainfall can increase the wilting or partial wilting in brinjal. To prevent this, drain the excess water from the field. Apply Neem or Karanja cake @ 1quintal/acre. Drenching of Tebuconazole @ 1ml/liter can be recommended."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Uproot the disease-infected plants & expose the soil to the sun."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Install Yellow Sticky traps to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

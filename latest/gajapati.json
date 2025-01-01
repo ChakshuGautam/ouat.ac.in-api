@@ -62,23 +62,25 @@
       "potato",
       "cow",
       "common fish",
-      "chick"
+      "chick",
+      "general advice",
+      "plant protection"
    ],
-   "general_advisory": "The mean maximum daily temperature was 24.0°C and the mean minimum daily temperature was 17.3°C of the Gajapati district during the last week. The district received 65.1 mm of rainfall during the last week. Due to low night temperature and fog condition, there will be a chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing, and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact with cold air. For maintaining the heat in the poultry shed during the winter season, install heaters in the shed.",
+   "general_advisory": "The mean maximum daily temperature was 24.0°C and the mean minimum daily temperature was 17.3°C of the Gajapati district during the last week. The district received 65.1 mm of rainfall during the last week. Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Soon after noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly airtight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of plastic cover should be plastered with 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days. Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 1 1, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during the dry season. Seed rate for an acre of land is 20 kg for these varieties. Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3-gram /1 kg of seeds before sowing in the nursery."
+            "Soon after noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of plastic cover should be plastered with 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days. Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 1 1, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season. Seed rate for an acre of land is 20 kg for these varieties. Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3-gram/1 kg of seeds before sowing in the nursery"
          ]
       },
       "sunflower": {
          "advisory": [
-            "Sunflower crop is at 25-30 days stage. Go for hoeing and weeding and thinning and apply N -fertilizer."
+            "Sunflower crop is at 25-30 days stage. Go for hoeing and weeding and thinning and apply N-fertilizer."
          ]
       },
       "mustard": {
          "advisory": [
-            "There are chances of Aphid infestation in early sown mustard crop. To manage aphids at the early stage, put 8 number of yellow sticky traps per acre. Spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. If the infestation is severe than spray chemical pesticide Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre in 200-liter of water."
+            "There are chances of Aphid infestation in early sown mustard crop. To manage aphids at early stage, put 8 number of yellow sticky traps per acre. Spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe than spray chemical pesticide Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre in 200-liter of water."
          ]
       },
       "cotton": {
@@ -88,37 +90,47 @@
       },
       "menacinakahi": {
          "advisory": [
-            "To control aphids and thrips in chilli during the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control aphids and thrips in chilli during the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
          ]
       },
       "tomato": {
          "advisory": [
-            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown-up larvae. Set up 20 nos. of pheromone trap having Helilure per acre. Go for spraying of insecticide if there are 10% fruits infested with borer. Spray Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use any of the above insecticides alternately at 15 days interval."
+            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown up larvae. Set up 20 nos. of pheromone trap having Helilure per acre. Go for spraying of insecticide if there are 10% fruits infested with borer. Spray Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use any of the above insecticides alternately at 15 days interval."
          ]
       },
       "potato": {
          "advisory": [
-            "Early planted potato crop is at 3-week stage. Go for hoeing and weeding and apply the rest 30-45 Kg N/acre. For better tuber growth in potato, soil temperature below 30°C should be maintained. Therefore farmers are advised to irrigate the field. There are chances of Leaf Blight disease incidence in the potato crop. To manage early leaf blight in potato, spray Mancozeb 75% WP @600 gram/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400-gram/acre. To manage late blight in potato spray Metalaxyl 8% + Mancozeb 64% W.P @ 400-gram/acre at 10 days interval."
+            "Early planted potato crop is at 3 week stage. Go for hoeing and weeding and apply the rest 30-45 Kg N/acre. For better tuber growth in potato, soil temperature below 30°C should be maintained. Therefore farmers are advised to irrigate the field. There are chances of Leaf Blight disease incidence in potato crop. To manage early leaf blight in potato, spray Mancozeb 75% WP @600 gram/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400-gram/acre. To manage late blight in potato spray Metalaxyl 8% + Mancozeb 64% W.P @ 400-gram/acre at 10 days interval."
          ]
       },
       "cow": {
          "advisory": [
-            "Provide proper shelter to the animals with proper ventilation facilities. Floor should be clean, dry and bedding with straw which act as insulation and prevention of heat loss. In the winter season, animals required a high amount of food as temperature drops. Roughage should be given a high amount to maintain the milk production. Maize, wheat and concentrate oil cakes @ 3 kg to the large animals such as Buffalo and cattle feedling helps in maintaining the body heat of the animals."
+            "Provide proper shelter to the animals with proper ventilation facilities. Floor should be clean, dry and bedding with straw which act as insulation and prevention of heat loss. In winter season animal required high amount of food as temperature drops. Roughage should be given high amount to maintain the milk production. Maize, wheat and concentrate oil cakes @ 3 kg to the large animals such as Buffalo and cattle feeding helps in maintaining the body heat of the animals."
          ]
       },
       "common fish": {
          "advisory": [
-            "During winters, there is a possibility of “EUS” disease in fish. Farmers are advised to apply Cifax @ 400 ml mixed with 40 liters of water in one acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
+            "During winters, there is a possibility of “EUS” disease in fish. Farmers are advised to apply Cifax @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
          ]
       },
       "chick": {
          "advisory": [
-            "In winter number of feeders should be increased. Feed should be available to the bird the whole day. During the winter season, birds take less water so for maintenance of water in the body, it is necessary to give continuous supply of fresh water which can be taken by the bird. For maintaining the heat in the poultry shed, install heaters in the shed. Use 200W bulbs to generate heat in small scale operations. Carry out necessary vaccinations as and when required."
+            "In winter number of feeders should be increased. Feed should be available to the bird whole of the day. During winter season birds take less water so far maintenance of water in the body, it is necessary to give continuous supply of fresh water which can be taken by the bird. For maintaining the heat in the poultry shed, install heaters in the shed. Use 200W bulbs to generate heat in small scale operations. Carry out necessary vaccinations as and when required."
+         ]
+      },
+      "general advice": {
+         "advisory": [
+            "Provide light irrigation to standing vegetables and crops during morning hours to prevent damage from fog, low temperature and moisture stress."
+         ]
+      },
+      "plant protection": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cauliflower, Cabbage, Chilly & tomato apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water."
          ]
       }
    },

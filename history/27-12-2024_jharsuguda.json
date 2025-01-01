@@ -1,0 +1,87 @@
+{
+   "weather_details": {
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 53,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 58,
+         "cloud_cover": 3
+      },
+      "30-12-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 7,
+         "wind_direction": 39,
+         "cloud_cover": 2
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 78,
+         "rh_min": 38,
+         "wind_speed": 8,
+         "wind_direction": 40,
+         "cloud_cover": 1
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 34,
+         "wind_speed": 8,
+         "wind_direction": 37,
+         "cloud_cover": 1
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "ground nut",
+      "cole crop",
+      "summer rice"
+   ],
+   "general_advisory": "Far mers are advised to conduct harvest ing, sowing and spraying operations accordingly. Farmers are advised to make provision to take proper care of crops as well as animals to protect them from cold. Farmers are advised to complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer  Paddy where irrigation facilities are available.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "There is some  rainfall event is expected in first half of upcoming  days so farmers are advised to wait some days for  harvesting operations and make provision to keep  the harvested paddy  crop in safe places to avoid any further damage.",
+            "Use ‘Super Grain Bag’ for safe storage of paddy/rice for longer period of time or store the harvested paddy in properly bagged and stacked with suitable cover to avoid damage due to untimely rain."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Past weather condition  (cloudy and foggy ) is favourable for sucking insect attack in groundnut crop so its regular monitoring should be advised. If attack observed, then  at initial stage spraying of Azadiractin or neem -based insecticide  1500 ppm  @ 600 ml  in 200  liters of water per acre. Use 8 yellow sticky traps  per acre. Trichogramma chilonis cards  @ 1-2 nos. per acre can also be used at one week interval. Cut the card into 12 pieces at the designated place. For chemical management, apply 40 grams of thiamethox am or 80 grams of Emamectin benzoate per acre in 200  liters of water. As some amount of rain is expected in upcoming two days so farmer should wait some days for irrigation and spraying operations."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Straw can be used as mulching  material  in vegetable crops to soil maintain moisture as well as soil temperature in field during winter season.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower  should be advised  and if possible,  farmers should use pheromone trap in field for this purpose.",
+            "If attack observed then  spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter water should be advised after occurrence of rain."
+         ]
+      },
+      "summer rice": {
+         "advisory": [
+            "Farmers should start field preparation for summer season rice cultivation. For this purpose farmers may select some improved varieties like MTU 1010, MTU 1156, MTU 1001 , Lalat , Improved Lalat, Chandan , Swarna, etc."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

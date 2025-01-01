@@ -63,68 +63,75 @@
       "black gram",
       "green gram",
       "onion",
-      "mango"
+      "mango",
+      "okra"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. Cover the rows with dry leaves in sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels to save water wastage. Apply Streptocyclin in tomato and brinjal if wilting occurs. Mulch coconut leaves around the tree to reduce water loss. Cover vegetable seedlings with paper caps. Harvest fingerlings from shallow ponds if the water temperature rises. For onion, cut the tops after harvesting and dry the bulbs in a well-ventilated room. Use specific insecticides for crop management.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. In these stages, water scarcity or deficit of water causes a comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided. Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect the crop from water scarcity during summer. Apply sprinkler irrigation to bring down the heat effect. Conserve up to 50% water by irrigating alternate rows.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. Cover the rows with dry leaves. Apply water management techniques to avoid water scarcity."
+            "Yellow stem borer management - Due to a rise in temperature, there are chances of an increase in stem borer infestation in the paddy crop. To manage Yellow Stem Borer in paddy spray Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre.",
+            "Blast Disease Management - To manage blast disease spray Hexaconazole 5% SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystr"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Top-dress with 4% potassium to protect from water scarcity. Frequent irrigation during hot months to manage early shoot borer. Destroy egg masses manually."
+            "Early Shoot Borer: To manage early shoot borer in Sugarcane, irrigate the crop frequently during hot months. Timely cutting the attacked shoot at or just below the ground level ensures the destruction of most of the caterpillar. Collect and destroy the egg masses manually. In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperatures increase water requirements. Proper irrigation management is crucial for crop health."
+            "The high temperature increases the water requirement of the maize crop. Irrigate the crop. Never allow water to remain stagnant for more than six hours in the field."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply Streptocyclin in the root zone in case of wilting."
+            "High temperature in day hours may lead to wilting in tomato and brinjal. Apply 1g Streptocyclin in 10-liter water in the root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps and use neem-based pesticides for management."
+            "Brinjal shoot and fruit borer - To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During the primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-liter of water."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves around the tree to reduce water loss."
+            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Cover vegetable seedlings with paper caps during the day."
+            "Cover with paper caps on the newly planted vegetable seedlings during daytime."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "Harvest fingerlings from shallow ponds when water temperature rises."
+            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C. Ensure enough water depth before introducing fingerlings in a pond."
          ]
       },
       "black gram": {
          "advisory": [
-            "Use specific insecticides for tobacco caterpillar management."
+            "Tobacco Caterpillar Management - Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field."
          ]
       },
       "green gram": {
          "advisory": [
-            "Use specific insecticides for tobacco caterpillar management."
+            "Tobacco Caterpillar Management - Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field."
          ]
       },
       "onion": {
          "advisory": [
-            "After harvesting, cut the tops and dry the bulbs in a ventilated room."
+            "After harvesting of onion, cut the tops leaving 2.0 -2.5 cm above bulb. The harvested bulb should be dried in a well-ventilated concrete floored room. Well-dried bulbs can be stored for a longer period."
          ]
       },
       "mango": {
          "advisory": [
-            "Use specific insecticides for mango hopper control."
+            "Mango hopper -To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 liters of water or Thiamethoxam 25% W.G @ 3ml/15 liters of water."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Whitefly Infestation: To prevent whitefly infestation in okra seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop."
          ]
       }
    },

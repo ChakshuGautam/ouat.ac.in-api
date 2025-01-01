@@ -24,10 +24,10 @@
          "rainfall": 0,
          "t_max": 28,
          "t_min": 16,
-         "rh_max": 78,
-         "rh_min": 50,
-         "wind_speed": 7,
-         "wind_direction": 9,
+         "rh_max": 79,
+         "rh_min": 48,
+         "wind_speed": 9,
+         "wind_direction": 7,
          "cloud_cover": 1
       },
       "31/12/2024": {
@@ -37,12 +37,19 @@
          "rh_max": 80,
          "rh_min": 46,
          "wind_speed": 13,
-         "wind_direction": 7,
+         "wind_direction": 259,
          "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "paddy",
+      "summer paddy",
+      "cotton",
+      "sugarcane",
+      "cereals",
+      "pulses",
+      "oilseeds",
+      "spices",
+      "vegetables",
       "blackgram",
       "greengram",
       "tomato",
@@ -50,44 +57,77 @@
       "chilli",
       "marigold"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply fertilizers and maintain proper plant protection measures.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater, the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP, and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of a convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line. Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3 g/1 kg of seeds before sowing in the nursery.",
    "crops_data": {
-      "paddy": {
+      "summer paddy": {
          "advisory": [
-            "Nursery Management - Prepare the wet nursery seed beds for paddy.",
-            "Seed treatment - Treat the paddy seeds with Carbendazim or Thiram before sowing in the nursery."
+            "Nursery Management - Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line.",
+            "Seed treatment - Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3 g/1 kg of seeds before sowing in the nursery."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Harvesting and picking of cotton crop is in progress."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Harvesting and planting of sugarcane is under progress."
+         ]
+      },
+      "cereals": {
+         "advisory": [
+            "Rabi crops like Cereals are continuing."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Rabi crops like Pulses are continuing."
+         ]
+      },
+      "oilseeds": {
+         "advisory": [
+            "Rabi crops like Oilseeds are continuing."
+         ]
+      },
+      "spices": {
+         "advisory": [
+            "Rabi crops like Spices are continuing."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Rabi crops like Vegetables are continuing."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride."
+            "To control Yellow mosaic virus, spray triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
          ]
       },
       "greengram": {
          "advisory": [
-            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride."
+            "To control Yellow mosaic virus, spray triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting - Spray Mancozeb if symptoms are noticed.",
-            "Fruit & Shoot borer - Install pheromone trap to monitor population."
+            "To control Wilting, spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "To manage Alternaria - Spray Mancozeb or Carbendazim."
+            "To manage Alternaria leaf spot disease, spray Mancozeb 75% WP @ 600 gram/acre by mixing in 200 litre of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Aphids and Jassids infestation - Manage with Imidachloprid.",
-            "Remove wilted plants from the field."
+            "To manage Aphids and Jassids infestation, spray Imidachloprid 17.8% SL @ 1 ml/lt."
          ]
       },
       "marigold": {
          "advisory": [
-            "Leaf eating caterpillar - Manage biologically with Pheromone trap or chemical control."
+            "To manage Leaf eating caterpillar biologically, use Pheromone trap Spodolure @ 6/acre or Installlight trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre with 200 litres of water."
          ]
       }
    },

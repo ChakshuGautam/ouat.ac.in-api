@@ -66,7 +66,7 @@
       "goat",
       "poultry"
    ],
-   "general_advisory": "In view of realised heavy rainfall during last week, drain out excess water from rice, pulses and vegetables by making necessary drainage channel. In view of weather forecast during next five days, farmers are advised to withhold harvesting of paddy for another two to three days. Farmers are also advised to postpone spraying of plant protection chemicals and sowing of rabi crops for the time being. Keep your domestic animal indoors.",
+   "general_advisory": "In view of realised heavy rainfall during last week, drain out excess water from rice, pulses and vegetables by making necessary drainage channel. Farmers are advised to withhold harvesting of paddy for another two to three days. Farmers are also advised to postpone spraying of plant protection chemicals and sowing of rabi crops for the time being. Keep your domestic animals indoors.",
    "crops_data": {
       "transplanted paddy": {
          "advisory": [
@@ -78,65 +78,64 @@
       "cotton": {
          "advisory": [
             "Picking should be done when there is complete bursting of bolls.",
-            "Dry the seed cotton on concrete floor or tarpaulin sheets to reduce the moisture to 8-10%.",
-            "Farmers are advised to sell their seed cotton in the nearby “Mandi” to get MSP"
+            "Dry the seed cotton on a concrete floor or tarpaulin sheets to reduce the moisture to 8-10%.",
+            "Farmers are advised to sell their seed cotton in the nearby Mandi to get MSP for long staple cotton."
          ]
       },
       "arhar": {
          "advisory": [
-            "Prevailing weather condition favours the following pest attack. So, recommended control measures should be followed as required.",
-            "Pod borer: To control, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
-            "Pod sucking bug and Aphid: To control, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
+            "Prevailing weather condition favours the following pest attack. Recommended control measures should be followed as required.",
+            "To control pod borer, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
+            "To control pod sucking bug and Aphid, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
          ]
       },
       "greengram/blackgram": {
          "advisory": [
-            "Weed Management: Apply Pendimithalin 30% EC @ 1.20 liter /acre mixed with 200 liters of water at 1-2 DAS.",
+            "Apply Pendimithalin 30% EC @ 1.20 liter /acre mixed with 200 liters of water at 1-2 DAS for weed management.",
             "Apply Quizal fop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20 -25 DAS.",
-            "Leaf eating caterpillar : The insects usally feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control.",
-            "Aphid and Whitefly: Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly. Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
+            "For leaf eating caterpillar, spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Weed Management: Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as early post emergence herbicide or apply Fenoxaprop -P-ethyl 9.3% @ 35 ml/drum ( 15-liter capacity) at 15 -20 DAS.",
-            "Prevailing weather condition favours the development of sucking pest like aphid , jassids and whitefly. Install yellow sticky trap @ 8nos/acre to monitor the pest population. Apply Neem oil-based pesticide Azadiractin 0.03 % (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
+            "Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as an early post-emergence herbicide or apply Fenoxaprop -P-ethyl 9.3% @ 35 ml/drum (15-liter capacity) at 15 -20 DAS for weed management.",
+            "Prevailing weather conditions favor the development of sucking pests like aphid, jassids, and whitefly. Install a yellow sticky trap @ 8nos/acre to monitor the pest population. Apply Neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at the initial stage of infestation."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favours the development of sucking pests. Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended."
+            "Prevailing weather condition favors the development of sucking pests. Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended."
          ]
       },
       "onion": {
          "advisory": [
-            "Prepare the main field for transplanting onion seedlings at eight-week stage.",
-            "Nutrient Management: For one acre area, apply 43kg DAP, 27kg urea, 33kg MOP and 20kg Sulphur prior to the transplanting of onion seedlings in the main field."
+            "Prepare the main field for transplanting onion seedlings at an eight-week stage.",
+            "For one acre area, apply 43kg DAP, 27kg urea, 33kg MOP and 20kg Sulphur prior to the transplanting of onion seedlings in the main field."
          ]
       },
       "cauliflower & cabbage": {
          "advisory": [
-            "Nutrient Management: At three-week stage, undertake hoeing, weeding and apply Urea @ 55kg/ac followed by irrigation.",
-            "Go for hoeing, weeding and apply 27 kg urea + 25kg MOP at six-to-seven-week stage followed by irrigation.",
-            "Pest Management: Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
-            "Tobacco leaf eating caterpillar : Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population.",
-            "Cabbage Aphid : Spray Thiamethoxam 25% WG @ 2g/5ltr of water as control measure."
+            "At the three-week stage, undertake hoeing, weeding, and apply Urea @ 55kg/ac followed by irrigation.",
+            "Go for hoeing, weeding, and apply 27 kg urea + 25kg MOP at the six-to-seven-week stage followed by irrigation.",
+            "For Dimond back moth, spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as a control measure.",
+            "For Tobacco leaf-eating caterpillar, spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control the pest population.",
+            "For Cabbage Aphid, spray Thiamethoxam 25% WG @ 2g/5ltr of water as a control measure."
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting: In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed.",
-            "Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population."
+            "In view of high humid condition, wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptoms are noticed.",
+            "For Fruit & Shoot borer, install pheromone trap @ 8nos/acre to monitor pest population."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Fruit and Shoot borer: Install pheromone trap/Wata trap @ 8 nos. per acre area at vegetative stage and replace lure after 3 weeks."
+            "For Fruit and Shoot borer, install pheromone trap/Wata trap @ 8 nos. per acre area at vegetative stage and replace lure after 3 weeks."
          ]
       },
       "cattle & buffalo": {
          "advisory": [
-            "Farmers are requested to vaccinate their cattle & buffalo against FMD through NADCP. Farmers can increase milk production by controlling and preventing Foot and Mouth Disease (FMD)",
+            "Farmers are requested to vaccinate their cattle & buffalo against FMD through NADCP. Farmers can increase milk production by controlling and preventing Foot and Mouth Disease (FMD).",
             "Calves of 4 - 8 months of age should be vaccinated against Brucellosis."
          ]
       },
@@ -147,7 +146,7 @@
       },
       "poultry": {
          "advisory": [
-            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
+            "Make necessary arrangements to provide heat, especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
          ]
       }
    },

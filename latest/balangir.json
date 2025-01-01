@@ -2,48 +2,48 @@
    "weather_details": {
       "2022-01-01": {
          "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
+         "t_max": 25,
+         "t_min": 15,
          "rh_max": 80,
-         "rh_min": 60,
+         "rh_min": 50,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 4
+         "cloud_cover": 5
       },
       "2022-01-02": {
-         "rainfall": 8,
+         "rainfall": 0,
          "t_max": 28,
          "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 65,
+         "rh_max": 75,
+         "rh_min": 45,
          "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 6
+         "wind_direction": 220,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "wheat",
       "rice",
+      "wheat",
       "maize"
    ],
-   "general_advisory": "It is recommended to monitor the weather closely for proper crop management.",
+   "general_advisory": "Sow crops during the indicated dates to optimize growth and yield. Be cautious of potential pests in the region.",
    "crops_data": {
-      "wheat": {
-         "advisory": [
-            "Ensure proper irrigation for healthy growth.",
-            "Monitor for any signs of pests or diseases."
-         ]
-      },
       "rice": {
          "advisory": [
-            "Keep the fields well-drained to prevent waterlogging.",
-            "Apply fertilizer as per the recommended schedule."
+            "Ensure adequate water supply for healthy growth",
+            "Monitor for pests and diseases regularly"
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Prepare fields by deep ploughing and level properly",
+            "Apply recommended fertilizers as per stages of growth"
          ]
       },
       "maize": {
          "advisory": [
-            "Check for any signs of drought stress and increase watering if needed.",
-            "Protect the crop from strong winds by implementing windbreaks."
+            "Plant in well-drained soil with sufficient sunlight",
+            "Protect from strong winds during initial growth stage"
          ]
       }
    },

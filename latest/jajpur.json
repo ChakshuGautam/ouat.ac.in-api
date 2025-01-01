@@ -57,20 +57,21 @@
       "groundnut",
       "brinjal",
       "cole crops",
-      "papaya"
+      "papaya",
+      "fish"
    ],
-   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollutes the environment but also causes severe health problems. Keep harvested matured paddy crops in a safe place & if possible dry under the sun. Drain out excess water from crop & vegetable fields. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
+   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollute the environment but also cause severe health problems. Keep harvested matured paddy crops in a safer place & if possible dry under the sun. Drain out excess water from crop & vegetable field. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Rice grains must be dried under the sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
-            "Transfer the already harvested paddy from the field to go down/any shade place.",
-            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pests."
+            "Transfer the already harvested paddy from the field to godown/any shade place.",
+            "Make the threshing floor and storage godown clean and and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pest."
          ]
       },
       "rapeseed and mustard": {
          "advisory": [
-            "Thinning should be carried out before top dressing to maintain an optimum plant population.",
+            "Thinning should be carried out before top dressing to maintain optimum plant population.",
             "Monitor the activity of Aphid, Tobacco caterpillar & incidence of alternaria leaf spot disease in mustard."
          ]
       },
@@ -81,17 +82,23 @@
       },
       "brinjal": {
          "advisory": [
-            "High moisture content followed by rainfall can increase the wilting or partial wilting in brinjal. To prevent this, drain the excess water from the field. Apply Neem or Karanja cake @ 1quintal/acre. Drenching of Tebuconazole @ 1ml/liter can be recommended."
+            "High moisture content followed by rainfall increases the wilting or partial wilting in brinjal. To prevent this, drain the excess water from the field. Apply Neem or Karanja cake @1quintal/acre, Drenching of Tebuconazole @1ml/liter can be recommended."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Uproot the disease-infected plants & expose the soil to the sun."
+            "Uproot the disease-infected plants & expose the soil to sun."
          ]
       },
       "papaya": {
          "advisory": [
-            "Install Yellow Sticky traps to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
+            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
+         ]
+      },
+      "fish": {
+         "advisory": [
+            "Regular monitoring of disease infestation & feed supplements of fish advised.",
+            "After heavy rainfall water quality of fish ponds may be altered so testing of water pH & need-based Application of @100kg lime/acre in 3 splits (40:40:20) at 2 days interval recommended."
          ]
       }
    },

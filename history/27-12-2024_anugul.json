@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "2024-12-28": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 14,
+         "rh_max": 78,
+         "rh_min": 39,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 1
+      },
+      "2024-12-29": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 80,
+         "rh_min": 41,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 4
+      },
+      "2024-12-30": {
+         "rainfall": 1,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 83,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 4
+      },
+      "2024-12-31": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 84,
+         "rh_min": 44,
+         "wind_speed": 2,
+         "wind_direction": 39,
+         "cloud_cover": 2
+      },
+      "2025-01-01": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 80,
+         "rh_min": 38,
+         "wind_speed": 2,
+         "wind_direction": 9,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "common fish",
+      "others (soil / land preparation)"
+   ],
+   "general_advisory": "Keep the livestock indoors during rainfall. Keep feed for 3-5 days, in case of any emergency. Repair the sheds before rainfall. Keep animals indoors in rainy conditions. Keep fodder at a safe place to avoid spoilage from rainfall.",
+   "crops_data": {
+      "common fish": {
+         "advisory": [
+            "During winters, there is a possibility of “EUS” disease in fish. Farmers are advised to apply Cifax @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
+         ]
+      },
+      "others (soil / land preparation)": {
+         "advisory": [
+            "To manage fungal and bacterial diseases (leaf blight, wilt, and rot) in different standing crops, spray (Metalaxyl+ Mancozeb) @ 2-gram/litre of water or (Carbendazim+ Mancozeb) @ 2-gram/litre of water along with Plantomycin @ 1-gram/litre of water."
+         ]
+      }
+   },
+   "date": "27-12-2024"
+}

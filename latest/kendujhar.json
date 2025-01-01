@@ -1,64 +1,54 @@
 {
    "weather_details": {
-      "27-12-2024": {
-         "rainfall": 18,
-         "t_max": 24,
-         "t_min": 15,
-         "rh_max": 77,
-         "rh_min": 40,
-         "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 1
-      },
       "28-12-2024": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 15,
+         "cloud_cover": 1,
          "rh_max": 77,
          "rh_min": 40,
          "wind_speed": 4,
-         "wind_direction": 90,
-         "cloud_cover": 1
+         "wind_direction": 90
       },
       "29-12-2024": {
          "rainfall": 1,
          "t_max": 27,
          "t_min": 15,
+         "cloud_cover": 1,
          "rh_max": 77,
          "rh_min": 43,
          "wind_speed": 3,
-         "wind_direction": 352,
-         "cloud_cover": 1
+         "wind_direction": 352
       },
       "30-12-2024": {
          "rainfall": 4,
          "t_max": 27,
          "t_min": 15,
+         "cloud_cover": 1,
          "rh_max": 79,
          "rh_min": 46,
          "wind_speed": 4,
-         "wind_direction": 17,
-         "cloud_cover": 1
+         "wind_direction": 17
       },
       "31-12-2024": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 14,
+         "cloud_cover": 2,
          "rh_max": 83,
          "rh_min": 45,
          "wind_speed": 5,
-         "wind_direction": 8,
-         "cloud_cover": 2
+         "wind_direction": 8
       },
       "01-01-2025": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 12,
+         "cloud_cover": 1,
          "rh_max": 78,
          "rh_min": 39,
          "wind_speed": 5,
-         "wind_direction": 4,
-         "cloud_cover": 1
+         "wind_direction": 4
       }
    },
    "names_of_crops": [
@@ -110,7 +100,7 @@
       },
       "cauliflower": {
          "advisory": [
-            "Cauliflower borer can be managed by manually destroying the borers.",
+            "Cauliflower bore r can be managed by manually destroying the borers.",
             "In case of heavy infestation of borers spray Cartap hydrochloride @ 6 g/15 lts.",
             "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @ 4g/lt."
          ]

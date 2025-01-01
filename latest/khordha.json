@@ -12,7 +12,7 @@
       },
       "29/12/2024": {
          "rainfall": 0,
-         "t_max": 28,
+         "t_max": 29,
          "t_min": 16,
          "rh_max": 82,
          "rh_min": 44,
@@ -32,11 +32,11 @@
       },
       "31/12/2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 15,
+         "t_max": 28,
+         "t_min": 17,
          "rh_max": 85,
          "rh_min": 48,
-         "wind_speed": 4,
+         "wind_speed": 5,
          "wind_direction": 90,
          "cloud_cover": 4
       }
@@ -50,42 +50,43 @@
       "chilli",
       "marigold"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line. Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g/1 kg of seeds before sowing in the nursery. Present weather condition is favourable for the incidence of yellow mosaic virus which is caused by the vector white fly. To control, go for spraying of triazophos @ 400 ml/acre. In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed. Install pheromone trap @ 8nos/acre to monitor pest population. To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75% WP @ 600-gram/acre or carbendazim 12% + Mancozeb 63% WP @ 400-gram/acre by mixing in 200-litre of water. Remove the wilted plants from the field and destroy them away from the field. Aphids and Jassids infestation may be seen in the field. To manage it, spray Imidacloprid 17.8% SL @ 1ml/lt. To manage the leaf eating caterpillar biologically use Pheromone trap Spodoptera @ 6/acre or install light trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400-ml/acre or Lambda Cyhalothrin 5% EC @ 300 ml/acre during afternoon hours by mixing with 200 litres of water.",
+   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply FYM, DAP, MOP, and Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown with appropriate spacing.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Pre-sowing Nursery Management - Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line."
+            "Nursery Management - Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply FYM, DAP, MOP, and Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown with appropriate spacing.",
+            "Seed treatment - Treat the paddy seeds with Carbendazim 50% W.P or Carboxin before sowing in the nursery."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Vegetative Yellow mosaic virus - Present weather condition is favourable for the incidence of yellow mosaic virus which is caused by the vector white fly. To control, go for spraying of triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride per acre."
          ]
       },
       "greengram": {
          "advisory": [
-            "Vegetative Yellow mosaic virus - Present weather condition is favourable for the incidence of yellow mosaic virus which is caused by the vector white fly. To control, go for spraying of triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride per acre."
          ]
       },
       "tomato": {
          "advisory": [
-            "Vegetative to fruiting Wilting - In view of high humid condition, wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed.",
-            "Fruit & Shoot borer - Install pheromone trap @ 8nos/acre to monitor pest population."
+            "Wilting - Spray Mancozeb 75% WP if symptoms are noticed.",
+            "Fruit & Shoot borer - Install pheromone trap to monitor pest population."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Vegetative to Curd formation stage To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75% WP @ 600-gram/acre or carbendazim 12% + Mancozeb 63% WP @ 400-gram/acre by mixing in 200-litre of water."
+            "To manage Alternaria leaf spot disease, spray Mancozeb or carbendazim per acre."
          ]
       },
       "chilli": {
          "advisory": [
-            "Vegetative/Flowering - Remove the wilted plants from the field and destroy them away from the field. Aphids and Jassids infestation may be seen in the field. To manage it, spray Imidacloprid 17.8% SL @ 1ml/lt."
+            "Aphids and Jassids infestation - To manage, spray Imidachloprid per litre."
          ]
       },
       "marigold": {
          "advisory": [
-            "Vegetative/Flowering Leaf eating caterpillar Spodoptera @ 6/acre or install light trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400-ml/acre with 200 litres of water."
+            "Leaf eating caterpillar - Use Pheromone trap or chemical control."
          ]
       }
    },

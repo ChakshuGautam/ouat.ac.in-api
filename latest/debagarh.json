@@ -61,19 +61,19 @@
       "onion",
       "fish farming"
    ],
-   "general_advisory": "Due to forecast of Light rainfall in coming 5 days, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there are chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "general_advisory": "Due to forecast of light rainfall in coming 5 days, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
             "At present, care should be taken in the paddy field.",
             "When the paddy field is 15 days old, sprinkle with 2% urea.",
-            "A week before planting, apply 800 grams of potassium per 10 deciliters of field and soak in water for 2 to 3 days."
+            "A week before planting, apply 800 grams of potassium per 10 deciliter of field and soak in water for 2 to 3 days."
          ]
       },
       "rabi groundnut": {
          "advisory": [
             "Spray metalaxyl and mancozeb mixture at the rate of 2 gm per liter of water to control the attack of Chinese blight.",
-            "To control the budding disease in Rabi cinnamon, sprinkle with carbendazim at the rate of 2 grams per liter of water when the plant has two leaves."
+            "In order to control the budding disease in Rabi cinnamon, sprinkle with carbendazim at the rate of 2 grams per liter of water when the plant has two leaves."
          ]
       },
       "wheat": {
@@ -83,8 +83,7 @@
       },
       "potato": {
          "advisory": [
-            "Due to forecast of cloud weather, there are chances of leaf blight disease incidence in potato crop.",
-            "To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g/acre."
+            "Due to forecast of cloud weather, there are chances of leaf blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g/acre."
          ]
       },
       "pulse crop": {

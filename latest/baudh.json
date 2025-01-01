@@ -59,12 +59,12 @@
       "livestock",
       "poultry"
    ],
-   "general_advisory": "Looking to the above mentioned weather condition, farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Farmers are advised to make provision to take proper care of crops as well as animals to protect them from cold. Farmers are advised to complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, minimum temperature (night temperature) very likely to be 16 -18°C over the district of Coastal Odisha and also in the districts adjoining to Coastal Odisha, 14 -16°C in some parts of Interior Odisha and 12 -14°C over the remaining parts of Interior Odisha during week -1 (27th December, 2024 to 2nd January, 2025). Normal to above normal Minimum temperature very likely to be expected over the districts of Odisha during that period. Overall Rainfall activity very likely to be normal to below normal over the state during week -1. Farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Farmers are advised to make provision to take proper care of crops as well as animals to protect them from cold. Farmers are advised to complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer Paddy where irrigation facilities are available.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall event expected in the first half of upcoming days so farmers are advised to wait for harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
-            "Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy properly bagged and stacked with suitable cover to avoid damage due to untimely rain."
+            "There is some rainfall event is expected in the first half of upcoming days so farmers are advised to wait some days for harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
+            "Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy in properly bagged and stacked with suitable cover to avoid damage due to untimely rain."
          ]
       },
       "summer rice": {
@@ -74,25 +74,26 @@
       },
       "ground nut": {
          "advisory": [
-            "Past weather conditions (cloudy and foggy) are favorable for sucking insect attack in groundnut crop so regular monitoring should be advised."
+            "Past weather condition (cloudy and foggy) is favorable for a sucking insect attack in groundnut crop so its regular monitoring should be advised. If an attack is observed, then at the initial stage spraying of Azadiractin or neem-based insecticide 1500 ppm @ 600 ml in 200 liters of water per acre. Use 8 yellow sticky traps per acre. Trichogramma chilonis cards @ 1-2 nos. per acre can also be used at one week intervals. Cut the card into 12 pieces at the designated place. For chemical management, apply 40 grams of thiamethoxam or 80 grams of Emamectin benzoate per acre in 200 liters of water. As some amount of rain is expected in the upcoming two days, so farmers should wait some days for irrigation and spraying operations."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Straw can be used as mulching material in vegetable crops to maintain soil moisture and soil temperature in the field during the winter season.",
-            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised, and if possible, farmers should use a pheromone trap in the field for this purpose."
+            "Straw can be used as mulching material in vegetable crops to maintain soil moisture as well as soil temperature in the field during the winter season.",
+            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use pheromone traps in the field for this purpose.",
+            "If an attack is observed then spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter of water should be advised after the occurrence of rain."
          ]
       },
       "livestock": {
          "advisory": [
-            "Farmers should make provision to protect the animals from cold during the winter season and provide clean drinking water to cattle.",
+            "Farmers should make provision to protect the animal from cold (if possible use jute bag to cover the animal and straw as bedding material) during the winter season and provide clean drinking water to cattle and keep their sheds clean. Don't allow the urine or excreta to deposit around the shed which may lead to flies and make provision to restrict the entry of rainwater into the shed.",
             "Vaccination and deworming should be done to control different harmful diseases and stomach worms."
          ]
       },
       "poultry": {
          "advisory": [
-            "Proper ventilation is required to provide fresh air and remove gases inside the house.",
-            "External heat sources should be provided to keep the poultry shed warm and dry.",
+            "Proper ventilation is required to provide fresh air and removing gases inside the house.",
+            "External heat source is provided to keep the poultry shed warm and dry. Various types and layers of curtains and jute bags are used to insulate the farm.",
             "The drinking water should be maintained at a suitable temperature to promote water intake."
          ]
       }
