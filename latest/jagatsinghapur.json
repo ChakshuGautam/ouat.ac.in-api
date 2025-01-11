@@ -1,94 +1,84 @@
 {
    "weather_details": {
-      "28/12/2024": {
+      "04/01/2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 76,
-         "rh_min": 45,
-         "wind_speed": 10,
-         "wind_direction": 12,
-         "cloud_cover": 1
+         "t_max": 26,
+         "t_min": 16,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 0
       },
-      "29/12/2024": {
+      "11/01/2025": {
          "rainfall": 0,
          "t_max": 27,
          "t_min": 17,
-         "rh_max": 76,
-         "rh_min": 46,
-         "wind_speed": 8,
-         "wind_direction": 10,
-         "cloud_cover": 3
-      },
-      "30/12/2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 74,
-         "rh_min": 50,
-         "wind_speed": 10,
-         "wind_direction": 15,
-         "cloud_cover": 2
-      },
-      "31/12/2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 90,
-         "rh_min": 46,
-         "wind_speed": 15,
-         "wind_direction": 7,
-         "cloud_cover": 1
+         "rh_max": 84,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
-      "blackgram",
-      "greengram",
+      "sugarcane",
+      "groundnut",
       "tomato",
-      "cauliflower",
+      "cucurbits",
+      "onion",
       "chilli",
-      "marigold"
+      "tuberose",
+      "poultry"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during the last puddling. Divide nursery area into smaller plots of convenient length.",
+   "general_advisory": "Maintain saturated condition in the surface soil of nursery bed for rice seedlings. Use mulch for vegetable seedlings to avoid cold injury. Proper field surveillance for pests and diseases is recommended. Pesticides should be sprayed after 3 pm to protect honey bees.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Seed treatment - Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3 g/1 kg of seeds before sowing in the nursery.",
-            "For maintaining the heat in the poultry shed during winter season, install heaters in the shed."
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for nursery area before transplanting."
          ]
       },
-      "blackgram": {
+      "sugarcane": {
          "advisory": [
-            "Yellow mosaic virus - To control, go for spraying of triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Use resistant varieties like CO-7219, CO-8371, etc. to prevent red rot disease."
          ]
       },
-      "greengram": {
+      "groundnut": {
          "advisory": [
-            "Yellow mosaic virus - To control, go for spraying of triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Use Neem Based Pesticide or Profenophos for leaf miner control."
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting: In view of high humidity, wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed.",
-            "Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population."
+            "Use yellow sticky traps for Whitefly control. Spray neem-based pesticide or Thiamethoxam for pest control."
          ]
       },
-      "cauliflower": {
+      "cucurbits": {
          "advisory": [
-            "To manage Alternaria leaf spot disease in Cole crops, spray Mancozeb 75% WP @ 600g/acre by mixing in 200 litres of water."
+            "Spray Metalaxyl + Mancozeb or Fosetyl-AL for downy mildew control."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Apply compost, DAP, Murate of Potash, urea, and sulphur before transplanting."
          ]
       },
       "chilli": {
          "advisory": [
-            "Aphids and Jassids infestation may be seen in the field. To manage it, spray Imidachloprid 17.8% SL @ 1 ml/lt."
+            "Use Ethion EC or Spiromesifen for mites control."
          ]
       },
-      "marigold": {
+      "tuberose": {
          "advisory": [
-            "Leaf eating caterpillar - To manage, use Pheromone trap Spodolure @ 6/acre or Install light trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre."
+            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb for leaf blight control."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house against cold wind and ensure proper ventilation. Provide mineral and calcium to laying birds."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

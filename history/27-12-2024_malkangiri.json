@@ -39,12 +39,62 @@
          "wind_speed": 0,
          "wind_direction": 0,
          "cloud_cover": 0
+      },
+      "28-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 90,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 111,
+         "cloud_cover": 1
+      },
+      "29-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 44,
+         "wind_speed": 3,
+         "wind_direction": 113,
+         "cloud_cover": 1
+      },
+      "30-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 86,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "31-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 87,
+         "rh_min": 43,
+         "wind_speed": 3,
+         "wind_direction": 97,
+         "cloud_cover": 3
+      },
+      "01-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 2,
+         "wind_direction": 100,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
       "groundnut",
-      "greengram/blackgram",
+      "gramin krishi mausam sewa",
       "mustard",
       "cauliflower/cabbage/broccoli",
       "brinjal",
@@ -52,12 +102,12 @@
       "goat",
       "poultry"
    ],
-   "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card. Hold off on spraying of pesticides for the time being. Complete the impending rabi crop sowing to utilize anticipated rainfall.",
+   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card. Hold off on spraying of pesticides for the time being. Complete the impending rabi crop sowing to utilize anticipated rainfall. White fly may observe in tomato, to control it spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5 ZC @ 3.75 ml or Imidacloprid 70% WG @ 1.5 g in 15 liter of water.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Go for nursery raising of summer rice from Dec to 1st week of January. Early planting reduces stem borer attack.",
-            "Select certified 3 -4 months duration HYV resistant to biotic stress like Khandagiri, Mandakini, Sahabhagi Dhan, MTU 1010, Sidhant, Lalat, CR D han 101 etc.",
+            "Select certified 3-4 months duration HYV resistant to biotic stress like Khandagiri, Mandakini, Sahabhagi Dhan, MTU 1010, Sidhant, Lalat, CR D han 101etc.",
             "Dip the seeds in the brine solution (165 g common salt in one litre of water) to discard the chaffs & half filled seeds.",
             "After discard, wash the seeds with clear water & dry it.",
             "Before sowing, to reduce incidence of seed borne diseases, treat the seeds with Carbendazim @ 1.5 g/kg seed or Vitavax Power @ 2.5 g/kg seed."
@@ -65,24 +115,25 @@
       },
       "groundnut": {
          "advisory": [
-            "Weed Management: Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as early post emergence herbicide or apply Fenoxaprop -P-ethyl 9.3% @ 35 ml/drum (15 liter capacity) at 15 -20 DAS."
+            "Weed Management: Apply Imazethapyr 10% SL @ 3 ml/ltr of water at 15 DAS as early post emergence herbicide or apply Fenoxaprop-P-ethyl 9.3% @ 35 ml/drum (15 liter capacity) at 15-20 DAS."
          ]
       },
-      "greengram/blackgram": {
+      "gramin krishi mausam sewa": {
          "advisory": [
-            "Weed Management: Apply Pendimithalin 30% EC @ 1.20 liter/acre mixed with 200 liters of water at 1 -2 DAS."
+            "Weed Management: Apply Pendimithalin 30% EC @ 1.20 liter/acre mixed with 200 liters of water at 1-2 DAS."
          ]
       },
       "mustard": {
          "advisory": [
-            "For control of Aphids spray Dimethoate 30% EC (1.5 ml/l ) or Imidacloprid 17.8 % SL ( 0.6 ml/l) or Thiomethoxam 25 % WG (0.2g/l). For control of fly spray Ethofenprox 10 % EC @ 1 ml/l water or Quinalphos 25% EC @ 2.5ml/l water or Acephate 75 % SP @ 1g per litre of water.",
-            "Weed Management: Apply Quizalofop-ethyl 5% EC as post emergence @ 2ml /liter of water at 15-20 DAS.",
+            "For control of Aphids spray Dimethoate 30% EC (1.5 ml/l) or Imidacloprid 17.8 % SL (0.6 ml/l) or Thiomethoxam 25 % WG (0.2g/l). For control of fly spray Ethofenprox 10 % EC @ 1 ml/l water or Quinalphos 25% EC @ 2.5ml/l water or Acephate 75% SP @ 1g per litre of water.",
+            "Weed Management: Apply Quizalofop-ethyl 5% EC as post emergence @ 2ml/liter of water at 15-20 DAS.",
             "Undertake intercultural operation like weeding and earthing up followed by fertilizer application (Urea @ 35-40kg/ac + MOP @ 10kg/ac) and irrigation at 3-week stage."
          ]
       },
       "cauliflower/cabbage/broccoli": {
          "advisory": [
-            "Dimond back moth: Spray bio insecticide Azadiractin 0.03% (300 ppm) @ 5 ml/liter of water or Beauveria bassiana 5% WP @ 800 g/acre mixed with 200 liters of water. To control chemically, spray Fipronil 5% SC @ 2ml/liter or Chlorpyriphos 20% EC @ 4ml/liter of water.",
+            "Pest Management:",
+            "Dimond back moth: Spray bio insecticide Azadiractin 0.03% (300 ppm) @ 5 ml/liter of water or Beauveria bassiana 5% WP @ 800 g/acre mixed with 200 liters of water. To control chemically, spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water.",
             "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6 ml/5ltr of water.",
             "Chances of aphid infestation in cabbage, if observe spray Thiamethoxam 25% WG @ 6 g or Acetamiprid 20% SP @ 3 g per 15 litre of water."
          ]
@@ -96,7 +147,7 @@
          "advisory": [
             "In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed.",
             "Chances of early blight infestation in tomato, if observe spray Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/litre of water or Captan 50% WP @ 2.5 g/litre of water.",
-            "White fly may observe in tomato, to control it spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5 ZC @ 3.75 ml or Imidacloprid 70% WG @ 1.5 g in 15 litre of water."
+            "White fly may observe in tomato, to control it spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5 ZC @ 3.75 ml or Imidacloprid 70% WG @ 1.5 g in 15 liter of water."
          ]
       },
       "goat": {

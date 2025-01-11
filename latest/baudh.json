@@ -1,102 +1,98 @@
 {
    "weather_details": {
-      "28-12-2024": {
+      "11-01-2025": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 16,
-         "rh_max": 85,
-         "rh_min": 36,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 72,
+         "rh_min": 25,
          "wind_speed": 3,
-         "wind_direction": 139,
+         "wind_direction": 187,
+         "cloud_cover": 2
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 11,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
          "cloud_cover": 3
       },
-      "29-12-2024": {
-         "rainfall": 4,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 81,
-         "rh_min": 39,
-         "wind_speed": 3,
-         "wind_direction": 154,
-         "cloud_cover": 5
-      },
-      "30-12-2024": {
-         "rainfall": 2,
-         "t_max": 26,
-         "t_min": 14,
-         "rh_max": 83,
-         "rh_min": 48,
-         "wind_speed": 3,
-         "wind_direction": 166,
-         "cloud_cover": 4
-      },
-      "31-12-2024": {
+      "13-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 84,
-         "rh_min": 41,
-         "wind_speed": 1,
-         "wind_direction": 198,
-         "cloud_cover": 1
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 62,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 2
       },
-      "01-01-2025": {
+      "14-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 76,
-         "rh_min": 33,
-         "wind_speed": 1,
-         "wind_direction": 236,
-         "cloud_cover": 0
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 3
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "kharif rice",
-      "summer rice",
-      "ground nut",
-      "cole crop",
-      "livestock",
-      "poultry"
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
    ],
-   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, minimum temperature (night temperature) very likely to be 16 -18°C over the district of Coastal Odisha and also in the districts adjoining to Coastal Odisha, 14 -16°C in some parts of Interior Odisha and 12 -14°C over the remaining parts of Interior Odisha during week -1 (27th December, 2024 to 2nd January, 2025). Normal to above normal Minimum temperature very likely to be expected over the districts of Odisha during that period. Overall Rainfall activity very likely to be normal to below normal over the state during week -1. Farmers are advised to conduct harvesting, sowing and spraying operations accordingly. Farmers are advised to make provision to take proper care of crops as well as animals to protect them from cold. Farmers are advised to complete the sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram etc. and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week-1 (10th to 16th January, 2025) and week-2 (17th to 23rd January, 2025) so farmers are advised to conduct irrigation and any kind of spraying operations during that period and also make provision to protect the crop as well as animal from cold. Vaccination should be avoided in animals during foggy days and cold wave period. Farmers are advised to avoid burning of rice straw or crop residue in the field. For better agricultural benefits, use OUAT KALINGA products.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall event is expected in the first half of upcoming days so farmers are advised to wait some days for harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
-            "Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy in properly bagged and stacked with suitable cover to avoid damage due to untimely rain."
+            "Stored grain pest management: After noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ton grain (total 9g of tablets) in fairly airtight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of the plastic cover should be plastered with a 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
          ]
       },
-      "summer rice": {
+      "dry season rice": {
          "advisory": [
-            "Farmers should start field preparation for summer season rice cultivation. For this purpose, farmers may select some improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
+            "For dry season transplanted rice cultivation, farmers should prepare the wet nursery seed beds in puddled soil of 120 cm wide, 10 cm height and convenient length with 30 cm gap in between two beds. About 320 m2 nursery areas are required for transplanting one-acre main field.",
+            "Seed treatment should be done with Carbendazim 50 WP @ 1.5 g/kg of seed or Trichoderma formulation @ 10 g/kg of seed.",
+            "During cool winter days to protect the rice nursery from cold injury, apply a thin layer of well-decomposed FYM after sowing seeds in the wet bed to keep the bed relatively warm. Preferably use borewell water for irrigation in the evening and drain out the cold water in the morning to maintain the soil temperature favorable for growth."
          ]
       },
-      "ground nut": {
+      "mustard": {
          "advisory": [
-            "Past weather condition (cloudy and foggy) is favorable for a sucking insect attack in groundnut crop so its regular monitoring should be advised. If an attack is observed, then at the initial stage spraying of Azadiractin or neem-based insecticide 1500 ppm @ 600 ml in 200 liters of water per acre. Use 8 yellow sticky traps per acre. Trichogramma chilonis cards @ 1-2 nos. per acre can also be used at one week intervals. Cut the card into 12 pieces at the designated place. For chemical management, apply 40 grams of thiamethoxam or 80 grams of Emamectin benzoate per acre in 200 liters of water. As some amount of rain is expected in the upcoming two days, so farmers should wait some days for irrigation and spraying operations."
+            "One hoeing and weeding operation should be advised in the case of 15 to 20 days old crop. In case of dense planting, one thinning operation is advised to maintain an optimum plant population.",
+            "Prevailing weather conditions are favorable for Aphid attack in mustard crop so regular monitoring against this insect should be advised."
          ]
       },
-      "cole crop": {
+      "fruit and vegetable crops": {
          "advisory": [
-            "Straw can be used as mulching material in vegetable crops to maintain soil moisture as well as soil temperature in the field during the winter season.",
-            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use pheromone traps in the field for this purpose.",
-            "If an attack is observed then spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter of water should be advised after the occurrence of rain."
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised.",
+            "Straw can be used as mulching material to maintain soil moisture as well as temperature in the field during the winter season.",
+            "Harvesting of matured crops as well as one light irrigation in crops which are in the vegetative growth stage should be advised because dry weather is expected in the upcoming week."
          ]
       },
       "livestock": {
          "advisory": [
-            "Farmers should make provision to protect the animal from cold (if possible use jute bag to cover the animal and straw as bedding material) during the winter season and provide clean drinking water to cattle and keep their sheds clean. Don't allow the urine or excreta to deposit around the shed which may lead to flies and make provision to restrict the entry of rainwater into the shed.",
-            "Vaccination and deworming should be done to control different harmful diseases and stomach worms."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Proper ventilation is required to provide fresh air and removing gases inside the house.",
-            "External heat source is provided to keep the poultry shed warm and dry. Various types and layers of curtains and jute bags are used to insulate the farm.",
-            "The drinking water should be maintained at a suitable temperature to promote water intake."
+            "Cover the animal shelter from all sides during the night to avoid direct exposure of animals to cold winds including dry straw as animal bedding.",
+            "Weak and sick animals should be covered with sack cloth to protect them from the cold. At the same time, during the night, all the animals should be kept in a covered shelter.",
+            "Avoid keeping animals in a damp area, as well as protect them from smoke from fires which are lit to provide warmth. The dampness and smoke increase their chances of contracting pneumonia.",
+            "To maintain the body temperature of animals, they should be fed with a mixture of oil cakes and jiggery including covering of the body during cold hours. Pregnant animals (>6 months) should be given additional feed."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

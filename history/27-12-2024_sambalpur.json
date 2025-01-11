@@ -1,6 +1,6 @@
 {
    "weather_details": {
-      "28-12-2024": {
+      "27-12-2024": {
          "rainfall": 0,
          "t_max": 29,
          "t_min": 18,
@@ -10,7 +10,7 @@
          "wind_direction": 69,
          "cloud_cover": 1
       },
-      "29-12-2024": {
+      "28-12-2024": {
          "rainfall": 5,
          "t_max": 28,
          "t_min": 17,
@@ -20,7 +20,7 @@
          "wind_direction": 0,
          "cloud_cover": 6
       },
-      "30-12-2024": {
+      "29-12-2024": {
          "rainfall": 5,
          "t_max": 28,
          "t_min": 16,
@@ -30,7 +30,7 @@
          "wind_direction": 18,
          "cloud_cover": 5
       },
-      "31-12-2024": {
+      "30-12-2024": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 15,
@@ -40,7 +40,7 @@
          "wind_direction": 5,
          "cloud_cover": 2
       },
-      "01-01-2025": {
+      "31-12-2024": {
          "rainfall": 0,
          "t_max": 29,
          "t_min": 14,
@@ -58,36 +58,40 @@
       "livestock",
       "poultry"
    ],
-   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They should also take proper care of crops and animals to protect them from cold. Sowing of Rabi crops like Mustard, Til, Chickpea, Groundnut, Green gram/Black Gram is recommended.",
+   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. Farmers should take care of crops, animals, and complete sowing of Rabi crops. Minimum temperatures are expected to vary across regions.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall event expected in the first half of upcoming days, so farmers are advised to wait for harvesting operations and store the harvested paddy crop in safe places.",
-            "Use 'Super Grain Bag' or proper bagging and stacking methods for safe storage of paddy/rice."
+            "There is some rainfall expected in the upcoming days, so farmers are advised to wait for harvesting operations and ensure safe storage of paddy crops.",
+            "Use 'Super Grain Bag' or proper bagging and stacking methods for safe storage of harvested paddy."
          ]
       },
       "ground nut": {
          "advisory": [
-            "Regular monitoring for sucking insect attack in groundnut crops is advised, with spraying of Azadiractin or neem-based insecticide if attack is observed.",
-            "Wait for irrigation and spraying operations due to expected rainfall in the upcoming days."
+            "Regular monitoring against insect attack is advised due to past weather conditions.",
+            "Use recommended insecticides and traps for insect control.",
+            "Wait for irrigation and spraying operations due to expected rainfall."
          ]
       },
       "cole crop": {
          "advisory": [
-            "Use straw as mulching material in vegetable crops to maintain soil moisture and temperature during winter season.",
-            "Regular monitoring against Diamond back moth in cauliflower is recommended, with neem oil or Emamectin Benzoate spraying after rain."
+            "Use straw as mulching material to maintain soil moisture and temperature.",
+            "Monitor for Diamond back moth attack and use pheromone traps if necessary.",
+            "Spray neem oil or Emamectin Benzoate after rain if attack is observed."
          ]
       },
       "livestock": {
          "advisory": [
-            "Protect animals from cold using jute bags and bedding material, provide clean drinking water, and maintain clean sheds.",
-            "Vaccination and deworming should be done to control diseases and worms."
+            "Protect animals from cold using jute bags and straw as bedding material.",
+            "Provide clean drinking water and keep sheds clean to prevent flies.",
+            "Vaccinate and deworm animals to control diseases and worms."
          ]
       },
       "poultry": {
          "advisory": [
-            "Ensure proper ventilation and use external heat sources to keep the poultry shed warm and dry.",
-            "Maintain suitable water temperature for poultry intake."
+            "Ensure proper ventilation in poultry houses.",
+            "Use external heat sources to maintain warmth.",
+            "Maintain suitable drinking water temperature for poultry."
          ]
       }
    },

@@ -1,104 +1,72 @@
 {
    "weather_details": {
-      "28-12-2024": {
-         "rainfall": 0,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 77,
-         "rh_min": 40,
-         "wind_speed": 3,
-         "wind_direction": 344,
-         "cloud_cover": 1
-      },
-      "29-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 79,
-         "rh_min": 42,
-         "wind_speed": 2,
-         "wind_direction": 90,
-         "cloud_cover": 2
-      },
-      "30-12-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 78,
-         "rh_min": 48,
-         "wind_speed": 2,
-         "wind_direction": 51,
-         "cloud_cover": 1
-      },
-      "31-12-2024": {
+      "10.01.2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 14,
-         "rh_max": 81,
-         "rh_min": 45,
-         "wind_speed": 2,
-         "wind_direction": 27,
-         "cloud_cover": 2
-      },
-      "01-01-2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 81,
-         "rh_min": 41,
-         "wind_speed": 3,
-         "wind_direction": 6,
-         "cloud_cover": 1
+         "t_min": 15,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "paddy",
-      "blackgram and greengram",
       "groundnut",
-      "cabbage",
-      "coriander",
-      "mango"
+      "chilli",
+      "tomato",
+      "brinjal",
+      "onion",
+      "tuberose",
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advisory": "By utilizing the soil moisture from past rainfall, continue sowing operation of summer paddy. Polythene to cover the paddy nursery at night-time. Protect the paddy nursery, apply a thin layer of well decomposed FYM in wet bed to keep the bed relatively warm. Cover the recently planted cole crops with paper pockets during night time to avoid low temperature. Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf rust, blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures.",
+   "general_advisory": "Ensure proper pest management and take care of animal health during winter.",
    "crops_data": {
-      "paddy": {
-         "advisory": [
-            "By utilizing the soil moisture from past rainfall, continue sowing operation of summer paddy.",
-            "Polythene to cover the paddy nursery at night-time.",
-            "Protect the paddy nursery, apply a thin layer of well decomposed FYM in wet bed to keep the bed relatively warm."
-         ]
-      },
-      "blackgram and greengram": {
-         "advisory": [
-            "Agromet Advisory: Farmers those are going for Wet direct sown rice cultivation should apply 35 kg DAP, 27 kg Potash and 8 kg Urea per acre during last puddling."
-         ]
-      },
       "groundnut": {
          "advisory": [
-            "To control stem rot in groundnut go for seed treatment with tricoderma viride @4g per kg of seed.",
-            "Drench the root zone with Validamycin @ 400 ml or Captan and Hexaconazole @ 300 g / acre by mixing it in 200 litre of water."
+            "White grub infestation can be minimized by drenching Chloropyriphos or Imidacloprid at the plant base."
          ]
       },
-      "cabbage": {
+      "chilli": {
          "advisory": [
-            "Current weather is favourable for attack of Cabbage webber and tobacco caterpillar in Cabbage. To control these insects, go for alternate spray of Neem based formulation 1500ppm@600ml/acre and Emamectin benzoate@70g/acre in 200 lit water."
+            "To manage mites in chilli crop, spray Ethion 50% EC, Spiromesifen 22.9% SC, or Propargite 57 % EC."
          ]
       },
-      "coriander": {
+      "tomato": {
          "advisory": [
-            "Now the weather is favourable for Coriander sowing. Grow high yielding varieties like CO-1, CO-2, CO-3, Swati, Sadhana, Ram Selection and Udi.",
-            "Use 6 kg seeds/acre.",
-            "Treat the seeds with 1.5 g Carbendazim or 3 g Thiram/kg of seeds. Soak the seeds overnight for 10 to 12 hours for better germination.",
-            "Apply 1 ton FYM along with 4:16 kg NP per acre as basal during final land preparation. Sow the seeds in lines with 30 X 8 cm."
+            "To control aphid in tomato, spray neem oil formulation or Flonicam as recommended."
          ]
       },
-      "mango": {
+      "brinjal": {
          "advisory": [
-            "New Plantation - Mulching around the basin either with grass or polythene (100 μ).",
-            "Spray chloropyriphos 20EC @ 2.5ml/ltr on trunk and collar region to manage termite.",
-            "Growing Plant - Mulching around the basin either with grass or polythene (100 μ). Irrigation may be given through ring or drip method at 15 days interval."
+            "Use yellow sticky traps to attract and kill White fly in Brinjal.",
+            "During primary stage of pest infestation spray neem-based pesticide or chemical sprays like Thiamethoxam, Pyriproxifen, or Spiromesifen."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Transplant onion seedlings properly with required nutrients in the main field as specified."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "To control leaf blight, stem rot, and root knot nematode in tuberose, spray recommended fungicides and nematicides as specified."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Vaccinate animals against common diseases.",
+            "Store/procure fodder for winter months.",
+            "Cut perennial grasses as needed."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry houses during winter and ensure proper ventilation.",
+            "Provide mineral and calcium supplements to laying birds."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

@@ -59,16 +59,15 @@
       "cole crops",
       "papaya",
       "pisciculture",
-      "livestock"
+      "cattle"
    ],
-   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollutes the environment but also causes severe health problems. Keep harvested matured paddy crops in a safe place & if possible dry under the sun. Drain out excess water from crop & vegetable fields. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
+   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollutes the environment but also causes severe health problems. Keep harvested matured paddy crops in a safer place & if possible dry under the sun. Drain out excess water from crop & vegetable field. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Rice grains must be dried under the sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
-            "Transfer the already harvested paddy from the field to a godown or any shaded place.",
-            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS.",
-            "Lambda Cyahalothrin 4.9CS @ 1.5ml/l of water to minimize the chance of future infestation of storage pests."
+            "Transfer the already harvested paddy from the field to go down/any shade place.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pests."
          ]
       },
       "rapeseed and mustard": {
@@ -79,36 +78,33 @@
       },
       "groundnut": {
          "advisory": [
-            "After the cessation of rain, spraying of Rhidomil M-Z @ 2g/l of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
+            "After the cessation of rain, Spraying of Rhidomil M-Z @2g/li of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
          ]
       },
       "brinjal": {
          "advisory": [
-            "High moisture content followed by rainfall increases wilting or partial wilting in brinjal, drain excess water from the field.",
-            "Apply Neem or Karanja cake @ 1 quintal/acre.",
-            "Drenching of Tebuconazole @ 1ml/l can be recommended."
+            "High moisture content followed by rainfall increase the wilting or partial wilting in brinjal to prevent this drain the excess water from the field. Apply Neem or Karanja cake @ 1quintal/acre. Drenching of Tebuconazole @ 1ml/liter can be recommended."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Uproot the disease-infected plants & expose the soil to the sun."
+            "Uproot the disease infected plants & expose the soil to the sun."
          ]
       },
       "papaya": {
          "advisory": [
-            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
-            "Alternate spraying of Neem oil formulation 1500ppm & spray flonicamid 50WG."
+            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Regular monitoring of disease infestation & feed supplements for fish advised.",
-            "After heavy rainfall, test water quality of fish ponds and apply lime as recommended."
+            "Regular monitoring of disease infestation & feed supplements of fish advised.",
+            "After heavy rainfall water quality of fish ponds may be altered so testing of water PH & need-based Application of @100kg lime/acre in 3 splits (40:40:20) at 2 days interval recommended."
          ]
       },
-      "livestock": {
+      "cattle": {
          "advisory": [
-            "Keep the animals inside the shed.",
+            "Keep the animal inside the shed.",
             "Clean the animal shed by spraying disinfectant/bleaching powder/phenyl."
          ]
       }

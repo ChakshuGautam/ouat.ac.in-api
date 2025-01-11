@@ -59,45 +59,52 @@
       "potato",
       "fisheries"
    ],
-   "general_advisory": "• Seeing the clear sky, farmers can apply spraying activities. Farmers can get the crop insurance by calculating the crop loss due to untimely rainfall. The light rainfall will be very essential for the winter crops so farmers can skip the irrigation. Harvested rice crop should be dried in sun, and then threshed & stored in a safe place.",
+   "general_advisory": "Seeing the clear sky, farmers can apply spraying activities. Farmers can get the crop insurance by calculating the crop loss due to untimely rainfall. The light rainfall will be very essential for the winter crops so farmers can skip the irrigation. Harvested rice crop should be dried in sun, and then threshed & stored in a safe place.",
    "crops_data": {
       "cabbage": {
          "advisory": [
             "Make arrangements to prevent water stagnation in the field.",
             "Harvest the mature crops.",
-            "Install 6 -8 light traps per acre.",
-            "Spray Emamectin Benzoate 5 % SG @80 -gram/acre by mixing in 200 -litre of water or Flubendiamide 20 % WG @ 20 -gram/acre after the rain recedes."
+            "Diamond Back Moth",
+            "Install 6-8 light traps per acre.",
+            "Spray Emamectin Benzoate 5% SG @80-gram/acre by mixing in 200-litre of water or Flubendiamide 20% WG @ 20-gram/acre after the rain recedes."
          ]
       },
       "garden pea": {
          "advisory": [
+            "Gram pod borer",
+            "Defoliation in early stages",
+            "Larva’s head alone thrust inside the pods and the rest of the body hanging out.",
+            "Pods with round holes",
             "Bird perches @50/acre can be erected.",
-            "Apply NSKE 5% twice followed by Triazophos 0.05 %"
+            "Apply NSKE 5% twice followed by Triazophos 0.05%"
          ]
       },
       "tomato": {
          "advisory": [
             "Harvest the mature crop and prevent water stagnation in the field",
+            "Maturity-harvesting",
             "To control leaf-eating caterpillar and fruit borer in Brinjal, spray 80 g Emamectin benzoate or 80 ml Spinosad per 200 liters of water after the rain recedes."
          ]
       },
       "marigold": {
          "advisory": [
-            "Spray prophenophos or dimethoate @ 2ml/ liter.",
+            "Mealy bug",
+            "Spray prophenophos or dimethoate @ 2ml/liter.",
             "Provide irrigation to the plants regularly."
          ]
       },
       "potato": {
          "advisory": [
-            "Sowing -Germination",
-            "Seed rate 25 quintal/ hectare is required",
+            "Sowing-Germination",
+            "Seed rate 25 quintal/hectare is required",
             "Apply 15 t/ha of FYM and 2 kg each of Azospirillum and Phosphobacterium as basal and 235kg urea, 150kg DAP, 166 kg MOP in two split doses @basal and after 30 days after sowing."
          ]
       },
       "fisheries": {
          "advisory": [
             "In winters there may be various fungal, bacterial and parasitic diseases in the fish.",
-            "Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1 -2 kg/acre or limestone @ 50 -100 kg/acre."
+            "Treat the pond with CIFAX @ 400 ml/acre just before the onset of winters. Also treat the pond with potassium permanganate @ 1-2 kg/acre or limestone @ 50-100 kg/acre."
          ]
       }
    },

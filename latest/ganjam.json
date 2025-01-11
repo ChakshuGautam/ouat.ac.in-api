@@ -1,78 +1,90 @@
 {
    "weather_details": {
-      "2024-12-25": {
-         "rainfall": 10,
-         "t_max": 25,
-         "t_min": 20,
-         "rh_max": 84,
-         "rh_min": 57,
-         "wind_speed": 4,
-         "wind_direction": 354,
-         "cloud_cover": 8
-      },
-      "2024-12-26": {
-         "rainfall": 6,
-         "t_max": 25,
-         "t_min": 20,
-         "rh_max": 87,
-         "rh_min": 50,
-         "wind_speed": 3,
-         "wind_direction": 354,
-         "cloud_cover": 8
-      },
-      "2024-12-27": {
-         "rainfall": 1,
-         "t_max": 26,
-         "t_min": 19,
-         "rh_max": 84,
-         "rh_min": 42,
-         "wind_speed": 4,
-         "wind_direction": 338,
-         "cloud_cover": 6
-      },
-      "2024-12-28": {
+      "2025-01-04": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 19,
-         "rh_max": 82,
-         "rh_min": 43,
+         "t_max": 24,
+         "t_min": 16,
+         "rh_max": 70,
+         "rh_min": 31,
          "wind_speed": 4,
-         "wind_direction": 323,
-         "cloud_cover": 4
+         "wind_direction": 318,
+         "cloud_cover": 2
       },
-      "2024-12-29": {
+      "2025-01-05": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 19,
+         "t_max": 24,
+         "t_min": 15,
+         "rh_max": 75,
+         "rh_min": 35,
+         "wind_speed": 4,
+         "wind_direction": 315,
+         "cloud_cover": 3
+      },
+      "2025-01-06": {
+         "rainfall": 0,
+         "t_max": 24,
+         "t_min": 16,
          "rh_max": 81,
-         "rh_min": 39,
-         "wind_speed": 3,
-         "wind_direction": 320,
+         "rh_min": 35,
+         "wind_speed": 4,
+         "wind_direction": 315,
+         "cloud_cover": 2
+      },
+      "2025-01-07": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 17,
+         "rh_max": 84,
+         "rh_min": 36,
+         "wind_speed": 4,
+         "wind_direction": 299,
+         "cloud_cover": 1
+      },
+      "2025-01-08": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 17,
+         "rh_max": 86,
+         "rh_min": 35,
+         "wind_speed": 4,
+         "wind_direction": 294,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rice",
-      "cabbage",
-      "cow"
+      "green gram",
+      "pigeon pea (red gram/arhar)",
+      "cow",
+      "chick"
    ],
-   "general_advisory": "Postpone harvesting of rice. Store harvested produce in safe place or cover with polythene. Store the harvested rice safe place away from rats.",
+   "general_advisory": "According to the weather forecast, the district is likely to experience dry weather with clear skies for the next five days. The maximum temperature will range between 24-25°C and the minimum temperature will range between 15.0-17.0°C. The humidity levels will vary between 70-86% (max) and 31-36% (min).",
    "crops_data": {
       "rice": {
          "advisory": [
-            "As light rain is expected postpone harvesting of matured rice. If already harvested store in safe places."
+            "As the weather is expected to remain clear, harvesting of matured rice can be done. Sundry for 2-3 days to reduce the moisture content to 14%."
          ]
       },
-      "cabbage": {
+      "green gram": {
          "advisory": [
-            "For the late sown cabbage, spray NSKE 5% after the primordial stage to the diamondback moth, Or spray Cartap Hydrochloride 1gm/lt at the primordial stage on clear sky condition."
+            "To manage whitefly infestation, spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. For severe infestation, use Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50-gram/acre by mixing in 200-litre of water."
+         ]
+      },
+      "pigeon pea (red gram/arhar)": {
+         "advisory": [
+            "Spotted pod borer observed in some places in Arhar, to control use bird perches @50/hectare. Use Azadirachtin 0.03% WSP or NSKE 5% or neem oil 2%."
          ]
       },
       "cow": {
          "advisory": [
-            "Animals should be given a mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
+            "Animals should be given a mineral mixture along with salt regularly. Provide wheat grains, jaggery, etc. @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
+         ]
+      },
+      "chick": {
+         "advisory": [
+            "Keep the shed warm as night temperature is decreasing. Provide a bulb to heat the room."
          ]
       }
    },
-   "date": "24-12-2024"
+   "date": "03-01-2025"
 }

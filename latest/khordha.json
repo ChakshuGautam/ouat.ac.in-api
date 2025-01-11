@@ -1,94 +1,89 @@
 {
    "weather_details": {
-      "28/12/2024": {
+      "04/01/2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 79,
-         "rh_min": 42,
-         "wind_speed": 6,
-         "wind_direction": 353,
-         "cloud_cover": 1
+         "t_max": 14,
+         "t_min": 14,
+         "rh_max": 87,
+         "rh_min": 87,
+         "wind_speed": 5,
+         "wind_direction": 330,
+         "cloud_cover": 5
       },
-      "29/12/2024": {
+      "11/01/2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 82,
-         "rh_min": 44,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 87,
+         "rh_min": 37,
          "wind_speed": 4,
-         "wind_direction": 329,
-         "cloud_cover": 2
-      },
-      "30/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 83,
-         "rh_min": 46,
-         "wind_speed": 5,
-         "wind_direction": 9,
-         "cloud_cover": 3
-      },
-      "31/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 85,
-         "rh_min": 48,
-         "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 4
+         "wind_direction": 280,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
-      "blackgram",
-      "greengram",
+      "sugarcane",
+      "groundnut",
       "tomato",
-      "cauliflower",
+      "cucurbits",
+      "onion",
       "chilli",
-      "marigold"
+      "tuberose",
+      "poultry"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply FYM, DAP, MOP, and Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown with appropriate spacing.",
+   "general_advisory": "Dry weather may prevail over the district of Khordha for the next five days. Ensure proper irrigation and monitoring for pests and diseases in crops.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Nursery Management - Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply FYM, DAP, MOP, and Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown with appropriate spacing.",
-            "Seed treatment - Treat the paddy seeds with Carbendazim 50% W.P or Carboxin before sowing in the nursery."
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for nursery area before transplanting to manage pests."
          ]
       },
-      "blackgram": {
+      "sugarcane": {
          "advisory": [
-            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride per acre."
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in a recommended solution before planting."
          ]
       },
-      "greengram": {
+      "groundnut": {
          "advisory": [
-            "Yellow mosaic virus - Control by spraying triazophos or Acetamipride per acre."
+            "Use Neem Based Pesticide to control leaf miner.",
+            "Spray recommended pesticides during infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting - Spray Mancozeb 75% WP if symptoms are noticed.",
-            "Fruit & Shoot borer - Install pheromone trap to monitor pest population."
+            "Use yellow sticky traps to attract and kill Whitefly.",
+            "Spray neem-based pesticide during infestation."
          ]
       },
-      "cauliflower": {
+      "cucurbits": {
          "advisory": [
-            "To manage Alternaria leaf spot disease, spray Mancozeb or carbendazim per acre."
+            "Use recommended fungicides to control Downey mildew."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Ensure proper soil preparation and fertilization before transplanting onion seedlings."
          ]
       },
       "chilli": {
          "advisory": [
-            "Aphids and Jassids infestation - To manage, spray Imidachloprid per litre."
+            "Spray recommended pesticides for mite control."
          ]
       },
-      "marigold": {
+      "tuberose": {
          "advisory": [
-            "Leaf eating caterpillar - Use Pheromone trap or chemical control."
+            "Spray recommended fungicides to control leaf blight and stem rot.",
+            "Apply carbofuran to control root knot nematode."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house against cold wind during winter.",
+            "Provide mineral and calcium to laying birds."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

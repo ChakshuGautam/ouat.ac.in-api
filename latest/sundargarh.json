@@ -1,114 +1,126 @@
 {
    "weather_details": {
-      "28/12/2024": {
+      "11/01/2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 16,
-         "rh_max": 79,
-         "rh_min": 35,
-         "wind_speed": 4,
-         "wind_direction": 42,
-         "cloud_cover": 1
-      },
-      "29/12/2024": {
-         "rainfall": 5,
          "t_max": 29,
-         "t_min": 16,
-         "rh_max": 75,
-         "rh_min": 40,
-         "wind_speed": 3,
-         "wind_direction": 54,
-         "cloud_cover": 6
-      },
-      "30/12/2024": {
-         "rainfall": 5,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 84,
-         "rh_min": 42,
-         "wind_speed": 5,
-         "wind_direction": 42,
-         "cloud_cover": 5
-      },
-      "31/12/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 15,
-         "rh_max": 83,
-         "rh_min": 36,
-         "wind_speed": 6,
-         "wind_direction": 35,
+         "t_min": 13,
+         "rh_max": 67,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 14,
          "cloud_cover": 2
       },
-      "01/01/2025": {
+      "12/01/2025": {
          "rainfall": 0,
          "t_max": 30,
-         "t_min": 13,
-         "rh_max": 74,
-         "rh_min": 29,
+         "t_min": 14,
+         "rh_max": 60,
+         "rh_min": 20,
          "wind_speed": 5,
-         "wind_direction": 34,
+         "wind_direction": 23,
+         "cloud_cover": 2
+      },
+      "13/01/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 64,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 36,
+         "cloud_cover": 3
+      },
+      "14/01/2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 67,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 14,
+         "cloud_cover": 2
+      },
+      "15/01/2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 60,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 23,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rabi paddy",
       "wheat",
-      "rabi sunflower",
+      "gram",
+      "sunflower",
       "potato",
-      "pulse crop",
-      "chilli",
+      "toria",
+      "groundnut",
+      "ragi",
       "onion",
-      "fish farming"
+      "fish farming",
+      "poultry farming"
    ],
-   "general_advisory": "Due to forecast of light rainfall in coming 5 days, shift the agriculture produce to a safer place or cover with proper polythene. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather, there are chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "general_advisory": "Provide light irrigation to paddy nursery. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "At present, care should be taken in the paddy field. When the paddy field is 15 days old, sprinkle with 2% urea. A week before planting, apply 800 grams of potassium per 10 deciliter of field and soak in water for 2 to 3 days."
+            "Survey for stem borer attack. Keep light standing water in the nursery."
          ]
       },
       "wheat": {
          "advisory": [
-            "After 25 days of late-planted wheat, select weeds or spray 1 kg/ha of 2-4-D-sodium herbicide for weed control."
+            "Provide critical stage irrigation at jointing stage."
          ]
       },
-      "rabi sunflower": {
+      "gram": {
          "advisory": [
-            "After 25-30 days of sowing irrigated crops, weed the land and select grass and non-planting trees. Apply 8 kg of Nitrojen per acre and 10 kg of nitrojen fertilizer after 35 days of planting. Apply endosulfan at 400 ml per acre to control leaf Gramin Krishi Mausam Sewa."
+            "Due to weather, there is chances of Pod borer attack, to manage this spray Chlorpyriphos @ 2 ml per liter of water."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "At 40 DAS apply 6 kg Nitrogen per acre. Apply fertilizer at a distance of 3-4 inch from the plant."
          ]
       },
       "potato": {
          "advisory": [
-            "Due to forecast of cloud weather, there are chances leaf Blight disease incidence in potato crop. To control blight in potato, spray Carbendazim 12% + Mancozeb 63% W.P @ 400 g/acre."
+            "To control Aphids spray Neem oil @ 4 ml per liter of water."
          ]
       },
-      "pulse crop": {
+      "toria": {
          "advisory": [
-            "Apply 2% DAP immediately after pea grown as pea crop has matured.",
-            "In case of possible infestation of mung bean etc., spray 50 ml of imidacloprid or 400 ml of methyl demiton in 2000 liters of water per acre.",
-            "Apply 300 grams of carbendazim per acre in 200 liters of water for control of pea and boot blight."
+            "Due to weather there is Leaf spot, to manage spray Vitavax power @ 2 g per liter of water."
          ]
       },
-      "chilli": {
+      "groundnut": {
          "advisory": [
-            "Spray ethion 50% EC at the rate of 2.5 ml per liter of water to control aphids in pepper crop."
+            "Choose quality seeds like Dharani, Kalinga badam, Kadri, AK 12-24 and start sowing. Apply Gypsum @ 100 kg per acre at final land preparation."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Transplant the 3 weeks old seedling at spacing of 20 X 10 cm."
          ]
       },
       "onion": {
          "advisory": [
-            "Weeds are the main enemy of onion crops.",
-            "Onion plants should have a light top layer of soil and should not overcrowd the onion.",
-            "After 60 days of planting onions, the soil should not be disturbed.",
-            "Therefore, before 60 days, mow lightly 2-3 times and select unplanted grass.",
-            "After 60 days, if necessary, remove the dead grass by hand and keep it clean."
+            "Provide light irrigation to the crop."
          ]
       },
       "fish farming": {
          "advisory": [
-            "If acidity is less than 7.5 in fish pond 7 days before application of organic fertilizers, apply 100 kg of lime per hectare meter of water. Feed 3 kg 750 grams of Candiakunda with 3 kg 750 grams of almond pidia daily for 12500 twins in 1 hectare fish pond. Mirikali and Bilati Rohi in the lower level of the pond rose to the upper level of the pond. Use 50 kg of zeolite per hectare meter of water if the soil smells."
+            "If acidity is less than 7.5 in fish pond 7 days before application of organic fertilizers, apply 100 kg of lime per hectare meter of water."
+         ]
+      },
+      "poultry farming": {
+         "advisory": [
+            "Cover the poultry house with plastic or sacking at night to protect from the cold."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

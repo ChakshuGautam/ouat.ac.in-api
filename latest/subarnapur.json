@@ -1,99 +1,90 @@
 {
    "weather_details": {
-      "27.12.2024": {
+      "11-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 82,
-         "rh_min": 32,
-         "wind_speed": 5,
-         "wind_direction": 69,
-         "cloud_cover": 1
+         "t_max": 28,
+         "t_min": 7,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 2
       },
-      "28.12.2024": {
-         "rainfall": 5,
-         "t_max": 27,
-         "t_min": 17,
-         "rh_max": 74,
-         "rh_min": 37,
-         "wind_speed": 4,
-         "wind_direction": 0,
-         "cloud_cover": 6
-      },
-      "29.12.2024": {
-         "rainfall": 2,
-         "t_max": 27,
-         "t_min": 17,
-         "rh_max": 77,
-         "rh_min": 46,
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 9,
+         "rh_max": 54,
+         "rh_min": 20,
          "wind_speed": 2,
-         "wind_direction": 18,
-         "cloud_cover": 5
-      },
-      "30.12.2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 74,
-         "rh_min": 37,
-         "wind_speed": 4,
-         "wind_direction": 5,
+         "wind_direction": 323,
          "cloud_cover": 3
       },
-      "31.12.2024": {
+      "13-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 70,
-         "rh_min": 31,
-         "wind_speed": 4,
-         "wind_direction": 355,
-         "cloud_cover": 1
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 57,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 3
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 11,
+         "rh_max": 51,
+         "rh_min": 23,
+         "wind_speed": 3,
+         "wind_direction": 118,
+         "cloud_cover": 2
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 12,
+         "rh_max": 48,
+         "rh_min": 24,
+         "wind_speed": 3,
+         "wind_direction": 100,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "kharif rice",
-      "ground nut",
-      "cole crop",
-      "livestock",
-      "poultry"
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
    ],
-   "general_advisory": "Farmers are advised to conduct harvesting, sowing, and spraying operations accordingly. They should also make provision to take care of crops and animals to protect them from cold. Additionally, farmers are encouraged to complete the sowing of Rabi crops and start nursery sowing of Summer Paddy where irrigation facilities are available.",
+   "general_advisory": "As per the extended range forecast (date:-09.01.2025) of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week-1 (10th to 16th January, 2025) and week-2 (17th to 23rd January, 2025) so farmers are advised to conduct irrigation and any kind of spraying operations during that period and also make provision to protect the crop as well as animal from cold. If possible, cover young fruit plants by using sarkanda grass, dry corn stalks, or gunny sacks to cover small plants, keep the southeast side open to allow sunlight and airflow and apply light irrigation in the field to maintain soil temperature. Vaccination should be avoided in animals during foggy days and cold wave period.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is expected rainfall in the upcoming days, so wait for harvesting operations.",
-            "Use 'Super Grain Bag' for safe storage of paddy/rice."
+            "Stored grain pest management: After noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ton grain (total 9g of tablets) in fairly airtight containers or by covering with a thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of the plastic cover should be plastered with a 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
          ]
       },
-      "ground nut": {
+      "dry season rice": {
          "advisory": [
-            "Regular monitoring against insect attack is advised.",
-            "Use Azadiractin or neem-based insecticide if attack observed.",
-            "Wait for irrigation and spraying operations due to expected rain."
+            "For dry season transplanted rice cultivation, farmers should prepare the wet nursery seed beds in puddled soil of 120 cm wide, 10 cm height, and convenient length with 30 cm gap in between two beds. About 320 m2 nursery areas are required for transplanting one-acre main field. Seed treatment should be done with Carbendazim 50 WP @ 1.5 g/kg of seed or Trichoderma formulation @ 10 g/kg of seed. During cool winter days to protect the rice nursery from cold injury, apply a thin layer of well-decomposed FYM after sowing of seeds in a wet bed to keep the bed relatively warm. Preferably use borewell water for irrigation at evening and drain out the cold water in the morning to maintain the soil temperature favorable for growth."
          ]
       },
-      "cole crop": {
+      "mustard": {
          "advisory": [
-            "Use straw as mulching material in vegetable crops.",
-            "Regular monitoring against Diamond back moth in cauliflower is advised.",
-            "Spray neem oil or Emamectin Benzoate after occurrence of rain if attack observed."
+            "One hoeing and weeding operation should be advised in case of 15 to 20 days old crop. In case of dense planting, one thinning operation is advised to maintain optimum plant population. Prevailing weather condition is favorable for Aphid attack in mustard crop so regular monitoring against this insect should be advised."
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised. Straw can be used as mulching material to maintain soil moisture as well as temperature in the field during the winter season. Harvesting of matured crops as well as one light irrigation in crops which are in the vegetative growth stage should be advised because dry weather is expected in the upcoming week."
          ]
       },
       "livestock": {
          "advisory": [
-            "Protect animals from cold by using jute bags and straw as bedding material.",
-            "Provide clean drinking water to cattle and keep sheds clean.",
-            "Vaccination and deworming should be done to control diseases and worms."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Ensure proper ventilation in poultry houses.",
-            "Provide external heat source to keep the shed warm and dry.",
-            "Maintain suitable temperature for drinking water."
+            "Cover the animal shelter from all sides during the night to avoid direct exposure of animals to cold winds including dry straw as animal bedding. Weak and sick animals should be covered with sack cloth to protect them from the cold. At the same time, during the night, all the animals should be kept in a covered shelter. Avoid keeping animals in a damp area, as well as protect them from smoke from fires which are lit to provide warmth. The dampness and smoke increase their chances of contracting pneumonia. To maintain the body temperature of animals, they should be fed with a mixture of oil cakes and jiggery including covering the body during cold hours. Pregnant animals (>6 months) should be given additional feed."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

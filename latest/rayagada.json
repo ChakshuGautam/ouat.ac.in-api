@@ -1,85 +1,78 @@
 {
    "weather_details": {
-      "2024-12-28": {
-         "rainfall": 0,
-         "t_max": 24,
-         "t_min": 17,
-         "rh_max": 92,
-         "rh_min": 42,
-         "wind_speed": 2,
-         "wind_direction": 63,
-         "cloud_cover": 1
-      },
-      "2024-12-29": {
-         "rainfall": 0,
-         "t_max": 25,
-         "t_min": 16,
-         "rh_max": 87,
-         "rh_min": 45,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 1
-      },
-      "2024-12-30": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 88,
-         "rh_min": 49,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 2
-      },
-      "2024-12-31": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 88,
-         "rh_min": 44,
-         "wind_speed": 1,
-         "wind_direction": 90,
+      "2025-01-04": {
+         "rainfall": 0.0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 64,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 334,
          "cloud_cover": 3
       },
-      "2025-01-01": {
-         "rainfall": 0,
+      "2025-01-05": {
+         "rainfall": 0.0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 338,
+         "cloud_cover": 3
+      },
+      "2025-01-06": {
+         "rainfall": 0.0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 87,
+         "rh_min": 27,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-01-07": {
+         "rainfall": 0.0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 90,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "2025-01-08": {
+         "rainfall": 0.0,
          "t_max": 28,
          "t_min": 14,
-         "rh_max": 84,
-         "rh_min": 34,
-         "wind_speed": 2,
-         "wind_direction": 349,
-         "cloud_cover": 1
+         "rh_max": 87,
+         "rh_min": 28,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "rice",
       "maize",
-      "mustard",
-      "cauliflower"
+      "onion",
+      "cow"
    ],
-   "general_advisory": "If stored rice grain infestation occurs, take up fumigation by using Aluminium phosphide tablets @ of 3 tab / ton grain in fairly air tight container or by covering with thick tarpaulin leaving no gap",
+   "general_advisory": "Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition.",
    "crops_data": {
-      "rice": {
-         "advisory": [
-            "Upland rice varieties (Matures in 100-120 days) like Khandagiri, Sahabhagi Dhan, DRR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama etc. can be cultivated. Medium land rice varieties (Matures in 120-140 days) like MTU 1 156, MTU 1 153, CR Dhan 310, RGL 2538, Lalat, Improved Lalat, Manaswini, MTU-1001, Sampada, Gitanjali, Nua acharmati etc can be cultivated. Low...",
-            "Before sowing, seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP or thiram 75 % WS @ 3 gm/kg of seeds"
-         ]
-      },
       "maize": {
          "advisory": [
-            "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water ."
+            "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water."
          ]
       },
-      "mustard": {
+      "onion": {
          "advisory": [
-            "Downy mildew disease is being noticed in mustard cultivation. Spray Azoxystrobin 23% SC @ 200 ml in 200 litres of water per acre of land."
+            "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
          ]
       },
-      "cauliflower": {
+      "cow": {
          "advisory": [
-            "To control leaf eating caterpillar and fruit borer in Cauliflower apply 0.5 g Emamectin benzoate or 0.4 ml Spinosad per liter of water."
+            "In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "03-01-2025"
 }

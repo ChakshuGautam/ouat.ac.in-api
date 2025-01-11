@@ -1,113 +1,136 @@
 {
    "weather_details": {
-      "28-12-2024": {
+      "11-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 74,
-         "rh_min": 41,
-         "wind_speed": 10,
-         "wind_direction": 13,
-         "cloud_cover": 1
-      },
-      "29-12-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 74,
-         "rh_min": 41,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 85,
+         "rh_min": 33,
          "wind_speed": 7,
-         "wind_direction": 357,
+         "wind_direction": 264,
          "cloud_cover": 3
       },
-      "30-12-2024": {
+      "12-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 70,
-         "rh_min": 46,
-         "wind_speed": 9,
-         "wind_direction": 23,
-         "cloud_cover": 2
-      },
-      "31-12-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 74,
-         "rh_min": 46,
-         "wind_speed": 11,
-         "wind_direction": 16,
-         "cloud_cover": 1
-      },
-      "01-01-2025": {
-         "rainfall": 0,
-         "t_max": 29,
+         "t_max": 32,
          "t_min": 15,
-         "rh_max": 71,
-         "rh_min": 38,
-         "wind_speed": 11,
-         "wind_direction": 8,
+         "rh_max": 79,
+         "rh_min": 34,
+         "wind_speed": 5,
+         "wind_direction": 90,
          "cloud_cover": 2
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 15,
+         "rh_max": 72,
+         "rh_min": 28,
+         "wind_speed": 8,
+         "wind_direction": 3,
+         "cloud_cover": 3
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 34,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 72,
+         "rh_min": 28,
+         "wind_speed": 8,
+         "wind_direction": 3,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "rice",
-      "rapeseed and mustard",
+      "summer rice",
+      "kharif rice",
+      "blackgram",
+      "greengram",
+      "rapeseed",
+      "mustard",
       "groundnut",
-      "brinjal",
-      "cole crops",
-      "papaya",
-      "pisciculture",
-      "cattle"
+      "vegetables",
+      "fruit",
+      "livestock"
    ],
-   "general_advisory": "Farmers are advised not to burn the residue of Kharif crops in the fields because it not only pollutes the environment but also causes severe health problems. Keep harvested matured paddy crops in a safer place & if possible dry under the sun. Drain out excess water from crop & vegetable field. Clean the animal shed by spraying disinfectant/bleaching powder/phenyl.",
+   "general_advisory": "After harvesting of paddy, it is ideal time for land preparation for sowing of pulses like green gram & black gram. To prevent damage from fog, low temperature, and moisture stress, provide light irrigation to standing crops & vegetables during morning hours.",
    "crops_data": {
-      "rice": {
+      "summer rice": {
          "advisory": [
-            "Rice grains must be dried under the sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
-            "Transfer the already harvested paddy from the field to go down/any shade place.",
-            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pests."
+            "For optimum growth & Vigor of seedling, apply plant growth promoting substances like humic acid & sea weed extract @1ml/litre of water.",
+            "Nursery treatment with Fipronil 0.3 G @100g/1 cent nursery area 7days before transplanting to reduce infestation level of stem borer."
          ]
       },
-      "rapeseed and mustard": {
+      "kharif rice": {
          "advisory": [
-            "Thinning should be carried out before top dressing to maintain optimum plant population.",
-            "Monitor the activity of Aphid, Tobacco caterpillar & incidence of alternaria leaf spot disease in mustard."
+            "Rice grains must be dried under sun for 3 -4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pest."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "After harvesting of paddy, it is ideal time for land preparation for sowing pulses like green gram, black gram.",
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days.",
+            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
+            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "After harvesting of paddy, it is ideal time for land preparation for sowing pulses like green gram, black gram.",
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days.",
+            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
+            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+         ]
+      },
+      "rapeseed": {
+         "advisory": [
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre.",
+            "Irrigate the field if soil moisture stress is observed."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre.",
+            "Irrigate the field if soil moisture stress is observed."
          ]
       },
       "groundnut": {
          "advisory": [
-            "After the cessation of rain, Spraying of Rhidomil M-Z @2g/li of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
+            "Spraying of Rhidomil M-Z @2g/li of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
          ]
       },
-      "brinjal": {
+      "vegetables": {
          "advisory": [
-            "High moisture content followed by rainfall increase the wilting or partial wilting in brinjal to prevent this drain the excess water from the field. Apply Neem or Karanja cake @ 1quintal/acre. Drenching of Tebuconazole @ 1ml/liter can be recommended."
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/liter of water.",
+            "Cauliflower: If tobacco caterpillar infestation in cauliflower observed, spray Azadiractin 5% W/W @ 0.5 ml/litre of water or Emamectin benzoate 5% SG @ 0.5 g/litre of water is recommended. To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75 % WP @ 600 -gram/acre or (carbendazim 12 % + Mancozeb 63 %) WP @ 400 -gram/acre by mixing in 200 -litre of water."
          ]
       },
-      "cole crops": {
+      "fruit": {
          "advisory": [
-            "Uproot the disease infected plants & expose the soil to the sun."
+            "Banana - Apply (Carbendazim + Mancozeb) @ 2g/liter of water to reduce the incidence of Sigatoka leaf spot disease in banana."
          ]
       },
-      "papaya": {
+      "livestock": {
          "advisory": [
-            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "Regular monitoring of disease infestation & feed supplements of fish advised.",
-            "After heavy rainfall water quality of fish ponds may be altered so testing of water PH & need-based Application of @100kg lime/acre in 3 splits (40:40:20) at 2 days interval recommended."
-         ]
-      },
-      "cattle": {
-         "advisory": [
-            "Keep the animal inside the shed.",
-            "Clean the animal shed by spraying disinfectant/bleaching powder/phenyl."
+            "The large ventilation spaces in shed must be closed in night, as the night temperature is falling.",
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

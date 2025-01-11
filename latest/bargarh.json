@@ -1,103 +1,96 @@
 {
    "weather_details": {
-      "27-12-2024": {
+      "11-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 16,
-         "rh_max": 81,
-         "rh_min": 34,
-         "wind_speed": 5,
-         "wind_direction": 54,
+         "t_min": 12,
+         "rh_max": 59,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 346,
          "cloud_cover": 2
       },
-      "28-12-2024": {
-         "rainfall": 5,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 76,
-         "rh_min": 41,
-         "wind_speed": 3,
-         "wind_direction": 76,
-         "cloud_cover": 6
-      },
-      "29-12-2024": {
-         "rainfall": 2,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 77,
-         "rh_min": 46,
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 52,
+         "rh_min": 20,
          "wind_speed": 4,
-         "wind_direction": 9,
-         "cloud_cover": 5
-      },
-      "30-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 16,
-         "rh_max": 76,
-         "rh_min": 37,
-         "wind_speed": 6,
-         "wind_direction": 4,
-         "cloud_cover": 4
-      },
-      "31-12-2024": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 67,
-         "rh_min": 30,
-         "wind_speed": 5,
-         "wind_direction": 4,
+         "wind_direction": 350,
          "cloud_cover": 2
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 58,
+         "rh_min": 25,
+         "wind_speed": 4,
+         "wind_direction": 10,
+         "cloud_cover": 3
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 2
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 58,
+         "rh_min": 25,
+         "wind_speed": 4,
+         "wind_direction": 10,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "kharif rice",
-      "summer rice",
-      "ground nut",
-      "cole crop",
-      "livestock",
-      "poultry"
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
    ],
-   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneshwar, minimum temperature (night temperature) very likely to be 16-18°C over the district of Coastal Odisha and also in the districts adjoining the Coastal Odisha, 14-16°C in some parts of Interior Odisha, and 12-14°C over the remaining parts of Interior Odisha during week-1 (27th December, 2024 to 2nd January, 2025). Normal to above normal Minimum temperature very likely to be expected over the districts of Odisha during that period. Overall Rainfall activity very likely to be normal to below normal over the state during week-1.",
+   "general_advisory": "As per the extended range forecast of IMD, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha. Farmers are advised to conduct irrigation and spraying operations during this period and make provisions to protect crops and animals from the cold.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "There is some rainfall event is expected in the first half of upcoming days so farmers are advised to wait some days for harvesting operations and make provision to keep the harvested paddy crop in safe places to avoid any further damage.",
-            "Use 'Super Grain Bag' for safe storage of paddy/rice for a longer period of time or store the harvested paddy in properly bagged and stacked with suitable cover to avoid damage due to untimely rain.",
-            "After noticing the infestation of the stored grain insect pest, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9g of tablets) in fairly air-tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All corners of the plastic cover should be plastered with a 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas. Minimum exposure period is for about 7-10 days."
+            "Stored grain pest management: After noticing infestation, fumigate using Aluminium phosphide tablets."
          ]
       },
-      "summer rice": {
+      "dry season rice": {
          "advisory": [
-            "Farmers should start field preparation for summer season rice cultivation. For this purpose, farmers may select some improved varieties like MTU 1010, MTU 1156, MTU 1001, Lalat, Improved Lalat, Chandan, Swarna, etc."
+            "Seed treatment with Carbendazim or Trichoderma formulation.",
+            "Protect nursery from cold injury with FYM layer and proper irrigation."
          ]
       },
-      "ground nut": {
+      "mustard": {
          "advisory": [
-            "Past weather condition (cloudy and foggy) is favorable for sucking insect attack in groundnut crop so its regular monitoring should be advised. If an attack is observed, then at the initial stage spraying of Azadiractin or neem-based insecticide 1500 ppm @ 600 ml in 200 liters of water per acre. Use 8 yellow sticky traps per acre. Trichogramma chilonis cards @ 1-2 nos. per acre can also be used at one week interval. Cut the card into 12 pieces at the designated place. For chemical management, apply 40 grams of thiamethoxam or 80 grams of Emamectin benzoate per acre in 200 liters of water. As some amount of rain is expected in the upcoming two days so farmers should wait some days for irrigation and spraying operations."
+            "Hoeing, weeding, thinning operation as needed.",
+            "Monitor against Aphid attack on mustard crop."
          ]
       },
-      "cole crop": {
+      "fruit and vegetable crops": {
          "advisory": [
-            "Straw can be used as mulching material in vegetable crops to maintain soil moisture as well as soil temperature in the field during the winter season.",
-            "Regular monitoring against the attack of Diamond back moth in cauliflower should be advised and if possible, farmers should use a pheromone trap in the field for this purpose.",
-            "If an attack is observed then spraying of neem oil @ 5 ml or Emamectin Benzoate @ 0.4 g per liter water should be advised after the occurrence of rain."
+            "Manage mango mealy bug with polythene sheets.",
+            "Use straw mulching for soil moisture and temperature maintenance.",
+            "Harvest matured crops and provide light irrigation for vegetative growth."
          ]
       },
       "livestock": {
          "advisory": [
-            "Farmers should make a provision to protect the animal from cold (if possible use a jute bag to cover the animal and straw as bedding material) during the winter season and provide clean drinking water to cattle and keep their sheds clean. Don’t allow the urine or excreta to deposit around the shed which may lead to flies and make a provision to restrict the entry of rainwater into the shed.",
-            "Vaccination and deworming should be done to control different harmful diseases and stomach worms."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Proper ventilation is required to provide fresh air and remove gases inside the house.",
-            "External heat source is provided to keep the poultry shed warm and dry.",
-            "The drinking water should be maintained at a suitable temperature to promote water intake."
+            "Cover animal shelter and sick animals during cold nights.",
+            "Avoid damp areas and protect animals from smoke and cold winds.",
+            "Feed mixture of oil cakes and jaggery to maintain body temperature."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

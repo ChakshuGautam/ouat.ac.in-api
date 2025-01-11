@@ -1,135 +1,117 @@
 {
    "weather_details": {
-      "28/12/2024": {
+      "11-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 18,
-         "rh_max": 77,
-         "rh_min": 47,
-         "wind_speed": 11,
-         "wind_direction": 12,
-         "cloud_cover": 1
+         "t_min": 9,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 281,
+         "cloud_cover": 0
       },
-      "29/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 79,
-         "rh_min": 48,
-         "wind_speed": 9,
-         "wind_direction": 354,
-         "cloud_cover": 1
-      },
-      "30/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 79,
-         "rh_min": 48,
-         "wind_speed": 9,
-         "wind_direction": 7,
-         "cloud_cover": 1
-      },
-      "31/12/2024": {
+      "12-01-2025": {
          "rainfall": 0,
          "t_max": 29,
-         "t_min": 16,
-         "rh_max": 80,
+         "t_min": 10,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 81,
+         "rh_min": 38,
+         "wind_speed": 9,
+         "wind_direction": 12,
+         "cloud_cover": 0
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 9,
+         "rh_max": 83,
          "rh_min": 46,
-         "wind_speed": 13,
-         "wind_direction": 259,
-         "cloud_cover": 1
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
-      "summer paddy",
-      "cotton",
+      "paddy",
       "sugarcane",
-      "cereals",
-      "pulses",
-      "oilseeds",
-      "spices",
-      "vegetables",
-      "blackgram",
-      "greengram",
+      "groundnut",
       "tomato",
-      "cauliflower",
+      "cucurbits",
+      "onion",
       "chilli",
-      "marigold"
+      "tuberose",
+      "poultry"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater, the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP, and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of a convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line. Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3 g/1 kg of seeds before sowing in the nursery.",
+   "general_advisory": "Dry weather may prevail for the next five days. Maintain soil moisture, mulch vegetables, be vigilant against pests and diseases, and spray pesticides after 3 pm to protect honey bees.",
    "crops_data": {
-      "summer paddy": {
+      "paddy": {
          "advisory": [
-            "Nursery Management - Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line.",
-            "Seed treatment - Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3 g/1 kg of seeds before sowing in the nursery."
-         ]
-      },
-      "cotton": {
-         "advisory": [
-            "Harvesting and picking of cotton crop is in progress."
+            "Apply Cartap Hydrochloride or Chlorantraniliprole before transplanting for gall midge, stem borer, and other pests."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Harvesting and planting of sugarcane is under progress."
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in specific solution before planting."
          ]
       },
-      "cereals": {
+      "groundnut": {
          "advisory": [
-            "Rabi crops like Cereals are continuing."
-         ]
-      },
-      "pulses": {
-         "advisory": [
-            "Rabi crops like Pulses are continuing."
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Rabi crops like Oilseeds are continuing."
-         ]
-      },
-      "spices": {
-         "advisory": [
-            "Rabi crops like Spices are continuing."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Rabi crops like Vegetables are continuing."
-         ]
-      },
-      "blackgram": {
-         "advisory": [
-            "To control Yellow mosaic virus, spray triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
-         ]
-      },
-      "greengram": {
-         "advisory": [
-            "To control Yellow mosaic virus, spray triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Spray Neem Based Pesticide or Profenophos for leaf miner control."
          ]
       },
       "tomato": {
          "advisory": [
-            "To control Wilting, spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed."
+            "Use yellow sticky traps for Whitefly control.",
+            "Spray neem-based pesticide for primary pest infestation."
          ]
       },
-      "cauliflower": {
+      "cucurbits": {
          "advisory": [
-            "To manage Alternaria leaf spot disease, spray Mancozeb 75% WP @ 600 gram/acre by mixing in 200 litre of water."
+            "Spray Metalaxyl + Mancozeb to control Downy mildew."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Plant seedlings uniformly with specific compost and nutrients."
          ]
       },
       "chilli": {
          "advisory": [
-            "To manage Aphids and Jassids infestation, spray Imidachloprid 17.8% SL @ 1 ml/lt."
+            "Spray Ethion EC or Spiromesifen SC for mite control."
          ]
       },
-      "marigold": {
+      "tuberose": {
          "advisory": [
-            "To manage Leaf eating caterpillar biologically, use Pheromone trap Spodolure @ 6/acre or Installlight trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre with 200 litres of water."
+            "Spray specific solutions to control leaf blight, stem rot, and root knot nematode."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate the poultry house during winter and ensure proper ventilation.",
+            "Provide mineral and calcium to laying birds."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

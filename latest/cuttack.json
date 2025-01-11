@@ -58,74 +58,81 @@
       "tomato",
       "brinjal",
       "coconut",
-      "vegetable seedlings",
+      "vegetable",
       "fingerlings",
       "black gram",
       "green gram",
       "onion",
-      "mango"
+      "mango",
+      "okra"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop to prevent water scarcity. Spread polythene in irrigation channels in sandy and loamy soils to save water wastage. Apply Streptocyclin in tomato and brinjal. Mulch coconut leaves around a coconut tree to reduce water loss. Cover vegetable seedlings with paper caps during daytime. Harvest fingerlings in shallow ponds if water temperature rises to 30°C.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect in maize crop. Mulch coconut leaves around a coconut tree to reduce water loss. Cover with paper caps on the newly planted vegetable seedlings. Harvest fingerlings in shallow ponds if water temperature rises.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management - To manage Yellow Stem Borer in paddy, spray Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml/acre or Chromafenozide 80%WP @ 50g/acre.",
-            "Blast Disease Management - To manage blast disease in paddy, spray Hexaconazole 5% SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrbin 25% WG @ 80-gram/acre."
+            "Panicle initiation, Panicle emergence, flowering and milking stages are critical. Avoid water deficit during these stages."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Early Shoot Borer - To manage early shoot borer in Sugarcane, irrigate the crop frequently during hot months. Timely cutting the attacked shoot at or just below the ground level ensures destruction of most of the caterpillar. Collect and destroy the egg masses manually. In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up."
+            "Top-dress with potassium to protect from water scarcity.",
+            "Frequent irrigation during hot months to manage early shoot borer."
          ]
       },
       "maize": {
          "advisory": [
-            "The high temperature increases the water requirement of maize crop. Irrigate the crop and avoid water stagnation in the field for more than six hours."
+            "Irrigate the crop to meet high water requirement."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperature in day hours may lead to wilting in tomato. Apply 1g Streptocyclin in 10 liters of water in root zone."
+            "Apply Streptocyclin in root zone to prevent wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal shoot and fruit borer - To manage this insect, install pheromone traps and spray neem-based pesticide or other insecticides as needed."
+            "Install pheromone traps for pest management.",
+            "Spray neem-based pesticide in case of pest infestation."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
+            "Mulch coconut leaves to reduce water loss."
          ]
       },
-      "vegetable seedlings": {
+      "vegetable": {
          "advisory": [
-            "Cover with paper caps on the newly planted vegetable seedlings during day time."
+            "Cover with paper caps on newly planted seedlings."
          ]
       },
       "fingerlings": {
          "advisory": [
-            "In shallow ponds, harvest fingerlings if water temperature rises to 30°C. Ensure enough water depth before introducing fingerlings in a pond."
+            "Harvest fingerlings if water temperature rises in ponds."
          ]
       },
       "black gram": {
          "advisory": [
-            "Tobacco Caterpillar Management - Check the migration of caterpillars and use insecticides for control."
+            "Check migration of caterpillars for management."
          ]
       },
       "green gram": {
          "advisory": [
-            "Tobacco Caterpillar Management - Check the migration of caterpillars and use insecticides for control."
+            "Use recommended insecticides for pest control."
          ]
       },
       "onion": {
          "advisory": [
-            "After harvesting of onion, cut the tops leaving 2.0-2.5 cm above bulb. Dry the harvested bulb in a well-ventilated area."
+            "Dry harvested bulbs in well-ventilated room."
          ]
       },
       "mango": {
          "advisory": [
-            "Mango hopper - To control mango hoppers, spray recommended insecticides or use smoke below the plants to reduce pest population."
+            "Spray recommended insecticides for hopper control."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat seeds with Imidacloprid to prevent whitefly infestation."
          ]
       }
    },

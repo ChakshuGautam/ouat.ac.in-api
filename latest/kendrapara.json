@@ -1,94 +1,94 @@
 {
    "weather_details": {
-      "28/12/2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 76,
-         "rh_min": 45,
-         "wind_speed": 8,
-         "wind_direction": 11,
-         "cloud_cover": 1
-      },
-      "29/12/2024": {
+      "11-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 14,
-         "rh_max": 75,
-         "rh_min": 45,
-         "wind_speed": 11,
-         "wind_direction": 10,
-         "cloud_cover": 1
+         "t_min": 12,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 7,
+         "wind_direction": 281,
+         "cloud_cover": 0
       },
-      "30/12/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 14,
-         "rh_max": 73,
-         "rh_min": 50,
-         "wind_speed": 16,
-         "wind_direction": 11,
-         "cloud_cover": 1
-      },
-      "31/12/2024": {
+      "12-01-2025": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 13,
-         "rh_max": 75,
-         "rh_min": 48,
-         "wind_speed": 4,
-         "wind_direction": 4,
-         "cloud_cover": 2
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 338,
+         "cloud_cover": 0
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 33,
+         "wind_speed": 7,
+         "wind_direction": 10,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
-      "blackgram",
-      "greengram",
+      "sugarcane",
+      "groundnut",
       "tomato",
-      "cauliflower",
+      "cucurbits",
+      "onion",
       "chilli",
-      "marigold"
+      "tuberose",
+      "poultry"
    ],
-   "general_advisory": "Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by treating them with Carbendazim 50% W.P or Carboxin 37.5% + Thiram 37.5% before sowing in the nursery.",
+   "general_advisory": "As per the forecast, dry weather may prevail over Kendrapara. Maintain saturated condition in the nursery bed, mulch vegetable seedlings, keep standing water in paddy nursery, provide irrigation to standing vegetables, use polythene cover for nursery, do proper field surveillance for pests and diseases, spray pesticides after 3 pm to protect honey bees.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Nursery Management - Prepare the wet nursery seed beds for paddy. Using rainwater the nursery beds may puddle 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage purpose. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by treating them with Carbendazim 50% W.P or Carboxin 37.5% + Thiram 37.5% before sowing in the nursery. Seed treatment - Treat the paddy seeds with Carbendazim 50% W.P @ 1.5 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery."
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for gall midge, stem borer, caseworm, leaf folder, and root knot nematode"
          ]
       },
-      "blackgram": {
+      "sugarcane": {
          "advisory": [
-            "Yellow mosaic virus - Present weather condition is favourable for the incidence of yellow mosaic virus which is caused by the vector white fly. To control go for spraying of triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Select resistant varieties like CO-7219, CO-8371, etc., soak setts in a solution to prevent red rot disease"
          ]
       },
-      "greengram": {
+      "groundnut": {
          "advisory": [
-            "Yellow mosaic virus - Present weather condition is favourable for the incidence of yellow mosaic virus which is caused by the vector white fly. To control go for spraying of triazophos @ 400 ml/acre or Acetamipride @ 40 g per acre."
+            "Spray Neem Based Pesticide or Profenophos for leaf miner control"
          ]
       },
       "tomato": {
          "advisory": [
-            "Wilting: In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed.",
-            "Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population."
+            "Use yellow sticky traps to control Whitefly, spray neem-based pesticide or Thiamethoxam for pest control"
          ]
       },
-      "cauliflower": {
+      "cucurbits": {
          "advisory": [
-            "To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75 % WP @ 600 -gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400 -gram/acre by mixing in 200 litres of water.",
-            "Remove the wilted plants from the field and destroy them away from the field."
+            "Spray Metalaxyl + Mancozeb or Fosetyl-AL to control Downy mildew"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Plant seedlings uniformly with compost, DAP, Potash, urea, and sulphur mix"
          ]
       },
       "chilli": {
          "advisory": [
-            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt."
+            "Spray Ethion or Spiromesifen for mite control"
          ]
       },
-      "marigold": {
+      "tuberose": {
          "advisory": [
-            "Leaf eating caterpillar - To manage the leaf eating caterpillar biologically use Pheromone trap Spodolure @ 6/acre or Install light trap @ 5 nos. Apply Bacillus thuringiensis @ 500 g/acre or Beauveria bassiana @ 1kg/acre. For chemical control, spray Chlorpyriphos 50 % + Cypermethrin E.C @ 400 with 200 litres of water."
+            "Spray Fenamidone + Mancozeb for leaf blight, carbendazim for stem rot, carbofuran for root knot nematode"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house in winter, feed mineral and calcium to laying birds"
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }

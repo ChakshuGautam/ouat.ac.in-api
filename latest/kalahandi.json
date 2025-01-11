@@ -1,59 +1,58 @@
 {
    "weather_details": {
-      "28-12-2024": {
+      "11-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 90,
-         "rh_min": 41,
-         "wind_speed": 3,
-         "wind_direction": 126,
-         "cloud_cover": 1
-      },
-      "29-12-2024": {
-         "rainfall": 1,
-         "t_max": 28,
-         "t_min": 15,
-         "rh_max": 82,
-         "rh_min": 44,
-         "wind_speed": 3,
-         "wind_direction": 154,
-         "cloud_cover": 1
-      },
-      "30-12-2024": {
-         "rainfall": 5,
-         "t_max": 28,
-         "t_min": 14,
-         "rh_max": 83,
-         "rh_min": 51,
-         "wind_speed": 2,
-         "wind_direction": 141,
+         "t_max": 25,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 26,
+         "wind_speed": 4,
+         "wind_direction": 175,
          "cloud_cover": 2
       },
-      "31-12-2024": {
+      "12-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 83,
-         "rh_min": 43,
-         "wind_speed": 1,
-         "wind_direction": 0,
-         "cloud_cover": 1
+         "t_max": 24,
+         "t_min": 14,
+         "rh_max": 66,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 3
       },
-      "01-01-2025": {
+      "13-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 12,
-         "rh_max": 77,
-         "rh_min": 32,
-         "wind_speed": 1,
-         "wind_direction": 63,
-         "cloud_cover": 1
+         "t_max": 24,
+         "t_min": 14,
+         "rh_max": 62,
+         "rh_min": 27,
+         "wind_speed": 2,
+         "wind_direction": 127,
+         "cloud_cover": 3
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 3
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "transplanted paddy",
-      "cotton",
+      "paddy",
       "arhar",
       "greengram/blackgram",
       "groundnut",
@@ -61,94 +60,89 @@
       "onion",
       "cauliflower & cabbage",
       "tomato",
-      "brinjal",
+      "chilli",
       "cattle & buffalo",
-      "goat",
+      "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "In view of realised heavy rainfall during last week, drain out excess water from rice, pulses and vegetables by making necessary drainage channel. Farmers are advised to withhold harvesting of paddy for another two to three days. Farmers are also advised to postpone spraying of plant protection chemicals and sowing of rabi crops for the time being. Keep your domestic animals indoors.",
+   "general_advisory": "Keep your crop field free from weed to minimize the incidence of diseases and pests. Apply balanced and appropriate fertilizers according to crop’s growth stage. Regular monitoring of the crop for incidence of pest and diseases should be done and use light trap to monitor insect population so that timely control measure can be taken. Follow safety measures during application of chemical pesticides and always apply recommended dose of pesticide in correct method during morning or afternoon hours paying attention to wind direction during application.",
    "crops_data": {
-      "transplanted paddy": {
+      "paddy": {
          "advisory": [
-            "This is the right time for nursery preparation for rabi season. 10 decimal of nursery area is required to cultivate one acre of paddy. Arrange suitable high yielding varieties like MTU 1010, MTU 1001, DRR 44, Sahabhagi Dhan, Lalat, Improved lalat, Mandakini, Bina 11 etc. Treat the seeds with 2g Carbendazim or 3g Carboxin or Thiram per 1kg of seed before sowing in the nursery.",
-            "To protect the rice nursery from cold injury, apply a thin layer of well decomposed FYM after sowing of seeds in wet bed to keep the bed relatively warm. Preferably use bore well water for irrigation at evening and drain out the cold water at morning to maintain the soil temperature favourable for growth. In severe cold affected areas use polythene cover at night time.",
-            "Apply 13 -15 kg DAP and 10 -12 kg MOP along with 200 kg of FYM and 200 g Zn per 10 decimal as basal dose for healthy production of seedlings."
-         ]
-      },
-      "cotton": {
-         "advisory": [
-            "Picking should be done when there is complete bursting of bolls.",
-            "Dry the seed cotton on a concrete floor or tarpaulin sheets to reduce the moisture to 8-10%.",
-            "Farmers are advised to sell their seed cotton in the nearby Mandi to get MSP for long staple cotton."
+            "Complete the sowing of pre-germinated treated seeds in puddled soil by broadcasting or drum seeder and maintain a thin film of water for proper establishment and early growth of seedlings. For further information, contact the IMD, Bhubaneswar, Tel.#0674-2596116",
+            "Apply 44 kg of DAP and 22 kg of MOP per acre as basal dose at the time of puddling.",
+            "Spray Pyrazosulfuron-ethyl 10%WP (Sathi) @ 80g/acre at 3-5 days after sowing (DAS) in 130 litres of water when there is thin film of soil moisture or broadcast ready mix Bensulfuron methyl + Pretilachlor granular herbicide mixed with 4 kg of sand."
          ]
       },
       "arhar": {
          "advisory": [
-            "Prevailing weather condition favours the following pest attack. Recommended control measures should be followed as required.",
-            "To control pod borer, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
-            "To control pod sucking bug and Aphid, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
+            "Suitable time for harvesting when 2/3rd to 3/4th of the pods have changed to brown colour.",
+            "Harvested plant should be left in the field for sun drying for 3-5 days. Threshing may be done either by beating the pods with stick or by using Pullman thresher.",
+            "The clean seed should be sun dried for 3-4 days to bring the moisture content at 9-10% for safe and longer storage."
          ]
       },
       "greengram/blackgram": {
          "advisory": [
-            "Apply Pendimithalin 30% EC @ 1.20 liter /acre mixed with 200 liters of water at 1-2 DAS for weed management.",
-            "Apply Quizal fop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20 -25 DAS.",
-            "For leaf eating caterpillar, spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control."
+            "Weed Management: Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20-25 DAS.",
+            "Pest Management: Leaf eating caterpillar - Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control.",
+            "Aphid and Whitefly: Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly. Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as an early post-emergence herbicide or apply Fenoxaprop -P-ethyl 9.3% @ 35 ml/drum (15-liter capacity) at 15 -20 DAS for weed management.",
-            "Prevailing weather conditions favor the development of sucking pests like aphid, jassids, and whitefly. Install a yellow sticky trap @ 8nos/acre to monitor the pest population. Apply Neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at the initial stage of infestation."
+            "Pest Management: Prevailing weather condition favours the development of sucking pest like aphid, jassids and whitefly. Install yellow sticky trap @ 8nos/acre to monitor the pest population.",
+            "Apply Neem oil-based pesticide Azadiractin 0.03 % (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Prevailing weather condition favors the development of sucking pests. Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended."
+            "Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favours the development of sucking pests. Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended.",
+            "Powdery mildew: Spray 0.2% wettable sulphur @ 2g/ltr of water.",
+            "Capitulum Borer: Spray Bacillus thuringiensis var kurstaki 5% WP @ 1.5 g/ltr of water.",
+            "Head Rot: Spray 0.4% Copper oxychloride 50% WP @ 3g/ltr of water."
          ]
       },
       "onion": {
          "advisory": [
-            "Prepare the main field for transplanting onion seedlings at an eight-week stage.",
-            "For one acre area, apply 43kg DAP, 27kg urea, 33kg MOP and 20kg Sulphur prior to the transplanting of onion seedlings in the main field."
+            "Irrigate the crop at a regular interval.",
+            "Undertake hoeing, weeding and 1st top dressing @ 45 kg urea/acre at 4-week stage of the crop followed by irrigation."
          ]
       },
       "cauliflower & cabbage": {
          "advisory": [
-            "At the three-week stage, undertake hoeing, weeding, and apply Urea @ 55kg/ac followed by irrigation.",
-            "Go for hoeing, weeding, and apply 27 kg urea + 25kg MOP at the six-to-seven-week stage followed by irrigation.",
-            "For Dimond back moth, spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as a control measure.",
-            "For Tobacco leaf-eating caterpillar, spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control the pest population.",
-            "For Cabbage Aphid, spray Thiamethoxam 25% WG @ 2g/5ltr of water as a control measure."
+            "Nutrient Management: Go for hoeing, weeding and apply 27 kg urea + 25kg MOP at six-to-seven-week stage followed by irrigation.",
+            "Pest Management: Dimond back moth - Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population.",
+            "Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as control measure."
          ]
       },
       "tomato": {
          "advisory": [
-            "In view of high humid condition, wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptoms are noticed.",
-            "For Fruit & Shoot borer, install pheromone trap @ 8nos/acre to monitor pest population."
+            "Nutrient Management: Complete hoeing, weeding and apply 27 kg urea at six-week stage followed by irrigation",
+            "Pest Management: Wilting - In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed.",
+            "Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population."
          ]
       },
-      "brinjal": {
+      "chilli": {
          "advisory": [
-            "For Fruit and Shoot borer, install pheromone trap/Wata trap @ 8 nos. per acre area at vegetative stage and replace lure after 3 weeks."
+            "Pest Management: Thrips - Prevailing weather condition is favorable for thrips attack. Install Blue Sticky Trap @ 8nos/acre to control and monitor pest population. Apply neem-based pesticide Azadiractin 1500 ppm @ 3ml/liter of water at initial stage of infestation. To control chemically apply 3 g Acetamiprid 15% SP or 4 ml Imidacloprid 17.8% SL mixed with 15 liters of water."
          ]
       },
       "cattle & buffalo": {
          "advisory": [
-            "Farmers are requested to vaccinate their cattle & buffalo against FMD through NADCP. Farmers can increase milk production by controlling and preventing Foot and Mouth Disease (FMD).",
-            "Calves of 4 - 8 months of age should be vaccinated against Brucellosis."
+            "As there is lesser heat and humidity in the air, there is a lesser chance of cattle and buffalo falling sick. Farmers must take care to make up the loss in the body condition score during the lactation phase. It is advised to increase the amount of concentrate in the feed gradually before two months prior to calving. It also helps to increase milk production in the coming lactation."
          ]
       },
-      "goat": {
+      "goat & sheep": {
          "advisory": [
-            "Protect Goat from chill wind and damp floors."
+            "As goats are more affected by cold, so goat farmers are advised to prevent their animals from chill wind and floor. If they identify their goats having a running nose and persistent cough, veterinarians must be contacted quickly."
          ]
       },
       "poultry": {
          "advisory": [
-            "Make necessary arrangements to provide heat, especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
+            "It is advisable to prevent the poultry birds from severe chill wind and cold floor to check their mortality. Farmers must cover the poultry house by thick polythene sheet to protect their birds from cold wind and remove them after 9 a.m in the morning to allow sunlight in the shed. Farmers must also be careful regarding the litter material on the floor as this helps keep the birds warm and aids in nutrient recycling."
          ]
       }
    },
-   "date": "27-12-2024"
+   "date": "10-01-2025"
 }
