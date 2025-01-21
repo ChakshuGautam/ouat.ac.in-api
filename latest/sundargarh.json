@@ -1,18 +1,18 @@
 {
    "weather_details": {
-      "11/01/2025": {
+      "18/01/2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 13,
+         "t_max": 28,
+         "t_min": 14,
          "rh_max": 67,
          "rh_min": 21,
          "wind_speed": 2,
          "wind_direction": 14,
-         "cloud_cover": 2
+         "cloud_cover": 3
       },
-      "12/01/2025": {
+      "19/01/2025": {
          "rainfall": 0,
-         "t_max": 30,
+         "t_max": 28,
          "t_min": 14,
          "rh_max": 60,
          "rh_min": 20,
@@ -20,9 +20,9 @@
          "wind_direction": 23,
          "cloud_cover": 2
       },
-      "13/01/2025": {
+      "20/01/2025": {
          "rainfall": 0,
-         "t_max": 30,
+         "t_max": 28,
          "t_min": 14,
          "rh_max": 64,
          "rh_min": 20,
@@ -30,19 +30,19 @@
          "wind_direction": 36,
          "cloud_cover": 3
       },
-      "14/01/2025": {
+      "21/01/2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 15,
+         "t_max": 29,
+         "t_min": 14,
          "rh_max": 67,
          "rh_min": 21,
          "wind_speed": 2,
          "wind_direction": 14,
-         "cloud_cover": 2
+         "cloud_cover": 3
       },
-      "15/01/2025": {
+      "22/01/2025": {
          "rainfall": 0,
-         "t_max": 31,
+         "t_max": 29,
          "t_min": 15,
          "rh_max": 60,
          "rh_min": 20,
@@ -54,10 +54,10 @@
    "names_of_crops": [
       "rabi paddy",
       "wheat",
-      "gram",
-      "sunflower",
+      "maize",
+      "rabi sunflower",
       "potato",
-      "toria",
+      "sesamum",
       "groundnut",
       "ragi",
       "onion",
@@ -68,37 +68,37 @@
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "Survey for stem borer attack. Keep light standing water in the nursery."
+            "When the seedlings are with 4-5 leaves, go for transplanting the paddy seedling. Transplant 2-3 seedlings per hill and in line with shallow depth for quick establishment of the seedling."
          ]
       },
       "wheat": {
          "advisory": [
-            "Provide critical stage irrigation at jointing stage."
+            "Provide critical stage irrigation to the crop. Survey for any insect."
          ]
       },
-      "gram": {
+      "maize": {
          "advisory": [
-            "Due to weather, there is chances of Pod borer attack, to manage this spray Chlorpyriphos @ 2 ml per liter of water."
+            "This is the right time for sowing of maize. Without delay sow @ 6 kg per acre. Apply 10 kg Chlorpyriphos per acre in termite-prone area. Spacing is 60 X 25 cm with 5 cm depth in soil."
          ]
       },
-      "sunflower": {
+      "rabi sunflower": {
          "advisory": [
-            "At 40 DAS apply 6 kg Nitrogen per acre. Apply fertilizer at a distance of 3-4 inch from the plant."
+            "Due to weather there is chances of fruit borer attack, to manage this spray Chlorpyriphos @ 2 ml per liter of water."
          ]
       },
       "potato": {
          "advisory": [
-            "To control Aphids spray Neem oil @ 4 ml per liter of water."
+            "Due to weather there is chances of Early blight in potato, to manage spray Mancozeb @ 4 g per liter of water."
          ]
       },
-      "toria": {
+      "sesamum": {
          "advisory": [
-            "Due to weather there is Leaf spot, to manage spray Vitavax power @ 2 g per liter of water."
+            "Start sowing sesamum @ 3 kg seed per acre. Choose varieties like Smarak, Kalika, G10, Subhra."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Choose quality seeds like Dharani, Kalinga badam, Kadri, AK 12-24 and start sowing. Apply Gypsum @ 100 kg per acre at final land preparation."
+            "Go for intercultivation at 21 days after sowing the crop. Do not disturb the soil after the peg formation stage."
          ]
       },
       "ragi": {
@@ -108,19 +108,19 @@
       },
       "onion": {
          "advisory": [
-            "Provide light irrigation to the crop."
+            "Light intercultivation is to be done since the roots will be shallow and found on the surface of the soil."
          ]
       },
       "fish farming": {
          "advisory": [
-            "If acidity is less than 7.5 in fish pond 7 days before application of organic fertilizers, apply 100 kg of lime per hectare meter of water."
+            "Provide the feed mixture according to the body weight."
          ]
       },
       "poultry farming": {
          "advisory": [
-            "Cover the poultry house with plastic or sacking at night to protect from the cold."
+            "Keep the poultry house clean."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

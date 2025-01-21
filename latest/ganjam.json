@@ -54,35 +54,35 @@
    "names_of_crops": [
       "rice",
       "green gram",
-      "pigeon pea (red gram/arhar)",
+      "pigeon pea",
       "cow",
       "chick"
    ],
-   "general_advisory": "According to the weather forecast, the district is likely to experience dry weather with clear skies for the next five days. The maximum temperature will range between 24-25°C and the minimum temperature will range between 15.0-17.0°C. The humidity levels will vary between 70-86% (max) and 31-36% (min).",
+   "general_advisory": "Rainfall followed by clear sky, dry weather favors sucking pests like aphids, Jassids, thrips, and whiteflies. To manage these pests at the early stage of infestation, spray neem-based pesticide (Neem Oil) 1500 PPM @600-ml/acre by mixing it in 200-litre of water. To manage these sucking pests chemically spray Thiamethoxam 25 % WG) @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre or Tolfenpyrad 15 % EC @ 400-ml/acre by mixing it in 200- litre of water.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "As the weather is expected to remain clear, harvesting of matured rice can be done. Sundry for 2-3 days to reduce the moisture content to 14%."
+            "As the weather is expected to be clear, harvesting of matured rice can be done. Sundry for 2-3 days to reduce the moisture content to 14%."
          ]
       },
       "green gram": {
          "advisory": [
-            "To manage whitefly infestation, spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. For severe infestation, use Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50-gram/acre by mixing in 200-litre of water."
+            "To manage whitefly infestation at the early stage of the crop, spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe, then go for a chemical pesticide like Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50-gram/acre by mixing in 200-litre of water."
          ]
       },
-      "pigeon pea (red gram/arhar)": {
+      "pigeon pea": {
          "advisory": [
-            "Spotted pod borer observed in some places in Arhar, to control use bird perches @50/hectare. Use Azadirachtin 0.03% WSP or NSKE 5% or neem oil 2%."
+            "Spotted pod borer observed in some places in Arhar, to control use bird perches @50/hacter, use Azadirachtin 0.03% WSP or use NSKE 5% or neem oil 2%."
          ]
       },
       "cow": {
          "advisory": [
-            "Animals should be given a mineral mixture along with salt regularly. Provide wheat grains, jaggery, etc. @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
+            "Animals should be given a mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
          ]
       },
       "chick": {
          "advisory": [
-            "Keep the shed warm as night temperature is decreasing. Provide a bulb to heat the room."
+            "Keep the shed warm as night temperature is getting down. Provide a bulb to heat the room."
          ]
       }
    },

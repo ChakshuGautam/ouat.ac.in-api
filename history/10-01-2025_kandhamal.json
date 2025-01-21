@@ -1,0 +1,122 @@
+{
+   "weather_details": {
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 10,
+         "rh_max": 75,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 191,
+         "cloud_cover": 3
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 69,
+         "rh_min": 26,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 3
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "black gram",
+      "brinjal",
+      "cauliflower",
+      "banana",
+      "potato",
+      "cattle",
+      "poultry"
+   ],
+   "general_advisory": "Provide light irrigation to cole crops as required. Seeing the clear sky, farmers can apply spraying activities. Regularly monitor the crop fields for insect and disease infestation. Make provisions for light bulbs or heater to provide enough heat to the chicks.",
+   "crops_data": {
+      "black gram": {
+         "advisory": [
+            "Sowing",
+            "Spray Pendimethalin 30% EC @1.2 liter/acre in 200 lt of water within 1-2 days of sowing to control weeds."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Maturity - Harvesting",
+            "Older plants become stunted.",
+            "Collect and destroy the damaged and dead plants.",
+            "Light trap @1/ha to attract and kill adults.",
+            "Spray neem oil 2ml/lit."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Maturity",
+            "Cauliflower borer can be managed by manually destroying the borers.",
+            "In case of heavy infestation of borers spray Cartap hydrochloride @ 6 g/15 Liters of water."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Maturity - Harvesting",
+            "Harvest the matured banana bunch and cover the unripened bunch with bags to protect it from monkeys and birds.",
+            "Keep the banana bunch at safe places away from ants and rats."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "White fly",
+            "Nymphs suck sap from the leaves and lower their vitality.",
+            "Yellowing and curling of leaf.",
+            "Give timely irrigation to avoid infestation.",
+            "Spray dimethoate 0.3%"
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "To avoid freezing winter, the following cares can be taken.",
+            "Reduce humidity to ensure better ventilation, preventing excessive moisture in sheds, roof dripping and ground freezing phenomenon.",
+            "Ventilation should be carried in afternoon.",
+            "Less water should be used in winter barn to wash the ground and dry cleaning should be followed.",
+            "Bedding should be provided to protect them from cold floor.",
+            "Lukewarm water should be provided for drinking purpose."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make provisions for light bulbs or heater to provide enough heat to the chicks.",
+            "Along with the vaccination, provide a suitable amount of heat for the first 2-3 weeks.",
+            "Reduce the humidity of the floor and clean the litter regularly."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

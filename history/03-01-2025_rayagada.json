@@ -1,0 +1,78 @@
+{
+   "weather_details": {
+      "2025-01-04": {
+         "rainfall": 0.0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 64,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 334,
+         "cloud_cover": 3
+      },
+      "2025-01-05": {
+         "rainfall": 0.0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 338,
+         "cloud_cover": 3
+      },
+      "2025-01-06": {
+         "rainfall": 0.0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 87,
+         "rh_min": 27,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-01-07": {
+         "rainfall": 0.0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 90,
+         "rh_min": 31,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "2025-01-08": {
+         "rainfall": 0.0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 87,
+         "rh_min": 28,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "maize",
+      "onion",
+      "cow"
+   ],
+   "general_advisory": "Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition.",
+   "crops_data": {
+      "maize": {
+         "advisory": [
+            "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed."
+         ]
+      }
+   },
+   "date": "03-01-2025"
+}

@@ -1,89 +1,69 @@
 {
    "weather_details": {
-      "04/01/2025": {
+      "17/01/2025": {
          "rainfall": 0,
-         "t_max": 14,
-         "t_min": 14,
+         "t_max": 27,
+         "t_min": 12,
          "rh_max": 87,
-         "rh_min": 87,
+         "rh_min": 36,
          "wind_speed": 5,
          "wind_direction": 330,
-         "cloud_cover": 5
-      },
-      "11/01/2025": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 13,
-         "rh_max": 87,
-         "rh_min": 37,
-         "wind_speed": 4,
-         "wind_direction": 280,
          "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "groundnut",
-      "tomato",
-      "cucurbits",
-      "onion",
-      "chilli",
-      "tuberose",
-      "poultry"
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
    ],
-   "general_advisory": "Dry weather may prevail over the district of Khordha for the next five days. Ensure proper irrigation and monitoring for pests and diseases in crops.",
+   "general_advisory": "Farmers are advised to prepare nursery bed and treat the paddy seeds before sowing. Mulching vegetable seedlings is recommended to avoid cold injury. Light irrigation is advised for standing vegetables and crops due to prevailing low temperature.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply Cartap Hydrochloride or Chlorantraniliprole for nursery area before transplanting to manage pests."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Select resistant varieties to prevent red rot disease.",
-            "Soak setts in a recommended solution before planting."
+            "Basal Fertilizer Application: Apply DAP, MOP, and Urea during last puddling. Zinc supplementation recommended for deficient soil. Transplant seedlings at proper spacing."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Use Neem Based Pesticide to control leaf miner.",
-            "Spray recommended pesticides during infestation."
+            "White grab infestation control: Use Chloropyriphous or Imidacloprid to minimize infestation.",
+            "Stem rot control: Drench the soil with Validamycin or Captan + Hexaconazole to control stem rot."
          ]
       },
-      "tomato": {
+      "sugarcane": {
          "advisory": [
-            "Use yellow sticky traps to attract and kill Whitefly.",
-            "Spray neem-based pesticide during infestation."
+            "Planting stage: Apply DAP, MOP, and FYM at planting. Top dressing with Urea at specific intervals. Avoid late Urea application to prevent delayed maturity."
          ]
       },
-      "cucurbits": {
+      "cowpea": {
          "advisory": [
-            "Use recommended fungicides to control Downey mildew."
+            "Hairy caterpillar control: Spray flubendiamide to control infestation. Difenoconazole or carbendazim for leaf spot control."
          ]
       },
-      "onion": {
+      "cole crops": {
          "advisory": [
-            "Ensure proper soil preparation and fertilization before transplanting onion seedlings."
+            "Dimond Back Moth and Head Borer management: Collect and destroy caterpillars and eggs. Use Neem-based or chemical pesticides for pest management."
          ]
       },
-      "chilli": {
+      "coconut": {
          "advisory": [
-            "Spray recommended pesticides for mite control."
+            "Red palm weevil infestation control: Apply carbendazim in stem holes. Clean and disinfect compost yard to control rhinoceros beetle."
          ]
       },
-      "tuberose": {
+      "banana": {
          "advisory": [
-            "Spray recommended fungicides to control leaf blight and stem rot.",
-            "Apply carbofuran to control root knot nematode."
+            "Sigatoka leaf spot control: Spray carbendazim or chlorothalonil to control the leaf spot."
          ]
       },
-      "poultry": {
+      "pisciculture": {
          "advisory": [
-            "Insulate poultry house against cold wind during winter.",
-            "Provide mineral and calcium to laying birds."
+            "Preventive measures for EUS: Apply Cifax in pond water as prevention. Feed fishes oil cake bran mixture daily."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

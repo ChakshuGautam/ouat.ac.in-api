@@ -1,18 +1,18 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 12,
+         "t_max": 27,
+         "t_min": 13,
          "rh_max": 74,
          "rh_min": 29,
          "wind_speed": 3,
          "wind_direction": 293,
-         "cloud_cover": 3
+         "cloud_cover": 2
       },
-      "12-01-2025": {
+      "19-01-2025": {
          "rainfall": 0,
-         "t_max": 31,
+         "t_max": 27,
          "t_min": 13,
          "rh_max": 77,
          "rh_min": 29,
@@ -20,29 +20,29 @@
          "wind_direction": 350,
          "cloud_cover": 3
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 14,
+         "t_max": 27,
+         "t_min": 13,
          "rh_max": 74,
          "rh_min": 28,
          "wind_speed": 4,
          "wind_direction": 5,
-         "cloud_cover": 3
+         "cloud_cover": 2
       },
-      "14-01-2025": {
+      "21-01-2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 14,
+         "t_max": 28,
+         "t_min": 13,
          "rh_max": 77,
          "rh_min": 29,
          "wind_speed": 4,
          "wind_direction": 350,
-         "cloud_cover": 3
+         "cloud_cover": 2
       },
-      "15-01-2025": {
+      "22-01-2025": {
          "rainfall": 0,
-         "t_max": 31,
+         "t_max": 28,
          "t_min": 14,
          "rh_max": 74,
          "rh_min": 28,
@@ -52,77 +52,74 @@
       }
    },
    "names_of_crops": [
-      "paddy",
-      "linseed",
-      "mustard and toria",
       "chickpea",
+      "mustard",
+      "toria",
+      "linseed",
+      "paddy",
+      "brinjal",
+      "potato",
       "chilli",
-      "cauliflower",
       "tomato",
-      "amaranthus",
-      "chrysanthemum",
-      "marigold"
+      "chrysanthemum"
    ],
-   "general_advisory": "• Due to very low temperature, plant germination and growth may be delayed/ hampered. Regularly keep a watch on it and if required, re-sowing could be done. Keep the field clean by removing weeds. Irrigate the field as per the requirement. Spray pesticides in morning and evening hours. Harvest the matured vegetables and keep them at safe places.",
+   "general_advisory": "To minimise the cold wave effect or chilling injury, light and frequent irrigation through sprinkler can be provided. Aphids and other sucking pest incidences will increase on the crop. Regularly have a watch and spray pesticides as per requirement. Cover the small crops with polythene during the night hours.",
    "crops_data": {
-      "paddy": {
+      "chickpea": {
          "advisory": [
-            "Keep the harvested paddy at some height above the ground.",
-            "The paddy stacks should be kept at safe places.",
-            "Use Fumigant tablets (Aluminium Phosphide) in the storage room and close it from all the directions.",
-            "For storing paddy at home, use celphos tablets/ powder packets in the drums."
+            "Irrigate the field if soil is getting dry.",
+            "Remove weeds from the field and keep it clean.",
+            "Cutworm infestation may be seen in the field. Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Remove weeds and monitor the field for any pests and diseases.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Remove weeds and monitor the field for any pests and diseases.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water."
          ]
       },
       "linseed": {
          "advisory": [
-            "Powdery mildew in linseed can be reduced by spraying wettable sulphur @ 3% or Karathane @ 2g/lt.",
-            "Rouge out weeds from the field.",
-            "Remove/ Uproot the wilted plants from the field."
+            "Powdery mildew in linseed can be reduced by spraying wettable sulphur @ 3% or Karathane @ 2g/lt."
          ]
       },
-      "mustard and toria": {
+      "paddy": {
          "advisory": [
-            "Irrigate the field if possible in flowering and fruit formation time.",
-            "Spray Imidachloprid 17.8% SL @ 2 ml/lt to reduce the incidence of aphids and mustard sawfly in Mustard and Toria.",
-            "Alternaria black leaf spot can be managed by spraying Carbend azim or Mancozeb @ 1 gm/lt.",
-            "Regularly check for the powdery mildew disease infestation which may be seen in the field in next few weeks."
+            "Use Fumigant tablets (Aluminium Phosphide) in the storage room and close it from all the directions.",
+            "For storing paddy at home, use celphos tablets/ powder packets in the drums."
          ]
       },
-      "chickpea": {
+      "brinjal": {
          "advisory": [
-            "Cutworm infestation may be seen in the field. Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt.",
-            "Alternaria leaf blight in chickpea can be reduced by spraying Mancozeb @ 2.5 g/lt.",
-            "Powdery mildew in chickpea may be seen in near future. To manage the same, spray Dithane M -45 @ 2.5 g/lt.",
-            "Uproot the plants and destroy it if wilting symptoms due to fusarium wilt is observed in the field."
+            "Provide irrigation to the crop.",
+            "Remove damaged branches and leaves from the plants.",
+            "Harvest the matured brinjal fruits and sell them at good prices.",
+            "For managing Fruit and shoot borer, spray Emamectin benzoate 4% SG @ 4g/10lt."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Provide light irrigation to the crop.",
+            "Keep the root zone clean and remove weeds.",
+            "If wilting is seen in the field, drench Blitox - 50 @ 45g + Steptocycline @ 2g in 10lts of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Sowing of chilli plants can be taken into consideration if vacant places are available.",
-            "Irrigate the crop after sowing.",
             "Little leaf in Chilli can be seen the field. If that happens spray Dimethoate @ 2 ml/lt.",
-            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt."
-         ]
-      },
-      "cauliflower": {
-         "advisory": [
-            "Harvest the matured fruits and sell them at market at affordable prices.",
-            "Black rot in Cauliflower can be reduced by spraying copper oxy chloride @ 2 gm/lt.",
-            "Cauliflower borer can be managed by manually destroying the borers. In case of heavy infestation of borers spray Cartap hydrochloride @ 6 g/15 lts.",
-            "Downy mildew disease in Cauliflower can be reduced by spraying Metalaxyl @ 4g/lt."
+            "Aphids and Jassids infestation may be seen in the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt."
          ]
       },
       "tomato": {
          "advisory": [
             "To minimise the infestation of aphids and jassids in tomato crop, spray dimethoate or Imidachloprid @ 1 ml/lt.",
-            "Fruit and shoot borer in tomato plants can be managed by spraying Flubendiamide 20 WG @ 2g/10lt or Emamectin benzoate 4%SG @ 4 g/10lt of water.",
-            "Provide irrigation to the crop if plants getting wilted."
-         ]
-      },
-      "amaranthus": {
-         "advisory": [
-            "Harvest or cut the matured plants for culinary purpose.",
-            "Remove any diseased parts from the plants."
+            "Fruit and shoot borer in tomato plants can be managed by spraying Flubendiamide 20 WG @ 2g/10lt or Emamectin benzoate 4%SG @ 4 g/10lt of water."
          ]
       },
       "chrysanthemum": {
@@ -131,12 +128,7 @@
             "Powdery mildew in Chrysanthemum can be managed by spraying Carbendazim @ 1g/lt.",
             "Wilting symptoms like withered plants or infected parts should be removed and destroyed away from the plants."
          ]
-      },
-      "marigold": {
-         "advisory": [
-            "Mealy bug infestation can be seen in the marigold crop field. To reduce the same apply neem oil or insecticidal soap solution or Imidachloprid @ 2 ml/lt."
-         ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

@@ -1,0 +1,117 @@
+{
+   "weather_details": {
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 9,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 281,
+         "cloud_cover": 0
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 10,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 81,
+         "rh_min": 38,
+         "wind_speed": 9,
+         "wind_direction": 12,
+         "cloud_cover": 0
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 9,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "tomato",
+      "cucurbits",
+      "onion",
+      "chilli",
+      "tuberose",
+      "poultry"
+   ],
+   "general_advisory": "Dry weather may prevail for the next five days. Maintain soil moisture, mulch vegetables, be vigilant against pests and diseases, and spray pesticides after 3 pm to protect honey bees.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply Cartap Hydrochloride or Chlorantraniliprole before transplanting for gall midge, stem borer, and other pests."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in specific solution before planting."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spray Neem Based Pesticide or Profenophos for leaf miner control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps for Whitefly control.",
+            "Spray neem-based pesticide for primary pest infestation."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spray Metalaxyl + Mancozeb to control Downy mildew."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Plant seedlings uniformly with specific compost and nutrients."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray Ethion EC or Spiromesifen SC for mite control."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "Spray specific solutions to control leaf blight, stem rot, and root knot nematode."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate the poultry house during winter and ensure proper ventilation.",
+            "Provide mineral and calcium to laying birds."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

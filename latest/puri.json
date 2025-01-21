@@ -1,117 +1,93 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 9,
+         "t_min": 13,
          "rh_max": 83,
          "rh_min": 46,
          "wind_speed": 6,
          "wind_direction": 281,
-         "cloud_cover": 0
+         "cloud_cover": 4
       },
-      "12-01-2025": {
+      "19-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 10,
+         "t_max": 28,
+         "t_min": 13,
          "rh_max": 83,
          "rh_min": 45,
          "wind_speed": 6,
          "wind_direction": 327,
-         "cloud_cover": 0
+         "cloud_cover": 4
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 11,
+         "t_max": 28,
+         "t_min": 13,
          "rh_max": 81,
          "rh_min": 38,
          "wind_speed": 9,
          "wind_direction": 12,
-         "cloud_cover": 0
-      },
-      "14-01-2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 9,
-         "rh_max": 83,
-         "rh_min": 46,
-         "wind_speed": 6,
-         "wind_direction": 327,
-         "cloud_cover": 0
-      },
-      "15-01-2025": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 11,
-         "rh_max": 83,
-         "rh_min": 45,
-         "wind_speed": 6,
-         "wind_direction": 327,
-         "cloud_cover": 0
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "groundnut",
-      "tomato",
-      "cucurbits",
-      "onion",
-      "chilli",
-      "tuberose",
-      "poultry"
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
    ],
-   "general_advisory": "Dry weather may prevail for the next five days. Maintain soil moisture, mulch vegetables, be vigilant against pests and diseases, and spray pesticides after 3 pm to protect honey bees.",
+   "general_advisory": "Farmers are advised to prepare nursery beds, treat paddy seeds, mulch vegetable seedlings, irrigate standing crops, use herbicides, and follow specific crop stage advisories.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply Cartap Hydrochloride or Chlorantraniliprole before transplanting for gall midge, stem borer, and other pests."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Select resistant varieties to prevent red rot disease.",
-            "Soak setts in specific solution before planting."
+            "Apply basal fertilizer during last puddling",
+            "Transplant seedlings at proper spacing"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Spray Neem Based Pesticide or Profenophos for leaf miner control."
+            "Minimize white grab infestation",
+            "Control stem rot"
          ]
       },
-      "tomato": {
+      "sugarcane": {
          "advisory": [
-            "Use yellow sticky traps for Whitefly control.",
-            "Spray neem-based pesticide for primary pest infestation."
+            "Apply fertilizer at planting stage",
+            "Top dress with Urea at specific intervals"
          ]
       },
-      "cucurbits": {
+      "cowpea": {
          "advisory": [
-            "Spray Metalaxyl + Mancozeb to control Downy mildew."
+            "Control hairy caterpillar infestation"
          ]
       },
-      "onion": {
+      "cole crops": {
          "advisory": [
-            "Plant seedlings uniformly with specific compost and nutrients."
+            "Manage infestation of Dimond Back Moth and Head Borer"
          ]
       },
-      "chilli": {
+      "coconut": {
          "advisory": [
-            "Spray Ethion EC or Spiromesifen SC for mite control."
+            "Control red palm weevil infestation",
+            "Clean and disinfect coconut garden"
          ]
       },
-      "tuberose": {
+      "banana": {
          "advisory": [
-            "Spray specific solutions to control leaf blight, stem rot, and root knot nematode."
+            "Control sigatoka leaf spot"
          ]
       },
-      "poultry": {
+      "pisciculture": {
          "advisory": [
-            "Insulate the poultry house during winter and ensure proper ventilation.",
-            "Provide mineral and calcium to laying birds."
+            "Prevent Epizootic ulcerative syndrome",
+            "Feed fishes oil cake bran mixture"
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

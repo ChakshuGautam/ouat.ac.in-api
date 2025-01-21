@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 59,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 346,
+         "cloud_cover": 2
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 2
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 58,
+         "rh_min": 25,
+         "wind_speed": 4,
+         "wind_direction": 10,
+         "cloud_cover": 3
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 2
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 58,
+         "rh_min": 25,
+         "wind_speed": 4,
+         "wind_direction": 10,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha. Farmers are advised to conduct irrigation and spraying operations during this period and make provisions to protect crops and animals from the cold.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "Stored grain pest management: After noticing infestation, fumigate using Aluminium phosphide tablets."
+         ]
+      },
+      "dry season rice": {
+         "advisory": [
+            "Seed treatment with Carbendazim or Trichoderma formulation.",
+            "Protect nursery from cold injury with FYM layer and proper irrigation."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Hoeing, weeding, thinning operation as needed.",
+            "Monitor against Aphid attack on mustard crop."
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Manage mango mealy bug with polythene sheets.",
+            "Use straw mulching for soil moisture and temperature maintenance.",
+            "Harvest matured crops and provide light irrigation for vegetative growth."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover animal shelter and sick animals during cold nights.",
+            "Avoid damp areas and protect animals from smoke and cold winds.",
+            "Feed mixture of oil cakes and jaggery to maintain body temperature."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

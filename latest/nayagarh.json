@@ -53,23 +53,22 @@
    },
    "names_of_crops": [
       "rice",
-      "pigeon pea",
+      "red gram/arhar",
       "brinjal",
       "chilli",
       "mushroom",
       "poultry"
    ],
-   "general_advisory": "Dry weather is likely to prevail in the district. As per IMD forecast, no rainfall is expected for next 5 days. Maximum temperature will vary from 31°C-32°C and minimum temperature will vary from 19°C-20°C. The range of maximum relative humidity may remain 84%-93% and minimum relative humidity may remain 40%-48%. Cloud cover will be 2-3 octa. Wind speed may vary within 3 kmph.",
+   "general_advisory": "Dry weather is likely to prevail in the district. As per IMD forecast, no rainfall is expected for next 5 days and the weather will be sunny and dry. Maximum temperature will vary from 31°C-32°C and minimum temperature will vary from 19°C to 20°C. The range of maximum humidity may remain 84%-93% and minimum humidity may remain 40%-48%. Cloud cover will be 2-3 octa. Wind speed may vary within 3 kmph.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If medium duration variety of rice is in milking stage then keep standing water up to 3-4 inches.",
-            "If short duration rice varieties have attained 85% physiological maturity, then harvest it.",
-            "To control sheath blight in rice, spray Validamycin @ 400 ml or (Trifloxistrobin + Tebuconazole) @ 80 g in 200 litres of water per acre of land.",
-            "To control green leaf hopper in rice, spray Thiamethoxam @ 100 g in 200 litres of water per acre of land."
+            "If medium duration variety of rice is in milking stage then keep standing water upto 3-4 inches. If short duration rice varieties have attained 85% physiological maturity, then harvest it.",
+            "In order to control sheath blight in rice, spray Validamycin @ 400 ml or (Trifloxistrobin + Tebuconazole) @ 80 g in 200 litres of water per acre of land.",
+            "In order to control green leaf hopper in rice, spray Thiamethoxam @ 100 g in 200 litres of water per acre of land."
          ]
       },
-      "pigeon pea": {
+      "red gram/arhar": {
          "advisory": [
             "Pod borer in pigeon pea cultivation has been noticed in some places. Spray Chlorantraniliprole @ 80 ml in 200 litres of water per acre of land to control it."
          ]

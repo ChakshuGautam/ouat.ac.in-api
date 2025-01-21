@@ -1,94 +1,108 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 12,
+         "t_min": 11,
          "rh_max": 85,
          "rh_min": 36,
          "wind_speed": 7,
          "wind_direction": 281,
-         "cloud_cover": 0
+         "cloud_cover": 10
       },
-      "12-01-2025": {
+      "19-01-2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 13,
+         "t_min": 11,
          "rh_max": 83,
          "rh_min": 37,
          "wind_speed": 11,
          "wind_direction": 338,
          "cloud_cover": 0
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
+         "t_max": 28,
+         "t_min": 11,
          "rh_max": 74,
          "rh_min": 33,
          "wind_speed": 7,
+         "wind_direction": 10,
+         "cloud_cover": 5
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 338,
+         "cloud_cover": 0
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 11,
+         "rh_max": 74,
+         "rh_min": 33,
+         "wind_speed": 3,
          "wind_direction": 10,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "groundnut",
-      "tomato",
-      "cucurbits",
-      "onion",
-      "chilli",
-      "tuberose",
-      "poultry"
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
    ],
-   "general_advisory": "As per the forecast, dry weather may prevail over Kendrapara. Maintain saturated condition in the nursery bed, mulch vegetable seedlings, keep standing water in paddy nursery, provide irrigation to standing vegetables, use polythene cover for nursery, do proper field surveillance for pests and diseases, spray pesticides after 3 pm to protect honey bees.",
+   "general_advisory": "Farmers are advised to prepare nursery beds, treat seeds before sowing, mulch seedlings, provide irrigation, use herbicides, and follow specific crop stage advisories.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply Cartap Hydrochloride or Chlorantraniliprole for gall midge, stem borer, caseworm, leaf folder, and root knot nematode"
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Select resistant varieties like CO-7219, CO-8371, etc., soak setts in a solution to prevent red rot disease"
+            "Basal Fertilizer Application: Apply DAP, MOP, and Urea as per soil type and seedling age for high yield."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Spray Neem Based Pesticide or Profenophos for leaf miner control"
+            "White grab: Minimize infestation by drenching Chloropyriphos or Imidacloprid at the plant base."
          ]
       },
-      "tomato": {
+      "sugarcane": {
          "advisory": [
-            "Use yellow sticky traps to control Whitefly, spray neem-based pesticide or Thiamethoxam for pest control"
+            "Planting stage: Apply DAP, MOP, and FYM at planting time, top dress with Urea at intervals, avoid late Urea application."
          ]
       },
-      "cucurbits": {
+      "cowpea": {
          "advisory": [
-            "Spray Metalaxyl + Mancozeb or Fosetyl-AL to control Downy mildew"
+            "Hairy caterpillar: Control by spraying specific insecticides as needed."
          ]
       },
-      "onion": {
+      "cole crops": {
          "advisory": [
-            "Plant seedlings uniformly with compost, DAP, Potash, urea, and sulphur mix"
+            "Dimond Back Moth and Head Borer management: Monitor and destroy pests, use Neem based pesticides or chemical sprays."
          ]
       },
-      "chilli": {
+      "coconut": {
          "advisory": [
-            "Spray Ethion or Spiromesifen for mite control"
+            "To control red palm weevil: Apply specific pesticide in stem holes."
          ]
       },
-      "tuberose": {
+      "banana": {
          "advisory": [
-            "Spray Fenamidone + Mancozeb for leaf blight, carbendazim for stem rot, carbofuran for root knot nematode"
+            "To control sigatoka leaf spot: Spray specified fungicides as preventive measure."
          ]
       },
-      "poultry": {
+      "pisciculture": {
          "advisory": [
-            "Insulate poultry house in winter, feed mineral and calcium to laying birds"
+            "Prevent EUS (Epizootic ulcerative syndrome) by applying 'Cifax' as a preventive measure."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

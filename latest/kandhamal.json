@@ -1,49 +1,49 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "14-01-2025": {
          "rainfall": 0,
          "t_max": 27,
-         "t_min": 10,
+         "t_min": 11,
          "rh_max": 75,
          "rh_min": 28,
          "wind_speed": 2,
          "wind_direction": 191,
          "cloud_cover": 3
       },
-      "12-01-2025": {
+      "15-01-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
+         "t_max": 28,
+         "t_min": 13,
          "rh_max": 69,
          "rh_min": 26,
          "wind_speed": 1,
          "wind_direction": 0,
          "cloud_cover": 3
       },
-      "13-01-2025": {
+      "16-01-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
+         "t_max": 27,
+         "t_min": 10,
          "rh_max": 70,
          "rh_min": 29,
          "wind_speed": 0,
          "wind_direction": 90,
-         "cloud_cover": 3
+         "cloud_cover": 4
       },
-      "14-01-2025": {
+      "17-01-2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 15,
+         "t_max": 26,
+         "t_min": 10,
          "rh_max": 70,
          "rh_min": 29,
          "wind_speed": 0,
          "wind_direction": 90,
-         "cloud_cover": 3
+         "cloud_cover": 4
       },
-      "15-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 15,
+         "t_max": 26,
+         "t_min": 9,
          "rh_max": 70,
          "rh_min": 29,
          "wind_speed": 0,
@@ -52,71 +52,54 @@
       }
    },
    "names_of_crops": [
+      "chilli",
       "black gram",
       "brinjal",
       "cauliflower",
-      "banana",
-      "potato",
-      "cattle",
+      "rice",
       "poultry"
    ],
-   "general_advisory": "Provide light irrigation to cole crops as required. Seeing the clear sky, farmers can apply spraying activities. Regularly monitor the crop fields for insect and disease infestation. Make provisions for light bulbs or heater to provide enough heat to the chicks.",
+   "general_advisory": "Seeing the clear sky, farmers can go for spraying activities. Regularly monitor the crop fields for the insect and disease infestation. Make provisions for light bulbs or heater to provide enough heat to the chicks.",
    "crops_data": {
+      "chilli": {
+         "advisory": [
+            "Vegetative - Prevailing weather condition is favorable for thrips attack. Install Blue Sticky Trap @ 8nos/acre to control and monitor pest population.",
+            "Apply neem-based pesticide Azadiractin 1500 ppm @ 3ml/liter of water at initial stage of infestation.",
+            "To control chemically apply 3 g Acetamiprid 15% SP or 4 ml Imidacloprid 17.8% SL mixed with 15 liters of water"
+         ]
+      },
       "black gram": {
          "advisory": [
-            "Sowing",
-            "Spray Pendimethalin 30% EC @1.2 liter/acre in 200 lt of water within 1-2 days of sowing to control weeds."
+            "Sowing - Spray Pendimethalin 30% EC @1.2 liter/acre in 200 lt of water within 1-2 days of sowing to control weeds."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Maturity - Harvesting",
-            "Older plants become stunted.",
-            "Collect and destroy the damaged and dead plants.",
-            "Light trap @1/ha to attract and kill adults.",
+            "Maturity-Harvesting - Older plants become stunted.",
+            "Collect and destroy the damaged and dead plants",
+            "Light trap @1/ha to attract and kill adults",
             "Spray neem oil 2ml/lit."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Maturity",
-            "Cauliflower borer can be managed by manually destroying the borers.",
+            "Maturity - Cauliflower borer can be managed by manually destroying the borers.",
             "In case of heavy infestation of borers spray Cartap hydrochloride @ 6 g/15 Liters of water."
          ]
       },
-      "banana": {
+      "rice": {
          "advisory": [
-            "Maturity - Harvesting",
-            "Harvest the matured banana bunch and cover the unripened bunch with bags to protect it from monkeys and birds.",
-            "Keep the banana bunch at safe places away from ants and rats."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "White fly",
-            "Nymphs suck sap from the leaves and lower their vitality.",
-            "Yellowing and curling of leaf.",
-            "Give timely irrigation to avoid infestation.",
-            "Spray dimethoate 0.3%"
-         ]
-      },
-      "cattle": {
-         "advisory": [
-            "To avoid freezing winter, the following cares can be taken.",
-            "Reduce humidity to ensure better ventilation, preventing excessive moisture in sheds, roof dripping and ground freezing phenomenon.",
-            "Ventilation should be carried in afternoon.",
-            "Less water should be used in winter barn to wash the ground and dry cleaning should be followed.",
-            "Bedding should be provided to protect them from cold floor.",
-            "Lukewarm water should be provided for drinking purpose."
+            "Transplanting - Prepare the main field for timely transplanting. Apply DAP 44 kg + MOP 22 kg per acre as basal dose during final puddling.",
+            "Transplant 3-4-week-old seedlings in well puddled soil at a spacing of 15 cm ×15 cm with 3-4 seedlings per hill at shallow depth."
          ]
       },
       "poultry": {
          "advisory": [
             "Make provisions for light bulbs or heater to provide enough heat to the chicks.",
-            "Along with the vaccination, provide a suitable amount of heat for the first 2-3 weeks.",
+            "Along with the vaccination provide suitable amount of heat for first 2-3 weeks.",
             "Reduce the humidity of the floor and clean the litter regularly."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "13-01-2025"
 }

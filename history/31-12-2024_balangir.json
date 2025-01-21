@@ -1,0 +1,51 @@
+{
+   "weather_details": {
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 80,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 3
+      },
+      "2022-01-02": {
+         "rainfall": 3,
+         "t_max": 23,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 8,
+         "wind_direction": 200,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "wheat",
+      "poultry"
+   ],
+   "general_advisory": "It is recommended to plant rice and wheat considering the weather conditions. Ensure proper care for poultry.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Plant rice seeds in well-drained soil.",
+            "Keep the field moist during the growing season."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Sow wheat seeds in a well-prepared seedbed.",
+            "Apply nitrogen fertilizers at the appropriate time."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide adequate shelter for poultry during extreme weather.",
+            "Ensure access to clean water and balanced feed for healthy growth."
+         ]
+      }
+   },
+   "date": "31-12-2024"
+}

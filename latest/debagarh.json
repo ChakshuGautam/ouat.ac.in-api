@@ -1,38 +1,38 @@
 {
    "weather_details": {
-      "11/01/2025": {
+      "18/01/2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 10,
+         "t_max": 28,
+         "t_min": 13,
          "rh_max": 73,
          "rh_min": 23,
          "wind_speed": 2,
          "wind_direction": 27,
          "cloud_cover": 3
       },
-      "12/01/2025": {
+      "19/01/2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 12,
+         "t_min": 13,
          "rh_max": 63,
          "rh_min": 23,
          "wind_speed": 4,
          "wind_direction": 354,
-         "cloud_cover": 3
+         "cloud_cover": 4
       },
-      "13/01/2025": {
+      "20/01/2025": {
          "rainfall": 0,
-         "t_max": 29,
+         "t_max": 28,
          "t_min": 13,
          "rh_max": 68,
          "rh_min": 21,
          "wind_speed": 4,
          "wind_direction": 354,
-         "cloud_cover": 3
+         "cloud_cover": 4
       },
-      "14/01/2025": {
+      "21/01/2025": {
          "rainfall": 0,
-         "t_max": 29,
+         "t_max": 28,
          "t_min": 13,
          "rh_max": 73,
          "rh_min": 23,
@@ -40,75 +40,77 @@
          "wind_direction": 27,
          "cloud_cover": 3
       },
-      "15/01/2025": {
+      "22/01/2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 13,
+         "t_max": 28,
+         "t_min": 14,
          "rh_max": 63,
          "rh_min": 23,
          "wind_speed": 4,
          "wind_direction": 354,
-         "cloud_cover": 3
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rabi paddy",
       "wheat",
-      "gram",
+      "summer maize",
       "rabi sunflower",
       "potato",
-      "toria",
       "groundnut",
-      "fish farming",
-      "poultry farming"
+      "onion",
+      "poultry farming",
+      "fish farming"
    ],
    "general_advisory": "Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "Survey for stem borer attack. Keep light standing water in the nursery."
+            "When the seedlings are with 4-5 leaves, go for transplanting the paddy seedling. Transplant 2-3 seedling per hill and in line with shallow depth for quick establishment of the seedling."
          ]
       },
       "wheat": {
          "advisory": [
-            "Provide critical stage irrigation at jointing stage."
+            "Provide critical stage irrigation to the crop.",
+            "Survey for any insect."
          ]
       },
-      "gram": {
+      "summer maize": {
          "advisory": [
-            "Due to weather, there is chances of Pod borer attack, to manage this spray Chlorpyriphos @ 2 ml per liter of water."
+            "This is the right time for sowing of maize. Without delay sow @ 6 kg per acre. Apply 10 kg Chlorpyriphos per acre in termite-prone area. Spacing is 60 X 25 cm with 5 cm depth in soil."
          ]
       },
       "rabi sunflower": {
          "advisory": [
-            "At 40 DAS apply 6 kg Nitrogen per acre. Apply fertilizer at a distance of 3 -4 inch from the plant."
+            "Due to weather there is chances of fruit borer attack, to manage this spray Chlorpyriphos @ 2 ml per liter of water."
          ]
       },
       "potato": {
          "advisory": [
-            "To control Aphids spray Neem oil @ 4 ml per liter of water."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "Due to weather there is Leaf spot, to manage spray Vitavax power @ 2 g per liter of water."
+            "Due to weather there is chances of Early blight in potato, to manage spray Mancozeb @ 4 g per liter of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Choose quality seeds like Dharani, Kalinga badam, Kadri, AK 12 -24 and start sowing. Apply Gypsum @ 100 kg per acre at final land preparation."
+            "Choose quality seeds like Dharani, Kalinga badam, Kadri, AK 12-24 and start sowing. Apply Gypsum @ 100 kg per acre at final land preparation."
          ]
       },
-      "fish farming": {
+      "onion": {
          "advisory": [
-            "If acidity is less than 7.5 in fish pond 7 days before application of organic fertilizers, apply 100 kg of lime per hectare meter of water."
+            "Light intercultivation is to be done since the roots will be shallow and found on the surface of the soil."
          ]
       },
       "poultry farming": {
          "advisory": [
-            "Cover the hen house with plastic or sacking at night to protect the hens from the cold. Run the heater if necessary."
+            "Cover the poultry house with plastic or sacking at night to protect from the cold.",
+            "Provide bulb to make the house warm."
+         ]
+      },
+      "fish farming": {
+         "advisory": [
+            "Provide the feed mixture according to the body weight."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

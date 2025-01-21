@@ -1,0 +1,142 @@
+{
+   "weather_details": {
+      "08-01-2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 75,
+         "rh_min": 30,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 3
+      },
+      "09-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 10,
+         "rh_max": 78,
+         "rh_min": 28,
+         "wind_speed": 1,
+         "wind_direction": 63,
+         "cloud_cover": 3
+      },
+      "10-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 10,
+         "rh_max": 77,
+         "rh_min": 30,
+         "wind_speed": 2,
+         "wind_direction": 112,
+         "cloud_cover": 3
+      },
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 10,
+         "rh_max": 79,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 41,
+         "cloud_cover": 3
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 80,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 0,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "groundnut",
+      "greengram",
+      "blackgram",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "chilli",
+      "tomato",
+      "poultry"
+   ],
+   "general_advisory": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop field as per requirement. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Complete the sowing of pre-germinated treated seeds in puddled soil by broadcasting or drum seeder and maintain a thin film of water for proper establishment and early growth of seedlings.",
+            "Nutrient Management: Apply 44 kg of DAP and 33 kg of MOP per acre as basal dose at the time of puddling.",
+            "Weed Management: Spray Pyrazosulfuron-ethyl 10%WP (Sathi) @ 80g/acre 3-5 days after sowing (DAS) in 130 litres of water when there is thin film of soil moisture or broadcast ready mix Bensulfuron methyl + Pretilachlor granular herbicide mixed with 4kg of sand."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Prevailing weather condition favours the following pest attack. So, recommended control measures should be followed as required.",
+            "Pod borer: To control, apply Benfuracarb 40% EC @ 1lit/ac or Deltamethrin 2.8% EC @ 200 ml/ac or Spinosad 45% SC @ 60 ml/ac or Flubendiamide 39.35% SC @ 40ml/ac mixed with 200 liters of water.",
+            "Pod sucking bug and Aphid: To control, spray Thiamethoxam 25% WG @ 40g/ac or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Weed Management: Apply Imazethapyr 10% SL @ 3ml/ltr of water at 15 DAS as an early post-emergence herbicide or apply Fenoxaprop-P-ethyl 9.3% @ 35 ml/drum (15-liter capacity) at 15-20 DAS.",
+            "Pest Management: Prevailing weather condition favors the development of sucking pests like aphid, jassids, and whitefly. Install yellow sticky trap @ 8nos/acre to monitor the pest population. Apply Neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at the initial stage of infestation."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Weed Management: Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20-25 DAS.",
+            "Pest Management: Leaf eating caterpillar: The insects usually feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control.",
+            "Aphid and Whitefly: Prevailing weather condition is favorable for the incidence of sucking pests like aphid and whitefly. Install yellow sticky traps @ 8nos/acre at the vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at the initial stage of infestation."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Weed Management: Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20-25 DAS.",
+            "Pest Management: Leaf eating caterpillar: The insects usually feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control.",
+            "Aphid and Whitefly: Prevailing weather condition is favorable for the incidence of sucking pests like aphid and whitefly. Install yellow sticky traps @ 8nos/acre at the vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at the initial stage of infestation."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Nutrient Management: At the three-week stage, undertake hoeing, weeding, and apply Urea @ 55kg/ac followed by irrigation.",
+            "Hoeing, weeding, and apply 27 kg urea + 25kg MOP at the six-to-seven-week stage followed by irrigation.",
+            "Pest Management: Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as a control measure. Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population. Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as a control measure."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Nutrient Management: At the three-week stage, undertake hoeing, weeding, and apply Urea @ 55kg/ac followed by irrigation.",
+            "Hoeing, weeding, and apply 27 kg urea + 25kg MOP at the six-to-seven-week stage followed by irrigation.",
+            "Pest Management: Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as a control measure. Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population. Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as a control measure."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Nutrient Management: At the three-week stage, undertake hoeing, weeding, and apply Urea @ 55kg/ac followed by irrigation.",
+            "Hoeing, weeding, and apply 27 kg urea + 25kg MOP at the six-to-seven-week stage followed by irrigation.",
+            "Pest Management: Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as a control measure. Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population. Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as a control measure."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Thrips: Prevailing weather condition is favorable for thrips attack. Install Blue Sticky Trap @ 8nos/acre to control and monitor pest population. Apply neem-based pesticide Azadiractin 1500 ppm @ 3ml/liter of water at the initial stage of infestation. To control chemically apply 3 g Acetamiprid 15% SP or 4 ml Imidacloprid 17.8% SL mixed with 15 liters of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Wilting: In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed.",
+            "Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and clamp free."
+         ]
+      }
+   },
+   "date": "07-01-2025"
+}

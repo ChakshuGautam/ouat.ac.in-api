@@ -1,155 +1,151 @@
 {
    "weather_details": {
-      "11-01-2025": {
+      "18-01-2025": {
          "rainfall": 0,
-         "t_max": 26,
+         "t_max": 25,
          "t_min": 8,
          "rh_max": 88,
          "rh_min": 34,
          "wind_speed": 2,
          "wind_direction": 301,
-         "cloud_cover": 3
+         "cloud_cover": 2
       },
-      "12-01-2025": {
+      "19-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 12,
+         "t_max": 25,
+         "t_min": 11,
          "rh_max": 86,
          "rh_min": 34,
          "wind_speed": 3,
          "wind_direction": 326,
-         "cloud_cover": 2
+         "cloud_cover": 3
       },
-      "13-01-2025": {
+      "20-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 9,
+         "t_max": 25,
+         "t_min": 8,
          "rh_max": 82,
          "rh_min": 36,
          "wind_speed": 2,
          "wind_direction": 11,
-         "cloud_cover": 3
+         "cloud_cover": 2
       },
-      "14-01-2025": {
+      "21-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
+         "t_max": 25,
+         "t_min": 9,
+         "rh_max": 86,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 326,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 26,
          "t_min": 9,
          "rh_max": 86,
          "rh_min": 34,
          "wind_speed": 3,
          "wind_direction": 326,
          "cloud_cover": 3
-      },
-      "15-01-2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 10,
-         "rh_max": 86,
-         "rh_min": 34,
-         "wind_speed": 3,
-         "wind_direction": 326,
-         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
-      "greengram/blackgram",
-      "groundnut",
+      "blackgram",
       "sunflower",
-      "onion",
-      "cauliflower & cabbage",
-      "tomato",
+      "mustard",
       "chilli",
-      "cattle & buffalo",
-      "goat & sheep",
+      "cauliflower",
+      "cabbage",
+      "tomato",
+      "brinjal",
+      "potato",
+      "cattle",
+      "goat",
       "chicken",
-      "common fish"
+      "fish"
    ],
-   "general_advisory": "Keep your crop field free from weed to minimize the incidence of diseases and pests. Apply balanced and appropriate fertilizers according to crop’s growth stage. Regular monitoring of the crop for incidence of pest and diseases should be done and use light trap to monitor insect population so that timely control measure can be taken. Follow the safety measures during application of chemical pesticides and keep leftover pesticides in a safe place out of reach of small children and domestic animals. Always apply the recommended dose of pesticide in the correct method during morning or afternoon hours and pay attention to the wind direction during application.",
+   "general_advisory": "In view of prevailing low temperature, provide light irrigation to standing vegetables and crops during morning hours. Farmers are advised to prepare nursery bed and treat the paddy seeds with Carbendazim 50% W.P @ 2 g/1kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 g /1 kg of seeds before sowing in the nursery. Spraying of pesticides to be done after 3 pm to protect the honey bee. Mulch vegetable seedling with straw or other mulching material to avoid cold injury.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Complete the sowing of pre-germinated treated seeds in puddled soil by broadcasting or drum seeder and maintain a thin film of water for proper establishment and early growth of seedlings.",
-            "Apply 44 kg of DAP and 22 kg of MOP per acre as a basal dose at the time of puddling.",
-            "Spray Pyrazosulfuron-ethyl 10%WP (Sathi) @ 80g/acre at 3-5 days after sowing (DAS) in 130 litres of water when there is a thin film of soil moisture or broadcast ready mix Bensulfuron methyl + Pretilachl or granular herbicide mixed with 4 kg of sand."
+            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 11, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season. Seed rate for an acre of land is 20 kg for these varieties. Treat the seeds with Carbendazim 50% W.P @ 2-gram/1 -kg of seeds or Carboxin 37.5% + Thiram 37.5 % @ 3 - gram /1 kg of seeds before sowing in the nursery."
          ]
       },
-      "greengram/blackgram": {
+      "blackgram": {
          "advisory": [
-            "Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20-25 DAS."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Prevailing weather condition favors the development of sucking pest like aphid, jassids, and whitefly.",
-            "Install yellow sticky trap @ 8nos/acre to monitor the pest population.",
-            "Apply Neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
+            "Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20 -25 DAS.",
+            "Leaf eating caterpillar: The insects usually feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control.",
+            "Aphid and Whitefly: Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly. Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Sucking pest complex (Aphid, Hopper, Thrips & Whitefly): Prevailing weather condition favors the development of sucking pests.",
-            "Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended.",
-            "Spray 0.2% wettable sulphur @ 2g/ltr of water.",
-            "Spray Bacillus thuringiensis var kurstaki 5% WP @ 1.5 g/ltr of water.",
-            "Spray 0.4% Copper oxychloride 50% WP @ 3g/ltr of water."
+            "Apply half dose of Urea (Inbred -6kg/ac, Hybrid -12kg/ac) + half dose of MOP (Inbred -10 kg/ac, Hybrid -20 kg/ac) as 2nd top dressing at second irrigation.",
+            "Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favors the development of sucking pests. Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended.",
+            "Powdery mildew: Spray 0.2% wettable sulfur @ 2g /ltr of water."
          ]
       },
-      "onion": {
+      "mustard": {
          "advisory": [
-            "Irrigate the crop at regular intervals.",
-            "Undertake hoeing, weeding and 1st top dressing @ 45 kg urea/acre at 4-week stage of the crop followed by irrigation."
-         ]
-      },
-      "cauliflower & cabbage": {
-         "advisory": [
-            "Go for hoeing, weeding and apply 27 kg urea + 25kg MOP at six-to-seven-week stage followed by irrigation.",
-            "Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as a control measure.",
-            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population.",
-            "Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as a control measure."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Complete hoeing, weeding and apply 27 kg urea at six-week stage followed by irrigation.",
-            "Wilting: In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptoms are noticed.",
-            "Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population."
+            "There are chances of Aphid infestation in early-sown mustard crops. To manage aphids at an early stage, put 8 numbers of yellow sticky traps per acre. Spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. If the infestation is severe, spray chemical pesticide Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre in 200-liter of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Thrips: Prevailing weather condition is favorable for thrips attack.",
-            "Install Blue Sticky Trap @ 8nos/acre to control and monitor pest population.",
-            "Apply neem-based pesticide Azadiractin 1500 ppm @ 3ml/liter of water at the initial stage of infestation. To control chemically apply 3g Acetamiprid 15% SP or 4 ml Imidacloprid 17.8% SL mixed with 15 liters of water."
+            "To control aphids and thrips in chili during the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400 -ml/acre."
          ]
       },
-      "cattle & buffalo": {
+      "cauliflower": {
          "advisory": [
-            "As there is lesser heat and humidity in the air, there is a lesser chance of cattle and buffalo falling sick.",
-            "Farmers must take care to make up the loss in the body condition score during the lactation phase.",
-            "Increase the amount of concentrate in the feed gradually before two months prior to calving."
+            "Apply borax @ 4 -kg/ acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5 -gram/liter or Folibor /Solubor @ 1.5 gram/liter. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
          ]
       },
-      "goat & sheep": {
+      "cabbage": {
          "advisory": [
-            "As goats are more affected by cold, goat farmers are advised to prevent their animals from chill wind and floor.",
-            "If goats have a running nose and persistent cough, veterinarians must be contacted quickly."
+            "There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6 -8 nos of light traps per acre. During the primary stage of pest infestation spray neem-based pesticide @ 1 -litre/acre by mixing in 200-liter of water. To manage this pest chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ 80-gram/acre by mixing in 200-liter of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To manage whitefly in Brinjal and Tomato crop, use yellow sticky traps @ 8 -10/acre to attract and kill the insects. During the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water.",
+            "To manage this pest chemically spray Thiamethoxam 25 % WG @ 40 g/acre or Pyriproxifen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250 -ml/acre by mixing in 200-liter of water.",
+            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown-up larvae. Set up 20 nos. of pheromone trap having Helilure per acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "The larvae of Brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Early planted potato crop is at 3-week stage. Go for hoeing and weeding and apply the rest 30 -45 Kg N/acre. For better tuber growth in potato, soil temperature below 30°C should be maintained. Therefore, farmers are advised to irrigate the field.",
+            "There are chances of Leaf Blight disease incidence in potato crop. To manage early leaf blight in potato, spray Mancozeb 75% WP @600 gram/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400-gram/acre. To manage late blight in potato, spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 - gram/acre at 10 days interval."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Provide proper shelter to the animals with proper ventilation facilities. Floor should be clean, dry and bedding with straw which acts as insulation and prevention of heat loss. In the winter season, animal required high amount of food as temperature drops. Roughage should be given high amount to maintain milk production. Maize, wheat and concentrate oil cakes @ 3 kg to the large animals such as Buffalo and cattle feedling helps in maintaining the body heat of the animals."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "PPR disease also known as 'Goat Plague' is common during winter. This viral disease that affects goats and sheep which causes sudden fever, pneumonia, and coughing. Affected animals appear restless, have a dull coat, dry muzzle, and depressed appetite. Pregnant animals may abort. Vaccinate the animals."
          ]
       },
       "chicken": {
          "advisory": [
-            "Prevent poultry birds from severe chill wind and cold floor to check their mortality.",
-            "Cover the poultry house by a thick polythene sheet to protect the birds from cold wind and remove it after 9 a.m in the morning to allow sunlight in the shed.",
-            "Be careful regarding litter material on the floor as it helps keep the birds warm and aids in nutrient recycling."
+            "In winter, the number of feeders should be increased. Feed should be available to the bird the whole day. During the winter season, birds take less water so for maintenance of water in the body, it is necessary to give continuous supply of fresh water which can be taken by the bird. For maintaining the heat in the poultry shed, install heaters in the shed. Use 200W bulbs to generate heat in small-scale operations. Carry out necessary vaccinations as and when required."
          ]
       },
-      "common fish": {
+      "fish": {
          "advisory": [
-            "During winters, there is a possibility of 'EUS' disease in fish.",
-            "Apply Cifax @ 400 ml mixed with 40 liters of water in one-acre pond area as a preventive measure.",
-            "Feed the fishes daily with an oil cake bran mixture at the rate of 2-3% of their total biomass."
+            "During winters, there is a possibility of 'EUS' disease in fish. Farmers are advised to apply Cifax @ 400 ml mixed with 40 liters of water in one-acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

@@ -1,0 +1,107 @@
+{
+   "weather_details": {
+      "08-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 11,
+         "rh_max": 65,
+         "rh_min": 26,
+         "wind_speed": 3,
+         "wind_direction": 207,
+         "cloud_cover": 2
+      },
+      "09-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 11,
+         "rh_max": 59,
+         "rh_min": 26,
+         "wind_speed": 1,
+         "wind_direction": 34,
+         "cloud_cover": 3
+      },
+      "10-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 58,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 34,
+         "cloud_cover": 3
+      },
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 65,
+         "rh_min": 26,
+         "wind_speed": 3,
+         "wind_direction": 207,
+         "cloud_cover": 2
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 59,
+         "rh_min": 26,
+         "wind_speed": 1,
+         "wind_direction": 34,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "greengram/blackgram",
+      "cauliflower/cabbage/broccoli",
+      "arhar",
+      "chilli",
+      "tomato"
+   ],
+   "general_advisory": "No rainfall and dry weather expected during next five days. Go for irrigation as per requirement. Apply compost before ploughing and balanced fertilizers as per soil test recommendations. Ensure proper heat arrangements for chicks during the night.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Complete sowing of pre-germinated treated seeds in puddled soil by broadcasting or drum seeder.",
+            "Apply specified amounts of DAP and MOP as basal dose.",
+            "Implement weed management strategies."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Imazethapyr for weed management.",
+            "Monitor and manage sucking pests."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Implement specified weed management techniques.",
+            "Control pests like leaf eating caterpillar and aphid."
+         ]
+      },
+      "cauliflower/cabbage/broccoli": {
+         "advisory": [
+            "Undertake hoeing, weeding, and apply urea at specified stages.",
+            "Control pests like Dimond back moth and others."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Implement pest management strategies for pod borer, pod sucking bug, and aphid."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control thrips attack using specific measures."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Address issues related to wilting and fruit & shoot borer."
+         ]
+      }
+   },
+   "date": "07-01-2025"
+}

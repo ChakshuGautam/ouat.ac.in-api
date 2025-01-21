@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "04/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 16,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 0
+      },
+      "11/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 17,
+         "rh_max": 84,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "tomato",
+      "cucurbits",
+      "onion",
+      "chilli",
+      "tuberose",
+      "poultry"
+   ],
+   "general_advisory": "Maintain saturated condition in the surface soil of nursery bed for rice seedlings. Use mulch for vegetable seedlings to avoid cold injury. Proper field surveillance for pests and diseases is recommended. Pesticides should be sprayed after 3 pm to protect honey bees.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for nursery area before transplanting."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Use resistant varieties like CO-7219, CO-8371, etc. to prevent red rot disease."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use Neem Based Pesticide or Profenophos for leaf miner control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps for Whitefly control. Spray neem-based pesticide or Thiamethoxam for pest control."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spray Metalaxyl + Mancozeb or Fosetyl-AL for downy mildew control."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Apply compost, DAP, Murate of Potash, urea, and sulphur before transplanting."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Use Ethion EC or Spiromesifen for mites control."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb for leaf blight control."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house against cold wind and ensure proper ventilation. Provide mineral and calcium to laying birds."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

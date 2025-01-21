@@ -1,20 +1,30 @@
 {
    "weather_details": {
-      "04/01/2025": {
+      "11/01/2025": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 16,
+         "t_max": 27,
+         "t_min": 15,
          "rh_max": 84,
          "rh_min": 39,
          "wind_speed": 5,
          "wind_direction": 297,
          "cloud_cover": 0
       },
-      "11/01/2025": {
+      "18/01/2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 10,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "22/01/2025": {
          "rainfall": 0,
          "t_max": 27,
-         "t_min": 17,
-         "rh_max": 84,
+         "t_min": 16,
+         "rh_max": 83,
          "rh_min": 42,
          "wind_speed": 6,
          "wind_direction": 325,
@@ -23,62 +33,63 @@
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
       "groundnut",
-      "tomato",
-      "cucurbits",
-      "onion",
-      "chilli",
-      "tuberose",
-      "poultry"
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
    ],
-   "general_advisory": "Maintain saturated condition in the surface soil of nursery bed for rice seedlings. Use mulch for vegetable seedlings to avoid cold injury. Proper field surveillance for pests and diseases is recommended. Pesticides should be sprayed after 3 pm to protect honey bees.",
+   "general_advisory": "Farmers are advised to prepare nursery beds, treat paddy seeds, mulch vegetable seedlings, provide light irrigation, maintain soil conditions, and use appropriate herbicides. Specific advisory for various crops is provided below.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply Cartap Hydrochloride or Chlorantraniliprole for nursery area before transplanting."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Use resistant varieties like CO-7219, CO-8371, etc. to prevent red rot disease."
+            "Apply basal fertilizer during transplanting",
+            "Transplant seedlings at specific spacing"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Use Neem Based Pesticide or Profenophos for leaf miner control."
+            "Control white grub infestation",
+            "Control stem rot using specific treatments"
          ]
       },
-      "tomato": {
+      "sugarcane": {
          "advisory": [
-            "Use yellow sticky traps for Whitefly control. Spray neem-based pesticide or Thiamethoxam for pest control."
+            "Apply specific fertilizers at planting stage",
+            "Top dress with urea at specified intervals"
          ]
       },
-      "cucurbits": {
+      "cowpea": {
          "advisory": [
-            "Spray Metalaxyl + Mancozeb or Fosetyl-AL for downy mildew control."
+            "Control hairy caterpillar infestation",
+            "Manage cercospora leaf spot"
          ]
       },
-      "onion": {
+      "cole crops": {
          "advisory": [
-            "Apply compost, DAP, Murate of Potash, urea, and sulphur before transplanting."
+            "Manage Diamond Back Moth and Head Borer infestation",
+            "Use Neem-based pesticide or specific chemicals for control"
          ]
       },
-      "chilli": {
+      "coconut": {
          "advisory": [
-            "Use Ethion EC or Spiromesifen for mites control."
+            "Control red palm weevil infestation",
+            "Disinfect compost yard to prevent rhinoceros beetle"
          ]
       },
-      "tuberose": {
+      "banana": {
          "advisory": [
-            "Spray Fenamidone + Mancozeb or Cymoxanil + Mancozeb for leaf blight control."
+            "Control sigatoka leaf spot using specified sprays"
          ]
       },
-      "poultry": {
+      "pisciculture": {
          "advisory": [
-            "Insulate poultry house against cold wind and ensure proper ventilation. Provide mineral and calcium to laying birds."
+            "Prevent 'EUS' syndrome in winter with specific treatment",
+            "Feed fishes with oil cake bran mixture"
          ]
       }
    },
-   "date": "10-01-2025"
+   "date": "17-01-2025"
 }

@@ -1,0 +1,118 @@
+{
+   "weather_details": {
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 85,
+         "rh_min": 31,
+         "wind_speed": 4,
+         "wind_direction": 290,
+         "cloud_cover": 3
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 339,
+         "cloud_cover": 3
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 5,
+         "wind_direction": 9,
+         "cloud_cover": 2
+      },
+      "14-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 339,
+         "cloud_cover": 2
+      },
+      "15-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 5,
+         "wind_direction": 9,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "summer rice",
+      "kharif rice",
+      "blackgram",
+      "rapeseed",
+      "groundnut",
+      "vegetables",
+      "fruit",
+      "cattle"
+   ],
+   "general_advisory": "After harvesting of paddy, it is ideal time for land preparation for sowing of pulses like green gram & black gram. To prevent damage from fog, low temperature and moisture stress, provide light irrigation to standing crops & vegetables during morning hours.",
+   "crops_data": {
+      "summer rice": {
+         "advisory": [
+            "For optimum growth & vigor of seedling, apply plant growth promoting substances like humic acid & sea weed extract @1ml/litre of water.",
+            "Nursery treatment with Fipronil 0.3 G @100g/1 cent nursery area 7 days before transplanting to reduce infestation level of stem borer."
+         ]
+      },
+      "kharif rice": {
+         "advisory": [
+            "Rice grains must be dried under sun for 3 -4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li. of water to minimize the chance of future infestation of storage pest."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "After harvesting of paddy, it is ideal time for land preparation for sowing pulses like green gram, black gram.",
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days.",
+            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
+            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+         ]
+      },
+      "rapeseed": {
+         "advisory": [
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid Mustard 50WG@ 60g/acre.",
+            "Irrigate the field if soil moisture stress is observed."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spraying of Rhidomil M -Z @2g/li of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/liter of water.",
+            "Cauliflower: If tobacco caterpillar infestation in cauliflower observed, spray Azadiractin 5% W/W @ 0.5 ml/litre of water or Emamectin benzoate 5% SG @ 0.5 g/litre of water is recommended. To manage Alternaria leaf spot disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or (carbendazim 12 % + Mancozeb 63 %) WP @ 400-gram/acre by mixing in 200 -litre of water."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Banana - Apply (Carbendazim + Mancozeb) @ 2g/liter of water to reduce the incidence of Sigatoka leaf spot disease in banana."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "The large ventilation spaces in shed must be closed in night, as the night temperature is falling.",
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

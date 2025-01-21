@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "10.01.2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "chilli",
+      "tomato",
+      "brinjal",
+      "onion",
+      "tuberose",
+      "animal husbandry",
+      "poultry"
+   ],
+   "general_advisory": "Ensure proper pest management and take care of animal health during winter.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "White grub infestation can be minimized by drenching Chloropyriphos or Imidacloprid at the plant base."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage mites in chilli crop, spray Ethion 50% EC, Spiromesifen 22.9% SC, or Propargite 57 % EC."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control aphid in tomato, spray neem oil formulation or Flonicam as recommended."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Use yellow sticky traps to attract and kill White fly in Brinjal.",
+            "During primary stage of pest infestation spray neem-based pesticide or chemical sprays like Thiamethoxam, Pyriproxifen, or Spiromesifen."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Transplant onion seedlings properly with required nutrients in the main field as specified."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "To control leaf blight, stem rot, and root knot nematode in tuberose, spray recommended fungicides and nematicides as specified."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Vaccinate animals against common diseases.",
+            "Store/procure fodder for winter months.",
+            "Cut perennial grasses as needed."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry houses during winter and ensure proper ventilation.",
+            "Provide mineral and calcium supplements to laying birds."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

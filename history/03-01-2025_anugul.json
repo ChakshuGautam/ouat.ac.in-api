@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "2025-01-04": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 64,
+         "rh_min": 26,
+         "wind_speed": 3,
+         "wind_direction": 315,
+         "cloud_cover": 3
+      },
+      "2025-01-05": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 9,
+         "rh_max": 66,
+         "rh_min": 31,
+         "wind_speed": 2,
+         "wind_direction": 14,
+         "cloud_cover": 3
+      },
+      "2025-01-06": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 10,
+         "rh_max": 70,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 59,
+         "cloud_cover": 2
+      },
+      "2025-01-07": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 10,
+         "rh_max": 79,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 111,
+         "cloud_cover": 1
+      },
+      "2025-01-08": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 10,
+         "rh_max": 75,
+         "rh_min": 27,
+         "wind_speed": 1,
+         "wind_direction": 27,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "menacinakahi",
+      "chilli",
+      "common fish",
+      "chicken"
+   ],
+   "general_advisory": "After threshing the crop need to be sundried to 14% and 12% moisture for consumption and seed purpose respectively. In case of rodent infestation has been found on the Threshing floor and in the field itself use poison bait for the preparation of 100g of poison bait mix 96 g flour, 2g edible oil and 2g zinc phosphide. Keep water in earthen bowl near the bait. Keep 1 Celphous tablet in the mouth of each rat hole. Foggy weather may lead to an increase in infestation of Powdery Mildew in several winter vegetables. Spray a mixture of 1 litre water with 1 gram Thiophanate Methyl or 1 ml Tebuconazole.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "Early sown mustard are likely to be affected by Aphids due to foggy weather. Spray 80g Thiamethoxam or 80ml Imidachoprid in 200lt of water."
+         ]
+      },
+      "menacinakahi": {
+         "advisory": [
+            "Due to the ongoing foggy weather condition, sucking pests might infest Chilli crop. For the management of sucking pests (Aphid, Thrips) in chilli, Spray Imidachloprid 5ml/15 litres of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Due to the ongoing foggy weather condition, sucking pests might infest Chilli crop. For the management of sucking pests (Aphid, Thrips) in chilli, Spray Imidachloprid 5ml/15 litres of water."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Maintain at least a 6 ft. height for better hibernation due to the cold season. Reduce fish feed by 20% due to reduced intake of feed due to low temperature."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "In the winter season, give attention towards Bio-security of chickens and stay safe from bird flu."
+         ]
+      }
+   },
+   "date": "03-01-2025"
+}

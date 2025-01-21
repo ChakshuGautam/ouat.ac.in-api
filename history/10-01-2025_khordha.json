@@ -1,0 +1,89 @@
+{
+   "weather_details": {
+      "04/01/2025": {
+         "rainfall": 0,
+         "t_max": 14,
+         "t_min": 14,
+         "rh_max": 87,
+         "rh_min": 87,
+         "wind_speed": 5,
+         "wind_direction": 330,
+         "cloud_cover": 5
+      },
+      "11/01/2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 87,
+         "rh_min": 37,
+         "wind_speed": 4,
+         "wind_direction": 280,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "tomato",
+      "cucurbits",
+      "onion",
+      "chilli",
+      "tuberose",
+      "poultry"
+   ],
+   "general_advisory": "Dry weather may prevail over the district of Khordha for the next five days. Ensure proper irrigation and monitoring for pests and diseases in crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for nursery area before transplanting to manage pests."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties to prevent red rot disease.",
+            "Soak setts in a recommended solution before planting."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use Neem Based Pesticide to control leaf miner.",
+            "Spray recommended pesticides during infestation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps to attract and kill Whitefly.",
+            "Spray neem-based pesticide during infestation."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Use recommended fungicides to control Downey mildew."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Ensure proper soil preparation and fertilization before transplanting onion seedlings."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray recommended pesticides for mite control."
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "Spray recommended fungicides to control leaf blight and stem rot.",
+            "Apply carbofuran to control root knot nematode."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house against cold wind during winter.",
+            "Provide mineral and calcium to laying birds."
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}

@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "11-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 7,
+         "wind_direction": 281,
+         "cloud_cover": 0
+      },
+      "12-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 338,
+         "cloud_cover": 0
+      },
+      "13-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 33,
+         "wind_speed": 7,
+         "wind_direction": 10,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "tomato",
+      "cucurbits",
+      "onion",
+      "chilli",
+      "tuberose",
+      "poultry"
+   ],
+   "general_advisory": "As per the forecast, dry weather may prevail over Kendrapara. Maintain saturated condition in the nursery bed, mulch vegetable seedlings, keep standing water in paddy nursery, provide irrigation to standing vegetables, use polythene cover for nursery, do proper field surveillance for pests and diseases, spray pesticides after 3 pm to protect honey bees.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply Cartap Hydrochloride or Chlorantraniliprole for gall midge, stem borer, caseworm, leaf folder, and root knot nematode"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties like CO-7219, CO-8371, etc., soak setts in a solution to prevent red rot disease"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spray Neem Based Pesticide or Profenophos for leaf miner control"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Use yellow sticky traps to control Whitefly, spray neem-based pesticide or Thiamethoxam for pest control"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spray Metalaxyl + Mancozeb or Fosetyl-AL to control Downy mildew"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Plant seedlings uniformly with compost, DAP, Potash, urea, and sulphur mix"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray Ethion or Spiromesifen for mite control"
+         ]
+      },
+      "tuberose": {
+         "advisory": [
+            "Spray Fenamidone + Mancozeb for leaf blight, carbendazim for stem rot, carbofuran for root knot nematode"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Insulate poultry house in winter, feed mineral and calcium to laying birds"
+         ]
+      }
+   },
+   "date": "10-01-2025"
+}
