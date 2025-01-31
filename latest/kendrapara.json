@@ -1,108 +1,112 @@
 {
    "weather_details": {
-      "18-01-2025": {
+      "29-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 85,
-         "rh_min": 36,
-         "wind_speed": 7,
-         "wind_direction": 281,
-         "cloud_cover": 10
-      },
-      "19-01-2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 83,
-         "rh_min": 37,
-         "wind_speed": 11,
-         "wind_direction": 338,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 50,
+         "wind_speed": 6,
+         "wind_direction": 259,
          "cloud_cover": 0
       },
-      "20-01-2025": {
+      "30-01-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 74,
-         "rh_min": 33,
-         "wind_speed": 7,
-         "wind_direction": 10,
-         "cloud_cover": 5
-      },
-      "21-01-2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 83,
-         "rh_min": 37,
-         "wind_speed": 11,
-         "wind_direction": 338,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 82,
+         "rh_min": 50,
+         "wind_speed": 9,
+         "wind_direction": 223,
          "cloud_cover": 0
       },
-      "22-01-2025": {
+      "31-01-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 11,
-         "rh_max": 74,
-         "rh_min": 33,
-         "wind_speed": 3,
-         "wind_direction": 10,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 49,
+         "wind_speed": 10,
+         "wind_direction": 223,
+         "cloud_cover": 0
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 95,
+         "rh_min": 54,
+         "wind_speed": 10,
+         "wind_direction": 217,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 94,
+         "rh_min": 46,
+         "wind_speed": 1,
+         "wind_direction": 213,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
+      "mustard",
       "groundnut",
-      "sugarcane",
-      "cowpea",
       "cole crops",
-      "coconut",
-      "banana",
+      "tomato",
+      "brinjal",
+      "rose",
       "pisciculture"
    ],
-   "general_advisory": "Farmers are advised to prepare nursery beds, treat seeds before sowing, mulch seedlings, provide irrigation, use herbicides, and follow specific crop stage advisories.",
+   "general_advisory": "Farmers are advised to irrigate their fields due to mild dry conditions. Various crop-specific management practices are recommended as per the advisory provided.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Basal Fertilizer Application: Apply DAP, MOP, and Urea as per soil type and seedling age for high yield."
+            "To manage stem borer in paddy, use Trichogrammajaponicum card and pheromone traps.",
+            "Rice seedling treatment with Chloropyriphos and granular insecticides.",
+            "Foot rot disease management in paddy with specific sprays."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Management of pest infestation like Aphid and Painted Bug.",
+            "Chemical sprays recommended for pest control."
          ]
       },
       "groundnut": {
          "advisory": [
-            "White grab: Minimize infestation by drenching Chloropyriphos or Imidacloprid at the plant base."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Planting stage: Apply DAP, MOP, and FYM at planting time, top dress with Urea at intervals, avoid late Urea application."
-         ]
-      },
-      "cowpea": {
-         "advisory": [
-            "Hairy caterpillar: Control by spraying specific insecticides as needed."
+            "Stem rot management with specific soil drenching."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Dimond Back Moth and Head Borer management: Monitor and destroy pests, use Neem based pesticides or chemical sprays."
+            "Management of Diamond Back Moth and Head Borer infestation in Cauliflower and Cabbage crops.",
+            "Specific pesticide sprays recommended for pest control."
          ]
       },
-      "coconut": {
+      "tomato": {
          "advisory": [
-            "To control red palm weevil: Apply specific pesticide in stem holes."
+            "Control of Aphid infestation with specific sprays."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "To control sigatoka leaf spot: Spray specified fungicides as preventive measure."
+            "Management of Epilachna Beetle infestation through manual collection and specific pesticide sprays."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Thrips control in rose through specific sprays."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Prevent EUS (Epizootic ulcerative syndrome) by applying 'Cifax' as a preventive measure."
+            "Maintain water depth for fish hibernation."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

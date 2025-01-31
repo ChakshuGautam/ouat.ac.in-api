@@ -1,0 +1,95 @@
+{
+   "weather_details": {
+      "11/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 5,
+         "wind_direction": 297,
+         "cloud_cover": 0
+      },
+      "18/01/2025": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 39,
+         "wind_speed": 10,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      },
+      "22/01/2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 42,
+         "wind_speed": 6,
+         "wind_direction": 325,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to prepare nursery beds, treat paddy seeds, mulch vegetable seedlings, provide light irrigation, maintain soil conditions, and use appropriate herbicides. Specific advisory for various crops is provided below.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply basal fertilizer during transplanting",
+            "Transplant seedlings at specific spacing"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Control white grub infestation",
+            "Control stem rot using specific treatments"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Apply specific fertilizers at planting stage",
+            "Top dress with urea at specified intervals"
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Control hairy caterpillar infestation",
+            "Manage cercospora leaf spot"
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Manage Diamond Back Moth and Head Borer infestation",
+            "Use Neem-based pesticide or specific chemicals for control"
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Control red palm weevil infestation",
+            "Disinfect compost yard to prevent rhinoceros beetle"
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Control sigatoka leaf spot using specified sprays"
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Prevent 'EUS' syndrome in winter with specific treatment",
+            "Feed fishes with oil cake bran mixture"
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

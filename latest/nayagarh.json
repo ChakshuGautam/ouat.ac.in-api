@@ -53,22 +53,24 @@
    },
    "names_of_crops": [
       "rice",
-      "red gram/arhar",
+      "pigeon pea",
       "brinjal",
+      "menacinakahi",
       "chilli",
       "mushroom",
-      "poultry"
+      "chicken"
    ],
-   "general_advisory": "Dry weather is likely to prevail in the district. As per IMD forecast, no rainfall is expected for next 5 days and the weather will be sunny and dry. Maximum temperature will vary from 31°C-32°C and minimum temperature will vary from 19°C to 20°C. The range of maximum humidity may remain 84%-93% and minimum humidity may remain 40%-48%. Cloud cover will be 2-3 octa. Wind speed may vary within 3 kmph.",
+   "general_advisory": "Dry weather is likely to prevail in the district.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If medium duration variety of rice is in milking stage then keep standing water upto 3-4 inches. If short duration rice varieties have attained 85% physiological maturity, then harvest it.",
+            "If medium duration variety of rice is in milking stage then keep standing water upto 3-4 inches.",
+            "If short duration rice varieties have attained 85% physiological maturity, then harvest it.",
             "In order to control sheath blight in rice, spray Validamycin @ 400 ml or (Trifloxistrobin + Tebuconazole) @ 80 g in 200 litres of water per acre of land.",
             "In order to control green leaf hopper in rice, spray Thiamethoxam @ 100 g in 200 litres of water per acre of land."
          ]
       },
-      "red gram/arhar": {
+      "pigeon pea": {
          "advisory": [
             "Pod borer in pigeon pea cultivation has been noticed in some places. Spray Chlorantraniliprole @ 80 ml in 200 litres of water per acre of land to control it."
          ]
@@ -77,6 +79,11 @@
          "advisory": [
             "Wilting has been noticed in brinjal. Soil drench with Copper oxychloride 50 WP @ 2 gm + Streptocyclin @ 0.1 gm per liter of water to control it.",
             "Fruit rot disease in brinjal crop has been noticed. Foliar spray with Thiophenate methyl @ 300 g in 200 litre of water per acre of land."
+         ]
+      },
+      "menacinakahi": {
+         "advisory": [
+            "Thrips and mites are noticed in chilli. Foliar spray with Propar gite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
          ]
       },
       "chilli": {
@@ -89,7 +96,7 @@
             "If flies or its larva are seen in mushroom bed, spray 1-1.5 ml Dichlorovos or 1.5-2 ml Malathion in 1 litre of water around the mushroom bed/bag and close the mushroom shed for one day."
          ]
       },
-      "poultry": {
+      "chicken": {
          "advisory": [
             "Deworming of chicks should be done once in every 2-3 months."
          ]

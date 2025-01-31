@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 281,
+         "cloud_cover": 4
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 83,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 327,
+         "cloud_cover": 4
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 81,
+         "rh_min": 38,
+         "wind_speed": 9,
+         "wind_direction": 12,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to prepare nursery beds, treat paddy seeds, mulch vegetable seedlings, irrigate standing crops, use herbicides, and follow specific crop stage advisories.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply basal fertilizer during last puddling",
+            "Transplant seedlings at proper spacing"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Minimize white grab infestation",
+            "Control stem rot"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Apply fertilizer at planting stage",
+            "Top dress with Urea at specific intervals"
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Control hairy caterpillar infestation"
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Manage infestation of Dimond Back Moth and Head Borer"
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Control red palm weevil infestation",
+            "Clean and disinfect coconut garden"
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Control sigatoka leaf spot"
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Prevent Epizootic ulcerative syndrome",
+            "Feed fishes oil cake bran mixture"
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

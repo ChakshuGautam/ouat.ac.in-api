@@ -1,149 +1,139 @@
 {
    "weather_details": {
-      "18-01-2025": {
+      "29-01-2025": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 13,
-         "rh_max": 60,
-         "rh_min": 26,
-         "wind_speed": 3,
-         "wind_direction": 264,
-         "cloud_cover": 3
-      },
-      "19-01-2025": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 13,
-         "rh_max": 53,
-         "rh_min": 25,
-         "wind_speed": 3,
-         "wind_direction": 304,
-         "cloud_cover": 3
-      },
-      "20-01-2025": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 57,
-         "rh_min": 28,
-         "wind_speed": 2,
-         "wind_direction": 321,
-         "cloud_cover": 2
-      },
-      "21-01-2025": {
-         "rainfall": 0,
-         "t_max": 27,
+         "t_max": 32,
          "t_min": 14,
-         "rh_max": 54,
-         "rh_min": 28,
-         "wind_speed": 2,
-         "wind_direction": 353,
-         "cloud_cover": 2
-      },
-      "22-01-2025": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 52,
-         "rh_min": 29,
+         "rh_max": 50,
+         "rh_min": 19,
          "wind_speed": 1,
-         "wind_direction": 382,
+         "wind_direction": 214,
+         "cloud_cover": 1
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 55,
+         "rh_min": 22,
+         "wind_speed": 4,
+         "wind_direction": 221,
          "cloud_cover": 2
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 56,
+         "rh_min": 21,
+         "wind_speed": 5,
+         "wind_direction": 234,
+         "cloud_cover": 2
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 50,
+         "rh_min": 22,
+         "wind_speed": 5,
+         "wind_direction": 231,
+         "cloud_cover": 2
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 45,
+         "rh_min": 21,
+         "wind_speed": 5,
+         "wind_direction": 231,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "paddy",
-      "arhar",
+      "chickpea",
       "greengram/blackgram",
-      "groundnut",
       "mustard",
       "sunflower",
       "onion",
-      "cauliflower & cabbage",
       "tomato",
       "chilli",
+      "rose",
+      "merigold",
       "cattle & buffalo",
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "Keep your crop field free from weed to minimize the incidence of diseases and pests. Apply balanced and appropriate fertilizers according to crop’s growth stage. Regular monitoring of the crop for incidence of pest and diseases should be done. Always apply recommended dose of pesticide in correct method. Install yellow sticky trap in vegetables at vegetative stage.",
+   "general_advisory": "Make arrangement for supplemental irrigation in standing crops like Groundnut, Sunflower, Chick pea, Maize, Green gram etc., wherever it is required. Farmers are advised to install 'T' shaped bird perches in and around crop field like Chickpea, Green gram, Groundnut and vegetables for controlling insect population. Install pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Install yellow sticky trap @ 8 /acre to monitor sucking pest like White fly, Aphids, Jassids & blue sticky trap for Thirps in vegetables at vegetative stage. Always apply recommended dose of fertilizers according to the soil test report and recommended dose of pesticide in correct method during morning or evening hours and pay attention to the wind direction during application. To control wilting in chick pea, spray Carbendazim 50% WP @ 400g/ac mixed with 200 liters of water.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Weed Management: Apply herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field."
+            "Weed Management: Apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 % WP @ 100 g at 8-10 days after transplanting or spray Bispyribac sodium 10% SC @ 120 ml at 15-20 DAT mixed with 200 liters of water.",
+            "Pest Management: Install 3 pheromone traps/acre to monitor pest population of stem borer and leaf folder soon after transplanting. If infestation of blast is noticed, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 6g or Isoprothiolane 40 EC @ 25 ml or Carbendazim 50% WP @ 25g or Hexaconazole 5% EC @ 15ml by mixing with 15 liters of water. Repeat the spray at 7-10 days’ interval."
          ]
       },
-      "arhar": {
+      "chickpea": {
          "advisory": [
-            "Harvest when 2/3rd to 3/4th of the pods have changed to brown color.",
-            "Leave harvested plant in field for sun drying for 3-5 days.",
-            "Thresh clean seed by beating pods or using Pullman thresher.",
-            "Sun dry clean seed to moisture content of 9-10% for safe storage."
+            "Pest Management: Powdery mildew: Prevailing weather condition favours the development of powdery mildew disease. To control spray, Sulphur 80% WP @ 800 g/ac or Propiconazole 25% EC @ 200ml/ac mixed with 200 liters of water. Stem rot/Root rot/Wilting: Prevailing weather condition favours the development of fungal disease like collar rot, root rot, stem rot and wilting. If symptom is noticed spray Carbendazim 50% WP @ 400g/ac or Validamycin 3% L @ 400 ml/ac mixed with 200 liters of water."
          ]
       },
       "greengram/blackgram": {
          "advisory": [
-            "Weed Management: Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre at 20-25 DAS.",
-            "Pest Management: Spray Profenophos 50 EC for leaf eating caterpillar control."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Pest Management: Apply Chlorothalonil 75% WP or Hexaconazole 5% EC or Mancozeb 75% WP mixed with water for Tikka control."
+            "Pest Management: Leaf eating caterpillar: The insects usually feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control. Aphid and Whitefly: Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly. Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation. For chemical control, spray Imidacloprid 17.8% SL @ 4ml or Thiamethoxam 25% WG @ 3g or Chlorpyriphos 20% EC @ 35 ml by mixing with 15 liters of water. Powdery mildew: Infestation powdery mildew may notice in prevailing weather condition. To, control spray wettable Sulphur @ 60 g mixed with 15 liters of water."
          ]
       },
       "mustard": {
          "advisory": [
-            "Pest Management: Apply Metalaxyl M 4% + Mancozeb 64% WP or Copper Oxychloride 50% WP when White Rust symptoms appear."
+            "Pest Management: White rust: In prevailing weather condition (Foggy), infestation of white rust can be seen. Apply Metalaxyl M 4% + Mancozeb 64% WP @ 25g or Copper Oxychloride 50% WP @ 30g mixed with 10 liters of water when symptom is noticed."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Sucking pest complex control: Spray Acetamiprid 20% SP or Imidacloprid 17.8% SL mixed with water for control.",
-            "Powdery Mildew: Spray wettable sulphur @ 2g /ltr of water."
+            "Pest Management: Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favours the development of sucking pests. Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended. Powdery mildew: Spray 0.2% wettable sulphur @ 2g/ltr of water. Capitulum Borer: Spray Bacillus thuringiensis var kurstaki 5% WP @ 1.5 g/ltr of water. Head Rot: Spray 0.4% Copper oxychloride 50% WP @ 3g/ltr of water."
          ]
       },
       "onion": {
          "advisory": [
-            "Irrigate crop at regular intervals.",
-            "Undertake hoeing, weeding and apply 45 kg urea/acre followed by irrigation."
-         ]
-      },
-      "cauliflower & cabbage": {
-         "advisory": [
-            "Nutrient Management: Apply 27 kg urea + 25kg MOP at six-to-seven-week stage followed by irrigation.",
-            "Pest Management: Spray Fipronil 5% SC or Chlorpyriphos 20% EC or Thiamethoxam 25% WG for pest control."
+            "Nutrient Management: After hoeing and weeding, apply 45kg Urea as first top dressing at 4-week stage followed by irrigation. After hoeing and weeding, apply 23kg Urea as second top dressing at 6 to 7-week stage followed by irrigation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Nutrient Management: Apply 27 kg urea at six-week stage followed by irrigation.",
-            "Pest Management: Spray Mancozeb 75% WP for Wilting control."
+            "Pest Management: Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population. For chemical control, spray Flubendiamide 39.35% SC @ 3 ml Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% ZC @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water. Leaf curling/White fly : Leaf curling may notice due to white fly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Pest Management: Apply Ethion 50% EC or Propargite 57 % EC mixed with water to control Mite infestation."
+            "Pest Management: Mite : Stunted growth with downward curling and crinkling of leaves are seen in mite infested chili plants. Apply Ethion 50% EC or Propargite 57% EC @ 600 -ml/acre mixed with 200 liters of water to control mite infestation."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Black spot: To control black spot disease in Rose spray Copper Oxy-chloride 50% WP @ 3g/ltr of water."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "Inflorescence rot: To control inflorescence rotting in Merigold spray Mancozeb 75% WP @ 2g or Carbendazim 50% WP @ 1g by mixing with one liter of water."
          ]
       },
       "cattle & buffalo": {
          "advisory": [
-            "Increase concentrate in feed gradually before two months prior to calving to increase milk production."
+            "As there is lesser heat and humidity in the air, there is lesser chance of cattle and buffalo falling sick. So, farmers must take care to make up the loss in the body condition score during lactation phase. It is advised to increase the amount of concentrate in the feed gradually before two months prior to calving. It also helps to increase milk production in the coming lactation."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Prevent animals from chill wind and floor to avoid sickness.",
-            "Contact veterinarians if running nose and persistent cough are noticed."
+            "As goats are more affected by cold, so goat farmers are advised to prevent their animals from chill wind and floor. If they identify their goats having running nose and persistent cough, veterinarians must be contacted quickly."
          ]
       },
       "poultry": {
          "advisory": [
-            "Prevent poultry birds from severe chill wind and cold floor.",
-            "Cover poultry house with thick polythene sheet to protect from cold wind.",
-            "Remove covering after 9 a.m. to allow sunlight."
+            "It is advisable to prevent the poultry birds from severe chill wind and cold floor to check their mortality. Farmers must cover the poultry house by thick polythene sheet to protect their birds from cold wind and remove them after 9 a.m in the morning to allow sunlight in the shed. Farmers must also be careful regarding litter material on the floor as this helps keeping the birds warm and also aids in nutrient recycling."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

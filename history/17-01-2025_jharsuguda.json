@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 65,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 45,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 58,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 33,
+         "cloud_cover": 2
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 63,
+         "rh_min": 25,
+         "wind_speed": 8,
+         "wind_direction": 32,
+         "cloud_cover": 3
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 58,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 33,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 63,
+         "rh_min": 25,
+         "wind_speed": 8,
+         "wind_direction": 32,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week -1 (17th to 23rd January, 2025) and week -2 (24th to 30th January, 2025). Farmers are advised to protect crops and animals from cold conditions. Proper measures should be taken to maintain soil temperature, provide light irrigation, and avoid vaccination during foggy days and cold waves. Livestock should be sheltered and fed appropriately to maintain body temperature.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP @ 80 g/acre at 3-5 days after sowing (DAS) or Bispyribac sodium @ 120 ml/acre at 10-12 DAS (or at 2-3 leaf stage of weeds) in 140 litres of water.",
+            "If infestation of seedling blight is noticed, spray Carbendazim @ 400 g/acre or Propiconazole @ 200 g/acre in 200 litres of water.",
+            "Transplanting of 3-5 week old seedlings should be advised in well puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Regular monitoring against Aphid attack is advised.",
+            "Spraying of Acetamiprid @ 125g per 500 liters of water per hectare or Imidachloprid @ 0.5 ml per liter of water should be advised under dry weather conditions.",
+            "Insecticide application should be avoided at initial flowering stage."
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug.",
+            "Training and pruning of diseased and unwanted branches and leaves should be advised.",
+            "Straw can be used as mulching material to maintain soil moisture as well as temperature in field during winter season.",
+            "Harvesting of matured crops as well as one light irrigation in crops which are in vegetative growth stage should be advised because dry weather is expected in the upcoming week."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover the animal shelter from all sides during the night to avoid direct exposure of animals to cold winds including dry straw as animal bedding.",
+            "Weak and sick animals should be covered with sack cloth to protect them from the cold.",
+            "Avoid keeping animals in a damp area and protect them from smoke from fires which are lit to provide warmth.",
+            "To maintain the body temperature of animals, they should be fed with a mixture of oil cakes and jaggery including covering of the body during cold hours. Pregnant animals (>6 months) should be given additional feed."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

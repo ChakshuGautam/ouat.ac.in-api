@@ -1,69 +1,107 @@
 {
    "weather_details": {
-      "17/01/2025": {
+      "22/01/2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 12,
-         "rh_max": 87,
-         "rh_min": 36,
-         "wind_speed": 5,
-         "wind_direction": 330,
-         "cloud_cover": 5
+         "t_max": 18,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 48,
+         "wind_speed": 7,
+         "wind_direction": 209,
+         "cloud_cover": 0
+      },
+      "23/01/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 89,
+         "rh_min": 50,
+         "wind_speed": 12,
+         "wind_direction": 208,
+         "cloud_cover": 0
+      },
+      "24/01/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 89,
+         "rh_min": 47,
+         "wind_speed": 8,
+         "wind_direction": 218,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
       "groundnut",
-      "sugarcane",
-      "cowpea",
+      "mustard",
+      "black gram",
+      "green gram",
+      "potato",
       "cole crops",
-      "coconut",
-      "banana",
+      "tomato",
+      "brinjal",
+      "rose",
       "pisciculture"
    ],
-   "general_advisory": "Farmers are advised to prepare nursery bed and treat the paddy seeds before sowing. Mulching vegetable seedlings is recommended to avoid cold injury. Light irrigation is advised for standing vegetables and crops due to prevailing low temperature.",
+   "general_advisory": "As per the forecast received from IMD, dry weather may prevail over the district of Khordha. Farmers are advised to irrigate their fields as there is a mildly dry condition. Various crop-specific advisory information is provided in the advisory section.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Basal Fertilizer Application: Apply DAP, MOP, and Urea during last puddling. Zinc supplementation recommended for deficient soil. Transplant seedlings at proper spacing."
+            "To manage stem borer in paddy at an early stage, use Trichogrammajaponicum card weekly for 6 times.",
+            "Apply various chemical pesticides for stem borer control."
          ]
       },
       "groundnut": {
          "advisory": [
-            "White grab infestation control: Use Chloropyriphous or Imidacloprid to minimize infestation.",
-            "Stem rot control: Drench the soil with Validamycin or Captan + Hexaconazole to control stem rot."
+            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
          ]
       },
-      "sugarcane": {
+      "mustard": {
          "advisory": [
-            "Planting stage: Apply DAP, MOP, and FYM at planting. Top dressing with Urea at specific intervals. Avoid late Urea application to prevent delayed maturity."
+            "To manage Aphid and Painted Bug, spray Neem Based Pesticide or various chemical sprays."
          ]
       },
-      "cowpea": {
+      "black gram": {
          "advisory": [
-            "Hairy caterpillar control: Spray flubendiamide to control infestation. Difenoconazole or carbendazim for leaf spot control."
+            "To manage powdery mildew, spray Sulphur or various fungicides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew, spray Sulphur or various fungicides."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To manage Early Blight disease, spray Mancozeb or Carbendazim."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Dimond Back Moth and Head Borer management: Collect and destroy caterpillars and eggs. Use Neem-based or chemical pesticides for pest management."
+            "To manage Diamond Back Moth and Head Borer, collect caterpillars and eggs, spray Neem based pesticide or various chemical sprays."
          ]
       },
-      "coconut": {
+      "tomato": {
          "advisory": [
-            "Red palm weevil infestation control: Apply carbendazim in stem holes. Clean and disinfect compost yard to control rhinoceros beetle."
+            "To control Aphid, spray neem oil formulation."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "Sigatoka leaf spot control: Spray carbendazim or chlorothalonil to control the leaf spot."
+            "To manage Epilachna Beetle, shake plants, destroy insects, spray neem-based pesticide or various insecticides."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips, spray Fenpyroximate or Abamactin."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Preventive measures for EUS: Apply Cifax in pond water as prevention. Feed fishes oil cake bran mixture daily."
+            "Maintain water depth for fish hibernation in colder temperatures."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

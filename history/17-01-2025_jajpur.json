@@ -1,0 +1,139 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 85,
+         "rh_min": 31,
+         "wind_speed": 4,
+         "wind_direction": 290,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 339,
+         "cloud_cover": 2
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 5,
+         "wind_direction": 9,
+         "cloud_cover": 3
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 339,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 5,
+         "wind_direction": 9,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "summer rice",
+      "kharif rice",
+      "blackgram",
+      "greengram",
+      "rapeseed",
+      "mustard",
+      "tomato",
+      "brinjal",
+      "banana",
+      "cattle"
+   ],
+   "general_advisory": "Weather condition is favourable for aphid attack and Leaf spot incidence in mustard crop so its regular monitoring should be advised. To prevent damage from fog, low temperature and moisture stress, provide light irrigation to standing crops & vegetables during morning hours.",
+   "crops_data": {
+      "summer rice": {
+         "advisory": [
+            "For optimum growth & Vigor of seedling, apply plant growth promoting substances like humic acid & sea weed extract @1ml/litre of water.",
+            "Nursery treatment with Fipronil 0.3 G @100g/1 cent nursery area 7days before transplanting to reduce infestation level of stem borer."
+         ]
+      },
+      "kharif rice": {
+         "advisory": [
+            "Rice grains must be dried under sun for 3 -4 days to 14% moisture for consumption and 12% moisture for seed purpose.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li . of water to minimize the chance of future infestation of storage pest."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "After harvesting of paddy, it is ideal time for land preparation for sowing pulses like green gram, black gram.",
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram )@2gm/kg of seed before 7 days.",
+            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
+            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "After harvesting of paddy, it is ideal time for land preparation for sowing pulses like green gram, black gram.",
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram )@2gm/kg of seed before 7 days.",
+            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
+            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+         ]
+      },
+      "rapeseed": {
+         "advisory": [
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre. Irrigate the field if soil moisture stress is observed.",
+            "To manage leaf Webber, Aphid and Sawfly pests at early stage of infestation spray Neem -based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200 -litre of water. After 7 -10 days need based spraying of Acephate @300g/acre is recommended."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre. Irrigate the field if soil moisture stress is observed.",
+            "To manage leaf Webber, Aphid and Sawfly pests at early stage of infestation spray Neem -based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200 -litre of water. After 7 -10 days need based spraying of Acephate @300g/acre is recommended."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
+            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thirps and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/li Of water.",
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/ liter of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
+            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thirps and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/li Of water.",
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/ liter of water."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Apply (Carbendazim + Mancozeb) @ 2g/liter of water to reduce the incidence of Sigatoka leaf spot disease in banana."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "The large ventilation spaces in shed must be closed in night, as the night temperature is falling.",
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

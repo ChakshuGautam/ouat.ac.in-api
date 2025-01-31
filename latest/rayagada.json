@@ -1,78 +1,78 @@
 {
    "weather_details": {
-      "2025-01-04": {
+      "2025-01-22": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 12,
-         "rh_max": 64,
-         "rh_min": 25,
-         "wind_speed": 3,
-         "wind_direction": 334,
-         "cloud_cover": 3
-      },
-      "2025-01-05": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 12,
-         "rh_max": 70,
-         "rh_min": 29,
+         "t_min": 13,
+         "rh_max": 65,
+         "rh_min": 14,
          "wind_speed": 2,
-         "wind_direction": 338,
+         "wind_direction": 329,
          "cloud_cover": 3
       },
-      "2025-01-06": {
+      "2025-01-23": {
          "rainfall": 0,
          "t_max": 29,
          "t_min": 13,
-         "rh_max": 87,
-         "rh_min": 27,
+         "rh_max": 74,
+         "rh_min": 15,
          "wind_speed": 1,
-         "wind_direction": 45,
+         "wind_direction": 225,
          "cloud_cover": 2
       },
-      "2025-01-07": {
+      "2025-01-24": {
          "rainfall": 0,
          "t_max": 29,
-         "t_min": 13,
-         "rh_max": 90,
-         "rh_min": 31,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 17,
          "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 1
+         "wind_direction": 243,
+         "cloud_cover": 2
       },
-      "2025-01-08": {
+      "2025-01-25": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 71,
+         "rh_min": 18,
+         "wind_speed": 1,
+         "wind_direction": 297,
+         "cloud_cover": 2
+      },
+      "2025-01-26": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 14,
-         "rh_max": 87,
-         "rh_min": 28,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 3
+         "rh_max": 59,
+         "rh_min": 15,
+         "wind_speed": 2,
+         "wind_direction": 329,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
+      "pigeon pea",
       "maize",
-      "onion",
-      "cow"
+      "banana"
    ],
-   "general_advisory": "Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition.",
+   "general_advisory": "To manage thrips infestation install Blue sticky trap @ 8 nos./acre.For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL  0.35 ml/lit of water . Provide light irrigation to standing vegetables and crops during morning hours to prevent damage from fog, low temperature and moisture stress.",
    "crops_data": {
+      "pigeon pea": {
+         "advisory": [
+            "Infestation of leaf webber has been noticed. To control leaf webber spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water . Complete the manual weeding operation or spray Imazethapyr 10% SL  @ 1.5ml/lit with MSO adjuvant @ 2ml/lit of water to control chemically at 20-25 DAS. To prevent sucking pests like aphids and thrips, neem-based pesticide (1500 ppm) may be sprayed @ 3ml/ lit of water."
+         ]
+      },
       "maize": {
          "advisory": [
             "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water."
          ]
       },
-      "onion": {
+      "banana": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed."
+            "To manage stem weevil, install Cosmolure pheromone traps @ 10/acre in banana garden. Dip the banana stem in warm water for 30 minutes before planting. Fill the pit with 25 g neem pedia or 25-50 g any granular insecticide before planting. Cut the affected plant into pieces and dry under sun. Keep the banana garden neat and clean."
          ]
       }
    },
-   "date": "03-01-2025"
+   "date": "21-01-2025"
 }

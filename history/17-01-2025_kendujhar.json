@@ -1,0 +1,134 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 74,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 293,
+         "cloud_cover": 2
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 77,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 74,
+         "rh_min": 28,
+         "wind_speed": 4,
+         "wind_direction": 5,
+         "cloud_cover": 2
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 77,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 28,
+         "wind_speed": 4,
+         "wind_direction": 5,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "chickpea",
+      "mustard",
+      "toria",
+      "linseed",
+      "paddy",
+      "brinjal",
+      "potato",
+      "chilli",
+      "tomato",
+      "chrysanthemum"
+   ],
+   "general_advisory": "To minimise the cold wave effect or chilling injury, light and frequent irrigation through sprinkler can be provided. Aphids and other sucking pest incidences will increase on the crop. Regularly have a watch and spray pesticides as per requirement. Cover the small crops with polythene during the night hours.",
+   "crops_data": {
+      "chickpea": {
+         "advisory": [
+            "Irrigate the field if soil is getting dry.",
+            "Remove weeds from the field and keep it clean.",
+            "Cutworm infestation may be seen in the field. Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Remove weeds and monitor the field for any pests and diseases.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "Remove weeds and monitor the field for any pests and diseases.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "Powdery mildew in linseed can be reduced by spraying wettable sulphur @ 3% or Karathane @ 2g/lt."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Use Fumigant tablets (Aluminium Phosphide) in the storage room and close it from all the directions.",
+            "For storing paddy at home, use celphos tablets/ powder packets in the drums."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Provide irrigation to the crop.",
+            "Remove damaged branches and leaves from the plants.",
+            "Harvest the matured brinjal fruits and sell them at good prices.",
+            "For managing Fruit and shoot borer, spray Emamectin benzoate 4% SG @ 4g/10lt."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Provide light irrigation to the crop.",
+            "Keep the root zone clean and remove weeds.",
+            "If wilting is seen in the field, drench Blitox - 50 @ 45g + Steptocycline @ 2g in 10lts of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Little leaf in Chilli can be seen the field. If that happens spray Dimethoate @ 2 ml/lt.",
+            "Aphids and Jassids infestation may be seen in the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To minimise the infestation of aphids and jassids in tomato crop, spray dimethoate or Imidachloprid @ 1 ml/lt.",
+            "Fruit and shoot borer in tomato plants can be managed by spraying Flubendiamide 20 WG @ 2g/10lt or Emamectin benzoate 4%SG @ 4 g/10lt of water."
+         ]
+      },
+      "chrysanthemum": {
+         "advisory": [
+            "Provide light irrigation to the flowering plants.",
+            "Powdery mildew in Chrysanthemum can be managed by spraying Carbendazim @ 1g/lt.",
+            "Wilting symptoms like withered plants or infected parts should be removed and destroyed away from the plants."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

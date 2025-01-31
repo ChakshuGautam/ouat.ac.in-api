@@ -1,119 +1,125 @@
 {
    "weather_details": {
-      "18-01-2025": {
+      "29-01-2025": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 12,
-         "rh_max": 65,
-         "rh_min": 26,
-         "wind_speed": 3,
-         "wind_direction": 207,
-         "cloud_cover": 3
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 64,
+         "rh_min": 22,
+         "wind_speed": 6,
+         "wind_direction": 202,
+         "cloud_cover": 1
       },
-      "19-01-2025": {
+      "30-01-2025": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 12,
-         "rh_max": 59,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 71,
          "rh_min": 26,
-         "wind_speed": 1,
-         "wind_direction": 34,
-         "cloud_cover": 3
+         "wind_speed": 8,
+         "wind_direction": 221,
+         "cloud_cover": 1
       },
-      "20-01-2025": {
+      "31-01-2025": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 12,
-         "rh_max": 58,
-         "rh_min": 27,
-         "wind_speed": 3,
-         "wind_direction": 34,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 63,
+         "rh_min": 23,
+         "wind_speed": 8,
+         "wind_direction": 218,
          "cloud_cover": 2
       },
-      "21-01-2025": {
+      "01-02-2025": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 13,
+         "t_max": 31,
+         "t_min": 14,
          "rh_max": 65,
-         "rh_min": 26,
-         "wind_speed": 3,
-         "wind_direction": 207,
+         "rh_min": 21,
+         "wind_speed": 8,
+         "wind_direction": 215,
          "cloud_cover": 3
       },
-      "22-01-2025": {
+      "02-02-2025": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 13,
-         "rh_max": 59,
-         "rh_min": 26,
-         "wind_speed": 1,
-         "wind_direction": 34,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 61,
+         "rh_min": 21,
+         "wind_speed": 9,
+         "wind_direction": 213,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rice",
       "groundnut",
-      "arhar",
-      "greengram/blackgram",
-      "pea",
-      "cauliflower/cabbage/broccoli",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
       "chilli",
       "tomato",
-      "mushroom"
+      "turmeric"
    ],
-   "general_advisory": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop fields as per requirement. Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap @ 8/acre to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetables at vegetative stage. Rouging of viral infested plant should be done in vegetables. Infected plants should be uprooted and buried in the soil. After rouging, if infection is more, then spraying of Imidacloprid @ 1 ml per 3 -4 litres of water is advised to control the vector. Use pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Complete the sowing of pre-germinated treated seeds in puddled soil by broadcasting or drum seeder and maintain a thin film of water for proper establishment and early growth of seedlings.",
-            "Nutrient Management: Apply 44 kg of DAP and 33 kg of MOP per acre as basal dose at the time of puddling.",
-            "Weed Management: Spray Pyrazosulfuron-ethyl 10%WP (Sathi) @ 80g/acre at 3-5 days after sowing (DAS) in 130 litres of water when there is a thin film of soil moisture or broadcast ready mix Bensulfuron methyl + Pretilachlor granular herbicide mixed with 4kg of sand."
+            "Weed management: For one acre area, apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3 -5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10% WP @ 100 g at 8 -10 days after transplanting or spray Bispyribac sodium10% SC @ 120 ml at 15 -20 DAT mixed with 200 liters of water.",
+            "Pest management: Install 3 pheromone traps/acre to monitor pest population of stem borer and leaf folder soon after transplanting."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Pest Management: Prevailing weather condition favours the development of sucking pest like aphid, jassids and whitefly. Install yellow sticky trap @ 8nos/acre to monitor the pest population. Apply Neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
+            "Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
          ]
       },
-      "arhar": {
+      "mustard": {
          "advisory": [
-            "Arhar is at pod filling stage and chances of pod borer infestation in the field, to control it spray Chlorpyriphos 20 % EC @ 2 ml/litre of water or Profenophos 50 % EC @ 2 ml/litre of water."
+            "White rust: In prevailing weather condition (Foggy), infestation of white rust can be seen. Apply Metalaxyl M 4% + Mancozeb 64% WP @ 25g or Copper Oxychloride 50% WP @ 30g mixed with 10 liters of water when symptom is noticed."
          ]
       },
-      "greengram/blackgram": {
+      "cauliflower": {
          "advisory": [
-            "Weed Management: Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20 -25 DAS.",
-            "Pest Management: Leaf eating caterpillar: The insects usually feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control. Aphid and Whitefly: Prevailing weather condition is favorable for the incidence of sucking pest like aphid and whitefly. Install yellow sticky traps @ 8nos/acre at the vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at the initial stage of infestation."
+            "Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population.",
+            "Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as control measure."
          ]
       },
-      "pea": {
+      "cabbage": {
          "advisory": [
-            "Complete the sowing of Green pea in the fallow lands. High yielding varieties suitable for Odisha such as Pravat, Uttara, and T-163. Use 30 kg seeds/acre with a spacing of 30 x 10 cm.",
-            "Before sowing seeds are to be treated with Vitavax Power @ 2.5 g/kg seeds. Apply 30:50:50 kg N-P2O5-K2O per hectare during final land preparation."
+            "Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population.",
+            "Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as control measure."
          ]
       },
-      "cauliflower/cabbage/broccoli": {
+      "broccoli": {
          "advisory": [
-            "Nutrient Management: At the three-week stage, undertake hoeing, weeding and apply Urea @ 55kg/ac followed by irrigation. Go for hoeing, weeding and apply 27 kg urea + 25kg MOP at six-to-seven-week stage followed by irrigation.",
-            "Pest Management: Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as a control measure. Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population. Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as a control measure."
+            "Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population.",
+            "Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water as control measure."
          ]
       },
       "chilli": {
          "advisory": [
-            "Pest Management: Thrips: Prevailing weather condition is favorable for thrips attack. Install Blue Sticky Trap @ 8nos/acre to control and monitor pest population. Apply neem-based pesticide Azadiractin 1500 ppm @ 3ml/liter of water at the initial stage of infestation. To control chemically apply 3 g Acetamiprid 15% SP or 4 ml Imidacloprid 17.8% SL mixed with 15 liters of water."
+            "Mite: Stunted growth with downward curling and crinkling of leaves are seen in mite infested chili plants. Apply Ethion 50 % EC or Propargite 57 % EC @ 600 -ml/acre mixed with 200 liters of water to control mite infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Pest Management: Wilting: In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if the symptom is noticed. Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population."
+            "Leaf curling/White fly: Leaf curling may notice due to white fly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15ml mixed with 15 liters of water."
          ]
       },
-      "mushroom": {
+      "turmeric": {
          "advisory": [
-            "For Oyster mushroom cultivation use Niger sticks as a substrate."
+            "Depending on the variety, turmeric is ready for harvesting after 270 days.",
+            "Early varieties mature after 7 -8 months, medium varieties after 8 -9 months and late varieties after 9 months.",
+            "Turmeric is ready for harvesting when the leaves turn yellow.",
+            "Plough the land and collect turmeric by hand, or remove the turmeric stalks from the soil with the help of a spade.",
+            "Clean the harvested turmeric from soil and other foreign matter."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

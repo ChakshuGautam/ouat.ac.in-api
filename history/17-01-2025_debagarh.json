@@ -1,0 +1,116 @@
+{
+   "weather_details": {
+      "18/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 3
+      },
+      "19/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 63,
+         "rh_min": 23,
+         "wind_speed": 4,
+         "wind_direction": 354,
+         "cloud_cover": 4
+      },
+      "20/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 68,
+         "rh_min": 21,
+         "wind_speed": 4,
+         "wind_direction": 354,
+         "cloud_cover": 4
+      },
+      "21/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 27,
+         "cloud_cover": 3
+      },
+      "22/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 63,
+         "rh_min": 23,
+         "wind_speed": 4,
+         "wind_direction": 354,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rabi paddy",
+      "wheat",
+      "summer maize",
+      "rabi sunflower",
+      "potato",
+      "groundnut",
+      "onion",
+      "poultry farming",
+      "fish farming"
+   ],
+   "general_advisory": "Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "crops_data": {
+      "rabi paddy": {
+         "advisory": [
+            "When the seedlings are with 4-5 leaves, go for transplanting the paddy seedling. Transplant 2-3 seedling per hill and in line with shallow depth for quick establishment of the seedling."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Provide critical stage irrigation to the crop.",
+            "Survey for any insect."
+         ]
+      },
+      "summer maize": {
+         "advisory": [
+            "This is the right time for sowing of maize. Without delay sow @ 6 kg per acre. Apply 10 kg Chlorpyriphos per acre in termite-prone area. Spacing is 60 X 25 cm with 5 cm depth in soil."
+         ]
+      },
+      "rabi sunflower": {
+         "advisory": [
+            "Due to weather there is chances of fruit borer attack, to manage this spray Chlorpyriphos @ 2 ml per liter of water."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Due to weather there is chances of Early blight in potato, to manage spray Mancozeb @ 4 g per liter of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Choose quality seeds like Dharani, Kalinga badam, Kadri, AK 12-24 and start sowing. Apply Gypsum @ 100 kg per acre at final land preparation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Light intercultivation is to be done since the roots will be shallow and found on the surface of the soil."
+         ]
+      },
+      "poultry farming": {
+         "advisory": [
+            "Cover the poultry house with plastic or sacking at night to protect from the cold.",
+            "Provide bulb to make the house warm."
+         ]
+      },
+      "fish farming": {
+         "advisory": [
+            "Provide the feed mixture according to the body weight."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

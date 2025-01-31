@@ -1,84 +1,73 @@
 {
    "weather_details": {
-      "2025-01-04": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 9,
-         "rh_max": 64,
-         "rh_min": 26,
-         "wind_speed": 3,
-         "wind_direction": 315,
-         "cloud_cover": 3
-      },
-      "2025-01-05": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 9,
-         "rh_max": 66,
-         "rh_min": 31,
-         "wind_speed": 2,
-         "wind_direction": 14,
-         "cloud_cover": 3
-      },
-      "2025-01-06": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 10,
-         "rh_max": 70,
-         "rh_min": 28,
-         "wind_speed": 2,
-         "wind_direction": 59,
+      "2025-01-25": {
+         "rainfall": 0.2,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 24,
+         "wind_speed": 1,
+         "wind_direction": 45,
          "cloud_cover": 2
       },
-      "2025-01-07": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 10,
-         "rh_max": 79,
-         "rh_min": 30,
-         "wind_speed": 3,
-         "wind_direction": 111,
+      "2025-01-26": {
+         "rainfall": 0.2,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 68,
+         "rh_min": 26,
+         "wind_speed": 2,
+         "wind_direction": 334,
          "cloud_cover": 1
       },
-      "2025-01-08": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 10,
-         "rh_max": 75,
-         "rh_min": 27,
+      "2025-01-27": {
+         "rainfall": 0.2,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 19,
+         "wind_speed": 2,
+         "wind_direction": 14,
+         "cloud_cover": 2
+      },
+      "2025-01-28": {
+         "rainfall": 0.2,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 21,
          "wind_speed": 1,
-         "wind_direction": 27,
-         "cloud_cover": 3
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-01-29": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 91,
+         "rh_min": 17,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "mustard",
-      "chilli",
-      "common fish",
-      "chicken"
+      "tomato",
+      "black gram"
    ],
-   "general_advisory": "After threshing the crop need to be sundried to 14% and 12% moisture for consumption and seed purpose respectively. In case of rodent infestation has been found on the Threshing floor and in the field itself use poison bait for the preparation of 100g of poison bait mix 96 g flour , 2g edible oil and 2g zinc phosphide. Keep water in earthen bowl near the bait. Keep 1 Celphous tablet in the mouth of each rat hole. Foggy weather may lead to increase infestation of Powdery Mildew in several winter vegetables. Spray Mixture of 1 litre water with 1 gram Thiophanate Methyl or 1 ml Tebuconazole.",
+   "general_advisory": "Don’t feed wet or water soaked straw to cattle. Before feeding dry it well under Sun.Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, and even death in severe case. Good ventilation must be ensured during winter",
    "crops_data": {
-      "mustard": {
+      "tomato": {
          "advisory": [
-            "Early sown mustard are likely to be affected by Aphids due to foggy weather. Spray 80g Thiamethoxam or 80ml Imidacloprid in 200lt of water."
+            "Wilting or partial wilting in tomato has been observed. To prevent from wilting or partial wilting, apply Neem or Karanjaa cake. And spray (basal + foliar) Tebuconazole fungicide @ 1ml/liter."
          ]
       },
-      "chilli": {
+      "black gram": {
          "advisory": [
-            "Due to the ongoing foggy weather condition, sucking pest might infest Chilli crop. For management of sucking pest (Aphid , Thrips) in chilli, Spray Imidacloprid 5ml/15 litre of water."
-         ]
-      },
-      "common fish": {
-         "advisory": [
-            "Maintain at least a 6 ft. height for better hibernation due cold season. Reduce fish feed by 20% due to reduced intake of feed due to low temperature."
-         ]
-      },
-      "chicken": {
-         "advisory": [
-            "In winter season give attention towards Bio-security of chickens and stay safe from bird flu."
+            "Powdery mildew disease has been observed in black gram. Spray Sulphur 80 WP @ 800 gm in 200 litres of water per acre of land to control powdery mildew."
          ]
       }
    },
-   "date": "03-01-2025"
+   "date": "24-01-2025",
+   "ERROR": "Not getting consistent data."
 }

@@ -1,0 +1,121 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 31,
+         "rh_min": 29,
+         "wind_speed": 0,
+         "wind_direction": 315,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 31,
+         "rh_min": 29,
+         "wind_speed": 0,
+         "wind_direction": 325,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 29,
+         "rh_min": 29,
+         "wind_speed": 0,
+         "wind_direction": 351,
+         "cloud_cover": 2
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 31,
+         "rh_min": 29,
+         "wind_speed": 0,
+         "wind_direction": 325,
+         "cloud_cover": 3
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 31,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 325,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "mustard",
+      "groundnut",
+      "cole crops",
+      "tomato",
+      "potato",
+      "brinjal",
+      "onion",
+      "mango"
+   ],
+   "general_advisory": "In view of the decrease of minimum temperature, apply light irrigation to different standing crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature. Transplanting of 25-30 days old paddy seedlings should be done at a spacing of 20x15 cm, plant 2 seedlings per hill for high yielding varieties. To control bacterial blight in paddy, dip the seedling roots in 0.1% Plantomycin solution before transplanting for 30 minutes.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Farmers going for transplanting should apply 35kg DAP, 30kg MOP, and 8kg Urea per acre during the last puddling.",
+            "Use pre-emergence herbicides like Atrazine 50% WP @ 800g/acre or Metribuzin 70% WP @ 400-500g/acre within 3 days after planting to control weeds."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Due to foggy weather, there is a chance of powdery mildew disease in black gram and green gram. To control this disease, spray Sulphur 80% WP @ 800g/acre or Hexaconazole 5% E.C @ 300ml/acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Due to foggy weather, there may be chances of white rust disease in mustard. To control, spray Metalaxyl @ 2g/liter of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "White grub infestation in groundnut can be minimized by drenching Chloropyriphos @ 6ml/lit of water or Imidacloprid 30.5 sc@1ml/lit of water at the plant base."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Prevailing weather is favorable for the attack of Tobacco caterpillar in cole crops. To manage this pest biologically, use pheromone trap Spodolure @ 6/acre. For chemical control, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 200-ml/acre or Lambda Cyhalothrin 5% EC @ 300ml/acre during afternoon hours by mixing with 200 liters of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prevailing fog condition may increase the infestation of Aphid in tomato. To control, need-based spraying of neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre is recommended."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "For controlling Aphids in Potato during the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre. For chemical control, spray Thiamethoxam 25% W.G @ 40-gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml acre by mixing in 200 liters of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Use yellow sticky traps 5 @ 8-10/acre to attract and kill whitefly in brinjal. During the primary stage of pest infestation, spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. To control this pest chemically, spray Thiamethoxam 25 % WG @ 40 g/acre or Pyriproxifen 10 % EC @ 200 ml/acre or Spiromesifen 22.9% SC @ 250 ml/acre by mixing in 200 liters of water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Onion seedlings of 8-weeks old should be planted in the main field. Before transplanting, apply compost, DAP, Murate of Potash, urea, and sulphur and mix it to the soil uniformly. Transplant the seedlings in line by keeping the row to row spacing at 25cm and plant to plant spacing at 10cm."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hopper, spray Imidacloprid @ 60ml or Carbendazim @ 200g/200lit of water."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

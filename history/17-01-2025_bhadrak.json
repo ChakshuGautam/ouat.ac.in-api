@@ -1,0 +1,119 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 85,
+         "rh_min": 33,
+         "wind_speed": 7,
+         "wind_direction": 264,
+         "cloud_cover": 2
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 79,
+         "rh_min": 34,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 72,
+         "rh_min": 28,
+         "wind_speed": 8,
+         "wind_direction": 3,
+         "cloud_cover": 3
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 13,
+         "rh_max": 79,
+         "rh_min": 34,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 72,
+         "rh_min": 28,
+         "wind_speed": 8,
+         "wind_direction": 3,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "summer rice",
+      "kharif rice",
+      "blackgram",
+      "greengram",
+      "rapeseed and mustard",
+      "groundnut",
+      "vegetables",
+      "fruit"
+   ],
+   "general_advisory": "Weather condition is favourable for aphid attack and Leaf spot incidence in mustard crop so its regular monitoring should be advised. After harvesting of paddy, it is ideal time for land preparation for sowing of pulses like green gram & black gram. To prevent damage from fog, low temperature, and moisture stress, provide light irrigation to standing crops & vegetables during morning hours.",
+   "crops_data": {
+      "summer rice": {
+         "advisory": [
+            "For optimum growth & Vigor of seedling, apply plant growth-promoting substances like humic acid & sea weed extract @1ml/litre of water.",
+            "Nursery treatment with Fipronil 0.3 G @100g/1 cent nursery area 7 days before transplanting to reduce the infestation level of stem borer."
+         ]
+      },
+      "kharif rice": {
+         "advisory": [
+            "Rice grains must be dried under sun for 3 -4 days to 14% moisture for consumption and 12% moisture for seed purposes.",
+            "Make the threshing floor and storage godown clean and spray Lambda Cyahalothrin 4.9CS@ 1.5ml/li . of water to minimize the chance of future infestation of storage pests."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "After harvesting of paddy, it is the ideal time for land preparation for sowing pulses like green gram, black gram.",
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram )@2gm/kg of seed before 7 days."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "After harvesting of paddy, it is the ideal time for land preparation for sowing pulses like green gram, black gram.",
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram )@2gm/kg of seed before 7 days.",
+            "On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and sow in dry soil in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha.",
+            "Spacing - 25cm * 10cm, Variety - Virat, Sikha"
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of Alternaria leaf spot disease in mustard.",
+            "To control aphid in mustard apply flonicamid 50WG@ 60g/acre.",
+            "Irrigate the field if soil moisture stress is observed."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Spraying of Rhidomil M-Z @2g/l of water to prevent the spread of collar rot & early leaf blight disease in groundnut."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Banana - Apply (Carbendazim + Mancozeb) @ 2g/liter of water to reduce the incidence of Sigatoka leaf spot disease in banana."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

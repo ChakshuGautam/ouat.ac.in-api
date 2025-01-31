@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 85,
+         "rh_min": 36,
+         "wind_speed": 7,
+         "wind_direction": 281,
+         "cloud_cover": 10
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 338,
+         "cloud_cover": 0
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 74,
+         "rh_min": 33,
+         "wind_speed": 7,
+         "wind_direction": 10,
+         "cloud_cover": 5
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 11,
+         "rh_max": 83,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 338,
+         "cloud_cover": 0
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 11,
+         "rh_max": 74,
+         "rh_min": 33,
+         "wind_speed": 3,
+         "wind_direction": 10,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "cowpea",
+      "cole crops",
+      "coconut",
+      "banana",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to prepare nursery beds, treat seeds before sowing, mulch seedlings, provide irrigation, use herbicides, and follow specific crop stage advisories.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Basal Fertilizer Application: Apply DAP, MOP, and Urea as per soil type and seedling age for high yield."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "White grab: Minimize infestation by drenching Chloropyriphos or Imidacloprid at the plant base."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Planting stage: Apply DAP, MOP, and FYM at planting time, top dress with Urea at intervals, avoid late Urea application."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Hairy caterpillar: Control by spraying specific insecticides as needed."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Dimond Back Moth and Head Borer management: Monitor and destroy pests, use Neem based pesticides or chemical sprays."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "To control red palm weevil: Apply specific pesticide in stem holes."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To control sigatoka leaf spot: Spray specified fungicides as preventive measure."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Prevent EUS (Epizootic ulcerative syndrome) by applying 'Cifax' as a preventive measure."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

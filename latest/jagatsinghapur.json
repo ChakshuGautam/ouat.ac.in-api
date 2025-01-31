@@ -1,95 +1,110 @@
 {
    "weather_details": {
-      "11/01/2025": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 84,
-         "rh_min": 39,
-         "wind_speed": 5,
-         "wind_direction": 297,
-         "cloud_cover": 0
-      },
       "18/01/2025": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 84,
-         "rh_min": 39,
-         "wind_speed": 10,
-         "wind_direction": 325,
+         "t_max": 29,
+         "t_min": 0,
+         "rh_max": 87,
+         "rh_min": 46,
+         "wind_speed": 4,
+         "wind_direction": 236,
          "cloud_cover": 0
       },
-      "22/01/2025": {
+      "29-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 83,
-         "rh_min": 42,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 87,
+         "rh_min": 46,
          "wind_speed": 6,
-         "wind_direction": 325,
+         "wind_direction": 236,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 211,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
       "paddy",
+      "mustard",
       "groundnut",
-      "sugarcane",
-      "cowpea",
+      "black gram",
+      "green gram",
+      "potato",
       "cole crops",
-      "coconut",
-      "banana",
+      "tomato",
+      "brinjal",
+      "rose",
       "pisciculture"
    ],
-   "general_advisory": "Farmers are advised to prepare nursery beds, treat paddy seeds, mulch vegetable seedlings, provide light irrigation, maintain soil conditions, and use appropriate herbicides. Specific advisory for various crops is provided below.",
+   "general_advisory": "Farmers are advised to irrigate their field as there is mild dry condition prevailing. Various crop-specific advisories are provided for managing pests and diseases.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply basal fertilizer during transplanting",
-            "Transplant seedlings at specific spacing"
+            "To manage stem borer, use Trichogrammajaponicum card @ 1/acre weekly for 6 times.",
+            "Apply pheromone traps @ 5/acre.",
+            "Apply Cartap Hydrochloride 4% G @ 8kg/acre or Chlorantraniliprole 0.4% GR @ 4kg/acre or Imidacloprid 0.3% GR @ 6kg/acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "To manage Aphid and Painted Bug infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre.",
+            "Chemically spray Thiamethoxam 25% W.G @ 40g/acre or Acetamiprid 20% S.P. @ 50g/acre or Imidacloprid 17.8% SL @ 60-ml/acre."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Control white grub infestation",
-            "Control stem rot using specific treatments"
+            "To manage stem rot, drench soil with Validamycin 3% L @ 400-ml/acre or Captan 70% + Hexaconazole 5% WP@ 300-gram/acre."
          ]
       },
-      "sugarcane": {
+      "black gram": {
          "advisory": [
-            "Apply specific fertilizers at planting stage",
-            "Top dress with urea at specified intervals"
+            "To manage powdery mildew disease, spray Sulphur 80% WP @ 800-gram/acre or Hexaconazole 5% E.C @ 300-ml/acre."
          ]
       },
-      "cowpea": {
+      "green gram": {
          "advisory": [
-            "Control hairy caterpillar infestation",
-            "Manage cercospora leaf spot"
+            "To manage powdery mildew disease, spray Sulphur 80% WP @ 800-gram/acre or Hexaconazole 5% E.C @ 300-ml/acre."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To manage Early Blight disease, spray Mancozeb 75% WP @600g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400g/acre."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Manage Diamond Back Moth and Head Borer infestation",
-            "Use Neem-based pesticide or specific chemicals for control"
+            "To manage Diamond Back Moth and Head Borer infestation, collect and destroy caterpillars and egg masses, and spray Neem based Pesticide.",
+            "Chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre."
          ]
       },
-      "coconut": {
+      "tomato": {
          "advisory": [
-            "Control red palm weevil infestation",
-            "Disinfect compost yard to prevent rhinoceros beetle"
+            "To control Aphid, spray neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre."
          ]
       },
-      "banana": {
+      "brinjal": {
          "advisory": [
-            "Control sigatoka leaf spot using specified sprays"
+            "To manage Epilachna Beetle, shake plants to dislodge grubs, pupae, and adults, and spray neem-based pesticide at early stage of infestation."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips, spray Fenpyroximate 5% EC @ 2 ml or Abamactin @ 1 ml per litre of water."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Prevent 'EUS' syndrome in winter with specific treatment",
-            "Feed fishes with oil cake bran mixture"
+            "Maintain water depth up to 6 ft for fish hibernating in the warmer bottom zone."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

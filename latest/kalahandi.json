@@ -1,138 +1,133 @@
 {
    "weather_details": {
-      "18-01-2025": {
+      "29-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 12,
-         "rh_max": 73,
-         "rh_min": 26,
-         "wind_speed": 4,
-         "wind_direction": 175,
-         "cloud_cover": 3
-      },
-      "19-01-2025": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 12,
-         "rh_max": 66,
-         "rh_min": 24,
-         "wind_speed": 2,
-         "wind_direction": 166,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 23,
+         "wind_speed": 5,
+         "wind_direction": 164,
          "cloud_cover": 2
       },
-      "20-01-2025": {
+      "30-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 12,
-         "rh_max": 62,
-         "rh_min": 27,
-         "wind_speed": 2,
-         "wind_direction": 127,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 88,
+         "rh_min": 26,
+         "wind_speed": 6,
+         "wind_direction": 177,
+         "cloud_cover": 1
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 77,
+         "rh_min": 21,
+         "wind_speed": 7,
+         "wind_direction": 186,
+         "cloud_cover": 2
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 20,
+         "wind_speed": 6,
+         "wind_direction": 187,
          "cloud_cover": 3
       },
-      "21-01-2025": {
+      "02-02-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 66,
-         "rh_min": 24,
-         "wind_speed": 2,
-         "wind_direction": 166,
-         "cloud_cover": 3
-      },
-      "22-01-2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 66,
-         "rh_min": 24,
-         "wind_speed": 2,
-         "wind_direction": 166,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 65,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 183,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "paddy",
-      "arhar",
-      "greengram/blackgram",
       "groundnut",
-      "mustard",
       "sunflower",
+      "chick pea",
+      "maize",
+      "green gram",
+      "black gram",
       "onion",
-      "cauliflower & cabbage",
       "tomato",
       "chilli",
-      "cattle & buffalo",
-      "goat & sheep",
-      "poultry"
+      "rose",
+      "marigold"
    ],
-   "general_advisory": "Keep your crop field free from weed to minimize the incidence of diseases and pests. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap @ 8/acre to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetables at vegetative stage. Regular monitoring of the crop for incidence of pest and diseases should be done and use light trap to monitor insect population so that timely control measure can be taken. For making a light trap, a bulb should be fixed above a container (either plastic or tin) having a mixture of water and few drops of any insecticide. The insects get attracted towards the light, fall in the solution and die. Always apply recommended dose of pesticide in correct method during morning or afternoon hours and pay attention to the wind direction during application. Install 3 pheromone traps/acre to monitor pest population of stem borer and leaf folder soon after rice transplanting.",
+   "general_advisory": "Make arrangement for supplemental irrigation in standing crops like Groundnut, Sunflower, Chick pea, Maize, Green gram etc., wherever it is required. Farmers are advised to install \n“T” shaped bird perches in and around crop field like Chickpea, Green gram, Groundnut and vegetables for controlling insect population. Install pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, \ncauliflower, cabbage, tomato etc. Install yellow sticky trap @ 8 /acre to monitor sucking pest like White fly, Aphids, Jassids & blue sticky trap for Thirps in vegetables at vegetative stage. Always apply recommended dose of fertilizers according to the soil test report and recommended dose of pesticide in\ncorrect method during morning or evening hours and pay attention to the wind direction during application. To control wilting in chick pea, s pray Carbendazim 50% WP @ 400g/ac mixed with 200 liters of water.",
    "crops_data": {
-      "paddy": {
-         "advisory": [
-            "Weed Management: Apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10% WP @ 100 g at 8-10 days after transplanting or spray Bispyribac sodium 10% SC @ 120 ml at 15-20 DAT mixed with 200 liters of water. Pest Management: Install 3 pheromone traps/acre to monitor pest population of stem borer and leaf folder soon after transplanting."
-         ]
-      },
-      "arhar": {
-         "advisory": [
-            "Maturity to Harvest: Suitable time for harvesting when 2/3rd to 3/4th of the pods have changed to brown colour. Harvested plant should be left in the field for sun drying for 3-5 days. Threshing may be done either by beating the pods with stick or by using Pullman thresher. The clean seed should be sun dried for 3-4 days to bring the moisture content at 9-10% for safe and longer storage."
-         ]
-      },
-      "greengram/blackgram": {
-         "advisory": [
-            "Weed Management: Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20-25 DAS. Pest Management: Leaf eating caterpillar: The insects usually feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control. Aphid and Whitefly: Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly. Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
-         ]
-      },
       "groundnut": {
          "advisory": [
-            "Pest Management: Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "Pest Management: White rust: In prevailing weather condition (Foggy), infestation of white rust can be seen. Apply Metalaxyl M 4% + Mancozeb 64% WP @ 25g or Copper Oxychloride 50% WP @ 30g mixed with 10 liters of water when symptom is noticed."
+            "Tikka:  If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Sucking pest complex (Aphid, Hopper, Thrips & Whitefly): Prevailing weather condition favors the development of sucking pests. Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended. Powdery mildew: Spray 0.2% wettable sulphur @ 2g /ltr of water. Capitulum Borer: Spray Bacillus thuringiensis var kurstaki 5% WP @ 1.5 g/ltr of water. Head Rot: Spray 0.4% Copper oxychloride 50% WP @ 3g/ltr of water."
+            "Sucking pest complex (Aphid, Hopper, Thrips & White fly):  Prevailing weather condition favours the development of sucking pests. Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended.",
+            "Powdery mildew:  Spray 0.2% wettable sulphur @ 2g /ltr of water.",
+            "Capitulum Borer:  Spray Bacillus thuringiensis var kurstaki 5% WP @ 1.5 g/ltr of water.",
+            "Head Rot:  Spray 0.4% Copper oxychloride 50% WP @ 3g/ltr of water."
+         ]
+      },
+      "chick pea": {
+         "advisory": [
+            "Powdery mildew : Prevailing weather condition favours the development of powdery mildew disease. To control spray, Sulphur  80% WP  @ 800 g/ac or Propiconazole 25% EC @ 200ml/ac mixed with 200 liters of water.",
+            "Stem rot/Root rot/Wilting: Prevailing weather condition favours the development of fungal disease like collar rot, root rot, stem rot and wilting. If symptom is noticed spray Carbendazim 50% WP @ 400g/ac or Validamycin 3% L @ 400 ml/ac mixed with 200 liters of water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "No specific advisory mentioned."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Leaf eating caterpillar: The insects usally feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control.",
+            "Aphid and Whitefly:  Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly. Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and  apply neem oil -based pesticide Azadiractin 0.03% ( 300 ppm) @ 5ml/ltr of water at initial stage of infestation.  For chemical control, spray Imidacloprid 17.8% SL @ 4ml or Thiamethoxam 25% WG @ 3g or Chlorpyriphos 20% EC @ 35 ml b..."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Nil"
          ]
       },
       "onion": {
          "advisory": [
-            "Vegetative: Irrigate the crop at a regular interval. Undertake hoeing, weeding and 1st top dressing @ 45 kg urea/acre at 4-week stage of the crop followed by irrigation."
-         ]
-      },
-      "cauliflower & cabbage": {
-         "advisory": [
-            "Vegetative to Fruiting: Nutrient Management: Go for hoeing, weeding and apply 27 kg urea + 25kg MOP at six-to-seven -week stage followed by irrigation. Pest Management: Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water as control measure. Tobacco leaf eating caterpillar : Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water to control pest population. Cabbage Aphid : Spray Thiamethoxam 25% WG @ 2g/5ltr of water  as control measure."
+            "Nutrient Management:   After hoeing and weeding, a pply 45kg Urea as first top dressing at 4-week  stage followed by irrigation.",
+            "After hoeing and weeding, a pply 23kg Urea as second top dressing at 6 to 7-week stage followed by irrigation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Vegetative to Flowering: Nutrient Management: Complete hoeing, weeding and apply 27 kg urea at six-week stage followed by irrigation Pest Management: Wilting: In view of high humid condition wilting may occur at this stage. Spray Mancozeb 75% WP @ 2g/ltr of water if symptom is noticed. Fruit & Shoot borer: Install pheromone trap @ 8nos/acre  to monitor pest population."
+            "Fruit & Shoot borer:  Install pheromone trap @ 8nos/acre  to monitor pest population.  For chemical control, spray or Flubendiamide 39.35% SC @ 3 ml Cyntranliprole 10.26% OD @ 3 0ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% ZC @ 4ml  or Indoxacarb14.5% SC @ 15 ml mixed  with 15 liters  of water .",
+            "Leaf curling/White fly : Leaf curling may notice due to white fly infestation. Install yellow sticky  trap @ 8nos/acre  to monitor pest population.  For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntr..."
          ]
       },
       "chilli": {
          "advisory": [
-            "Vegetative to Fruiting: Pest Management: Mite : Stunted growth with downward curling and crinkling of leaves are seen in mite infested chili plants. Apply Ethion 50 % EC or Propargite 57 % EC @ 600-ml/acre mixed with 200 liters of water to control mite infestation."
+            "Mite : Stunted growth with d ownward curling and crinkling of leaves are seen i n mite infested chili plants.  Apply  Ethion 50 % EC or Propargite 57 % EC @ 600-ml/acre mixed with 200 liters of water to control mite infestation ."
          ]
       },
-      "cattle & buffalo": {
+      "rose": {
          "advisory": [
-            "As there is lesser heat and humidity in the air, there is lesser chance of cattle and buffalo falling sick. So, farmers must take care to make up the loss in the body condition score during lactation phase. It is advised to increase the amount of concentrate in the feed gradually before two months prior to calving. It also helps to increase milk production in the coming lactation."
+            "Black spot:  To control black spot disease in Rose spray Copper Oxy -chloride 50% WP @ 3g/ltr of water."
          ]
       },
-      "goat & sheep": {
+      "marigold": {
          "advisory": [
-            "As goats are more affected by cold, so goat farmers are advised to prevent their animals from chill wind and floor. If they identify their goats having running nose and persistent cough, veterinarians must be contacted quickly."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "It is advisable to prevent the poultry birds from severe chill wind and cold floor to check their mortality. Farmers must cover the poultry house by thick polythene sheet to protect their birds from cold wind and remove them after 9 a. m in the morning to allow sunlight in the shed. Farmers must also be careful regarding litter material on the floor as this helps keeping the birds warm and also aids in nutrient recycling."
+            "Inflorescence  rot: To control inflorescence rotting in Merigold spray Mancozeb 75% WP @ 2g or Carbendazim 50% WP @ 1g by mixing with one liter of water."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

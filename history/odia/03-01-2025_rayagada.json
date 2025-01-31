@@ -1,7 +1,7 @@
 {
    "weather_details": {
       "2025-01-04": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 28,
          "t_min": 12,
          "rh_max": 64,
@@ -11,7 +11,7 @@
          "cloud_cover": 3
       },
       "2025-01-05": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 28,
          "t_min": 12,
          "rh_max": 70,
@@ -21,7 +21,7 @@
          "cloud_cover": 3
       },
       "2025-01-06": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 29,
          "t_min": 13,
          "rh_max": 87,
@@ -31,7 +31,7 @@
          "cloud_cover": 2
       },
       "2025-01-07": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 29,
          "t_min": 13,
          "rh_max": 90,
@@ -41,7 +41,7 @@
          "cloud_cover": 1
       },
       "2025-01-08": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 28,
          "t_min": 14,
          "rh_max": 87,

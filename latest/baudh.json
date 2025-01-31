@@ -1,93 +1,96 @@
 {
    "weather_details": {
-      "18-01-2025": {
+      "29-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 11,
-         "rh_max": 72,
-         "rh_min": 25,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 23,
          "wind_speed": 3,
-         "wind_direction": 187,
+         "wind_direction": 164,
          "cloud_cover": 2
       },
-      "19-01-2025": {
+      "30-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 11,
-         "rh_max": 60,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 91,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 166,
+         "cloud_cover": 1
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 79,
+         "rh_min": 21,
+         "wind_speed": 3,
+         "wind_direction": 174,
+         "cloud_cover": 1
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 78,
          "rh_min": 22,
          "wind_speed": 3,
-         "wind_direction": 220,
-         "cloud_cover": 3
-      },
-      "20-01-2025": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 11,
-         "rh_max": 62,
-         "rh_min": 24,
-         "wind_speed": 2,
-         "wind_direction": 207,
-         "cloud_cover": 3
-      },
-      "21-01-2025": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 12,
-         "rh_max": 60,
-         "rh_min": 22,
-         "wind_speed": 3,
-         "wind_direction": 220,
+         "wind_direction": 90,
          "cloud_cover": 2
       },
-      "22-01-2025": {
+      "02-02-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 12,
-         "rh_max": 60,
-         "rh_min": 22,
-         "wind_speed": 3,
-         "wind_direction": 220,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 71,
+         "rh_min": 21,
+         "wind_speed": 4,
+         "wind_direction": 156,
          "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "dry season rice",
-      "mustard",
-      "fruit and vegetable crops",
-      "livestock"
+      "green gram",
+      "black gram",
+      "mango",
+      "vegetable crops"
    ],
-   "general_advisory": "As per the extended range forecast (date: 16.01.2025) of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week -1 (17th to 23rd January, 2025) and week -2 (24th to 30th January, 2025). Minimum temperature (night temperature) is very likely to be 12-16°C over the districts of Coastal Odisha and adjoining districts of Interior Odisha, 10-12°C over some parts of Interior Odisha and 8-10°C over remaining parts of Interior Odisha during that period. Looking to the prevailing fog and minimum temperature conditions, farmers are advised to make provision to protect the crop as well as animals from cold. If possible, cover young fruit plants by using sarkanda grass, dry corn stalks, or gunny sacks to cover small plants, keep the southeast side open to allow sunlight and airflow, and apply light irrigation in the field to maintain soil temperature. Vaccination should be avoided in animals during foggy days and cold wave period.",
+   "general_advisory": "According to the daily forecast of IMD, MC, Bhubaneswar, there is no large change in minimum temperature expected during the next two days and thereafter a rise by 2-4 deg. cen. in subsequent three days over the district of Odisha. Looking to the dry weather condition in upcoming days, farmers are advised to provide one irrigation in crop field and conduct all kinds of spraying and intercultural operations in standing crop fields. Farmers should keep their field weed-free for proper crop growth. Prevailing temperature conditions (high gap in day and night temperature) may affect various types of crops (favor different kinds of insect attack) as well as animals.",
    "crops_data": {
       "dry season rice": {
          "advisory": [
-            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP @ 80 g/acre at 3-5 days after sowing (DAS) or Bispyribac sodium @ 120 ml/acre at 10-12 DAS (or at 2-3 leaf stage of weeds) in 140 litres of water.",
-            "If infestation of seedling blight is noticed, spray Carbendazim @ 400 g/acre or Propiconazole @ 200 g/acre in 200 litres of water.",
-            "Transplanting of 3-5 week old seedlings should be advised in well puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling."
+            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at a shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as a basal dose during final puddling.",
+            "Weed Management: Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 DAT.",
+            "Insect/Pest Management: In just transplanted field use 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Whenever the number of male moths in trap reaches 4 or 5, spraying of Azadiractin 0.15% neem seed kernel based EC formulation @ 800 ml/acre should be advised."
          ]
       },
-      "mustard": {
+      "green gram": {
          "advisory": [
-            "Prevailing weather condition is favourable for Aphid attack in mustard crop so regular monitoring against this insect should be advised.",
-            "At present, attack of this insect is noticed in some farmer’s field so spraying of Acetamiprid @ 125g per 500 liters of water per hectare or Imidachloprid @ 0.5 ml per liter of water should be advised under dry weather condition.",
-            "Insecticide application should be avoided at initial flowering stage."
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insects at the vegetative stage. At the initial stage of attack, farmers should spray 5 ml neem oil per liter of water to control these insects. Insecticide application should be avoided at the flowering stage."
          ]
       },
-      "fruit and vegetable crops": {
+      "black gram": {
          "advisory": [
-            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised.",
-            "Straw can be used as mulching material to maintain soil moisture as well as temperature in field during winter season.",
-            "Harvesting of matured crops as well as one light irrigation in crops which are in vegetative growth stage should be advised because dry weather is expected in the upcoming week."
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insects at the vegetative stage. At the initial stage of attack, farmers should spray 5 ml neem oil per liter of water to control these insects. Insecticide application should be avoided at the flowering stage."
          ]
       },
-      "livestock": {
+      "mango": {
          "advisory": [
-            "Cover the animal shelter from all sides during the night in order to avoid direct exposure of animals to cold winds including dry straw as animal bedding.",
-            "Weak and sick animals should be covered with sack cloth to protect them from the cold. At the same time, during the night, all the animals should be kept in a covered shelter.",
-            "Avoid keeping animals in a damp area, as well as protect them from smoke from fires which are lit to provide warmth. The dampness and smoke increases their chances of contracting pneumonia.",
-            "To maintain the body temperature of animals, they should be fed with a mixture of oil cakes and jaggery including covering of the body during cold hours. Pregnant animals (> 6 months) should be given additional feed."
+            "Wrap or fix polythene/alkathane sheet tightly on Mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised.",
+            "If powdery mildew infestation or any fungal infection observed in Mango orchard then spraying of wettable sulphur @ 2g per liter of water should be advised."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "To control leaf-eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised.",
+            "For Diamond Back Moth attack in Cauliflower, spraying of Spinosad 45 SC @ 0.5 ml or Fipronil 5% SC @ 2ml or Neem oil @ 5ml per liter of water should be advised.",
+            "Regular monitoring against sucking insect attack should be advised.",
+            "Avoid chemical application at the flowering stage."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

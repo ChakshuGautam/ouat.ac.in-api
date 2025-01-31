@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 11,
+         "rh_max": 72,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 187,
+         "cloud_cover": 2
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 11,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 11,
+         "rh_max": 62,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 3
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 2
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 60,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 220,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast (date: 16.01.2025) of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week -1 (17th to 23rd January, 2025) and week -2 (24th to 30th January, 2025). Minimum temperature (night temperature) is very likely to be 12-16°C over the districts of Coastal Odisha and adjoining districts of Interior Odisha, 10-12°C over some parts of Interior Odisha and 8-10°C over remaining parts of Interior Odisha during that period. Looking to the prevailing fog and minimum temperature conditions, farmers are advised to make provision to protect the crop as well as animals from cold. If possible, cover young fruit plants by using sarkanda grass, dry corn stalks, or gunny sacks to cover small plants, keep the southeast side open to allow sunlight and airflow, and apply light irrigation in the field to maintain soil temperature. Vaccination should be avoided in animals during foggy days and cold wave period.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP @ 80 g/acre at 3-5 days after sowing (DAS) or Bispyribac sodium @ 120 ml/acre at 10-12 DAS (or at 2-3 leaf stage of weeds) in 140 litres of water.",
+            "If infestation of seedling blight is noticed, spray Carbendazim @ 400 g/acre or Propiconazole @ 200 g/acre in 200 litres of water.",
+            "Transplanting of 3-5 week old seedlings should be advised in well puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Prevailing weather condition is favourable for Aphid attack in mustard crop so regular monitoring against this insect should be advised.",
+            "At present, attack of this insect is noticed in some farmer’s field so spraying of Acetamiprid @ 125g per 500 liters of water per hectare or Imidachloprid @ 0.5 ml per liter of water should be advised under dry weather condition.",
+            "Insecticide application should be avoided at initial flowering stage."
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised.",
+            "Straw can be used as mulching material to maintain soil moisture as well as temperature in field during winter season.",
+            "Harvesting of matured crops as well as one light irrigation in crops which are in vegetative growth stage should be advised because dry weather is expected in the upcoming week."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover the animal shelter from all sides during the night in order to avoid direct exposure of animals to cold winds including dry straw as animal bedding.",
+            "Weak and sick animals should be covered with sack cloth to protect them from the cold. At the same time, during the night, all the animals should be kept in a covered shelter.",
+            "Avoid keeping animals in a damp area, as well as protect them from smoke from fires which are lit to provide warmth. The dampness and smoke increases their chances of contracting pneumonia.",
+            "To maintain the body temperature of animals, they should be fed with a mixture of oil cakes and jaggery including covering of the body during cold hours. Pregnant animals (> 6 months) should be given additional feed."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

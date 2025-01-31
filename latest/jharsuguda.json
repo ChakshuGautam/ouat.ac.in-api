@@ -1,94 +1,82 @@
 {
    "weather_details": {
-      "18-01-2025": {
+      "29-01-2025": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 12,
-         "rh_max": 65,
-         "rh_min": 25,
-         "wind_speed": 3,
-         "wind_direction": 45,
-         "cloud_cover": 3
-      },
-      "19-01-2025": {
-         "rainfall": 0,
-         "t_max": 26,
-         "t_min": 12,
-         "rh_max": 58,
-         "rh_min": 24,
+         "t_max": 32,
+         "t_min": 9,
+         "rh_max": 56,
+         "rh_min": 31,
          "wind_speed": 6,
-         "wind_direction": 33,
+         "wind_direction": 63,
+         "cloud_cover": 1
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 10,
+         "rh_max": 63,
+         "rh_min": 30,
+         "wind_speed": 5,
+         "wind_direction": 63,
          "cloud_cover": 2
       },
-      "20-01-2025": {
+      "31-01-2025": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 12,
-         "rh_max": 63,
-         "rh_min": 25,
-         "wind_speed": 8,
-         "wind_direction": 32,
-         "cloud_cover": 3
-      },
-      "21-01-2025": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 13,
-         "rh_max": 58,
-         "rh_min": 24,
-         "wind_speed": 6,
-         "wind_direction": 33,
+         "t_max": 31,
+         "t_min": 10,
+         "rh_max": 72,
+         "rh_min": 28,
+         "wind_speed": 2,
+         "wind_direction": 117,
          "cloud_cover": 2
       },
-      "22-01-2025": {
+      "01-02-2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
+         "t_max": 32,
+         "t_min": 11,
          "rh_max": 63,
-         "rh_min": 25,
-         "wind_speed": 8,
-         "wind_direction": 32,
-         "cloud_cover": 3
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 73,
+         "cloud_cover": 2
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 11,
+         "rh_max": 59,
+         "rh_min": 31,
+         "wind_speed": 5,
+         "wind_direction": 0,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "dry season rice",
-      "mustard",
-      "fruit and vegetable crops",
-      "livestock"
+      "green gram",
+      "black gram"
    ],
-   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week -1 (17th to 23rd January, 2025) and week -2 (24th to 30th January, 2025). Farmers are advised to protect crops and animals from cold conditions. Proper measures should be taken to maintain soil temperature, provide light irrigation, and avoid vaccination during foggy days and cold waves. Livestock should be sheltered and fed appropriately to maintain body temperature.",
+   "general_advisory": "According to the daily forecast of IMD, MC, Bhubaneswar, there is no large change in minimum temperature expected during next two days and thereafter rise by 2-4 deg. cen. in subsequence three days over the district of Odisha. Looking to the dry weather condition in upcoming days farmers are advised to provide one irrigation in crop field and conduct all kind of spraying and intercultural operations in standing crop fields. Farmers should keep their field weed-free for proper crop growth. Prevailing temperature condition (high gap in day and night temperature) may affect various types of crop (favor different kind of insect attack) as well as animals.",
    "crops_data": {
       "dry season rice": {
          "advisory": [
-            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP @ 80 g/acre at 3-5 days after sowing (DAS) or Bispyribac sodium @ 120 ml/acre at 10-12 DAS (or at 2-3 leaf stage of weeds) in 140 litres of water.",
-            "If infestation of seedling blight is noticed, spray Carbendazim @ 400 g/acre or Propiconazole @ 200 g/acre in 200 litres of water.",
-            "Transplanting of 3-5 week old seedlings should be advised in well puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling."
+            "Transplanting: Transplanting of 3-5 week old seedlings should be advised in well puddled soil at a spacing of 15 cm x 15 cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling.",
+            "Weed Management: Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 DAT. Mix the granular herbicide with 4 kg of sand/acre and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 WP @ 80 g/acre in 140 litres of water at 3-5 DAT or spray Bispyribac sodium @ 120 ml/acre at 10-15 DAT or 2-3 leaf stage of weeds in 140 litres of water.",
+            "Insect/Pest management: In just transplanted field use 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Whenever the number of male moths in trap reaches 4 or 5, spraying of Azadiractin 0.15% neem seed kernel based EC formulation @ 800 ml/acre should be advised. Farmers may also broadcast granular insecticide Chlorantraniliprole 4% GR @ 4 kg/acre or Cartap hydrochloride 4G @ 10kg/acre mixing with sand at 1:1 ratio or spray Chlorantraniliprole 18.5% SC @ 60 ml/acre in 200 litre of water to control these insects."
          ]
       },
-      "mustard": {
+      "green gram": {
          "advisory": [
-            "Regular monitoring against Aphid attack is advised.",
-            "Spraying of Acetamiprid @ 125g per 500 liters of water per hectare or Imidachloprid @ 0.5 ml per liter of water should be advised under dry weather conditions.",
-            "Insecticide application should be avoided at initial flowering stage."
+            "Vegetative/Flowering: If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage. At the initial stage of attack, farmers should spray 5 ml neem oil per liter of water to control these insects.",
+            "Insecticide application should be avoided at the flowering stage."
          ]
       },
-      "fruit and vegetable crops": {
+      "black gram": {
          "advisory": [
-            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug.",
-            "Training and pruning of diseased and unwanted branches and leaves should be advised.",
-            "Straw can be used as mulching material to maintain soil moisture as well as temperature in field during winter season.",
-            "Harvesting of matured crops as well as one light irrigation in crops which are in vegetative growth stage should be advised because dry weather is expected in the upcoming week."
-         ]
-      },
-      "livestock": {
-         "advisory": [
-            "Cover the animal shelter from all sides during the night to avoid direct exposure of animals to cold winds including dry straw as animal bedding.",
-            "Weak and sick animals should be covered with sack cloth to protect them from the cold.",
-            "Avoid keeping animals in a damp area and protect them from smoke from fires which are lit to provide warmth.",
-            "To maintain the body temperature of animals, they should be fed with a mixture of oil cakes and jaggery including covering of the body during cold hours. Pregnant animals (>6 months) should be given additional feed."
+            "Vegetative/Flowering: If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage. At the initial stage of attack, farmers should spray 5 ml neem oil per liter of water to control these insects.",
+            "Insecticide application should be avoided at the flowering stage."
          ]
       }
    },
-   "date": "17-01-2025"
+   "date": "28-01-2025"
 }

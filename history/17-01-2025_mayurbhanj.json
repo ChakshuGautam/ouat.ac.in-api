@@ -1,0 +1,172 @@
+{
+   "weather_details": {
+      "2025-01-18": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 3
+      },
+      "2025-01-19": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 2
+      },
+      "2025-01-20": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 67,
+         "rh_min": 27,
+         "wind_speed": 5,
+         "wind_direction": 352,
+         "cloud_cover": 2
+      },
+      "2025-01-21": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 3
+      },
+      "2025-01-22": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 70,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sunflower",
+      "blackgram",
+      "greengram",
+      "mustard",
+      "groundnut",
+      "red gram",
+      "chilli",
+      "cauliflower",
+      "cabbage",
+      "brinjal",
+      "tomato",
+      "onion",
+      "potato"
+   ],
+   "general_advisory": "Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 11, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season.",
+            "Seed rate for an acre of land is 20 kg for these varieties.",
+            "Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3-gram /1 kg of seeds before sowing in the nursery."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Apply half dose of Urea (Inbred -6kg/ac, Hybrid -12kg/ac) + half dose of MOP (Inbred -10 kg/ac, Hybrid -20 kg/ac) as 2nd top dressing at second irrigation.",
+            "Prevailing weather condition favours the development of sucking pests.",
+            "Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended.",
+            "Powdery mildew: Spray 0.2% wettable sulphur @ 2g /ltr of water."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Select YMV disease resistant varieties like PDM 139, PDM 11 etc.",
+            "To prevent whitefly infestation seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing.",
+            "Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop.",
+            "Diseased plants should be rogued out to prevent further spread of the disease."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Select YMV disease resistant varieties like PDM 139, PDM 11 etc.",
+            "To prevent whitefly infestation seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing.",
+            "Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop.",
+            "Diseased plants should be rogued out to prevent further spread of the disease."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "There are chances of Aphid infestation in early sown mustard crop.",
+            "To manage aphids at early stage, put 8 number of yellow sticky traps per acre.",
+            "Spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage aphids, and thrips spray Neem Based Pesticide 300 PPM @ 1-litre /acre during primary stage of infestation.",
+            "If the infestation is severe than spray Thiamethoxam 25% W.G @ 40-gram/acre or Imidacloprid 17.8% SL @ 50-ml/acre by mixing it in 200 litre of water.",
+            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC @ 80ml/acre or Pendimethalin 30 % EC @ 1-litre/acre or at 1-2 DAS."
+         ]
+      },
+      "red gram": {
+         "advisory": [
+            "Harvest the red gram crop when 70-80% Pods turn brown.",
+            "Over maturity can cause shattering of seeds which results in lower yield.",
+            "Harvesting should be done manually by using a sickle."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water.",
+            "Spray Thiamethoxam 25% WG @ 40g/acre or Acetamiprid 20% S.P. @ 50g /acre or Profenophos 40% + Fenpyroximate 2.5% EC @ 400-ml/acre."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Browning or Brown rot",
+            "Apply borax @ 4-kg/acre as soil application during transplanting in Cole crops to prevent Brown rot.",
+            "If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5-gram/litre or Folibor /Solubor @ 1.5 gram/litre."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Pest Management (Dimond Back Moth)",
+            "There are chances of infestation of Dimond Back Moth in early planted Cole crops.",
+            "To manage this pest chemically spray Tolfenpyrad 15% EC @ 400-ml/acre or Flubendiamide 20% WG @ 20-gram/acre or Emamectin Benzoate 5% SG @ 80-gram/acre by mixing in 200-litre of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage whitefly in Brinjal and Tomato crop, use yellow sticky traps @ 8-10/acre to attract and kill the insects.",
+            "During primary stage of pest infestation spray neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown up larvae.",
+            "Set up 20 nos. of pheromone trap having Helilure per acre.",
+            "Go for spraying of insecticide if there are 10% fruits infested with borer."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To prevent Damping off disease in nursery, drench the nursery bed with Carbendazim @ 2 g/litre of water at 15 days interval.",
+            "Seedlings of 8-weeks old are planted in the main field."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Early planted potato crop is at 3-week stage.",
+            "Go for hoeing and weeding and apply the rest 30-45 Kg N/acre.",
+            "For better tuber growth in potato, soil temperature below 30°C should be maintained."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}

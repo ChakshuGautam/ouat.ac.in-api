@@ -1,90 +1,84 @@
 {
    "weather_details": {
-      "2025-01-04": {
+      "2025-01-22": {
          "rainfall": 0,
-         "t_max": 24,
-         "t_min": 16,
-         "rh_max": 70,
-         "rh_min": 31,
-         "wind_speed": 4,
-         "wind_direction": 318,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 69,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 306,
          "cloud_cover": 2
       },
-      "2025-01-05": {
+      "2025-01-23": {
          "rainfall": 0,
-         "t_max": 24,
+         "t_max": 31,
          "t_min": 15,
-         "rh_max": 75,
-         "rh_min": 35,
-         "wind_speed": 4,
-         "wind_direction": 315,
-         "cloud_cover": 3
+         "rh_max": 80,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 286,
+         "cloud_cover": 2
       },
-      "2025-01-06": {
+      "2025-01-24": {
          "rainfall": 0,
-         "t_max": 24,
+         "t_max": 32,
          "t_min": 16,
          "rh_max": 81,
-         "rh_min": 35,
-         "wind_speed": 4,
-         "wind_direction": 315,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 286,
          "cloud_cover": 2
       },
-      "2025-01-07": {
+      "2025-01-25": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 17,
-         "rh_max": 84,
-         "rh_min": 36,
-         "wind_speed": 4,
-         "wind_direction": 299,
-         "cloud_cover": 1
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 75,
+         "rh_min": 26,
+         "wind_speed": 2,
+         "wind_direction": 288,
+         "cloud_cover": 3
       },
-      "2025-01-08": {
+      "2025-01-26": {
          "rainfall": 0,
-         "t_max": 25,
-         "t_min": 17,
-         "rh_max": 86,
-         "rh_min": 35,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 61,
+         "rh_min": 21,
          "wind_speed": 4,
-         "wind_direction": 294,
-         "cloud_cover": 2
+         "wind_direction": 307,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
-      "green gram",
       "pigeon pea",
-      "cow",
-      "chick"
+      "green gram",
+      "tomato"
    ],
-   "general_advisory": "Rainfall followed by clear sky, dry weather favors sucking pests like aphids, Jassids, thrips, and whiteflies. To manage these pests at the early stage of infestation, spray neem-based pesticide (Neem Oil) 1500 PPM @600-ml/acre by mixing it in 200-litre of water. To manage these sucking pests chemically spray Thiamethoxam 25 % WG) @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre or Tolfenpyrad 15 % EC @ 400-ml/acre by mixing it in 200- litre of water.",
+   "general_advisory": "Irrigation should be done at 7-8 Days intervals depending upon soil moisture and weather condition. In view of prevailing low temperature, Provide light irrigation to standing vegetables and crops during morning hours. Pause sowing of rabi pulses and oil seeds for upcoming 5 days. There is the possibility of foggy weather with cloudy conditions in the next five days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "As the weather is expected to be clear, harvesting of matured rice can be done. Sundry for 2-3 days to reduce the moisture content to 14%."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "To manage whitefly infestation at the early stage of the crop, spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe, then go for a chemical pesticide like Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50-gram/acre by mixing in 200-litre of water."
+            "As clear weather is expected harvest matured rice if not harvested till now . If infestation of the stored grain insect pest is noticed in stored rice take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of the plastic cover should be plastered with 6- inch thick layer of mud/ adhesive tapes to prevent leakage of gas."
          ]
       },
       "pigeon pea": {
          "advisory": [
-            "Spotted pod borer observed in some places in Arhar, to control use bird perches @50/hacter, use Azadirachtin 0.03% WSP or use NSKE 5% or neem oil 2%."
+            "Harvest the red gram crop when 70-80% of Pods turn brown. Over -maturity can cause the shattering of seeds which results in lower yield. Harvesting should be done manually by using a sickle. Harvested plants should be kept on the threshing floor for sun drying for 3-6 days depending on the season."
          ]
       },
-      "cow": {
+      "green gram": {
          "advisory": [
-            "Animals should be given a mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
+            "In green gram/black gram, chances of infestation of leaf eating caterpillar and black headed caterpillar is there. For management spray a mixture of 2ml profenofos 50%EC or 2 ml quinalphos 25%EC or 1 ml dichlorvos 76%EC per litre of water @200 litres per acre during the afternoon."
          ]
       },
-      "chick": {
+      "tomato": {
          "advisory": [
-            "Keep the shed warm as night temperature is getting down. Provide a bulb to heat the room."
+            "Transplanted seedlings are at 6-8 week stage. Complete hoeing, and weeding and apply 27 kg urea at six week stage. Irrigate the crops after fertilizer application. If infested with leaf curl virus, Spray Imidachloprid 17.8% SL @ 0.5 ml or Dimethoate 30% EC @ 1 ml/litre of water at 15, 25, 45 days after transplanting."
          ]
       }
    },
-   "date": "03-01-2025"
+   "date": "21-01-2025"
 }

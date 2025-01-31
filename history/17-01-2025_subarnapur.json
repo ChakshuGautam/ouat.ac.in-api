@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "18-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 0,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "19-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 54,
+         "rh_min": 20,
+         "wind_speed": 2,
+         "wind_direction": 323,
+         "cloud_cover": 3
+      },
+      "20-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 57,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 2
+      },
+      "21-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 12,
+         "rh_max": 51,
+         "rh_min": 23,
+         "wind_speed": 3,
+         "wind_direction": 118,
+         "cloud_cover": 3
+      },
+      "22-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 13,
+         "rh_max": 48,
+         "rh_min": 24,
+         "wind_speed": 3,
+         "wind_direction": 100,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "mustard",
+      "fruit and vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast (date: 16.01.2025) of IMD, MC, Bhubaneswar, dry weather along with normal to below normal minimum temperature is expected over the districts of Odisha during week-1 (17th to 23rd January, 2025) and week-2 (24th to 30th January, 2025). Farmers are advised to take necessary precautions to protect crops and animals from cold weather conditions.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "To control weeds in nursery, farmers should spray Pyrazosulfuron-ethyl 10% WP @ 80 g/acre at 3-5 days after sowing (DAS) or Bispyribac sodium @ 120 ml/acre at 10-12 DAS (or at 2-3 leaf stage of weeds) in 140 liters of water.",
+            "If seedling blight is noticed, spray Carbendazim @ 400 g/acre or Propiconazole @ 200 g/acre in 200 liters of water.",
+            "Transplant 3-5 week old seedlings advised in well puddled soil at a spacing of 15 cm x 15 cm with 3-4 seedlings per hill at a shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Regular monitoring for Aphid attack in mustard. Use Acetamiprid @ 125g per 500 liters of water per hectare or Imidachloprid @ 0.5 ml per liter of water under dry weather conditions.",
+            "Avoid insecticide application at initial flowering stage."
+         ]
+      },
+      "fruit and vegetable crops": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug.",
+            "Training and pruning of diseased and unwanted branches and leaves advised.",
+            "Use straw as mulching material to maintain soil moisture and temperature.",
+            "Harvest mature crops and provide light irrigation in vegetative growth stage due to expected dry weather."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover animal shelter from all sides during night to avoid exposure to cold winds.",
+            "Cover weak and sick animals with sack cloth for protection from cold.",
+            "Do not keep animals in damp areas to prevent pneumonia. Protect animals from smoke as well.",
+            "Feed animals a mixture of oil cakes and jiggery for maintaining body temperature, especially pregnant animals."
+         ]
+      }
+   },
+   "date": "17-01-2025"
+}
