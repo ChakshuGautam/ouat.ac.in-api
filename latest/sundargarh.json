@@ -1,124 +1,110 @@
 {
    "weather_details": {
-      "29/01/2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 10,
-         "rh_max": 64,
-         "rh_min": 24,
-         "wind_speed": 3,
-         "wind_direction": 54,
-         "cloud_cover": 1
-      },
-      "30/01/2025": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 11,
-         "rh_max": 72,
-         "rh_min": 27,
-         "wind_speed": 2,
-         "wind_direction": 76,
-         "cloud_cover": 2
-      },
-      "31/01/2025": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 12,
-         "rh_max": 71,
-         "rh_min": 22,
-         "wind_speed": 2,
-         "wind_direction": 90,
-         "cloud_cover": 1
-      },
       "01/02/2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 12,
-         "rh_max": 62,
-         "rh_min": 22,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 66,
+         "rh_min": 27,
          "wind_speed": 2,
-         "wind_direction": 63,
+         "wind_direction": 51,
          "cloud_cover": 1
       },
       "02/02/2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 12,
-         "rh_max": 64,
-         "rh_min": 21,
-         "wind_speed": 3,
-         "wind_direction": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 70,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 72,
+         "cloud_cover": 1
+      },
+      "03/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 55,
+         "rh_min": 19,
+         "wind_speed": 4,
+         "wind_direction": 37,
          "cloud_cover": 2
+      },
+      "04/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 53,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 48,
+         "cloud_cover": 3
+      },
+      "05/02/2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 48,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 56,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "rape seed & mustard",
       "rabi paddy",
+      "rape seed & mustard",
       "wheat",
       "summer maize",
       "sesamum",
       "summer groundnut",
       "ragi",
-      "vegetable",
-      "fish farming",
-      "poultry farming"
+      "vegetable"
    ],
    "general_advisory": "Provide light irrigation to paddy nursery. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
-      "rape seed & mustard": {
-         "advisory": [
-            "Due to weather there will be severe infestation of aphids, spray Imidacloprid or Dimethoate @ 2 ml/lt.",
-            "Provide one irrigation at critical stage at flowering and pod development stage."
-         ]
-      },
       "rabi paddy": {
          "advisory": [
-            "Go for final land preparation and apply 35 kg DAP, 20 kg MOP and 8 kg Urea per acre during last puddling as basal fertilizer. After 48 hours of application of fertilizer again provide irrigation.",
-            "Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+            "Apply Pyrazo sulfuran ethyl to control the weeds at early stage i.e within 2-3 days of transplanting. The dose is 80 g/acre. Keep water at the time of spraying the herbicides. For proper growth of the seedling keep 2 cm water in the field."
+         ]
+      },
+      "rape seed & mustard": {
+         "advisory": [
+            "Due to weather there will be severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt.",
+            "Provide one irrigation at critical stage at flowering and pod development stage."
          ]
       },
       "wheat": {
          "advisory": [
-            "Due to weather there is chances of stem borer attack, to manage this spray Triazophos @ 2 ml/liter of water. Due to increased daytime temperature, provide critical stage irrigation to the crop. Survey for any insect.",
-            "Apply 12-16 kg Nitrogen/acre"
+            "Due to forecast of increased temperature, provide critical stage irrigation to the crop at flowering and milking stage. Survey for any insect and there is chances of stem borer attack. Apply 12-16 kg Nitrogen/acre"
          ]
       },
       "summer maize": {
          "advisory": [
-            "This is the right time for sowing of maize. Delay in maize sowing will hamper the pollination due to coincident with high temperature in pollination stage. Without delay sow maize @ 6 kg per acre. Apply 10 kg Chlorpyriphos per acre in termite-prone area. Spacing is 60 X 25 cm with 5 cm depth in soil."
+            "Due to upland ecosystem more weeds will be there, To control the weeds in upland apply Attrazine @ 1 kg/acre in 200 liters of water at the following day of sowing."
          ]
       },
       "sesamum": {
          "advisory": [
-            "Go for sowing sesame like Prachi, G-10, Kalika @ 3 kg/acre. Treat the seeds for protection of soil-borne and seed-borne disease. Apply 12-8-8 kg NPK/acre with Sulphur 10 kg as basal dose."
+            "Go for sowing sesamum like Prachi, G-10, Kalika @ 3 kg/acre. Treat the seeds for protection of soil born and seed born disease. Apply 12-8-8 kg NPK/acre with Sulphur 10 kg as basal dose."
          ]
       },
       "summer groundnut": {
          "advisory": [
-            "Complete sowing the summer groundnut at 30 X 10 cm spacing. Seed rate is 50 kg pod/ac. Good varieties like Kalinga Chinabadam, Devi, Dharani.",
-            "In the early sown crop, do not go for intercultivation after flowering."
+            "Complete sowing the summer groundnut at 30X10 cm spacing. Seed rate is 50 kg pod/ac. Good varieties like Kalinga Chinabadam, Devi, Dharani. Kadri, AK12-24",
+            "In the already sown crop, do not go for intercultivation after flowering."
          ]
       },
       "ragi": {
          "advisory": [
-            "Prepare the field and apply 2 t of FYM/ac at final land preparation. Transplant the ragi seedling of 21 days old at a spacing of 22.5 X 10 cm."
+            "Go for intercultivation and apply 12 kg Nitrogen after 3 weeks of transplanting."
          ]
       },
       "vegetable": {
          "advisory": [
-            "In cucurbots, due to weather there is chances of Downy Mildew, to manage this apply Macozeb @ 2.5 g/liter of water."
-         ]
-      },
-      "fish farming": {
-         "advisory": [
-            "Provide the feed mixture according to the body weight."
-         ]
-      },
-      "poultry farming": {
-         "advisory": [
-            "Keep clean the poultry house"
+            "In cucurbits, due to weather there is chances of Downy Mildew, to manage this apply Mancozeb @ 2.5 g/liter of water."
          ]
       }
    },
-   "date": "28-01-2025"
+   "date": "31-01-2025"
 }

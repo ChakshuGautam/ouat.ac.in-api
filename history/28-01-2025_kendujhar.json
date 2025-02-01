@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 94,
+         "rh_min": 32,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 12,
+         "rh_max": 93,
+         "rh_min": 36,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 86,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 11,
+         "rh_max": 88,
+         "rh_min": 30,
+         "wind_speed": 1,
+         "wind_direction": 214,
+         "cloud_cover": 2
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 85,
+         "rh_min": 29,
+         "wind_speed": 4,
+         "wind_direction": 156,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "linseed",
+      "chickpea",
+      "mustard and toria",
+      "coriander",
+      "pea",
+      "chilli",
+      "potato"
+   ],
+   "general_advisory": "Monitor the field for aphids, jassids and whitefly and spray Imidachloprid and Dimethoate during morning and evening hours to reduce infestation. Provide light irrigation to the crops. Harvesting of fruits and vegetables should be done at morning. The transportation of fruits and vegetables to market should be done carefully. Remove any weeds from the field and make the root zone clean.",
+   "crops_data": {
+      "linseed": {
+         "advisory": [
+            "Irrigate the linseed crop if soil is getting dry.",
+            "Remove the dried and wilted plants.",
+            "For the better growth of plants, weeding should be done.",
+            "Monitor the field for any diseases and pests.",
+            "Whitefly, aphids can be managed in linseed by spraying Dimethoate 30 EC @ 2 ml/lt."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Remove the wilted plants.",
+            "Weeding should be done regularly.",
+            "The low temperature may hamper the flowering. Irrigate the crop if it is possible.",
+            "Cutworm infestation may be seen in the field. Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt.",
+            "Powdery mildew in chickpea is a major problem in recent time. To manage the same, wettable sulphur powder or copper oxychloride @ 2 ml/lt can be sprayed on the crops. Repeat it after 7 days for better result."
+         ]
+      },
+      "mustard and toria": {
+         "advisory": [
+            "The siliqua is in development stage which may attract different pests like grasshopper, aphids and larvae. Therefore, regularly, keep a watch in the crop field.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water.",
+            "In severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt."
+         ]
+      },
+      "coriander": {
+         "advisory": [
+            "Provide light and frequent irrigation to the crops.",
+            "Harvest the matured plants by uprooting them.",
+            "Make bundles of the coriander plants and sell them at market.",
+            "Spray or sprinkle water to keep it fresh."
+         ]
+      },
+      "pea": {
+         "advisory": [
+            "Pod borers in pea cause a lot of damage to the fruits by boring into flowers and pods. To manage the same spray Emamectin benzoate 4% SG @ 5g/10lt or Chloropyriphos @ 1 ml/lt.",
+            "For managing Powdery mildew, spray Karathane 40 EC @ 1 ml/lt."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Provide vermicompost and manures to the crop.",
+            "Little leaf in Chilli can be seen in the field. If that happens spray Dimethoate @ 2 ml/lt.",
+            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Provide light irrigation to the crop.",
+            "Earthing up is required in potato to prevent from direct exposure to sun. As this will deteriorate the quality of potato by solanine production.",
+            "If wilting is seen in the field, drench Blitox-50 @ 45g + Steptocycline @ 2g in 10lts of water."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

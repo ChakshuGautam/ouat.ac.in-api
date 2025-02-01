@@ -1,0 +1,112 @@
+{
+   "weather_details": {
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 50,
+         "wind_speed": 6,
+         "wind_direction": 259,
+         "cloud_cover": 0
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 82,
+         "rh_min": 50,
+         "wind_speed": 9,
+         "wind_direction": 223,
+         "cloud_cover": 0
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 88,
+         "rh_min": 49,
+         "wind_speed": 10,
+         "wind_direction": 223,
+         "cloud_cover": 0
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 95,
+         "rh_min": 54,
+         "wind_speed": 10,
+         "wind_direction": 217,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 94,
+         "rh_min": 46,
+         "wind_speed": 1,
+         "wind_direction": 213,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "mustard",
+      "groundnut",
+      "cole crops",
+      "tomato",
+      "brinjal",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to irrigate their fields due to mild dry conditions. Various crop-specific management practices are recommended as per the advisory provided.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer in paddy, use Trichogrammajaponicum card and pheromone traps.",
+            "Rice seedling treatment with Chloropyriphos and granular insecticides.",
+            "Foot rot disease management in paddy with specific sprays."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Management of pest infestation like Aphid and Painted Bug.",
+            "Chemical sprays recommended for pest control."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Stem rot management with specific soil drenching."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Management of Diamond Back Moth and Head Borer infestation in Cauliflower and Cabbage crops.",
+            "Specific pesticide sprays recommended for pest control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Control of Aphid infestation with specific sprays."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Management of Epilachna Beetle infestation through manual collection and specific pesticide sprays."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Thrips control in rose through specific sprays."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for fish hibernation."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

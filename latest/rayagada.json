@@ -1,78 +1,84 @@
 {
    "weather_details": {
-      "2025-01-22": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 13,
-         "rh_max": 65,
-         "rh_min": 14,
+      "2025-02-01": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 93,
+         "rh_min": 28,
          "wind_speed": 2,
-         "wind_direction": 329,
+         "wind_direction": 194,
          "cloud_cover": 3
       },
-      "2025-01-23": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 13,
-         "rh_max": 74,
-         "rh_min": 15,
+      "2025-02-02": {
+         "rainfall": 0.0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 89,
+         "rh_min": 26,
          "wind_speed": 1,
-         "wind_direction": 225,
-         "cloud_cover": 2
+         "wind_direction": 198,
+         "cloud_cover": 3
       },
-      "2025-01-24": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 74,
-         "rh_min": 17,
-         "wind_speed": 1,
-         "wind_direction": 243,
-         "cloud_cover": 2
-      },
-      "2025-01-25": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 71,
-         "rh_min": 18,
-         "wind_speed": 1,
-         "wind_direction": 297,
-         "cloud_cover": 2
-      },
-      "2025-01-26": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 14,
-         "rh_max": 59,
-         "rh_min": 15,
+      "2025-02-03": {
+         "rainfall": 0.0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 82,
+         "rh_min": 21,
          "wind_speed": 2,
-         "wind_direction": 329,
-         "cloud_cover": 1
+         "wind_direction": 225,
+         "cloud_cover": 3
+      },
+      "2025-02-04": {
+         "rainfall": 0.0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 73,
+         "rh_min": 21,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 2
+      },
+      "2025-02-05": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 73,
+         "rh_min": 20,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "pigeon pea",
-      "maize",
-      "banana"
+      "sunflower",
+      "cabbage",
+      "cow"
    ],
-   "general_advisory": "To manage thrips infestation install Blue sticky trap @ 8 nos./acre.For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL  0.35 ml/lit of water . Provide light irrigation to standing vegetables and crops during morning hours to prevent damage from fog, low temperature and moisture stress.",
+   "general_advisory": "To manage thrips infestation install Blue sticky trap @ 8 nos./acre.For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water.",
    "crops_data": {
       "pigeon pea": {
          "advisory": [
-            "Infestation of leaf webber has been noticed. To control leaf webber spray Profenophos 50% EC or Chlorpyriphos 50 % + Cypermethrin 5 % EC @ 2 ml/lit @ 2ml/lit of water . Complete the manual weeding operation or spray Imazethapyr 10% SL  @ 1.5ml/lit with MSO adjuvant @ 2ml/lit of water to control chemically at 20-25 DAS. To prevent sucking pests like aphids and thrips, neem-based pesticide (1500 ppm) may be sprayed @ 3ml/ lit of water."
+            "Pod borer has been observed in red gram. Spray Spinosad 45 SC @ 80 ml per 200 litre of water per acre of land to control pod borer."
          ]
       },
-      "maize": {
+      "sunflower": {
          "advisory": [
-            "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water."
+            "For early sown summer sunflower, go for hoeing and weeding. Apply 3 kg N to improved varieties and 6 kg to hybrid ones. Thin out plants keeping one healthy plant per hill."
          ]
       },
-      "banana": {
+      "cabbage": {
          "advisory": [
-            "To manage stem weevil, install Cosmolure pheromone traps @ 10/acre in banana garden. Dip the banana stem in warm water for 30 minutes before planting. Fill the pit with 25 g neem pedia or 25-50 g any granular insecticide before planting. Cut the affected plant into pieces and dry under sun. Keep the banana garden neat and clean."
+            "There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-litre of water . To manage this pest chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ 80-gram/acre by mixing in 200-litre of water."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "To avoid FMD disease of cow, vaccination must be done in six months interval during February and September in a year."
          ]
       }
    },
-   "date": "21-01-2025"
+   "date": "31-01-2025"
 }

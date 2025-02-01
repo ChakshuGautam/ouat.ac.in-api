@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 93,
+         "rh_min": 34,
+         "wind_speed": 1,
+         "wind_direction": 304,
+         "cloud_cover": 2
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 89,
+         "rh_min": 37,
+         "wind_speed": 3,
+         "wind_direction": 214,
+         "cloud_cover": 1
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 92,
+         "rh_min": 33,
+         "wind_speed": 5,
+         "wind_direction": 225,
+         "cloud_cover": 1
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 96,
+         "rh_min": 34,
+         "wind_speed": 3,
+         "wind_direction": 212,
+         "cloud_cover": 3
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 96,
+         "rh_min": 29,
+         "wind_speed": 5,
+         "wind_direction": 200,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "summer rice",
+      "blackgram/greengram",
+      "rapeseed and mustard",
+      "vegetables"
+   ],
+   "general_advisory": "As per IMD, there may be a possibility of dry weather for the next 5 days so Farmers are advised to continue spraying operations for cultivation of rabi crops. Weather condition is favorable for sucking pest like White fly, Aphids, Jassids & Thirps in vegetables so regular monitor the crop & install yellow sticky trap @ 8/acre.",
+   "crops_data": {
+      "summer rice": {
+         "advisory": [
+            "Farmers those who are going for transplanting should apply 35 - kg DAP, 20-kg MOP and 8 -kg Urea per acre during last puddling as basal fertilizer. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre.",
+            "Transplanting of 25 -30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2 -3 seedlings per hill for high yielding varieties.",
+            "Foliar spraying of (Tebuconazole + Trifloxystrobin)@0.5ml/litre of water along with plantomycin@1g/litre of water 5 -6 days before transplanting recommended for disease management in nursery & main field."
+         ]
+      },
+      "blackgram/greengram": {
+         "advisory": [
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days. On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and keep in shade.",
+            "Seed rate: Green gram and Black gram: 25 -30Kg/ha, Spacing- 25cm * 10cm, Variety -Green gram -Virat, Sikha, PDM -54,IEPM -203, Blackgram -PU-10,PU -11"
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Provide one irrigation at critical stage at flowering and pod development stage.",
+            "Farmers those who have not applied Sulphur as basal application, spraying of sulphur @5ml/litre of water recommended. For better pollination & seed setting foliar spray of Boron (20%)@1.5g/litre of water recommended.",
+            "Monitor the infestation of Aphid, Tobacco caterpillar, Cabbage webber & incidence of alternaria leaf spot disease in mustard. To control aphid in mustard apply flonicamid 50WG@ 60g/acre. Irrigate the field if soil moisture stress is observed."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thirps and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/litre of water.",
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/liter of water."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

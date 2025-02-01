@@ -1,0 +1,107 @@
+{
+   "weather_details": {
+      "22/01/2025": {
+         "rainfall": 0,
+         "t_max": 18,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 48,
+         "wind_speed": 7,
+         "wind_direction": 209,
+         "cloud_cover": 0
+      },
+      "23/01/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 89,
+         "rh_min": 50,
+         "wind_speed": 12,
+         "wind_direction": 208,
+         "cloud_cover": 0
+      },
+      "24/01/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 18,
+         "rh_max": 89,
+         "rh_min": 47,
+         "wind_speed": 8,
+         "wind_direction": 218,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "mustard",
+      "black gram",
+      "green gram",
+      "potato",
+      "cole crops",
+      "tomato",
+      "brinjal",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "As per the forecast received from IMD, dry weather may prevail over the district of Khordha. Farmers are advised to irrigate their fields as there is a mildly dry condition. Various crop-specific advisory information is provided in the advisory section.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer in paddy at an early stage, use Trichogrammajaponicum card weekly for 6 times.",
+            "Apply various chemical pesticides for stem borer control."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot, drench soil with Validamycin or Captan + Hexaconazole."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "To manage Aphid and Painted Bug, spray Neem Based Pesticide or various chemical sprays."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew, spray Sulphur or various fungicides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew, spray Sulphur or various fungicides."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To manage Early Blight disease, spray Mancozeb or Carbendazim."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "To manage Diamond Back Moth and Head Borer, collect caterpillars and eggs, spray Neem based pesticide or various chemical sprays."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control Aphid, spray neem oil formulation."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage Epilachna Beetle, shake plants, destroy insects, spray neem-based pesticide or various insecticides."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips, spray Fenpyroximate or Abamactin."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for fish hibernation in colder temperatures."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

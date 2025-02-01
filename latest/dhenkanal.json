@@ -1,68 +1,81 @@
 {
    "weather_details": {
-      "28.01.2025": {
+      "31.01.2025": {
          "rainfall": 0,
          "t_max": 28,
-         "t_min": 16,
-         "rh_max": 82,
-         "rh_min": 50,
-         "wind_speed": 5,
+         "t_min": 19,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 10,
          "wind_direction": 120,
-         "cloud_cover": 5
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "groundnut",
       "sugarcane",
+      "potato",
+      "onion",
       "cabbage",
       "cauliflower",
-      "tomato",
-      "potato",
+      "chilli",
       "brinjal",
-      "poultry"
+      "mango",
+      "jasmine"
    ],
-   "general_advisory": "To manage chemically sprays Thiamethoxam 25% W. G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml acre...",
+   "general_advisory": "Various crop-specific advisory provided in the bulletin for pest management, disease control, and crop nutrition.",
    "crops_data": {
       "groundnut": {
          "advisory": [
-            "There may be chances of Tikka disease in groundnut. Black & nearly circular spots appear on the lower surface of the leaflets of infected plant."
+            "To manage Tikka disease, spray Chlorothalonil 75% WP or Mancozeb 75% WP or Hexaconazole 5% E.C as per recommended dosages."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Sugarcane crop is a heavy feeder. Apply 87kg of DAP, 20kg of MOP and 4-ton of FYM at the time of planting in trenches."
-         ]
-      },
-      "cabbage": {
-         "advisory": [
-            "Present weather condition favourable for infestation of Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops."
-         ]
-      },
-      "cauliflower": {
-         "advisory": [
-            "Present weather condition favourable for infestation of Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Prevailing fog condition may increase the infestation Aphid."
+            "Apply appropriate amounts of DAP, MOP, and FYM during the planting stage for better growth."
          ]
       },
       "potato": {
          "advisory": [
-            "There are chances of Early Blight disease incidence in Potato."
+            "To control Cut worm, spray Chlorpyriphos 50% + Cypermethrin 5% E.C at recommended concentration."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight, spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C at designated intervals.",
+            "Add a spreader or sticker for better spray fluid retention."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Collect and destroy Dimond Back Moth and Head Borer caterpillars and egg masses. Use Neem-based pesticide for management."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Collect and destroy Dimond Back Moth and Head Borer caterpillars and egg masses. Use Neem-based pesticide for management."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage thrips, aphids, spray neem-based pesticide or chemical insecticides as required."
          ]
       },
       "brinjal": {
          "advisory": [
-            "There is a chance of Epilachna Beetle infestation in Brinjal due to dry weather condition."
+            "To manage Epilachna Beetle, dislodge grubs, pupae, and adults early in the morning. Use neem-based pesticide or chemical insecticides for control."
          ]
       },
-      "poultry": {
+      "mango": {
          "advisory": [
-            "Sleeping disease of poultry has been found. Vaccinate the chicks with Lasota at 7 days and with IBD vaccines within 13-15 days."
+            "To manage mango hoppers, apply recommended insecticides at specified intervals for better pest control."
+         ]
+      },
+      "jasmine": {
+         "advisory": [
+            "Prune jasmine plants for better flowering. Apply Bordeux mixture to cut parts for protection."
          ]
       }
    },
-   "date": "28-01-2025"
+   "date": "31-01-2025"
 }

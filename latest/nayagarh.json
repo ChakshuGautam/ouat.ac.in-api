@@ -53,7 +53,7 @@
    },
    "names_of_crops": [
       "rice",
-      "pigeon pea",
+      "pigeon pea (red gram/arhar)",
       "brinjal",
       "menacinakahi",
       "chilli",
@@ -64,13 +64,12 @@
    "crops_data": {
       "rice": {
          "advisory": [
-            "If medium duration variety of rice is in milking stage then keep standing water upto 3-4 inches.",
-            "If short duration rice varieties have attained 85% physiological maturity, then harvest it.",
+            "If medium duration variety of rice is in milking stage then keep standing water upto 3-4 inches. If short duration rice varieties have attained 85% physiological maturity, then harvest it.",
             "In order to control sheath blight in rice, spray Validamycin @ 400 ml or (Trifloxistrobin + Tebuconazole) @ 80 g in 200 litres of water per acre of land.",
             "In order to control green leaf hopper in rice, spray Thiamethoxam @ 100 g in 200 litres of water per acre of land."
          ]
       },
-      "pigeon pea": {
+      "pigeon pea (red gram/arhar)": {
          "advisory": [
             "Pod borer in pigeon pea cultivation has been noticed in some places. Spray Chlorantraniliprole @ 80 ml in 200 litres of water per acre of land to control it."
          ]

@@ -1,0 +1,51 @@
+{
+   "weather_details": {
+      "2022-10-01": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 5
+      },
+      "2022-10-02": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 17,
+         "rh_max": 80,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "wheat",
+      "maize",
+      "tomato"
+   ],
+   "general_advisory": "It is recommended to monitor crop health and irrigation schedules closely during the upcoming week.",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "Ensure proper irrigation is maintained.",
+            "Watch out for signs of pest infestation."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Prepare for harvesting in the next few days.",
+            "Check for any fungal infections."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prune tomato plants for better growth.",
+            "Protect plants from excessive sunlight."
+         ]
+      }
+   },
+   "date": "24-01-2025"
+}

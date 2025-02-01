@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "29-01-2025": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 15,
-         "rh_max": 61,
-         "rh_min": 24,
-         "wind_speed": 2,
-         "wind_direction": 101,
-         "cloud_cover": 1
-      },
-      "30-01-2025": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 16,
-         "rh_max": 73,
-         "rh_min": 27,
-         "wind_speed": 2,
-         "wind_direction": 117,
-         "cloud_cover": 1
-      },
-      "31-01-2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 16,
-         "rh_max": 67,
-         "rh_min": 21,
-         "wind_speed": 3,
-         "wind_direction": 196,
-         "cloud_cover": 1
-      },
       "01-02-2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 15,
-         "rh_max": 63,
-         "rh_min": 22,
-         "wind_speed": 3,
-         "wind_direction": 214,
-         "cloud_cover": 2
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 64,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 1
       },
       "02-02-2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 15,
-         "rh_max": 57,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 67,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 202,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 55,
          "rh_min": 20,
-         "wind_speed": 5,
-         "wind_direction": 167,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 57,
+         "rh_min": 22,
+         "wind_speed": 2,
+         "wind_direction": 63,
          "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 51,
+         "rh_min": 22,
+         "wind_speed": 4,
+         "wind_direction": 79,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
@@ -57,28 +57,27 @@
       "black gram",
       "mango",
       "vegetable crops",
-      "livestock",
-      "poultry"
+      "livestock"
    ],
-   "general_advisory": "According to the daily forecast of IMD, MC, Bhubaneswar, there is no large change in minimum temperature is expected during the next two days and thereafter rise by 2-4 deg. cen. in subsequence three days over the district of Odisha. Looking to the dry weather condition in the upcoming days, farmers are advised to provide one irrigation in crop field and conduct all kinds of spraying and intercultural operations in standing crop fields. Farmers should keep their field weed-free for proper crop growth. Prevailing temperature condition (high gap in day and night temperature) may affect various types of crop (favour different kinds of insect attack) as well as animals.",
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to above normal minimum temperature (night temperature) is expected over the districts of Odisha during week-1 (31st January to 6th February, 2025) and in week-2 (7th to 13th February, 2025), minimum temperature is very likely to be normal over the state. Looking to the dry weather condition in upcoming days farmers are advised to provide one irrigation in crop field and conduct all kind of spraying and intercultural operations in standing crop fields. Farmers should keep their field weed-free for proper crop growth. Prevailing temperature condition (high gap in day and night temperature) may affect various types of crops (favor different kinds of insect attack) as well as animals.",
    "crops_data": {
       "dry season rice": {
          "advisory": [
-            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil at a spacing of 15cm x 15cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44kg + MOP 22kg) or (Urea 22kg + SSP 125kg + MOP 22kg) as basal dose during final puddling.",
-            "Weed Management: Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/acre at 5-8 DAT. Mix the granular herbicide with 4kg of sand/acre and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 WP @ 80g/acre in 140 litres of water at 3-5 DAT or spray Bispyribac sodium @ 120ml/acre at 10-15 DAT or 2-3 leaf stage of weeds in 140 litres of water.",
-            "Insect/Pest management: In just transplanted field use 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Whenever the number of male moths in trap reaches 4 or 5, spraying of Azadiractin 0.15% neem seed kernel-based EC formulation @ 800ml/acre should be advised."
+            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil at a spacing of 15cm ×15cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44kg + MOP 22kg) or (Urea 22kg + SSP 125kg + MOP 22kg) as basal dose during final puddling.",
+            "Weed Management: Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/acre at 5-8 DAT. Mix the granular herbicide with 4kg of sand/acre and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10WP @ 80g/acre in 140 litres of water at 3-5 DAT or spray Bispyribac sodium @ 120ml/acre at 10-15 DAT or 2-3 leaf stage of weeds in 140 litres of water.",
+            "Insect/Pest management: In just-transplanted field use 3 pheromone traps with 5mg lure/acre in the Gramin Krishi Mausam Sewa India Meteorological Department Orissa University of Agriculture and Technology RRTTS, Chiplima, Sambalpur for monitoring of the yellow stem borer and leaf folder. Whenever the number of male moths in trap reaches 4 or 5, spraying of Azadiractin 0.15% neem seed kernel based EC formulation @ 800ml/acre should be advised. Farmers may also broadcast granular insecticide Chlorantraniliprole 4% GR @ 4kg/acre or Cartap hydrochloride 4G @ 10kg/acre mixing with sand at 1:1 ratio or spray Chlorantraniliprole 18.5% SC @ 60ml/acre in 200 litres of water to control these insects."
          ]
       },
       "green gram": {
          "advisory": [
-            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insects at the vegetative stage. At the initial stage of attack, farmers should spray 5ml neem oil per liter of water to control these insects.",
-            "Insecticide application should be avoided at the flowering stage."
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insects at vegetative stage. At the initial stage of attack, farmers should spray 5ml neem oil per liter of water to control these insects.",
+            "Insecticide application should be avoided at flowering stage."
          ]
       },
       "black gram": {
          "advisory": [
-            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insects at the vegetative stage. At the initial stage of attack, farmers should spray 5ml neem oil per liter of water to control these insects.",
-            "Insecticide application should be avoided at the flowering stage."
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insects at vegetative stage. At the initial stage of attack, farmers should spray 5ml neem oil per liter of water to control these insects.",
+            "Insecticide application should be avoided at flowering stage."
          ]
       },
       "mango": {
@@ -90,22 +89,17 @@
       "vegetable crops": {
          "advisory": [
             "To control leaf-eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4g per liter of water should be advised.",
-            "For Diamond Back Moth attack in Cauliflower, spraying of Spinosad 45 SC @ 0.5ml or Fipronil 5% SC @ 2ml or Neem oil @ 5ml per liter of water should be advised.",
+            "For Diamond Back Moth attack in Cauliflower, spraying of Spinosad 45SC @ 0.5ml or Fipronil 5% SC @ 2ml or Neem oil @ 5ml per liter of water should be advised.",
             "Regular monitoring against sucking insect attack should be advised.",
-            "Avoid chemical application at the flowering stage."
+            "Avoid chemical application at flowering stage."
          ]
       },
       "livestock": {
          "advisory": [
-            "To maintain the body temperature of animals in the prevailing weather condition (large gap in day and night temperature), they should be fed with a mixture of oil cakes and jaggery including covering of the body during cold hours. Pregnant animals (>6 months) should be given additional feed.",
-            "Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worm."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "In Poultry, keep the chicks warm by providing artificial light in the poultry sheds to protect them from cold weather at nighttime."
+            "To maintain the body temperature of animals in prevailing weather condition (large gap in day and night temperature), they should be fed with a mixture of oil cakes and jiggery including covering of bodies during cold hours. Pregnant animals (>6 months) should be given additional feed.",
+            "Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worms."
          ]
       }
    },
-   "date": "28-01-2025"
+   "date": "31-01-2025"
 }

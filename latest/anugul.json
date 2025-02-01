@@ -1,73 +1,72 @@
 {
    "weather_details": {
-      "2025-01-25": {
-         "rainfall": 0.2,
-         "t_max": 33,
-         "t_min": 16,
-         "rh_max": 83,
-         "rh_min": 24,
-         "wind_speed": 1,
-         "wind_direction": 45,
-         "cloud_cover": 2
-      },
-      "2025-01-26": {
-         "rainfall": 0.2,
+      "2025-02-01": {
+         "rainfall": 0.0,
          "t_max": 32,
          "t_min": 16,
-         "rh_max": 68,
-         "rh_min": 26,
+         "rh_max": 93,
+         "rh_min": 33,
          "wind_speed": 2,
-         "wind_direction": 334,
+         "wind_direction": 63,
+         "cloud_cover": 3
+      },
+      "2025-02-02": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 94,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 108,
          "cloud_cover": 1
       },
-      "2025-01-27": {
-         "rainfall": 0.2,
-         "t_max": 32,
-         "t_min": 15,
-         "rh_max": 81,
-         "rh_min": 19,
-         "wind_speed": 2,
-         "wind_direction": 14,
-         "cloud_cover": 2
-      },
-      "2025-01-28": {
-         "rainfall": 0.2,
-         "t_max": 32,
-         "t_min": 15,
-         "rh_max": 79,
-         "rh_min": 21,
+      "2025-02-03": {
+         "rainfall": 0.0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 82,
+         "rh_min": 23,
          "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 3
+      },
+      "2025-02-04": {
+         "rainfall": 0.0,
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 29,
+         "wind_speed": 2,
          "wind_direction": 45,
          "cloud_cover": 2
       },
-      "2025-01-29": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 15,
-         "rh_max": 91,
-         "rh_min": 17,
-         "wind_speed": 2,
-         "wind_direction": 79,
-         "cloud_cover": 2
+      "2025-02-05": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 75,
+         "rh_min": 26,
+         "wind_speed": 4,
+         "wind_direction": 101,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "tomato",
-      "black gram"
+      "brinjal",
+      "chicken"
    ],
-   "general_advisory": "Don’t feed wet or water soaked straw to cattle. Before feeding dry it well under Sun.Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, and even death in severe case. Good ventilation must be ensured during winter",
+   "general_advisory": "Foggy weather may lead to increase infestation of Powdery Mildew in several winter vegetables and Mung, Urd. Spray Mixture of 1 litre water with 1 gram Thiophanate Methyl or 1 ml Tebuconazole. sucking pest attack might be seen in ground nut crop. Go for foliar application of Thiomethoxam 25% WG 165 Gram/ha in 500litre of water.",
    "crops_data": {
-      "tomato": {
+      "brinjal": {
          "advisory": [
-            "Wilting or partial wilting in tomato has been observed. To prevent from wilting or partial wilting, apply Neem or Karanjaa cake. And spray (basal + foliar) Tebuconazole fungicide @ 1ml/liter."
+            "There are chances of Solanaceae plant getting infested by bacterial wilt. First uproot the affected plants and destroy them then apply a mixture of Streptocyclin 6gram in 15 litre of water and give a flood irrigation in water channels."
          ]
       },
-      "black gram": {
+      "chicken": {
          "advisory": [
-            "Powdery mildew disease has been observed in black gram. Spray Sulphur 80 WP @ 800 gm in 200 litres of water per acre of land to control powdery mildew."
+            "For preventing CRD (Chronic Respiratory Disease) maintain litter properly, take care of disinfection and avoid ammonia build up in poultry shed. Stirring of the litter twice a day to make the litter dry."
          ]
       }
    },
-   "date": "24-01-2025",
-   "ERROR": "Not getting consistent data."
+   "date": "31-01-2025"
 }

@@ -1,0 +1,110 @@
+{
+   "weather_details": {
+      "18/01/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 0,
+         "rh_max": 87,
+         "rh_min": 46,
+         "wind_speed": 4,
+         "wind_direction": 236,
+         "cloud_cover": 0
+      },
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 87,
+         "rh_min": 46,
+         "wind_speed": 6,
+         "wind_direction": 236,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 211,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "mustard",
+      "groundnut",
+      "black gram",
+      "green gram",
+      "potato",
+      "cole crops",
+      "tomato",
+      "brinjal",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to irrigate their field as there is mild dry condition prevailing. Various crop-specific advisories are provided for managing pests and diseases.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer, use Trichogrammajaponicum card @ 1/acre weekly for 6 times.",
+            "Apply pheromone traps @ 5/acre.",
+            "Apply Cartap Hydrochloride 4% G @ 8kg/acre or Chlorantraniliprole 0.4% GR @ 4kg/acre or Imidacloprid 0.3% GR @ 6kg/acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "To manage Aphid and Painted Bug infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre.",
+            "Chemically spray Thiamethoxam 25% W.G @ 40g/acre or Acetamiprid 20% S.P. @ 50g/acre or Imidacloprid 17.8% SL @ 60-ml/acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot, drench soil with Validamycin 3% L @ 400-ml/acre or Captan 70% + Hexaconazole 5% WP@ 300-gram/acre."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew disease, spray Sulphur 80% WP @ 800-gram/acre or Hexaconazole 5% E.C @ 300-ml/acre."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew disease, spray Sulphur 80% WP @ 800-gram/acre or Hexaconazole 5% E.C @ 300-ml/acre."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To manage Early Blight disease, spray Mancozeb 75% WP @600g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400g/acre."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "To manage Diamond Back Moth and Head Borer infestation, collect and destroy caterpillars and egg masses, and spray Neem based Pesticide.",
+            "Chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control Aphid, spray neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage Epilachna Beetle, shake plants to dislodge grubs, pupae, and adults, and spray neem-based pesticide at early stage of infestation."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips, spray Fenpyroximate 5% EC @ 2 ml or Abamactin @ 1 ml per litre of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth up to 6 ft for fish hibernating in the warmer bottom zone."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

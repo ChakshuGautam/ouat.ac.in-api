@@ -1,0 +1,73 @@
+{
+   "weather_details": {
+      "2025-01-25": {
+         "rainfall": 0.2,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 24,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-01-26": {
+         "rainfall": 0.2,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 68,
+         "rh_min": 26,
+         "wind_speed": 2,
+         "wind_direction": 334,
+         "cloud_cover": 1
+      },
+      "2025-01-27": {
+         "rainfall": 0.2,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 81,
+         "rh_min": 19,
+         "wind_speed": 2,
+         "wind_direction": 14,
+         "cloud_cover": 2
+      },
+      "2025-01-28": {
+         "rainfall": 0.2,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 79,
+         "rh_min": 21,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-01-29": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 91,
+         "rh_min": 17,
+         "wind_speed": 2,
+         "wind_direction": 79,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "tomato",
+      "black gram"
+   ],
+   "general_advisory": "Don’t feed wet or water soaked straw to cattle. Before feeding dry it well under Sun.Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, and even death in severe case. Good ventilation must be ensured during winter",
+   "crops_data": {
+      "tomato": {
+         "advisory": [
+            "Wilting or partial wilting in tomato has been observed. To prevent from wilting or partial wilting, apply Neem or Karanjaa cake. And spray (basal + foliar) Tebuconazole fungicide @ 1ml/liter."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Powdery mildew disease has been observed in black gram. Spray Sulphur 80 WP @ 800 gm in 200 litres of water per acre of land to control powdery mildew."
+         ]
+      }
+   },
+   "date": "24-01-2025",
+   "ERROR": "Not getting consistent data."
+}

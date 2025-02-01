@@ -1,1 +1,1 @@
-"District_done: 28, Total_district: 30"
+"District_done: 30, Total_district: 30"

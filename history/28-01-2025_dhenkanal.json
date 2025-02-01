@@ -1,0 +1,68 @@
+{
+   "weather_details": {
+      "28.01.2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 82,
+         "rh_min": 50,
+         "wind_speed": 5,
+         "wind_direction": 120,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sugarcane",
+      "cabbage",
+      "cauliflower",
+      "tomato",
+      "potato",
+      "brinjal",
+      "poultry"
+   ],
+   "general_advisory": "To manage chemically sprays Thiamethoxam 25% W. G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml acre...",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "There may be chances of Tikka disease in groundnut. Black & nearly circular spots appear on the lower surface of the leaflets of infected plant."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Sugarcane crop is a heavy feeder. Apply 87kg of DAP, 20kg of MOP and 4-ton of FYM at the time of planting in trenches."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Present weather condition favourable for infestation of Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Present weather condition favourable for infestation of Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prevailing fog condition may increase the infestation Aphid."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "There are chances of Early Blight disease incidence in Potato."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "There is a chance of Epilachna Beetle infestation in Brinjal due to dry weather condition."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Sleeping disease of poultry has been found. Vaccinate the chicks with Lasota at 7 days and with IBD vaccines within 13-15 days."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

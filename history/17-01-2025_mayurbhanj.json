@@ -54,8 +54,7 @@
    "names_of_crops": [
       "rice",
       "sunflower",
-      "blackgram",
-      "greengram",
+      "blackgram and greengram",
       "mustard",
       "groundnut",
       "red gram",
@@ -67,104 +66,72 @@
       "onion",
       "potato"
    ],
-   "general_advisory": "Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed.",
+   "general_advisory": "Due to low night temperature and fog condition, there will be a chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows, and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact with cold air. For maintaining the heat in the poultry shed during the winter season, install heaters in the shed.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 11, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during dry season.",
-            "Seed rate for an acre of land is 20 kg for these varieties.",
-            "Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3-gram /1 kg of seeds before sowing in the nursery."
+            "Arrange good quality paddy seed varieties like Satyabhama, Sahabhagi Dhan, Mandakini, Manaswini, DRR 42, DRR-43, DRR-44, Bina 11, GB-1, Improved Lalat, MTU 1010, MTU 1001, Naveen, Swarna Shreya which can be grown during the dry season. Seed rate for an acre of land is 20 kg for these varieties. Treat the seeds with Carbendazim 50% W.P @ 2-gram/1-kg of seeds or Carboxin 37.5% + Thiram 37.5% @ 3-gram /1 kg of seeds before sowing in the nursery."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Apply half dose of Urea (Inbred -6kg/ac, Hybrid -12kg/ac) + half dose of MOP (Inbred -10 kg/ac, Hybrid -20 kg/ac) as 2nd top dressing at second irrigation.",
-            "Prevailing weather condition favours the development of sucking pests.",
-            "Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended.",
-            "Powdery mildew: Spray 0.2% wettable sulphur @ 2g /ltr of water."
+            "Apply half dose of Urea (Inbred -6kg/ac, Hybrid -12kg/ac) + half dose of MOP (Inbred -10 kg/ac, Hybrid -20 kg/ac) as 2nd top dressing at the second irrigation. Sucking pest complex (Aphid, Hopper, Thrips & Whitefly): Prevailing weather condition favors the development of sucking pests. Need-based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 liters of water is recommended. Powdery mildew: Spray 0.2% wettable sulfur @ 2g/ltr of water."
          ]
       },
-      "blackgram": {
+      "blackgram and greengram": {
          "advisory": [
-            "Select YMV disease resistant varieties like PDM 139, PDM 11 etc.",
-            "To prevent whitefly infestation seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing.",
-            "Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop.",
-            "Diseased plants should be rogued out to prevent further spread of the disease."
-         ]
-      },
-      "greengram": {
-         "advisory": [
-            "Select YMV disease resistant varieties like PDM 139, PDM 11 etc.",
-            "To prevent whitefly infestation seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing.",
-            "Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop.",
-            "Diseased plants should be rogued out to prevent further spread of the disease."
+            "Select YMV disease-resistant varieties like PDM 139, PDM 11 etc. To prevent whitefly infestation seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop...",
+            "Diseased plants should be rogued out to prevent further spread of the disease. To manage whitefly infestation at an early stage of crop spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe then go for chemical pesticides like Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50-gram/acre by mixing in 200-liter of water."
          ]
       },
       "mustard": {
          "advisory": [
-            "There are chances of Aphid infestation in early sown mustard crop.",
-            "To manage aphids at early stage, put 8 number of yellow sticky traps per acre.",
-            "Spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+            "There are chances of Aphid infestation in early sown mustard crop. To manage aphids at an early stage, put 8 numbers of yellow sticky traps per acre. Spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe than spray chemical pesticide Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre in 200-liter of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage aphids, and thrips spray Neem Based Pesticide 300 PPM @ 1-litre /acre during primary stage of infestation.",
-            "If the infestation is severe than spray Thiamethoxam 25% W.G @ 40-gram/acre or Imidacloprid 17.8% SL @ 50-ml/acre by mixing it in 200 litre of water.",
-            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC @ 80ml/acre or Pendimethalin 30 % EC @ 1-litre/acre or at 1-2 DAS."
+            "To manage aphids and thrips spray Neem Based Pesticide 300 PPM @ 1-litre /acre during the primary stage of infestation. If the infestation is severe than spray Thiamethoxam 25% W.G @ 40 gram/acre or Imidacloprid 17.8% SL @ 50-ml/acre by mixing it in 200-liter of water. Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC @ 80ml/acre or Pendimethalin 30 % EC @ 1-litre/acre or at 1-2 DAS..."
          ]
       },
       "red gram": {
          "advisory": [
-            "Harvest the red gram crop when 70-80% Pods turn brown.",
-            "Over maturity can cause shattering of seeds which results in lower yield.",
-            "Harvesting should be done manually by using a sickle."
+            "Harvest the red gram crop when 70-80% Pods turn brown. Over maturity can cause shattering of seeds which results in lower yield. Harvesting should be done manually by using a sickle. Harvested plants should be kept in the threshing floor for sun drying for 3-6 days depending on the season. After that threshing should be done by beating the pods with a stick. Clean harvested seeds should be dried under direct sunlight to bring the moisture content below 10-12% for safe storage. Dal processing should be done in composite mini dal mill. To avoid storage pests’ infestation during storage smearing of seeds should be done with edible oil @ 250 ml/Quintal of seeds. Dried leaves..."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water.",
-            "Spray Thiamethoxam 25% WG @ 40g/acre or Acetamiprid 20% S.P. @ 50g /acre or Profenophos 40% + Fenpyroximate 2.5% EC @ 400-ml/acre."
+            "To control aphids and thrips in chili during the primary stage of pest infestation spray a neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20%  S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Browning or Brown rot",
-            "Apply borax @ 4-kg/acre as soil application during transplanting in Cole crops to prevent Brown rot.",
-            "If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5-gram/litre or Folibor /Solubor @ 1.5 gram/litre."
+            "Browning or Brown rot Apply borax @ 4-kg/acre as a soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5-gram/liter or Folibor /Solubor @ 1.5 gram/liter. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
          ]
       },
       "cabbage": {
          "advisory": [
-            "Pest Management (Dimond Back Moth)",
-            "There are chances of infestation of Dimond Back Moth in early planted Cole crops.",
-            "To manage this pest chemically spray Tolfenpyrad 15% EC @ 400-ml/acre or Flubendiamide 20% WG @ 20-gram/acre or Emamectin Benzoate 5% SG @ 80-gram/acre by mixing in 200-litre of water."
+            "Pest Management (Dimond Back Moth) There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6-8 nos of light traps per acre. During the primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-liter of water. To manage this pest chemically spray Tolfenpyrad 15 % EC  @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin..."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage whitefly in Brinjal and Tomato crop, use yellow sticky traps @ 8-10/acre to attract and kill the insects.",
-            "During primary stage of pest infestation spray neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+            "To manage whitefly in Brinjal and Tomato crop, use yellow sticky traps @ 8-10/acre to attract and kill the insects. During the primary stage of pest infestation..."
          ]
       },
       "tomato": {
          "advisory": [
-            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown up larvae.",
-            "Set up 20 nos. of pheromone trap having Helilure per acre.",
-            "Go for spraying of insecticide if there are 10% fruits infested with borer."
+            "To control fruit borer in Tomato first collect and destroy the affected fruits and grown-up larvae. Set up 20 nos. of pheromone trap having Helilure  per acre. Go for spraying of insecticide if there are 10% fruits infested with borer. Spray Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use any of the above insecticides alternately at 15 days interval."
          ]
       },
       "onion": {
          "advisory": [
-            "To prevent Damping off disease in nursery, drench the nursery bed with Carbendazim @ 2 g/litre of water at 15 days interval.",
-            "Seedlings of 8-weeks old are planted in the main field."
+            "To prevent Damping off disease in the nursery..."
          ]
       },
       "potato": {
          "advisory": [
-            "Early planted potato crop is at 3-week stage.",
-            "Go for hoeing and weeding and apply the rest 30-45 Kg N/acre.",
-            "For better tuber growth in potato, soil temperature below 30°C should be maintained."
+            "Early planted potato crop..."
          ]
       }
    },

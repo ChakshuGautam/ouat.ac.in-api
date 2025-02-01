@@ -1,0 +1,147 @@
+{
+   "weather_details": {
+      "24-01-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 14,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26-01-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "27-01-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 90,
+         "rh_min": 31,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 89,
+         "rh_min": 33,
+         "wind_speed": 3,
+         "wind_direction": 194,
+         "cloud_cover": 3
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 79,
+         "rh_min": 28,
+         "wind_speed": 4,
+         "wind_direction": 217,
+         "cloud_cover": 2
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 75,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 3
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 69,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 172,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "mustard",
+      "cauliflower/cabbage/broccoli",
+      "chilli",
+      "tomato",
+      "turmeric"
+   ],
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea, and vegetables. Apply balanced fertilizers and install traps for sucking pests and borer insects. Various chemical sprays recommended for pest control.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Weed Management",
+            "Apply herbicides as per stage",
+            "Monitor pest population"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply recommended sprays for Tikka disease"
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Apply appropriate fungicides for White rust"
+         ]
+      },
+      "cauliflower/cabbage/broccoli": {
+         "advisory": [
+            "Control Dimond back moth",
+            "Manage Tobacco leaf eating caterpillar",
+            "Spray for Cabbage Aphid"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Apply chemicals for Mite infestation"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Control White fly with traps and sprays"
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Harvesting instructions",
+            "Clean harvested turmeric"
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

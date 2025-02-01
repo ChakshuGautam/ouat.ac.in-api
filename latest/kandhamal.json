@@ -1,93 +1,110 @@
 {
    "weather_details": {
-      "29-01-2025": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 10,
-         "rh_max": 96,
-         "rh_min": 26,
-         "wind_speed": 4,
-         "wind_direction": 190,
-         "cloud_cover": 2
-      },
-      "30-01-2025": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 96,
-         "rh_min": 28,
-         "wind_speed": 4,
-         "wind_direction": 185,
-         "cloud_cover": 2
-      },
-      "31-01-2025": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 11,
-         "rh_max": 86,
-         "rh_min": 22,
-         "wind_speed": 4,
-         "wind_direction": 202,
-         "cloud_cover": 2
-      },
       "01-02-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 11,
-         "rh_max": 83,
-         "rh_min": 24,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 88,
+         "rh_min": 26,
          "wind_speed": 3,
-         "wind_direction": 193,
-         "cloud_cover": 3
+         "wind_direction": 194,
+         "cloud_cover": 2
       },
       "02-02-2025": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 10,
-         "rh_max": 78,
+         "t_max": 32,
+         "t_min": 12,
+         "rh_max": 87,
+         "rh_min": 25,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 72,
+         "rh_min": 22,
+         "wind_speed": 2,
+         "wind_direction": 202,
+         "cloud_cover": 3
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 13,
+         "rh_max": 68,
          "rh_min": 23,
-         "wind_speed": 4,
-         "wind_direction": 190,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 13,
+         "rh_max": 59,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 172,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
+      "chilli",
       "groundnut",
-      "tomato",
       "turmeric",
       "blackgram",
-      "strawberry",
+      "potato",
+      "marigold",
       "cattle"
    ],
-   "general_advisory": "Irrigation should be accordingly as the day temperature gradually increases. Rabi crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture condition. Weeding and hoeing is necessary in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from critical crop weed competition.",
+   "general_advisory": "Rabi crop needs 10 -15 irrigations at 7 -10 days interval depending upon the soil moisture condition. Irrigation should be accordingly as the day temperature gradually increases. Weeding and hoeing is necessary in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from critical crop weed competition.",
    "crops_data": {
-      "groundnut": {
+      "chilli": {
          "advisory": [
-            "Tikka disease, vegetative stage. If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
+            "Flowering -Fruiting",
+            "Mite infestation",
+            "Downward curling of leaves observed",
+            "To control this, apply Propazite 56% EC @600 milligram / 200 liter of water."
          ]
       },
-      "tomato": {
+      "groundnut": {
          "advisory": [
-            "Maturity. Leaf curling may notice due to white fly infestation.",
-            "Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% @ 4ml or Indoxacarb 14.5% SC @ 15ml mixed with 15 liters of water."
+            "Tikka disease , vegetative stage",
+            "If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Harvesting - Drying. Light irrigate the field to soften the soil to harvest the rhizomes from soil.",
+            "Harvesting - Drying",
+            "Light-irrigate the field to soften the soil to harvest the rhizomes from the soil.",
             "Clean the rhizome from soil and debris and dry it initially in the Sun to avoid fungal growth."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Flowering initiation. Aphid and Whitefly. Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly.",
+            "Flowering initiation",
+            "Aphid and Whitefly",
+            "Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly.",
             "Install yellow sticky traps @ 8/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation.",
             "For chemical control, spray Imidacloprid 17.8% SL @ 4ml or Thiamethoxam 25% WG @ 3g or Chlorpyriphos 20% EC @ 35 ml by mixing with 15 liters of water."
          ]
       },
-      "strawberry": {
+      "potato": {
          "advisory": [
-            "Maturity - Harvesting. Strawberries are harvested when they are fully ripe; this means they should be uniformly red in color, firm to the touch, and have a noticeable strawberry scent, with the green cap still attached, as they do not continue to ripen after picking (non-climacteric fruit)."
+            "Stage - Vegetative",
+            "At this stage, give light irrigation to the field",
+            "Earthing up should be done at this stage to avoid solanization of potatoes due to sunshine.",
+            "If wilting is observed, apply Blitox @ 45gram + Streptocycline @2 gram/ 10 liter of water."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Stage - Flowering",
+            "Flower rot may occur",
+            "To control the disease, apply Mancozeb 75 EC @2 gram / liter of water."
          ]
       },
       "cattle": {
@@ -96,5 +113,5 @@
          ]
       }
    },
-   "date": "28-01-2025"
+   "date": "31-01-2025"
 }

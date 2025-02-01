@@ -1,90 +1,126 @@
 {
    "weather_details": {
-      "28/01/2025": {
+      "2025-01-25": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 21,
-         "rh_max": 89,
-         "rh_min": 63,
-         "wind_speed": 15,
-         "wind_direction": 211,
+         "t_max": 21,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 55,
+         "wind_speed": 3,
+         "wind_direction": 240,
          "cloud_cover": 0
       },
-      "29/01/2025": {
+      "2025-01-26": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 21,
-         "rh_max": 91,
-         "rh_min": 60,
-         "wind_speed": 17,
-         "wind_direction": 210,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 218,
+         "cloud_cover": 0
+      },
+      "2025-01-27": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 61,
+         "wind_speed": 11,
+         "wind_direction": 213,
+         "cloud_cover": 0
+      },
+      "2025-01-28": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 90,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 231,
+         "cloud_cover": 0
+      },
+      "2025-01-29": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 54,
+         "wind_speed": 4,
+         "wind_direction": 229,
          "cloud_cover": 0
       }
    },
    "names_of_crops": [
+      "paddy",
       "groundnut",
-      "mustard",
+      "sugarcane",
       "black gram",
       "green gram",
       "potato",
-      "cole crops",
+      "chilli",
       "tomato",
-      "brinjal",
+      "onion",
       "rose",
       "pisciculture"
    ],
-   "general_advisory": "Dry weather may prevail over the district of Puri for the next five days. Farmers are advised to irrigate their fields as there is a mildly dry condition. Various crop-specific advisories have been provided, such as managing pests and diseases.",
+   "general_advisory": "Dry weather may prevail over the district of Puri for the next five days. Farmers are advised to irrigate their fields as there is a mildly dry condition. Specific crop management practices are provided for various crops.",
    "crops_data": {
-      "groundnut": {
+      "paddy": {
          "advisory": [
-            "To manage stem rot in groundnut, drench soil with Validamycin 3% L @ 400ml/acre or Captan 70% + Hexaconazole 5% WP @ 300g/acre."
+            "To manage stem borer in paddy, use Trichogramma japonicum card @ 1/acre weekly for 6 times."
          ]
       },
-      "mustard": {
+      "groundnut": {
          "advisory": [
-            "During the flowering stage of mustard, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre. Use chemically sprays Thiamethoxam 25% W.G @ 40g/acre or Acetamiprid 20% S.P. @ 50g/acre or Imidacloprid 17.8% SL @ 60-ml acre."
+            "To manage stem rot in groundnut, drench soil with Validamycin 3% L."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To prevent red rot disease, select resistant varieties."
          ]
       },
       "black gram": {
          "advisory": [
-            "To manage powdery mildew disease in Blackgram and Greengram crop, spray Sulphur 80% WP @800g/acre or Hexaconazole 5% E.C @ 300ml/acre."
+            "To manage powdery mildew disease, spray Sulphur 80% WP."
          ]
       },
       "green gram": {
          "advisory": [
-            "To manage powdery mildew disease in Blackgram and Greengram crop, spray Sulphur 80% WP @800g/acre or Hexaconazole 5% E.C @ 300ml/acre."
+            "To manage powdery mildew disease, spray Hexaconazole 5% E.C."
          ]
       },
       "potato": {
          "advisory": [
-            "To manage early leaf blight in potato, spray Mancozeb 75% WP @600g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400g/acre. To manage late blight in potato, spray Metalaxyl 8% + Mancozeb 64% W.P @ 400g/acre at 10 days interval."
+            "To control cut worm, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
          ]
       },
-      "cole crops": {
+      "chilli": {
          "advisory": [
-            "Present weather conditions are favorable for infestation of Diamond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops. Collect and destroy caterpillars and egg masses in the early stages of pest attack."
+            "For controlling mites in chilli, spray Ethion 50 % EC."
          ]
       },
       "tomato": {
          "advisory": [
-            "To control aphid infestation in tomato, spray neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre."
+            "To control aphid, spray neem oil formulation or Flonicam as needed."
          ]
       },
-      "brinjal": {
+      "onion": {
          "advisory": [
-            "To manage Epilachna Beetle in brinjal, shake plants to dislodge grubs, pupae, and adults. Spray neem-based pesticide (Azadirachtin) 1500 PPM @ 3ml/litre of water at the early stage of infestation."
+            "To manage purple blotch and Stemphylium leaf blight, spray Mancozeb 75% WP."
          ]
       },
       "rose": {
          "advisory": [
-            "To control thrips in rose, spray Fenpyroximate 5% EC @ 2 ml or Abamactin @1 ml per litre of water."
+            "To control black spot disease in Rose, spray Copper Oxy-chloride 50% WP."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Maintain water depth up to 6 ft in fish farming for hibernation in the warmer bottom zone."
+            "Maintain water depth up to 6 ft for fish hibernating in the warmer bottom zone."
          ]
       }
    },
-   "date": "28-01-2025"
+   "date": "31-01-2025"
 }

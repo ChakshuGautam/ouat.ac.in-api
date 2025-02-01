@@ -1,83 +1,96 @@
 {
    "weather_details": {
-      "2025-01-29": {
-         "rainfall": 0.1,
-         "t_max": 32,
-         "t_min": 16,
-         "rh_max": 97,
-         "rh_min": 35,
-         "wind_speed": 3,
-         "wind_direction": 254,
-         "cloud_cover": 3
-      },
-      "2025-01-30": {
-         "rainfall": 0.0,
-         "t_max": 32,
-         "t_min": 16,
-         "rh_max": 96,
-         "rh_min": 37,
-         "wind_speed": 3,
-         "wind_direction": 249,
-         "cloud_cover": 2
-      },
-      "2025-01-31": {
-         "rainfall": 0.1,
-         "t_max": 33,
-         "t_min": 15,
-         "rh_max": 89,
-         "rh_min": 28,
-         "wind_speed": 3,
-         "wind_direction": 264,
-         "cloud_cover": 2
-      },
       "2025-02-01": {
-         "rainfall": 0.0,
-         "t_max": 33,
-         "t_min": 15,
-         "rh_max": 85,
-         "rh_min": 30,
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 17,
+         "rh_max": 92,
+         "rh_min": 31,
          "wind_speed": 3,
-         "wind_direction": 262,
+         "wind_direction": 277,
          "cloud_cover": 3
       },
       "2025-02-02": {
-         "rainfall": 0.0,
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 86,
+         "rh_min": 30,
+         "wind_speed": 2,
+         "wind_direction": 259,
+         "cloud_cover": 3
+      },
+      "2025-02-03": {
+         "rainfall": 0,
          "t_max": 34,
-         "t_min": 16,
-         "rh_max": 85,
-         "rh_min": 26,
+         "t_min": 19,
+         "rh_max": 81,
+         "rh_min": 24,
          "wind_speed": 3,
-         "wind_direction": 229,
+         "wind_direction": 278,
+         "cloud_cover": 3
+      },
+      "2025-02-04": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 70,
+         "rh_min": 26,
+         "wind_speed": 2,
+         "wind_direction": 297,
+         "cloud_cover": 2
+      },
+      "2025-02-05": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 72,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 284,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rice",
+      "groundnut",
       "black gram",
       "mustard",
+      "potato",
       "cowpea/lobia",
-      "tomato",
-      "cabbage",
+      "onion",
+      "menacinakahi",
+      "chilli",
       "cauliflower",
-      "cow",
+      "cabbage",
       "common fish",
       "chicken"
    ],
-   "general_advisory": "The mean maximum daily temperature was 33.2°C and the mean minimum daily temperature was 15.0°C of the Gajapati district during the last week. The district received 00.0 mm of rainfall during the last week. Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetables...",
+   "general_advisory": "The mean maximum daily temperature was 32.6°C and the mean minimum daily temperature was 15.7°C of the Gajapati district during the last week. The district received 0.0 mm of rainfall during the last week. Farmers are advised to irrigate their field as there is mildly dry condition prevailed. Prepare the main field for summer paddy and start transplanting with 3 week old seedlings. The summer rice seedlings at 4-5 leaf stage are ready for transplanting. Plant 2 to 3 seedling per hill shallow and upright in lines at 15 cm apart and hills at 10 cm apart.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Farmers those who are going for transplanting should apply 35- kg DAP , 30- kg MOP  and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP , 15 kg MOP  and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
          ]
       },
+      "groundnut": {
+         "advisory": [
+            "To control stem rot in groundnut drench soil with Validamycin 3% L  @ 400- ml/acre or Captan 70 % + Hexaconazole 5 % WP@ 300-gram/acre."
+         ]
+      },
       "black gram": {
          "advisory": [
-            "To control powdery mildew disease in Blackgram and Greengram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200-ml/acre or Penconazole 10% EC @ 100-ml/acre by mixing in 200litre of water ."
+            "To control powdery mildew disease in Blackgram and Greengram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200-ml/acre or Penconazole 10% EC @ 100- ml/acre by mixing in 200litre of water ."
          ]
       },
       "mustard": {
          "advisory": [
-            "The mustard crop is at the flowering stage. The rainfall received during the last week which results in higher humidity and lower temperature might aggravate Downy Mildew in Mustard. High relative humidity also might aggravate white rust. After rain, to manage Downy Mildew & white rust chemically spray 3.5 ml Metalaxyl-M 31.8% ES or 2.5g Metalaxyl M 4 % + Mancozeb 64 % WP per litre of water . There are chances of Leaf Webber and Mustard sawfly infestation in mustard crop..."
+            "There are chances of Aphid infestation in early sown mustard crop. To manage aphids at early stage, put 8 number of yellow sticky traps per acre. Spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . If the infestation is severe than spray chemical pesticide Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP  @ 50- gram/acre in 200-liter of water ."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "There are chances of Early Blight disease incidence in Potato. To manage early leaf blight in potato, spray Mancozeb 75% WP @600 g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400g/acre. To manage late blight in potato spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre at 10 days interval."
          ]
       },
       "cowpea/lobia": {
@@ -85,24 +98,29 @@
             "To control from hairy caterpillar , spray flubendiamide 39.35%SC @ 80 ml /200 liter of water . If cercospora leaf spot is seen then spray difenoconazole 25%EC @ 200 ml or carbendazim 12% + mancozeb 63%WP  400gm/200 lit water per acre."
          ]
       },
-      "tomato": {
+      "onion": {
          "advisory": [
-            "The transplanted tomato crop is at the flowering to fruit development (six to nine-week) stage in the main field. There are chances of infestation of whiteflies in Tomato Crop. Both nymphs and adults of whiteflies cause direct damage by sucking sap from the underside of the plant. The damage symptoms of whiteflies in tomato are chlorotic spots, yellowing of leaves, upward curling, and finally drying of leaves..."
+            "Apply pre-emer gence herbicide Pendimethalin 30 % E.C @ 1 litre /acre at 1- 2 DA T."
          ]
       },
-      "cabbage": {
+      "menacinakahi": {
          "advisory": [
-            "The transplanted cabbage is at five to eight week stage in main field. . There are chances of infestation of Dimond Back Moth and Head Borer in Cabbage crops. Regular monitoring of pest infestation should be carried out. Collect and destroy the caterpillars and egg masses in the early stages of pest attack..."
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400- ml/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400- ml/acre."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "The transplanted cauliflower is at five to eight week stage in main field. Browning or Brown rot is a common physiological disorder in cauliflower crop due to deficiency of Boron. In later stage of crop. Water soaked, light brown to dark brown spots formed on the stem and branches may ultimately lead to the formation of cavities formed on the stem and branches may ultimately lead to the formation of cavities and a hollow stem..."
+            "Apply borax @ 4-kg/ acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5-gram/litre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
          ]
       },
-      "cow": {
+      "cabbage": {
          "advisory": [
-            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter , Enterotoxemia etc., these must be done. Due care should be taken to store/procure fodder for periods of shortage that may occur during the winter months in certain areas. Perennial grasses must be cut at this time."
+            "There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-litre of water . To manage this pest chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ 80-gram/acre by mixing in 200-litre of water ."
          ]
       },
       "common fish": {
@@ -116,6 +134,5 @@
          ]
       }
    },
-   "date": "28-01-2025",
-   "ERROR": "Not getting consistent data."
+   "date": "31-01-2025"
 }

@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "28/01/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 89,
+         "rh_min": 63,
+         "wind_speed": 15,
+         "wind_direction": 211,
+         "cloud_cover": 0
+      },
+      "29/01/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 60,
+         "wind_speed": 17,
+         "wind_direction": 210,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "mustard",
+      "black gram",
+      "green gram",
+      "potato",
+      "cole crops",
+      "tomato",
+      "brinjal",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Dry weather may prevail over the district of Puri for the next five days. Farmers are advised to irrigate their fields as there is a mildly dry condition. Various crop-specific advisories have been provided, such as managing pests and diseases.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot in groundnut, drench soil with Validamycin 3% L @ 400ml/acre or Captan 70% + Hexaconazole 5% WP @ 300g/acre."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "During the flowering stage of mustard, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre. Use chemically sprays Thiamethoxam 25% W.G @ 40g/acre or Acetamiprid 20% S.P. @ 50g/acre or Imidacloprid 17.8% SL @ 60-ml acre."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew disease in Blackgram and Greengram crop, spray Sulphur 80% WP @800g/acre or Hexaconazole 5% E.C @ 300ml/acre."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew disease in Blackgram and Greengram crop, spray Sulphur 80% WP @800g/acre or Hexaconazole 5% E.C @ 300ml/acre."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To manage early leaf blight in potato, spray Mancozeb 75% WP @600g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400g/acre. To manage late blight in potato, spray Metalaxyl 8% + Mancozeb 64% W.P @ 400g/acre at 10 days interval."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Present weather conditions are favorable for infestation of Diamond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops. Collect and destroy caterpillars and egg masses in the early stages of pest attack."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control aphid infestation in tomato, spray neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage Epilachna Beetle in brinjal, shake plants to dislodge grubs, pupae, and adults. Spray neem-based pesticide (Azadirachtin) 1500 PPM @ 3ml/litre of water at the early stage of infestation."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control thrips in rose, spray Fenpyroximate 5% EC @ 2 ml or Abamactin @1 ml per litre of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth up to 6 ft in fish farming for hibernation in the warmer bottom zone."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

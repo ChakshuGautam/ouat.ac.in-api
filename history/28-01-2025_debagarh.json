@@ -1,0 +1,107 @@
+{
+   "weather_details": {
+      "29/01/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 88,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 103,
+         "cloud_cover": 3
+      },
+      "30/01/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 96,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 107,
+         "cloud_cover": 1
+      },
+      "31/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 87,
+         "rh_min": 24,
+         "wind_speed": 1,
+         "wind_direction": 124,
+         "cloud_cover": 1
+      },
+      "01/02/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 89,
+         "rh_min": 25,
+         "wind_speed": 1,
+         "wind_direction": 124,
+         "cloud_cover": 1
+      },
+      "02/02/2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 90,
+         "rh_min": 24,
+         "wind_speed": 5,
+         "wind_direction": 126,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rape seed & mustard",
+      "rabi paddy",
+      "wheat",
+      "summer maize",
+      "sesamum",
+      "summer groundnut",
+      "onion"
+   ],
+   "general_advisory": "Provide light irrigation to paddy nursery. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "crops_data": {
+      "rape seed & mustard": {
+         "advisory": [
+            "Due to weather there will be severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt.",
+            "Provide one irrigation at critical stage at flowering and pod development stage."
+         ]
+      },
+      "rabi paddy": {
+         "advisory": [
+            "Go for final land preparation and apply 35 - kg Gramin Krishi Mausam Sewa India Meteorological Department",
+            "Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Due to weather there is chances of stem borer attack, to manage this spray Triazophos @ 2 ml/liter of water. Due to increased day time temperature, provide critical stage irrigation to the crop. Survey for any insect.",
+            "Apply 12-16 kg Nitrogen/acre"
+         ]
+      },
+      "summer maize": {
+         "advisory": [
+            "This is right time for sowing of maize. Delay in maize sowing will hamper the pollination due to coincident with high temperature in pollination stage. Without delay sow maize @ 6 kg per acre.",
+            "Apply 10 kg Chlorpyriphos per acre in termite prone area. Spacing is 60 X 25 cm with 5 cm depth in soil."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "Go for sowing sesamum like Prachi, G-10, Kalika @ 3 kg/acre. Treat the seeds for protection of soil born and seed born disease. Apply 12-8-8 kg NPK/acre with Sulphur 10 kg as basal dose."
+         ]
+      },
+      "summer groundnut": {
+         "advisory": [
+            "Complete sowing the summer groundnut at 30 X 10 cm spacing. Seed rate is 50 kg pod/ac. Good varieties like Kalinga Chinabadam, Devi, Dharani.",
+            "In the early sown crop, do not go for intercultivation after flowering."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Light intercultivation are to be done since the roots will be shallow and found in surface of the soil."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}

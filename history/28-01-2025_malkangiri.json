@@ -1,0 +1,162 @@
+{
+   "weather_details": {
+      "24-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "27-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "29-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 92,
+         "rh_min": 30,
+         "wind_speed": 2,
+         "wind_direction": 108,
+         "cloud_cover": 2
+      },
+      "30-01-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 92,
+         "rh_min": 32,
+         "wind_speed": 2,
+         "wind_direction": 154,
+         "cloud_cover": 3
+      },
+      "31-01-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 84,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 135,
+         "cloud_cover": 3
+      },
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 80,
+         "rh_min": 27,
+         "wind_speed": 2,
+         "wind_direction": 135,
+         "cloud_cover": 3
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 76,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 154,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "chilli",
+      "tomato",
+      "mushroom"
+   ],
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap for monitoring sucking pest like White fly, Aphids, Jassids & Thirps in vegetables at vegetative stage. Rouging of viral infested plant should be done in vegetables. Infected plants should be uprooted and buried in the soil. After rouging, if infection is more, then spraying of Imidacloprid is advised to control the vector. Use pheromone trap for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato, etc.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Weed Management: Apply granular herbicide at 3-5 days after transplanting.",
+            "Pest Management: Install pheromone traps to monitor pest population of stem borer and leaf folder.",
+            "Blast: If infestation of blast is noticed, spray recommended chemicals."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Tikka: If symptoms are noticed, apply recommended chemicals."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "White rust: Apply recommended chemicals when symptoms are noticed."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Dimond back moth: Spray Fipronil or Chlorpyriphos as control measure.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole to control pest population.",
+            "Cabbage Aphid: Spray Thiamethoxam as control measure."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Dimond back moth: Spray Fipronil or Chlorpyriphos as control measure.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole to control pest population.",
+            "Cabbage Aphid: Spray Thiamethoxam as control measure."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Dimond back moth: Spray Fipronil or Chlorpyriphos as control measure.",
+            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole to control pest population.",
+            "Cabbage Aphid: Spray Thiamethoxam as control measure."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Mite: Apply Ethion or Propargite to control mite infestation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Leaf curling/White fly: Install yellow sticky trap to monitor pest population. For chemical control, spray recommended chemicals."
+         ]
+      },
+      "mushroom": {
+         "advisory": [
+            "For Oyster mushroom cultivation use Niger sticks as substrate."
+         ]
+      }
+   },
+   "date": "28-01-2025"
+}
