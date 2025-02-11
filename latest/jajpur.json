@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 16,
-         "rh_max": 96,
-         "rh_min": 39,
-         "wind_speed": 3,
-         "wind_direction": 236,
-         "cloud_cover": 2
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
+         "t_max": 31,
          "t_min": 17,
-         "rh_max": 95,
-         "rh_min": 38,
-         "wind_speed": 2,
-         "wind_direction": 189,
+         "rh_max": 61,
+         "rh_min": 18,
+         "wind_speed": 5,
+         "wind_direction": 4,
          "cloud_cover": 2
       },
-      "03-02-2025": {
+      "09-02-2025": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 94,
-         "rh_min": 34,
-         "wind_speed": 3,
-         "wind_direction": 258,
-         "cloud_cover": 3
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 72,
+         "rh_min": 18,
+         "wind_speed": 5,
+         "wind_direction": 4,
+         "cloud_cover": 2
       },
-      "04-02-2025": {
+      "10-02-2025": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 87,
-         "rh_min": 37,
-         "wind_speed": 3,
-         "wind_direction": 344,
-         "cloud_cover": 3
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 82,
+         "rh_min": 19,
+         "wind_speed": 4,
+         "wind_direction": 334,
+         "cloud_cover": 1
       },
-      "05-02-2025": {
+      "11-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 21,
+         "wind_speed": 4,
+         "wind_direction": 261,
+         "cloud_cover": 1
+      },
+      "12-02-2025": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 18,
-         "rh_max": 83,
-         "rh_min": 32,
-         "wind_speed": 2,
-         "wind_direction": 284,
-         "cloud_cover": 2
+         "t_min": 15,
+         "rh_max": 82,
+         "rh_min": 17,
+         "wind_speed": 5,
+         "wind_direction": 242,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
@@ -61,31 +61,31 @@
       "flower",
       "cattle"
    ],
-   "general_advisory": "As per Extended Range forecast of IMD, Dry weather is very likely to prevail over the districts of Odisha during (31st January to 06th February, 2025). Prevailing fog condition and gradual increase in temperature may increase the infestation for sucking pests like White fly, Aphids, Jassids & Thirps in vegetables so regular monitor the crop & install yellow sticky trap @ 8/acre. Spraying of pesticides to be done after 3 pm to protect the honey bee.",
+   "general_advisory": "Prevailing fog condition and gradual increase in temperature may increase the infestation for sucking pest like White fly, Aphids, Jassids & Thirps in vegetables so regular monitor the crop & install yellow sticky trap @ 8/acre. Spraying of pesticides to be done after 3 pm to protect the honey bee.",
    "crops_data": {
       "summer rice": {
          "advisory": [
-            "Farmers those who are going for transplanting should apply 35 - kg DAP, 20-kg MOP and 8 -kg Urea per acre during last puddling as basal fertilizer. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre.",
-            "Transplanting of 25 -30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties.",
-            "Foliar spraying of (Tebuconazole + Trifloxystrobin)@0.5ml/litre of water along with plantomycin@1g/litre of water 5 -6 days before transplanting recommended for disease management in nursery & main field."
+            "Transplanting of 25-30 days old seedlings should be done at a spacing of 20x15 cm, plant 2-3 seedlings per hill for high yielding varieties.",
+            "Farmers those who are going for transplanting should apply 35 kg DAP, 20 kg MOP and 8 kg Urea per acre during last puddling as basal fertilizer. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre.",
+            "Foliar spraying of (Tebuconazole + Trifloxystrobin)@0.5ml/litre of water along with plantomycin@1g/litre of water 5-6 days before transplanting recommended for disease management in nursery & main field."
          ]
       },
       "groundnut": {
          "advisory": [
+            "Monitor the activity of white grub & install light trap to attract the beetles. White grab infestation in groundnut can be minimized by localized application of Chloropyriphous dust recommended.",
             "Need based spraying and drenching with (carbendazim + mancozeb) or (metaloxyl + mancozeb) @ 2gm/lit of water to protect the crop from collar rot, stem rot and tikka disease."
          ]
       },
       "blackgram/greengram": {
          "advisory": [
-            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
-            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days. On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and keep in shade.",
-            "Seed rate: Green gram and Black gram: 25-30Kg/ha, Spacing - 25cm * 10cm. Variety - Green gram - Virat, Sikha, PDM-54, IEPM-203, Blackgram - PU-10, PU-11"
+            "In the initial crop growth stage to control Flea beetle & other defoliators growth spray Prophenophos@2ml/litre of water recommended.",
+            "Rouging of MYMV & ULCV infected plants & spraying of Difenthurion 50WP@200g/acre or 1g/litre of water is recommended."
          ]
       },
       "rapeseed and mustard": {
          "advisory": [
-            "Provide one irrigation at critical stage at flowering and pod development stage.",
-            "Prevailing fog condition and gradual increase in temperature may increase the infestation aphid. To control aphid need based spraying of neem oil formulation @ 600ml per acre or Flonicamid @ 60g per acre is recommended. Spraying of pesticides to be done after 3 pm to protect the honey bee."
+            "Prevailing fog condition and gradual increase in temperature may increase the infestation aphid. To control aphid need based spraying of neem oil formulation @ 600ml per acre or Flonicamid @ 60g per acre is recommended. Spraying of pesticides to be done after 3 pm to protect the honey bee.",
+            "Need based spraying of Emamectin benzoate @80gm per acre to reduce the infestation of cabbage weber and Spodoptera litura."
          ]
       },
       "vegetables": {
@@ -96,7 +96,7 @@
       },
       "fruit": {
          "advisory": [
-            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and Flonicamid 50WG @0.3g/litre to control whitefly."
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and flonicamid 50WG @0.3g/litre to control whitefly."
          ]
       },
       "flower": {
@@ -106,9 +106,9 @@
       },
       "cattle": {
          "advisory": [
-            "Cover the animal shelter from all sides during night in order to avoid direct exposure of animals to cold winds including dry straw as animal bedding. Weak and sick animals should be covered with sack cloth to protect them from the cold."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

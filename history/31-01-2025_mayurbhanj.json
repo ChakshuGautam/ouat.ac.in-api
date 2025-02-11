@@ -1,0 +1,132 @@
+{
+   "weather_details": {
+      "2025-02-01": {
+         "rainfall": 0.0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 86,
+         "rh_min": 36,
+         "wind_speed": 2,
+         "wind_direction": 307,
+         "cloud_cover": 2
+      },
+      "2025-02-02": {
+         "rainfall": 0.0,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 89,
+         "rh_min": 33,
+         "wind_speed": 2,
+         "wind_direction": 225,
+         "cloud_cover": 2
+      },
+      "2025-02-03": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 79,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 351,
+         "cloud_cover": 3
+      },
+      "2025-02-04": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 66,
+         "rh_min": 27,
+         "wind_speed": 3,
+         "wind_direction": 13,
+         "cloud_cover": 3
+      },
+      "2025-02-05": {
+         "rainfall": 0.0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 61,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 342,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram",
+      "sunflower",
+      "mustard",
+      "groundnut",
+      "pigeon pea",
+      "cowpea/lobia",
+      "cauliflower",
+      "cabbage",
+      "tomato",
+      "brinjal",
+      "potato"
+   ],
+   "general_advisory": "Provide light irrigation to standing vegetables and crops during morning hours to prevent damage from fog, low temperature and moisture stress. Due to low night temperature and fog condition, there will be chance of infestation of sucking pests, leaf blight, powdery mildew in the Rabi crops and vegetable. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Carry out weeding, hoeing and other intercultural operations in Rabi vegetables. In Cole crops irrigation should be done at 7-8 Days interval depending upon soil moisture and weather condition. In winter during cold hours farmers should keep doors, windows and open spaces in cow sheds covered with polythene or gunny bag curtains to prevent direct contact to cold air. For maintaining the heat in the poultry shed during winter season, install heaters in the shed.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers those who are going for transplanting should apply 35- kg DAP, 30-kg MOP and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP, 15 kg MOP and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Apply Quizalfop-ethyl 5% EC or Imazethapyr 10 SL @ 300 ml/acre mixed with 200 liters of water at 20-25 DAS. Leaf eating caterpillar: The insects usually feed on the tender young leaves. Spray Profenophos 50 EC 400ml per acre mixed with 200 liters of water for its control. Aphid and Whitefly: Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly. Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Apply half dose of Urea (Inbred-6kg/ac, Hybrid-12kg/ac) + half dose of MOP (Inbred-10 kg/ac, Hybrid-20 kg/ac) as 2nd top dressing at second irrigation. Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favours the development of sucking pests. Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended. Powdery mildew: Spray 0.2% wettable sulphur @ 2g /ltr of water."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "There are chances of Aphid infestation in early sown mustard crop. To manage aphids at early stage, put 8 number of yellow sticky traps per acre. Spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe than spray chemical pesticide Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre in 200-liter of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage aphids, and thrips spray Neem Based Pesticide 300 PPM @ 1-litre /acre during primary stage of infestation. If the infestation is severe than spray Thiamethoxam 25% W.G @ 40 gram/acre or Imidacloprid 17.8% SL @ 50-ml/acre by mixing it in 200 litre of water. Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC @ 80ml/acre or Pendimethalin 30 % EC @ 1-litre/acre or at 1-2 DAS. If pre-emergence herbicide is not applied than post emergence herbicide like Imazethapyr 10 % SL @ 300-ml/acre and if only grassy weeds are present, Quizalofop Ethyl 5 % EC @ 400-ml/acre should be applied at 15-DAS by mixing it in 200 litre of water. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying apply herbicide when soil is moist.\nCollar rot disease causes rotting of seeds and collar region of young emerging seedlings resulting in the collapse of seedlings. To prevent Collar rot disease in groundnut, treat the seeds with Carbendazim 50% WP @ 2-gram/ per kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds. Apply Trichoderma viridae @ 10-kg/acre and Neem or Castor Cake @ 200-kg/acre during final land preparation. To manage this disease spray Carbendazim 50% WP @ 400-gram/acre or Thiophanate Methyal 70 % WP @ 400-gram/acre or Difenoconazole 25 % EC @ 400-ml/acre."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Harvest the red gram crop when 70-80% Pods turn brown. Over maturity can cause shattering of seeds which results in lower yield. Harvesting should be done manually by using a sickle. Harvested plants should be kept in threshing floor for sun drying for 3-6 days depending on season. After that threshing should be done by beating the pods with stick."
+         ]
+      },
+      "cowpea/lobia": {
+         "advisory": [
+            "To control from hairy caterpillar, spray flubendiamide 39.35%SC @ 80 ml /200 liter of water. If cercospora leaf spot is seen then spray difenoconazole 25%EC @ 200 ml or carbendazim 12% + mancozeb 63%WP 400gm/200 lit water per acre."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply borax @ 4-kg/ acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5-gram/litre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-litre of water. To manage this pest chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ 80-gram/acre by mixing in 200-litre of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown up larvae. Set up 20 nos. of pheromone trap having Helilure per acre. Go for spraying of insecticide if there are 10% fruits infested with borer. Spray Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use any of the above insecticides alternately at 15 days interval."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Go for chemical control if there is 4% withering of terminal shoot or 14% fruits infested with borers. For chemical control spray Spinosad 45 % SC @ 75-ml/acre or Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 1 1.7 % SC @ 200-ml /acre. Do not repeat the same insecticide. Use any of the above insecticides alternately at 15-days interval."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Early planted potato crop is at 3 week stage. Go for hoeing and weeding and apply the rest 30-45 Kg N/acre. For better tuber growth in potato, soil temperature below 30°C should be maintained. Therefore farmers are advised to irrigate the field. There are chances of Leaf Blight disease incidence in potato crop. To manage early leaf blight in potato, spray Mancozeb 75% WP @600 gram/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400-gram/acre. To manage late blight in potato spray Metalaxyl 8% + Mancozeb 64% W.P @ 400-gram/acre at 10 days interval."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

@@ -249,3 +249,4 @@ ERROR:root:Error processing PDF for anugul: Connection error.
 ERROR:root:Error processing PDF for kalahandi: Connection error.
 ERROR:root:Attempt 1: An error occurred: 'str' object has no attribute 'get'
 ERROR:root:Error processing PDF for rayagada: Invalid control character at: line 76 column 187 (char 2870)
+ERROR:root:Error processing PDF for nuapada: Expecting ':' delimiter: line 2205 column 6 (char 45967)

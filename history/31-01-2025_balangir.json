@@ -1,0 +1,51 @@
+{
+   "weather_details": {
+      "2022-10-01": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "2022-10-02": {
+         "rainfall": 2,
+         "t_max": 26,
+         "t_min": 18,
+         "rh_max": 80,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "wheat",
+      "corn",
+      "cattle"
+   ],
+   "general_advisory": "Sow wheat and corn seeds. Take care of cattle during the rainy season.",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "Sow wheat seeds in well-drained soil.",
+            "Fertilize with nitrogen and potash for better growth."
+         ]
+      },
+      "corn": {
+         "advisory": [
+            "Plant corn seeds at a depth of 1-2 inches.",
+            "Irrigate regularly to ensure proper growth."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Ensure cattle have access to shelter during rainy days.",
+            "Provide adequate nutrition and clean water for healthy growth."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

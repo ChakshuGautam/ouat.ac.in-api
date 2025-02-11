@@ -1,53 +1,33 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "01/02/2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 20,
-         "rh_max": 94,
-         "rh_min": 53,
-         "wind_speed": 5,
-         "wind_direction": 210,
+         "t_max": 22,
+         "t_min": 0,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
          "cloud_cover": 0
       },
-      "02-02-2025": {
+      "08/02/2025": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 20,
-         "rh_max": 94,
-         "rh_min": 47,
-         "wind_speed": 7,
-         "wind_direction": 208,
-         "cloud_cover": 0
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 93,
-         "rh_min": 40,
+         "t_min": 19,
+         "rh_max": 84,
+         "rh_min": 32,
          "wind_speed": 4,
-         "wind_direction": 243,
-         "cloud_cover": 0
-      },
-      "04-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 90,
-         "rh_min": 41,
-         "wind_speed": 1,
          "wind_direction": 90,
          "cloud_cover": 0
       },
-      "05-02-2025": {
+      "12/02/2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 20,
+         "t_max": 33,
+         "t_min": 16,
          "rh_max": 84,
-         "rh_min": 41,
-         "wind_speed": 3,
-         "wind_direction": 214,
+         "rh_min": 27,
+         "wind_speed": 8,
+         "wind_direction": 247,
          "cloud_cover": 0
       }
    },
@@ -57,70 +37,78 @@
       "sugarcane",
       "black gram",
       "green gram",
-      "potato",
       "chilli",
-      "tomato",
+      "cole crops",
       "onion",
+      "mango",
       "rose",
-      "pisciculture"
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advisory": "For better agricultural benefits use, OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & Vermi Compost and Farm Implements). IMD Weather forecast and Agro-meteorological advisory of Odisha location is now available on Meghdoot mobile app in English and Odia language.",
+   "general_advisory": "Dry weather with mainly clear sky is expected. Take necessary measures to manage pests and diseases in crops. Proper irrigation is advised in standing crops.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Stem borer: To manage stem borer in paddy at the early stage of the crop, use Trichogrammajaponicum card @ 1/acre (50000/ha) at weekly intervals for 6 times by splitting each card into 12 pieces at the scheduled points. Use pheromone traps @ 5/acre. Apply Cartap Hydrochloride 4% G @ 8kg/acre or Chlorantraniliprole 0.4% GR @ 4kg/acre or Imidacloprid 0.3% GR @ 6kg/acre by mixing it with sand at 1:1 ratio."
+            "In transplanted paddy to control grasses, sedges and broadleaf weeds, spray Bispyribac Sodium or Ethoxysulfuron at 3 to 4 leaf stage.",
+            "Carry out required soil treatments as mentioned in the advisory."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Stem rot management: To manage stem rot in groundnut, drench soil with Validamycin 3% L @ 400-ml/acre or Captan 70% + Hexaconazole 5% WP @ 300-gram/acre."
+            "Spray Neem-based pesticide to manage Thrips during pegging to pod formation."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "To prevent red rot disease, resistant varieties like CO-7219, CO-8371, CO-8013, CO-8014, CO-6907, CO-7601, and CO-7602 should be selected. Soak the setts for 30 minutes in a solution of 100 liters of water containing 150 g of carbendazim 50 WP, 200-ml of chlorpyriphos 20% EC, and 1 kg urea. Do not add chlorpyriphos if soil drenching is adopted."
+            "Manage sett rot disease with recommended treatments.",
+            "Ensure proper irrigation."
          ]
       },
       "black gram": {
          "advisory": [
-            "Powdery mildew management: To manage powdery mildew disease in Blackgram and Greengram crop, spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200-ml/acre or Penconazole 10% EC @ 100-ml/acre by mixing in 200 liters of water."
+            "Control aphids with Neem-based pesticide and chemical sprays."
          ]
       },
       "green gram": {
          "advisory": [
-            "Powdery mildew management: To manage powdery mildew disease in Blackgram and Greengram crop, spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200-ml/acre or Penconazole 10% EC @ 100-ml/acre by mixing in 200 liters of water."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "Cut Worm: To control cut worm in potato crop, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre by mixing it in 200 liters of water."
+            "Control aphids with Neem-based pesticide and chemical sprays."
          ]
       },
       "chilli": {
          "advisory": [
-            "Mite: For controlling mites in chilli, spray Ethion 50% EC @ 600 ml/acre or Spiromesifen 22.9% SC @ 200 ml/acre or Propargite 57% EC @ 600 ml/acre."
+            "Manage Fruit rot and Dieback disease incidence with recommended fungicides."
          ]
       },
-      "tomato": {
+      "cole crops": {
          "advisory": [
-            "Prevailing fog condition may increase the infestation Aphid. To control aphid need-based spraying of neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre is recommended."
+            "Control Alternaria Leaf Spot with recommended fungicides."
          ]
       },
       "onion": {
          "advisory": [
-            "Purple Blotch and Stemphylium leaf blight: To manage purple blotch and Stemphylium leaf blight disease in onion, spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 liters of water at 15 days intervals. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
+            "Manage Purple Blotch and Stemphylium leaf blight with recommended fungicides."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Manage mango hoppers with recommended sprays at appropriate stages."
          ]
       },
       "rose": {
          "advisory": [
-            "Black spot: To control black spot disease in Rose, spray Copper Oxy-chloride 50% WP @ 3g/liter of water."
+            "Prevent Powdery Mildew with a preventive fungicide spray."
          ]
       },
-      "pisciculture": {
+      "animal husbandry": {
          "advisory": [
-            "As the temperature of the surface water is colder than the bottom layers, the fish prefers to live in the bottom zone. Farmers should keep the water depth up to 6 ft, so that it gets enough space for hibernating in the warmer bottom zone."
+            "Ensure FMD vaccination for cattle."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate chicks for sleeping disease."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

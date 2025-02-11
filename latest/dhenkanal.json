@@ -1,81 +1,106 @@
 {
    "weather_details": {
-      "31.01.2025": {
+      "07.02.2025": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 19,
-         "rh_max": 85,
-         "rh_min": 55,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 60,
          "wind_speed": 10,
-         "wind_direction": 120,
+         "wind_direction": 180,
          "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "groundnut",
       "sugarcane",
+      "blackgram",
+      "green gram",
+      "mustard",
+      "tomato",
+      "chilli",
       "potato",
       "onion",
       "cabbage",
       "cauliflower",
-      "chilli",
-      "brinjal",
+      "cucurbits",
       "mango",
-      "jasmine"
+      "poultry"
    ],
-   "general_advisory": "Various crop-specific advisory provided in the bulletin for pest management, disease control, and crop nutrition.",
+   "general_advisory": "Vaccinate birds against RD, Fowl pox and IB to prevent viral diseases. For preventing CRD (Chronic Respiratory Disease) maintain litter properly, take care of disinfection and avoid ammonia build up in poultry shed.",
    "crops_data": {
-      "groundnut": {
-         "advisory": [
-            "To manage Tikka disease, spray Chlorothalonil 75% WP or Mancozeb 75% WP or Hexaconazole 5% E.C as per recommended dosages."
-         ]
-      },
       "sugarcane": {
          "advisory": [
-            "Apply appropriate amounts of DAP, MOP, and FYM during the planting stage for better growth."
+            "Carry out planting of Sugarcane crop. To manage set rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water."
          ]
       },
-      "potato": {
+      "blackgram": {
          "advisory": [
-            "To control Cut worm, spray Chlorpyriphos 50% + Cypermethrin 5% E.C at recommended concentration."
+            "To control Bihar hairy caterpillar in Green gram and Black gram crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Bihar Hairy Caterpillars are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
          ]
       },
-      "onion": {
+      "green gram": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight, spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C at designated intervals.",
-            "Add a spreader or sticker for better spray fluid retention."
+            "To control Bihar hairy caterpillar in Green gram and Black gram crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Bihar Hairy Caterpillars are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
          ]
       },
-      "cabbage": {
+      "mustard": {
          "advisory": [
-            "Collect and destroy Dimond Back Moth and Head Borer caterpillars and egg masses. Use Neem-based pesticide for management."
+            "There are chances of Leaf Webber and Mustard sawfly infestation in Mustard crop. To manage this spray Ethofenprox 10 % EC @ 200-ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water."
          ]
       },
-      "cauliflower": {
+      "tomato": {
          "advisory": [
-            "Collect and destroy Dimond Back Moth and Head Borer caterpillars and egg masses. Use Neem-based pesticide for management."
+            "To manage fruit borer in Tomato first collect and destroy the affected fruits and grown up larvae. Set up 20 nos. of pheromone trap having Helilure per acre.",
+            "During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water.",
+            "Go for spraying of insecticide if there are 10% fruits infested with borer. For chemical control spray Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40-ml/acre or Indoxacarb 14.5% S.C. @ 200-ml/acre.",
+            "For spraying of insecticides 200 litre of water per acre is required. Use any of the above insecticides alternately at 15 days interval."
          ]
       },
       "chilli": {
          "advisory": [
-            "To manage thrips, aphids, spray neem-based pesticide or chemical insecticides as required."
+            "There are chances of Fruit rot and Die back disease incidence in Chilli crop. To manage these disease spray Propineb 70 % WP @ 500 gram/acre or Difenoconazole 25 % EC @ 100-ml/acre or Azoxystrobin 23 % SC @ 200-ml/acre. The fungicide should be sprayed first just before flowering and second at fruit formation stage."
          ]
       },
-      "brinjal": {
+      "potato": {
          "advisory": [
-            "To manage Epilachna Beetle, dislodge grubs, pupae, and adults early in the morning. Use neem-based pesticide or chemical insecticides for control."
+            "To control Cut worm in Potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Cut Worm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5 % DP@ 10-kg/acre should be done across the bund."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage Purple blotch and Stemphylium leaf blight disease in Onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval.",
+            "Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Present weather condition favourable for infestation of Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Spray Neem based Pesticide (Azadirachtin) 300 PPM @ 1-litre/acre by mixing in 200-litre of water.",
+            "To manage these pests chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200- litre of water."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Present weather condition favourable for infestation of Dimond Back Moth and Head Borer in Late sown Cauliflower and Cabbage crops. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Spray Neem based Pesticide (Azadirachtin) 300 PPM @ 1-litre/acre by mixing in 200-litre of water.",
+            "To manage these pests chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200- litre of water."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "There are chances of infestation of Epilachna beetle in cucurbits due to present dry weather condition. To manage it spraying of Chlorpyriphos 20% EC @ 2 ml/litre of water or Profenophos 50% EC @ 2 ml/litre of water is recommended."
          ]
       },
       "mango": {
          "advisory": [
-            "To manage mango hoppers, apply recommended insecticides at specified intervals for better pest control."
+            "Irrigation at regular Interval after flower appearance.",
+            "After appearance of flower always spray the crop at afternoon and evening hour as most of the pollinators are active in the mango orchard in the morning hour."
          ]
       },
-      "jasmine": {
+      "poultry": {
          "advisory": [
-            "Prune jasmine plants for better flowering. Apply Bordeux mixture to cut parts for protection."
+            "Vaccinate birds against RD, Fowl pox and IB to prevent viral diseases.",
+            "For preventing CRD (Chronic Respiratory Disease) maintain litter properly, take care of disinfection and avoid ammonia build up in poultry shed."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

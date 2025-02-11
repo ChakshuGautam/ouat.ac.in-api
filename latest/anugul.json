@@ -1,72 +1,78 @@
 {
    "weather_details": {
-      "2025-02-01": {
-         "rainfall": 0.0,
-         "t_max": 32,
+      "2025-02-08": {
+         "rainfall": 0,
+         "t_max": 34,
          "t_min": 16,
-         "rh_max": 93,
-         "rh_min": 33,
+         "rh_max": 53,
+         "rh_min": 16,
          "wind_speed": 2,
-         "wind_direction": 63,
-         "cloud_cover": 3
-      },
-      "2025-02-02": {
-         "rainfall": 0.0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 94,
-         "rh_min": 30,
-         "wind_speed": 3,
-         "wind_direction": 108,
+         "wind_direction": 342,
          "cloud_cover": 1
       },
-      "2025-02-03": {
-         "rainfall": 0.0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 82,
-         "rh_min": 23,
-         "wind_speed": 1,
-         "wind_direction": 45,
-         "cloud_cover": 3
-      },
-      "2025-02-04": {
-         "rainfall": 0.0,
-         "t_max": 33,
-         "t_min": 17,
-         "rh_max": 83,
-         "rh_min": 29,
+      "2025-02-09": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 15,
+         "rh_max": 58,
+         "rh_min": 14,
          "wind_speed": 2,
-         "wind_direction": 45,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "2025-02-10": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 14,
+         "rh_max": 70,
+         "rh_min": 14,
+         "wind_speed": 2,
+         "wind_direction": 27,
          "cloud_cover": 2
       },
-      "2025-02-05": {
-         "rainfall": 0.0,
-         "t_max": 32,
-         "t_min": 16,
+      "2025-02-11": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 14,
          "rh_max": 75,
-         "rh_min": 26,
-         "wind_speed": 4,
-         "wind_direction": 101,
+         "rh_min": 15,
+         "wind_speed": 1,
+         "wind_direction": 0,
+         "cloud_cover": 2
+      },
+      "2025-02-12": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 14,
+         "rh_max": 72,
+         "rh_min": 16,
+         "wind_speed": 1,
+         "wind_direction": 90,
          "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "brinjal",
-      "chicken"
+      "green gram",
+      "cow",
+      "common fish"
    ],
-   "general_advisory": "Foggy weather may lead to increase infestation of Powdery Mildew in several winter vegetables and Mung, Urd. Spray Mixture of 1 litre water with 1 gram Thiophanate Methyl or 1 ml Tebuconazole. sucking pest attack might be seen in ground nut crop. Go for foliar application of Thiomethoxam 25% WG 165 Gram/ha in 500litre of water.",
+   "general_advisory": "In present weather, wrapping of plastic sheets around mango trunk should be done for preventing climbing of young (nymphs) mealy bugs. Apply grease to seal any cracks in the polythene sheets. Store the harvested paddy in a safer place to avoid rodent infestation. Rabi crop needs 10-15 irrigations at 7-10 days intervals depending upon the soil moisture condition.",
    "crops_data": {
-      "brinjal": {
+      "green gram": {
          "advisory": [
-            "There are chances of Solanaceae plant getting infested by bacterial wilt. First uproot the affected plants and destroy them then apply a mixture of Streptocyclin 6gram in 15 litre of water and give a flood irrigation in water channels."
+            "There are chances of infection of Greengram crops by the yellow mosaic virus. To manage the population of the vector in the field first get rid of the severely infected plants by uprooting and destroying them far away from the field. Install 20 yellow sticky traps per acre. To manage whiteflies chemically spray Thiamethoxam @ 40 gram/acre @ 200-ml/acre by mixing in 200-litre of water."
          ]
       },
-      "chicken": {
+      "cow": {
          "advisory": [
-            "For preventing CRD (Chronic Respiratory Disease) maintain litter properly, take care of disinfection and avoid ammonia build up in poultry shed. Stirring of the litter twice a day to make the litter dry."
+            "To avoid FMD disease of cow, vaccination must be done in six months interval in February and September."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "To prevent any disease/mortality problems, the water quality parameters should be maintained in the range of i.e pH-7.5 to 8.5, Dissolved oxygen -5.0ppm, Temperature- 25-30°C, total alkalinity- 75-175ppm, total hardness- 75-150ppm."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

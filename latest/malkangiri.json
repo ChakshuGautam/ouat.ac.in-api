@@ -1,143 +1,116 @@
 {
    "weather_details": {
-      "27.01.2025": {
+      "08-02-2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "28.01.2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 17,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "29.01.2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "30.01.2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 18,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "01-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 81,
-         "rh_min": 26,
-         "wind_speed": 2,
-         "wind_direction": 117,
-         "cloud_cover": 2
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 81,
-         "rh_min": 25,
-         "wind_speed": 2,
-         "wind_direction": 117,
-         "cloud_cover": 3
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
+         "t_max": 35,
          "t_min": 19,
          "rh_max": 75,
-         "rh_min": 24,
-         "wind_speed": 2,
-         "wind_direction": 127,
-         "cloud_cover": 3
-      },
-      "04-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 19,
-         "rh_max": 72,
-         "rh_min": 21,
+         "rh_min": 23,
          "wind_speed": 3,
-         "wind_direction": 106,
-         "cloud_cover": 3
-      },
-      "05-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 63,
-         "rh_min": 19,
-         "wind_speed": 2,
-         "wind_direction": 76,
+         "wind_direction": 0,
          "cloud_cover": 2
+      },
+      "09-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 18,
+         "rh_max": 79,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 18,
+         "rh_max": 79,
+         "rh_min": 17,
+         "wind_speed": 3,
+         "wind_direction": 104,
+         "cloud_cover": 2
+      },
+      "11-02-2025": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 124,
+         "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 69,
+         "rh_min": 18,
+         "wind_speed": 2,
+         "wind_direction": 117,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
-      "groundnut",
       "mustard",
+      "toria",
       "chilli",
       "tomato",
-      "potato"
+      "potato",
+      "okra"
    ],
-   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap @ 8/acre to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetables at vegetative stage. Rouging of viral infested plant should be done in vegetables. Infected plants should be uprooted and buried in the soil. After rouging, if infection is more, then spraying of Imidacloprid @ 1 ml per 3 -4 litres of water is advised to control the vector. Use pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended.",
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap @ 8/acre to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetables at vegetative stage. Rouging of viral infested plant should be done in vegetables. Infected plants should be uprooted and buried in the soil. After rouging, if infection is more, then spraying of Imidacloprid @ 1 ml per 3 -4 litres of water is advised to control the vector. Use pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. To control early and late blight in tomato field spray Azoxystrobin 23% SC @ 1 ml/litre of water or Zineb 75% WP @ 2.5 g/litre of water.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Weed Management",
-            "For one acre area, apply granular herbicide Bensulfuron -methyl 0.6% + Pretilachlor 6% @ 4 kg at 3 -5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron -ethyl 10% WP @ 100 g at 8 -10 days after transplanting or spray Bispyribac sodium10% SC @ 120 ml at 15 -20 DAT mixed with 200 liters of water.",
-            "Pest Management: Install 3 pheromone traps/acre to monitor pest population of stem borer and leaf folder soon after transplanting. Blast: If infestation of blast is noticed, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 6g or Isoprothiolane 40 EC @ 25 ml or Carbendazim 50% WP @ 25g or Hexaconazole 5% EC @ 15ml by mixing with 15 liters of water. Repeat the spray at 7 -10 days’ interval."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
+            "Apply light irrigation to the nursery beds as & when required.",
+            "Spray the nursery area with Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water to control blast infestation.",
+            "Go for puddling of main field. Apply 8 kg N, 16 kg P2O5 and 16 kg K2O as basal fertilizer at the time of last round of puddling. Plant 2 to 3 seedlings per hill in lines at 15 to 20 cm apart and hill to hill at 10 cm apart.",
+            "Apply herbicide Bensulfuron methyl + Pretilachlor @ 4 kg/acre mixed with 12 kg of dry sand at 2-3 days after transplanting to control weeds at early stage of crop growth."
          ]
       },
       "mustard": {
          "advisory": [
-            "The siliqua is in development stage which may attract different pests like grasshopper, aphids and larvae. Therefore, regularly, keep a watch in the crop field. The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water. In severe infestation of aphids, spray Imidac loprid or Dimethoate @ 2 ml/lt. White rust: In prevailing weather condition (Foggy), infestation of white rust can be seen. Apply Metalaxyl M 4% + Mancozeb 64% WP @ 25g or Copper Oxychloride 50% WP @ 30g mixed with 10 liters of water when symptom is noticed."
+            "The siliqua is in the development stage which may attract different pests like grasshopper, aphids, and larvae. Therefore, regularly keep a watch in the crop field.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water.",
+            "In severe infestation of aphids, spray Imidacloprid or Dimethoate @ 2 ml/lt.",
+            "In mustard for controlling Saw fly spray Profenophos 50% EC @ 2 ml or Quinalphos 25 CE @ 1.5 ml/litre of water."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "The siliqua is in the development stage which may attract different pests like grasshopper, aphids, and larvae. Therefore, regularly keep a watch in the crop field.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water.",
+            "In severe infestation of aphids, spray Imidacloprid or Dimethoate @ 2 ml/lt.",
+            "In mustard for controlling Saw fly spray Profenophos 50% EC @ 2 ml or Quinalphos 25 CE @ 1.5 ml/litre of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Provide vermicompost and manures to the crop.",
-            "Little leaf in Chilli can be seen the field. If that happens spray Dimethoate @ 2ml/lt.",
-            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidac loprid 17.8% SL @ 1 ml/lt.",
-            "Mite: Stunted growth with downward curling and crinkling of leaves are seen in mite infested chili plants. Apply Ethion 50 % EC or Propargite 57 % EC @ 600 - ml/acre mixed with 200 liters of water to control mite infestation."
+            "Little leaf in Chilli can be seen in the field. If that happens spray Dimethoate @ 2ml/lt.",
+            "Aphids and Jassids infestation may be seen in the field. To manage it spray Imidacloprid 17.8% SL @ 1 ml/lt.",
+            "Stunted growth with downward curling and crinkling of leaves are seen in mite-infested chili plants. Apply Ethion 50% EC or Propargite 57% EC @ 600-ml/acre mixed with 200 liters of water to control mite infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Leaf curling/White fly: Leaf curling may notice due to white fly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15ml mixed with 15 liters of water."
+            "To control early and late blight in tomato field spray Azoxystrobin 23% SC @ 1 ml/litre of water or Zineb 75% WP @ 2.5 g/litre of water.",
+            "Leaf curling/White fly: Leaf curling may notice due to white fly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15ml mixed with 15 liters of water."
          ]
       },
       "potato": {
          "advisory": [
-            "Provide irrigation as per requirement of crop.",
+            "Provide irrigation as per the requirement of the crop.",
             "Earthing up is required in potato to prevent from direct exposure to sun. As this will deteriorate the quality of potato by solanine production.",
-            "If wilting is seen in the field, drench Blitox -50 @ 45g + Steptocycline @ 2g in 10liters of water."
+            "If wilting is seen in the field, drench Blitox-50 @ 45g + Steptocycline @ 2g in 10liters of water."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To control fruit borer in okra spray neem-based pesticide 300 ppm @ 5ml/l of water. At later stages spray of Spinosad 45% SC @ 0.4ml/l of water."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

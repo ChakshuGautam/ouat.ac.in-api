@@ -1,0 +1,143 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 94,
+         "rh_min": 35,
+         "wind_speed": 1,
+         "wind_direction": 315,
+         "cloud_cover": 3
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 33,
+         "wind_speed": 1,
+         "wind_direction": 154,
+         "cloud_cover": 3
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 27,
+         "wind_speed": 2,
+         "wind_direction": 321,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 29,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 75,
+         "rh_min": 26,
+         "wind_speed": 1,
+         "wind_direction": 342,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "mustard",
+      "toria",
+      "linseed",
+      "chickpea",
+      "tomato",
+      "coriander",
+      "pea",
+      "chilli",
+      "potato",
+      "cauliflower"
+   ],
+   "general_advisory": "Value addition of the crops is important after harvesting. Make Tomato sauce, Potato chips, Cauliflower chips, pickles etc. which will attract more income than normal. Spray Imidachloprid and Dimethoate during morning and evening hours to reduce infestation of aphids, jassids and whitefly. Remove weeds from the field and apply irrigation to the crops.",
+   "crops_data": {
+      "mustard": {
+         "advisory": [
+            "The mustard and toria plants have almost reached the physiological maturity stage. Restrict the irrigation in this case.",
+            "If the plants have lodged down due to heavy weight, make sure siliqua does not touch the soil as it may lead to rotting and decaying.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water.",
+            "In severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt."
+         ]
+      },
+      "toria": {
+         "advisory": [
+            "The mustard and toria plants have almost reached the physiological maturity stage. Restrict the irrigation in this case.",
+            "If the plants have lodged down due to heavy weight, make sure siliqua does not touch the soil as it may lead to rotting and decaying.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water.",
+            "In severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "If possible, one irrigation can be provided at the fruit formation time.",
+            "Remove any weeds from the field.",
+            "Whitefly, aphids can be managed in linseed by spraying Dimethoate 30 EC @ 2 ml/lt."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Provide irrigation at pod initiation or development stage.",
+            "Cutworm infestation may be seen in the field. Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt.",
+            "Powdery mildew in chickpea is a major problem in recent time. To manage the same, wettable sulphur powder or copper oxychloride @ 2 ml/lt can be sprayed on the crops. Repeat it after 7 days for better result.",
+            "The wilted plants or damaged leaves should be removed from the plants.",
+            "For controlling termite infestation, spray Chloropyriphos or Imidachloprid @ 4ml/10lt."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "For the tomato cultivation, apply irrigation at an interval of 6-7 days.",
+            "Be careful about not touching of the fruits with the ground and provide staking in case of plant lodging.",
+            "To manage the whitefly infestation, spray Acetamiprid 20 SP @ 0.5g/lt or Profenophos @ 1ml/lt."
+         ]
+      },
+      "coriander": {
+         "advisory": [
+            "Provide light and frequent irrigation to the crops.",
+            "Harvest the matured plants by uprooting them.",
+            "Make bundles of the coriander plants and sell them at market."
+         ]
+      },
+      "pea": {
+         "advisory": [
+            "Pod borers in pea cause a lot of damage to the fruits by boring into flowers and pods. To manage the same spray Emamectin benzoate 4% SG @ 5g/10lt or Chloropyriphos @ 1 ml/lt.",
+            "For managing Powdery mildew, spray Karathane 40 EC @ 1 ml/lt ."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Harvest the matured chilli.",
+            "Little leaf in Chilli can be seen the field. If that happens spray Dimethoate @ 2 ml/lt.",
+            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt.",
+            "The harvested chilli can be value added by making Chilli pickles. Chilli pickles can fetch more income rather than selling it raw."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Earthing up is required in potato to prevent from direct exposure to sun. As this will deteriorate the quality of potato by solanine production.",
+            "If wilting is seen in the field, drench Blitox-50 @ 45g + Steptocycline @ 2g in 10lts of water."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Harvest the cauliflower when it's get matured.",
+            "Do not expose the flower to direct sun rays as it may hamper the flower head. Cover it with the cauliflower leaves.",
+            "Weeding and irrigation is important to keep it in good quality."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 93,
+         "rh_min": 44,
+         "wind_speed": 7,
+         "wind_direction": 231,
+         "cloud_cover": 1
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 225,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 46,
+         "wind_speed": 5,
+         "wind_direction": 250,
+         "cloud_cover": 3
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 88,
+         "rh_min": 44,
+         "wind_speed": 2,
+         "wind_direction": 315,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 33,
+         "wind_speed": 4,
+         "wind_direction": 294,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "summer rice",
+      "groundnut",
+      "blackgram/greengram",
+      "rapeseed and mustard",
+      "vegetables",
+      "fruit",
+      "flower",
+      "livestock"
+   ],
+   "general_advisory": "As per Extended Range forecast of IMD, Dry weather is very likely to prevail over the districts of Odisha during (31st January to 06th February, 2025). Prevailing fog condition and gradual increase in temperature may increase the infestation for sucking pest like White fly, Aphids, Jassids & Thirps in vegetables so regular monitor the crop & install yellow sticky trap @ 8/acre. Spraying of pesticides to be done after 3 pm to protect the honey bee.",
+   "crops_data": {
+      "summer rice": {
+         "advisory": [
+            "Farmers those who are going for transplanting should apply 35-kg DAP, 20-kg MOP and 8-kg Urea per acre during last puddling as basal fertilizer. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre.",
+            "Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x 15 cm, plant 2-3 seedlings per hill for high yielding varieties.",
+            "Foliar spraying of (Tebuconazole + Trifloxystrobin)@0.5ml/litre of water along with plantomycin@1g/litre of water 5-6 days before transplanting recommended for disease management in nursery & main field."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Need based spraying and drenching with (carbendazim + mancozeb) or (metaloxyl + mancozeb) @ 2gm/lit of water to protect the crop from collar rot, stem rot and tikka disease."
+         ]
+      },
+      "blackgram/greengram": {
+         "advisory": [
+            "To protect the crop from whitefly and other sucking pests in early stages mix Imidacloprid 600 FS @5 ml per 1 kg of seeds before sowing.",
+            "Sow the seeds after treating with (Carboxin + Thiram)@2gm/kg of seed before 7 days. On the day of sowing seeds, mix 20 grams of rhizobium bacteria culture per kg of seeds and keep in shade.",
+            "Seed rate: Green gram and Black gram: 25-30Kg/ha, Spacing - 25cm * 10cm, Variety -Green gram -Virat, Sikha, PDM-54, IEPM-203, Blackgram -PU-10, PU-11"
+         ]
+      },
+      "rapeseed and mustard": {
+         "advisory": [
+            "Provide one irrigation at critical stage at flowering and pod development stage.",
+            "Prevailing fog condition and gradual increase in temperature may increase the infestation aphid. To control aphid need-based spraying of neem oil formulation @ 600ml per acre or Flonicamid @ 60g per acre is recommended. Spraying of pesticides to be done after 3 pm to protect the honey bee."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "The weather is suitable for application of fertilizer to rabi vegetables which are at 3 to 4 weeks stage.",
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray (basal + foliar) Tebuconazole fungicide @ 1ml/liter."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @ 3ml/lit of water and flonicamid 50WG @ 0.3g/litre to control whitefly."
+         ]
+      },
+      "flower": {
+         "advisory": [
+            "Marigold - Spray the Marigold plant with Difenthurion @ 1g/li. Of water or Abamectin @ 0.75ml/li. Of water to control the infestation of Thrips, Aphids, Mites and Leaf Minor."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Cover the animal shelter from all sides during night in order to avoid direct exposure of animals to cold winds including dry straw as animal bedding. Weak and sick animals should be covered with sack cloth to protect them from the cold."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

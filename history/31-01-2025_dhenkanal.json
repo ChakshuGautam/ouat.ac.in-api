@@ -1,0 +1,81 @@
+{
+   "weather_details": {
+      "31.01.2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sugarcane",
+      "potato",
+      "onion",
+      "cabbage",
+      "cauliflower",
+      "chilli",
+      "brinjal",
+      "mango",
+      "jasmine"
+   ],
+   "general_advisory": "Various crop-specific advisory provided in the bulletin for pest management, disease control, and crop nutrition.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "To manage Tikka disease, spray Chlorothalonil 75% WP or Mancozeb 75% WP or Hexaconazole 5% E.C as per recommended dosages."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Apply appropriate amounts of DAP, MOP, and FYM during the planting stage for better growth."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To control Cut worm, spray Chlorpyriphos 50% + Cypermethrin 5% E.C at recommended concentration."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight, spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C at designated intervals.",
+            "Add a spreader or sticker for better spray fluid retention."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Collect and destroy Dimond Back Moth and Head Borer caterpillars and egg masses. Use Neem-based pesticide for management."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Collect and destroy Dimond Back Moth and Head Borer caterpillars and egg masses. Use Neem-based pesticide for management."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage thrips, aphids, spray neem-based pesticide or chemical insecticides as required."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage Epilachna Beetle, dislodge grubs, pupae, and adults early in the morning. Use neem-based pesticide or chemical insecticides for control."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To manage mango hoppers, apply recommended insecticides at specified intervals for better pest control."
+         ]
+      },
+      "jasmine": {
+         "advisory": [
+            "Prune jasmine plants for better flowering. Apply Bordeux mixture to cut parts for protection."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

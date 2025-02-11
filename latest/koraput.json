@@ -1,153 +1,111 @@
 {
    "weather_details": {
-      "27.01.2025": {
+      "08-02-2025": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 77,
-         "rh_min": 26,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 78,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 63,
+         "cloud_cover": 2
       },
-      "28.01.2025": {
+      "09-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 19,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "10-02-2025": {
          "rainfall": 0,
          "t_max": 33,
          "t_min": 14,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "29.01.2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 11,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "30.01.2025": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 12,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "01-02-2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 11,
-         "rh_max": 77,
-         "rh_min": 26,
-         "wind_speed": 3,
-         "wind_direction": 207,
+         "rh_max": 81,
+         "rh_min": 16,
+         "wind_speed": 1,
+         "wind_direction": 162,
          "cloud_cover": 2
       },
-      "02-02-2025": {
+      "11-02-2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 12,
+         "t_max": 34,
+         "t_min": 14,
          "rh_max": 76,
-         "rh_min": 26,
+         "rh_min": 18,
          "wind_speed": 3,
-         "wind_direction": 210,
+         "wind_direction": 203,
          "cloud_cover": 2
       },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 13,
-         "rh_max": 69,
-         "rh_min": 23,
-         "wind_speed": 3,
-         "wind_direction": 220,
-         "cloud_cover": 3
-      },
-      "04-02-2025": {
+      "12-02-2025": {
          "rainfall": 0,
          "t_max": 34,
          "t_min": 14,
-         "rh_max": 66,
-         "rh_min": 22,
-         "wind_speed": 2,
-         "wind_direction": 207,
-         "cloud_cover": 3
-      },
-      "05-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 13,
-         "rh_max": 61,
-         "rh_min": 22,
-         "wind_speed": 2,
-         "wind_direction": 207,
-         "cloud_cover": 2
+         "rh_max": 58,
+         "rh_min": 17,
+         "wind_speed": 4,
+         "wind_direction": 221,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
-      "groundnut",
       "mustard",
       "chilli",
       "tomato",
       "potato",
-      "turmeric"
+      "okra"
    ],
-   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chickpea, and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage.",
+   "general_advisory": "Farmers are advised to do weeding and hoeing in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from weeds. Apply balanced and appropriate fertilizers according to crop’s growth stage. Install yellow sticky trap to monitor sucking pest like White fly, Aphids, and Thrips in vegetables at vegetative stage.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Weed Management",
-            "For one acre area, apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10% WP @ 100 g at 8-10 days after transplanting or spray Bispyribac sodium10% SC @ 120 ml at 15-20 DAT mixed with 200 liters of water."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
+            "Apply light irrigation to the nursery beds as & when required.",
+            "Plant rice seedlings at 4-5 leaf stage.",
+            "Apply Tebuconazole 50% + Trifloxystrobin 25% WG to control blast infestation.",
+            "Go for puddling of the main field.",
+            "Apply 8 kg N, 16 kg P2O5, and 16 kg K2O as basal fertilizer.",
+            "Apply herbicide Bensulfuron methyl + Pretilachlor to control weeds."
          ]
       },
       "mustard": {
          "advisory": [
-            "The siliqua is in the development stage which may attract different pests like grasshopper, aphids, and larvae. Therefore, regularly keep a watch in the crop field.",
-            "The incidence of aphids along with mustard sawfly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water."
+            "Keep a watch for pests like grasshopper, aphids, and larvae.",
+            "Spray Emamectin benzoate to control pests.",
+            "In severe infestation, spray Imidacloprid or Dimethoate.",
+            "For controlling Saw fly, spray Profenophos or Quinalphos."
          ]
       },
       "chilli": {
          "advisory": [
-            "Provide vermicompost and manures to the crop.",
-            "Little leaf in Chilli can be seen in the field. If that happens spray Dimethoate @ 2ml/lt.",
-            "Aphids and Jassids infestation may be seen in the field. To manage it spray Imidacloprid 17.8% SL @ 1 ml/lt.",
-            "Mite: Stunted growth with downward curling and crinkling of leaves are seen in mite-infested chili plants. Apply Ethion 50% EC or Propargite 57 % EC @ 600 ml/acre mixed with 200 liters of water to control mite infestation."
+            "Spray Dimethoate for little leaf in Chilli.",
+            "Spray Imidacloprid to manage aphids and Jassids infestation.",
+            "Apply Ethion or Propargite to control mite infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Leaf curling/Whitefly: Leaf curling may notice due to whitefly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15ml mixed with 15 liters of water."
+            "Spray Azoxystrobin or Zineb to control early and late blight.",
+            "Install yellow sticky trap for monitoring pest population.",
+            "For chemical control, spray Dimethoate, Cyntranliprole, Thiamethoxam, or Indoxacarb."
          ]
       },
       "potato": {
          "advisory": [
-            "Provide irrigation as per the requirement of the crop.",
-            "Earthing up is required in potato to prevent from direct exposure to the sun. As this will deteriorate the quality of potato by solanine production.",
-            "If wilting is seen in the field, drench Blitox -50 @ 45g + Steptocycline @ 2g in 10 liters of water."
+            "Provide irrigation as per the crop requirement.",
+            "Earthing up is required to prevent direct exposure to sun.",
+            "Drench Blitox -50 + Steptocycline if wilting is seen in the field."
          ]
       },
-      "turmeric": {
+      "okra": {
          "advisory": [
-            "Depending on the variety, turmeric is ready for harvesting after 270 days.",
-            "Early varieties mature after 7-8 months, medium varieties after 8-9 months, and late varieties after 9 months.",
-            "Turmeric is ready for harvesting when the leaves turn yellow.",
-            "Plough the land and collect turmeric by hand, or remove the turmeric stalks from the soil with the help of a spade.",
-            "Clean the harvested turmeric from soil and other foreign matter."
+            "Spray neem-based pesticide to control fruit borer.",
+            "For later stages, spray Spinosad."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

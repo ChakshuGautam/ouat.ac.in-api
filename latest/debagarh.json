@@ -1,116 +1,96 @@
 {
    "weather_details": {
-      "01/02/2025": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 17,
-         "rh_max": 86,
-         "rh_min": 34,
-         "wind_speed": 1,
-         "wind_direction": 63,
-         "cloud_cover": 3
-      },
-      "02/02/2025": {
+      "08/02/2025": {
          "rainfall": 0,
          "t_max": 30,
          "t_min": 17,
-         "rh_max": 93,
-         "rh_min": 29,
-         "wind_speed": 2,
-         "wind_direction": 100,
-         "cloud_cover": 3
+         "rh_max": 45,
+         "rh_min": 15,
+         "wind_speed": 5,
+         "wind_direction": 347,
+         "cloud_cover": 2
       },
-      "03/02/2025": {
+      "09/02/2025": {
          "rainfall": 0,
          "t_max": 30,
-         "t_min": 17,
-         "rh_max": 78,
-         "rh_min": 21,
-         "wind_speed": 2,
-         "wind_direction": 18,
-         "cloud_cover": 3
+         "t_min": 16,
+         "rh_max": 43,
+         "rh_min": 11,
+         "wind_speed": 3,
+         "wind_direction": 348,
+         "cloud_cover": 2
       },
-      "04/02/2025": {
+      "10/02/2025": {
          "rainfall": 0,
          "t_max": 31,
          "t_min": 16,
-         "rh_max": 79,
-         "rh_min": 28,
+         "rh_max": 58,
+         "rh_min": 13,
          "wind_speed": 2,
-         "wind_direction": 68,
-         "cloud_cover": 2
+         "wind_direction": 9,
+         "cloud_cover": 1
       },
-      "05/02/2025": {
-         "rainfall": 1,
-         "t_max": 30,
+      "11/02/2025": {
+         "rainfall": 0,
+         "t_max": 31,
          "t_min": 16,
-         "rh_max": 76,
-         "rh_min": 23,
-         "wind_speed": 3,
-         "wind_direction": 0,
+         "rh_max": 59,
+         "rh_min": 15,
+         "wind_speed": 1,
+         "wind_direction": 63,
+         "cloud_cover": 1
+      },
+      "12/02/2025": {
+         "rainfall": 1,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 58,
+         "rh_min": 15,
+         "wind_speed": 1,
+         "wind_direction": 334,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rabi paddy",
-      "rape seed & mustard",
-      "wheat",
-      "summer maize",
       "sesamum",
-      "summer groundnut",
-      "onion",
-      "poultry farming",
-      "fish farming"
+      "ragi",
+      "vegetable",
+      "fish farming",
+      "animal"
    ],
-   "general_advisory": "Provide light irrigation to paddy nursery. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "general_advisory": "Provide light irrigation to paddy nursery. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather, there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
    "crops_data": {
       "rabi paddy": {
          "advisory": [
-            "Apply Pyrazo sulfuran ethyl to control the weeds at early stage i.e within 2-3 days of transplanting. The dose is 80 g/acre. Keep water at the time of spraying the herbicides. For proper growth of the seedling keep 2 cm water in the field."
-         ]
-      },
-      "rape seed & mustard": {
-         "advisory": [
-            "Due to weather there will be severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt.",
-            "Provide one irrigation at critical stage at flowering and pod development stage."
-         ]
-      },
-      "wheat": {
-         "advisory": [
-            "Due to forecast of increased temperature, provide critical stage irrigation to the crop at flowering and milking stage. Survey for any insect and there is chances of stem borer attack. Apply 12-16 kg Nitrogen/acre"
-         ]
-      },
-      "summer maize": {
-         "advisory": [
-            "Due to upland ecosystem more weeds will be there, To control the weeds in upland apply Atrazine @ 1 kg/acre in 200 liters of water at the following day of sowing."
+            "Before application of fertilizer, drain out excess water and apply 16 kg Nitrogen per acre at 3 weeks stage after transplanting and after application, again keep ponding water."
          ]
       },
       "sesamum": {
          "advisory": [
-            "Go for sowing sesamum like Prachi, G-10, Kalika @ 3 kg/acre. Treat the seeds for protection of soil born and seed born disease. Apply 12-8-8 kg NPK/acre with Sulphur 10 kg as basal dose."
+            "Due to rise in temperature, after sowing provide light irrigation."
          ]
       },
-      "summer groundnut": {
+      "ragi": {
          "advisory": [
-            "Complete sowing the summer groundnut at 30 X 10 cm spacing. Seed rate is 50 kg pod/ac. Good varieties like Kalinga Chinabadam, Devi, Dharani.",
-            "In the early sown crop, do not go for intercultivation after flowering."
+            "Provide light irrigation to the crop. Go for intercultivation and apply 12 kg Nitrogen after 3 weeks of transplanting."
          ]
       },
-      "onion": {
+      "vegetable": {
          "advisory": [
-            "Light intercultivation are to be done since the roots will be shallow and found in surface of the soil."
-         ]
-      },
-      "poultry farming": {
-         "advisory": [
-            "Keep clean the poultry house"
+            "Due to bacterial wilt apply Streptocyclin @ 1 g in 10 liters of water."
          ]
       },
       "fish farming": {
          "advisory": [
             "Provide the feed mixture according to the body weight."
          ]
+      },
+      "animal": {
+         "advisory": [
+            "Provide clean and sufficient drinking water to the animals."
+         ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

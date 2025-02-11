@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "25/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 0,
+         "rh_max": 91,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 219,
+         "cloud_cover": 0
+      },
+      "01/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 92,
+         "rh_min": 47,
+         "wind_speed": 3,
+         "wind_direction": 264,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Standing water to a depth of 2-3 cm should be maintained at least for 2-3 days before uprooting of seedlings. Farmers are advised to irrigate their field as there is mildly dry condition prevailed. To manage foot rot disease in paddy spray Metalaxyl 8% + Carbendazim 12% + Mancozeb 63% WP @ 400.....",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Stem borer - To manage stem borer in paddy at early stage of crop, use Trichogramma japonicum card @ 1/acre (50000/ha) at weekly interval for 6 times by splitting each card into 12 pieces at the scheduled points. Use pheromone traps @ 5/acre. Apply Cartap Hydrochloride 4% G @ 8kg/acre or....."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Stem rot management - To manage stem rot in groundnut drench soil with Validamycin 3% L @ 400-ml/acre or Captan 70% + Hexaconazole 5% WP@ 300-gram/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To prevent red rot disease, resistant varieties like CO-7219, CO-8371, CO-8013, CO-8014, CO-6907, CO-7601 and CO-7602 should be selected....."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Powdery mildew management - To manage powdery mildew disease in Blackgram and Greengram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre....."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Powdery mildew management - To manage powdery mildew disease in Blackgram and Greengram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre....."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Cut Worm - To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre by mixing it in 200 litres of water....."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Mite - For controlling mites in chilli, spray Ethion 50% EC @ 600 ml/acre or Spiromesifen 22.9% SC @ 200 ml/acre or Propargite 57% EC @ 600 ml/acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prevailing fog condition may increase the infestation Aphid. To control aphid need-based spraying of neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre is recommended."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Purple Blotch and Stemphylium leaf blight - To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre....."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Black spot: To control black spot disease in Rose spray Copper Oxychloride 50% WP @ 3g/ltr of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "As the temperature of the surface water is colder than the bottom layers, the fish prefers to live in the bottom zone. Farmers should keep the water depth up to 6 ft, so that it gets enough space for hibernating in the warmer bottom zone."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

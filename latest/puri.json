@@ -1,53 +1,63 @@
 {
    "weather_details": {
-      "2025-01-25": {
+      "01/02/2025": {
          "rainfall": 0,
-         "t_max": 21,
+         "t_max": 30,
          "t_min": 22,
-         "rh_max": 90,
-         "rh_min": 55,
-         "wind_speed": 3,
-         "wind_direction": 240,
+         "rh_max": 82,
+         "rh_min": 44,
+         "wind_speed": 7,
+         "wind_direction": 12,
          "cloud_cover": 0
       },
-      "2025-01-26": {
+      "08/02/2025": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 23,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 44,
+         "wind_speed": 7,
+         "wind_direction": 12,
+         "cloud_cover": 0
+      },
+      "09/02/2025": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
          "rh_max": 88,
-         "rh_min": 67,
-         "wind_speed": 11,
-         "wind_direction": 218,
+         "rh_min": 44,
+         "wind_speed": 6,
+         "wind_direction": 90,
          "cloud_cover": 0
       },
-      "2025-01-27": {
+      "10/02/2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 89,
-         "rh_min": 61,
-         "wind_speed": 11,
-         "wind_direction": 213,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 84,
+         "rh_min": 45,
+         "wind_speed": 5,
+         "wind_direction": 315,
          "cloud_cover": 0
       },
-      "2025-01-28": {
+      "11/02/2025": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 90,
-         "rh_min": 67,
-         "wind_speed": 11,
-         "wind_direction": 231,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 44,
+         "wind_speed": 6,
+         "wind_direction": 90,
          "cloud_cover": 0
       },
-      "2025-01-29": {
+      "12/02/2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 54,
-         "wind_speed": 4,
-         "wind_direction": 229,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 84,
+         "rh_min": 45,
+         "wind_speed": 5,
+         "wind_direction": 315,
          "cloud_cover": 0
       }
    },
@@ -56,71 +66,72 @@
       "groundnut",
       "sugarcane",
       "black gram",
-      "green gram",
-      "potato",
       "chilli",
-      "tomato",
+      "cole crops",
       "onion",
+      "mango",
       "rose",
-      "pisciculture"
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advisory": "Dry weather may prevail over the district of Puri for the next five days. Farmers are advised to irrigate their fields as there is a mildly dry condition. Specific crop management practices are provided for various crops.",
+   "general_advisory": "Dry weather with partly cloudy sky. Maximum temperatures between 30-31°C and minimum temperatures between 19-22°C. Increasing temperature conditions should prompt farmers to apply irrigation. Various pest management and disease control measures are advised for different crops.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "To manage stem borer in paddy, use Trichogramma japonicum card @ 1/acre weekly for 6 times."
+            "In transplanted paddy, spray Bispyribac Sodium 10% E.C. or Ethoxysulfuron 15% WDG at 3 to 4 leaf stage.",
+            "Apply irrigation as needed."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage stem rot in groundnut, drench soil with Validamycin 3% L."
+            "To manage Bud Necrosis disease, spray Neem Based Pesticide or chemical insecticides as needed."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "To prevent red rot disease, select resistant varieties."
+            "For Sett Rot management, use Carbendazim + Mancozeb basal drenching or foliar spray with Metalaxyl + Mancozeb."
          ]
       },
       "black gram": {
          "advisory": [
-            "To manage powdery mildew disease, spray Sulphur 80% WP."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "To manage powdery mildew disease, spray Hexaconazole 5% E.C."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "To control cut worm, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
+            "To control aphids, spray Neem Based Pesticide followed by chemical insecticides."
          ]
       },
       "chilli": {
          "advisory": [
-            "For controlling mites in chilli, spray Ethion 50 % EC."
+            "To manage Fruit rot and Die back disease, spray fungicides at specific stages of crop growth."
          ]
       },
-      "tomato": {
+      "cole crops": {
          "advisory": [
-            "To control aphid, spray neem oil formulation or Flonicam as needed."
+            "To control Alternaria Leaf Spot, spray Mancozeb or carbendazim fungicides."
          ]
       },
       "onion": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight, spray Mancozeb 75% WP."
+            "For Purple Blotch and Stemphylium leaf blight, spray Mancozeb or other fungicides at specific intervals."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To manage mango hoppers, spray specific insecticides at recommended timings."
          ]
       },
       "rose": {
          "advisory": [
-            "To control black spot disease in Rose, spray Copper Oxy-chloride 50% WP."
+            "To control Powdery mildew, spray Carbendazim as a preventive measure."
          ]
       },
-      "pisciculture": {
+      "animal husbandry": {
          "advisory": [
-            "Maintain water depth up to 6 ft for fish hibernating in the warmer bottom zone."
+            "For Foot and mouth diseases of cattle, ensure FMD vaccination once a year."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate chicks for Sleeping disease with specific vaccines at recommended timings."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

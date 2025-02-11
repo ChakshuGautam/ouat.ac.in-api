@@ -1,138 +1,114 @@
 {
    "weather_details": {
-      "2025-02-01": {
+      "2025-02-08": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 17,
-         "rh_max": 92,
-         "rh_min": 31,
-         "wind_speed": 3,
-         "wind_direction": 277,
-         "cloud_cover": 3
-      },
-      "2025-02-02": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 86,
-         "rh_min": 30,
-         "wind_speed": 2,
-         "wind_direction": 259,
-         "cloud_cover": 3
-      },
-      "2025-02-03": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 19,
-         "rh_max": 81,
-         "rh_min": 24,
-         "wind_speed": 3,
-         "wind_direction": 278,
-         "cloud_cover": 3
-      },
-      "2025-02-04": {
-         "rainfall": 0,
-         "t_max": 34,
+         "t_max": 35,
          "t_min": 20,
-         "rh_max": 70,
-         "rh_min": 26,
+         "rh_max": 81,
+         "rh_min": 25,
          "wind_speed": 2,
-         "wind_direction": 297,
+         "wind_direction": 338,
          "cloud_cover": 2
       },
-      "2025-02-05": {
+      "2025-02-09": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 20,
-         "rh_max": 72,
-         "rh_min": 23,
+         "t_max": 35,
+         "t_min": 19,
+         "rh_max": 90,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 320,
+         "cloud_cover": 1
+      },
+      "2025-02-10": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 19,
+         "rh_max": 86,
+         "rh_min": 20,
          "wind_speed": 2,
-         "wind_direction": 284,
+         "wind_direction": 315,
+         "cloud_cover": 2
+      },
+      "2025-02-11": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 20,
+         "wind_speed": 2,
+         "wind_direction": 288,
+         "cloud_cover": 1
+      },
+      "2025-02-12": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 20,
+         "rh_max": 66,
+         "rh_min": 17,
+         "wind_speed": 3,
+         "wind_direction": 277,
          "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "rice",
       "groundnut",
-      "black gram",
-      "mustard",
       "potato",
-      "cowpea/lobia",
-      "onion",
       "menacinakahi",
       "chilli",
-      "cauliflower",
       "cabbage",
-      "common fish",
-      "chicken"
+      "onion",
+      "mango",
+      "plant protection"
    ],
-   "general_advisory": "The mean maximum daily temperature was 32.6°C and the mean minimum daily temperature was 15.7°C of the Gajapati district during the last week. The district received 0.0 mm of rainfall during the last week. Farmers are advised to irrigate their field as there is mildly dry condition prevailed. Prepare the main field for summer paddy and start transplanting with 3 week old seedlings. The summer rice seedlings at 4-5 leaf stage are ready for transplanting. Plant 2 to 3 seedling per hill shallow and upright in lines at 15 cm apart and hills at 10 cm apart.",
+   "general_advisory": "The mean maximum daily temperature was 35.7°C and the mean minimum daily temperature was 19.0°C of the Gajapati district during the last week. The district received 0.00 mm of rainfall during the last week. Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Keep bunding water in the main field of rice under late transplanting. Plan for irrigation to summer paddy and other crops observing soil moisture. Carry on intercultural operation, fertilizer, and weedicide application. Continue harvesting matured crops and keep the products in a safe place to protect them from rain. Spray insecticides or pesticides in crops as per requirement.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers those who are going for transplanting should apply 35- kg DAP , 30- kg MOP  and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP , 15 kg MOP  and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+            "In transplanted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray, Bispyribac Sodium 10% E.C. @ 100 ml/acre or Ethoxysulfuron 15% WDG @ 40 g/acre or ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8 g /acre at 3 to 4 leaf stage by mixing in 200 litre of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To control stem rot in groundnut drench soil with Validamycin 3% L  @ 400- ml/acre or Captan 70 % + Hexaconazole 5 % WP@ 300-gram/acre."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "To control powdery mildew disease in Blackgram and Greengram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200-ml/acre or Penconazole 10% EC @ 100- ml/acre by mixing in 200litre of water ."
-         ]
-      },
-      "mustard": {
-         "advisory": [
-            "There are chances of Aphid infestation in early sown mustard crop. To manage aphids at early stage, put 8 number of yellow sticky traps per acre. Spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . If the infestation is severe than spray chemical pesticide Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP  @ 50- gram/acre in 200-liter of water ."
+            "Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @600 g/ac mixed with 200 liters of water is recommended."
          ]
       },
       "potato": {
          "advisory": [
-            "There are chances of Early Blight disease incidence in Potato. To manage early leaf blight in potato, spray Mancozeb 75% WP @600 g/acre or Carbendazim 12% + Mancozeb 63% W.P @ 400g/acre. To manage late blight in potato spray Metalaxyl 8% + Mancozeb 64% W.P @ 400 g/acre at 10 days interval."
-         ]
-      },
-      "cowpea/lobia": {
-         "advisory": [
-            "To control from hairy caterpillar , spray flubendiamide 39.35%SC @ 80 ml /200 liter of water . If cercospora leaf spot is seen then spray difenoconazole 25%EC @ 200 ml or carbendazim 12% + mancozeb 63%WP  400gm/200 lit water per acre."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Apply pre-emer gence herbicide Pendimethalin 30 % E.C @ 1 litre /acre at 1- 2 DA T."
+            "To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Cut Worm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
          ]
       },
       "menacinakahi": {
          "advisory": [
-            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400- ml/acre."
+            "For controlling mites in chilli, spray Ethion 50 % EC @ 600 ml/acre or Spiromesifen 22.9 % SC @ 200 ml/acre or Propargite 57 % EC @ 600 ml/acre."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400- ml/acre."
-         ]
-      },
-      "cauliflower": {
-         "advisory": [
-            "Apply borax @ 4-kg/ acre as soil application during transplanting in Cole crops to prevent Brown rot. If Borax was not applied during transplanting of seedlings than spray Borax @ 2.5-gram/litre or Folibor /Solubor @ 1.5 gram/litre. Spraying of Boron micronutrient should be done after two weeks of transplanting and two weeks before curd formation."
+            "For controlling mites in chilli, spray Ethion 50 % EC @ 600 ml/acre or Spiromesifen 22.9 % SC @ 200 ml/acre or Propargite 57 % EC @ 600 ml/acre."
          ]
       },
       "cabbage": {
          "advisory": [
-            "There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-litre of water . To manage this pest chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ 80-gram/acre by mixing in 200-litre of water ."
+            "There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
          ]
       },
-      "common fish": {
+      "onion": {
          "advisory": [
-            "During winters, there is a possibility of “EUS” disease in fish. Farmers are advised to apply Cifax @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
+            "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
          ]
       },
-      "chicken": {
+      "mango": {
          "advisory": [
-            "In view of prevailing low temperature, for maintaining heat in the poultry shed use electric bulb or install heaters in the shed. Cover the farm with polythene or gunny bag."
+            "The mango hoppers multiply rapidly in cloudy and foggy weather. To manage mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 3ml/15litre of water or Acetamiprid 20% S.P. @ 4g/15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. Application of smoke below the plants can also help in reducing the pest population."
+         ]
+      },
+      "plant protection": {
+         "advisory": [
+            "There are infestations of Bacterial Wilt in Brinjal, Tomato and Chilli. To manage this disease drench with Streptocycline @1.5 gram or Plantomycin @ 15 gram + Copper Oxychloride @ 30 gram in 10 litre of water."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

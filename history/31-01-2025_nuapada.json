@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 54,
+         "rh_min": 22,
+         "wind_speed": 4,
+         "wind_direction": 233,
+         "cloud_cover": 1
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 186,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 47,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 240,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 46,
+         "rh_min": 19,
+         "wind_speed": 2,
+         "wind_direction": 297,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 44,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "sunflower",
+      "chickpea",
+      "green gram",
+      "tomato",
+      "onion",
+      "mustard",
+      "maize"
+   ],
+   "general_advisory": "Always apply recommended dose of fertilizers according to the soil test report and recommended dose of pesticide in correct method during morning or evening hours and pay attention to the wind direction during application. Provide frequent irrigation to the standing crops like Groundnut, Sunflower, Chick pea, Maize, Green gram and vegetables in view of prevailing dry weather condition. Farmers are advised to install 'T' shaped bird perches in and around crop field like Chickpea, Green gram, Groundnut and vegetables for controlling insect population. Install pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Install yellow sticky trap @ 8/acre to monitor sucking pest like White fly, Aphids, Jassids & blue sticky trap for Thirps in vegetables at vegetative stage. In view of prevailing dry weather condition, provide irrigation to the standing crops in a regular interval.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field.",
+            "Apply Bispyribac sodium 10% SC @ 120 ml at 15-20 DAT for pest management."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Sucking pest complex (Aphid, Hopper, Thrips & White fly): Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended.",
+            "Powdery mildew: Spray Propiconazole 25% EC @ 1 ml/ltr or Triademefon 25% WP @ 1g /ltr of water as control measure."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Powdery mildew: To control spray Sulphur 80% WP @ 800 g/ac or Propiconazole 25% EC @ 200ml/ac mixed with 200 liters of water.",
+            "Stem rot/Root rot/Wilting: If symptom is noticed spray Carbendazim 50% WP @ 400g/ac or Validamycin 3% L @ 400 ml/ac mixed with 200 liters of water."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Aphid and Whitefly: Install yellow sticky traps @ 8nos/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation.",
+            "Powdery mildew: To control spray wettable Sulphur @ 60 g mixed with 15 liters of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population.",
+            "Leaf curling/White fly: Install yellow sticky trap @ 8nos/acre to monitor pest population."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Irrigate the crop at 10 days interval considering dry weather condition.",
+            "After hoeing and weeding, apply 45kg Urea as first top dressing at 4-week stage followed by irrigation."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "White rust: Apply Metalaxyl M 4% + Mancozeb 64% WP @ 25g or Copper Oxychloride 50% WP @ 30g mixed with 10 liters of water when symptom is noticed."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Pest Management: Apply Pesticides as per recommendation for pest control."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

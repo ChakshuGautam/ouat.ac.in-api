@@ -1,0 +1,132 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 77,
+         "rh_min": 22,
+         "wind_speed": 5,
+         "wind_direction": 184,
+         "cloud_cover": 1
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 72,
+         "rh_min": 21,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 19,
+         "rh_max": 63,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 184,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 56,
+         "rh_min": 19,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 56,
+         "rh_min": 19,
+         "wind_speed": 4,
+         "wind_direction": 185,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "chickpea",
+      "greengram/blackgram",
+      "groundnut",
+      "onion",
+      "tomato",
+      "chilli",
+      "rose",
+      "merigold",
+      "cattle & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "Always apply recommended dose of fertilizers according to the soil test report and recommended dose of pesticide in correct method during morning or evening hours and pay attention to the wind direction during application. Provide irrigation in a regular interval to the standing crops like Groundnut, Sunflower, Chick pea, Maize, Green gram, and vegetables in view of prevailing dry weather condition. Farmers are advised to install “T” shaped bird perches in and around crop field like Chickpea, Green gram, Groundnut, and vegetables for controlling insect population. Install pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Install yellow sticky trap @ 8 /acre to monitor sucking pest like White fly, Aphids, Jassids & blue sticky trap for Thirps in vegetables at vegetative stage. In view of prevailing dry weather condition, provide irrigation to the standing crops in a regular interval.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Weed Management: Apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 % WP."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Pest Management: Control powdery mildew disease by spraying Sulphur 80% WP @ 800 g/ac or Propiconazole 25% EC @ 200ml/ac mixed with 200 liters of water."
+         ]
+      },
+      "greengram/blackgram": {
+         "advisory": [
+            "Pest Management: Monitor pest population of aphid and whitefly by installing yellow sticky traps @ 8nos/acre and apply neem oil-based pesticide or chemical control."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Pest Management: Control Tikka by applying Chlorothalonil 75% WP or Hexaconazole 5% EC mixed with water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Nutrient Management: Apply Urea as top dressing at specific stages along with irrigation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Pest Management: Control fruit & shoot borer by installing pheromone trap @ 8nos/acre and chemical control measures."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Pest Management: Control mite infestation by applying Ethion 50% EC or Propargite 57 % EC mixed with water."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Pest Management: Control Powdery mildew by spraying Carbendazim 50% WP mixed with water."
+         ]
+      },
+      "merigold": {
+         "advisory": [
+            "Pest Management: Control inflorescence rot by spraying Mancozeb 75% WP or Carbendazim 50% WP mixed with water."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Ensure proper feeding to maintain body condition score and increase concentrate gradually before calving."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Protect animals from cold wind and floor, contact veterinarians for any symptoms."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Protect poultry birds from chill wind and cold floor, cover poultry house with polythene sheet, and maintain cleanliness."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

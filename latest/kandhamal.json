@@ -1,57 +1,58 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
          "t_max": 31,
          "t_min": 14,
-         "rh_max": 88,
-         "rh_min": 26,
-         "wind_speed": 3,
-         "wind_direction": 194,
+         "rh_max": 56,
+         "rh_min": 19,
+         "wind_speed": 2,
+         "wind_direction": 334,
          "cloud_cover": 2
       },
-      "02-02-2025": {
+      "09-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 53,
+         "rh_min": 15,
+         "wind_speed": 1,
+         "wind_direction": 288,
+         "cloud_cover": 1
+      },
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 13,
+         "rh_max": 68,
+         "rh_min": 13,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 1
+      },
+      "11-02-2025": {
          "rainfall": 0,
          "t_max": 32,
          "t_min": 12,
-         "rh_max": 87,
-         "rh_min": 25,
+         "rh_max": 73,
+         "rh_min": 15,
          "wind_speed": 3,
-         "wind_direction": 90,
+         "wind_direction": 188,
+         "cloud_cover": 0
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 12,
+         "rh_max": 62,
+         "rh_min": 16,
+         "wind_speed": 3,
+         "wind_direction": 198,
          "cloud_cover": 1
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 14,
-         "rh_max": 72,
-         "rh_min": 22,
-         "wind_speed": 2,
-         "wind_direction": 202,
-         "cloud_cover": 3
-      },
-      "04-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 13,
-         "rh_max": 68,
-         "rh_min": 23,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 3
-      },
-      "05-02-2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 13,
-         "rh_max": 59,
-         "rh_min": 22,
-         "wind_speed": 3,
-         "wind_direction": 172,
-         "cloud_cover": 2
       }
    },
    "names_of_crops": [
+      "garden pea",
       "chilli",
       "groundnut",
       "turmeric",
@@ -60,26 +61,33 @@
       "marigold",
       "cattle"
    ],
-   "general_advisory": "Rabi crop needs 10 -15 irrigations at 7 -10 days interval depending upon the soil moisture condition. Irrigation should be accordingly as the day temperature gradually increases. Weeding and hoeing is necessary in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from critical crop weed competition.",
+   "general_advisory": "Rabi crop needs 10 -15 irrigations at 7 -10 days interval depending upon the soil moisture condition. Irrigation should be accordingly as the day temperature gradually increases. Weeding and hoeing is necessary in the standing crops like Maize, Groundnut, Green gram, Chick pea and vegetables to protect them from critical crop weed competition. Soil test based fertilizer application may be done",
    "crops_data": {
+      "garden pea": {
+         "advisory": [
+            "Flowering -Fruiting",
+            "Harvest the garden pea. if at the maturity stage. Irrigate the field those are at the vegetative stage.",
+            "Spray sulphur fungicide for the powdery mildew disease."
+         ]
+      },
       "chilli": {
          "advisory": [
             "Flowering -Fruiting",
             "Mite infestation",
             "Downward curling of leaves observed",
-            "To control this, apply Propazite 56% EC @600 milligram / 200 liter of water."
+            "To control this, apply Propazite 56% EC @600 ml/ 200 l of water."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Tikka disease , vegetative stage",
+            "Tikka disease, vegetative stage",
             "If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
          ]
       },
       "turmeric": {
          "advisory": [
             "Harvesting - Drying",
-            "Light-irrigate the field to soften the soil to harvest the rhizomes from the soil.",
+            "Light -irrigate the field to soften the soil to harvest the rhizomes from soil.",
             "Clean the rhizome from soil and debris and dry it initially in the Sun to avoid fungal growth."
          ]
       },
@@ -88,7 +96,7 @@
             "Flowering initiation",
             "Aphid and Whitefly",
             "Prevailing weather condition is favorable for incidence of sucking pest like aphid and white fly.",
-            "Install yellow sticky traps @ 8/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/ltr of water at initial stage of infestation.",
+            "Install yellow sticky traps @ 8/acre at vegetative stage to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% (300 ppm) @ 5ml/l of water at initial stage of infestation.",
             "For chemical control, spray Imidacloprid 17.8% SL @ 4ml or Thiamethoxam 25% WG @ 3g or Chlorpyriphos 20% EC @ 35 ml by mixing with 15 liters of water."
          ]
       },
@@ -97,21 +105,21 @@
             "Stage - Vegetative",
             "At this stage, give light irrigation to the field",
             "Earthing up should be done at this stage to avoid solanization of potatoes due to sunshine.",
-            "If wilting is observed, apply Blitox @ 45gram + Streptocycline @2 gram/ 10 liter of water."
+            "If wilting is observed, apply Copper oxychloride @ 45g + Plantomycin @15g/ 15 litres of water."
          ]
       },
       "marigold": {
          "advisory": [
             "Stage - Flowering",
             "Flower rot may occur",
-            "To control the disease, apply Mancozeb 75 EC @2 gram / liter of water."
+            "To control the disease, apply Carbendazim 50WP@ 2 g/l of water."
          ]
       },
       "cattle": {
          "advisory": [
-            "It is advised to increase the amount of concentrate in the feed gradually before two months prior to calving. It also helps to increase milk production in the coming lactation."
+            "It is advised to increase the amount of concentrate in the feed gradually before two months prior to calving. It also helps to increase milk production in the coming lactation. Green fodder may be given if available."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

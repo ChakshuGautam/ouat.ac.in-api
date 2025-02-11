@@ -1,132 +1,156 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 17,
-         "rh_max": 77,
-         "rh_min": 22,
-         "wind_speed": 5,
-         "wind_direction": 184,
-         "cloud_cover": 1
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 18,
-         "rh_max": 72,
-         "rh_min": 21,
-         "wind_speed": 5,
-         "wind_direction": 90,
-         "cloud_cover": 1
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 19,
-         "rh_max": 63,
+         "t_max": 33,
+         "t_min": 15,
+         "rh_max": 57,
          "rh_min": 20,
-         "wind_speed": 5,
-         "wind_direction": 184,
+         "wind_speed": 2,
+         "wind_direction": 76,
          "cloud_cover": 2
       },
-      "04-02-2025": {
+      "09-02-2025": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 19,
+         "t_max": 33,
+         "t_min": 14,
          "rh_max": 56,
-         "rh_min": 19,
-         "wind_speed": 3,
-         "wind_direction": 90,
-         "cloud_cover": 3
+         "rh_min": 15,
+         "wind_speed": 1,
+         "wind_direction": 135,
+         "cloud_cover": 1
       },
-      "05-02-2025": {
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 61,
+         "rh_min": 12,
+         "wind_speed": 4,
+         "wind_direction": 169,
+         "cloud_cover": 2
+      },
+      "11-02-2025": {
          "rainfall": 0,
          "t_max": 34,
-         "t_min": 18,
-         "rh_max": 56,
-         "rh_min": 19,
-         "wind_speed": 4,
-         "wind_direction": 185,
+         "t_min": 14,
+         "rh_max": 68,
+         "rh_min": 14,
+         "wind_speed": 5,
+         "wind_direction": 172,
+         "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 14,
+         "rh_max": 59,
+         "rh_min": 15,
+         "wind_speed": 6,
+         "wind_direction": 187,
          "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "paddy",
       "chickpea",
-      "greengram/blackgram",
+      "green gram",
+      "black gram",
       "groundnut",
+      "mustard",
+      "sunflower",
       "onion",
       "tomato",
-      "chilli",
+      "brinjal",
       "rose",
       "merigold",
-      "cattle & buffalo",
-      "goat & sheep",
+      "cattle",
+      "buffalo",
+      "goat",
       "poultry"
    ],
-   "general_advisory": "Always apply recommended dose of fertilizers according to the soil test report and recommended dose of pesticide in correct method during morning or evening hours and pay attention to the wind direction during application. Provide irrigation in a regular interval to the standing crops like Groundnut, Sunflower, Chick pea, Maize, Green gram, and vegetables in view of prevailing dry weather condition. Farmers are advised to install “T” shaped bird perches in and around crop field like Chickpea, Green gram, Groundnut, and vegetables for controlling insect population. Install pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Install yellow sticky trap @ 8 /acre to monitor sucking pest like White fly, Aphids, Jassids & blue sticky trap for Thirps in vegetables at vegetative stage. In view of prevailing dry weather condition, provide irrigation to the standing crops in a regular interval.",
+   "general_advisory": "In view of prolong dry period condition over the district, farmers are advised to provide one life saving irrigation to the standing crops like green gram, black gram, chick pea, groundnut, field pea, maize etc. to avoid water stress condition. Farmers are advised to complete weeding followed by earthing up operation in rabi crops. Apply top dressing during earthing up operation followed by irrigation as needed. Install yellow sticky trap @ 8 /acre to monitor sucking pest complex like White fly, Aphids, Jassids & Thirps in vegetative stage of the crop.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Weed Management: Apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 % WP."
+            "Nutrient Management: In direct seeded rice apply urea @ 24 kg /acre as fist top dressing at 20 -25 DAS. Apply DAP 44 kg + MOP 22 kg per acre as basal dose during final puddling in case of transplanted paddy."
          ]
       },
       "chickpea": {
          "advisory": [
-            "Pest Management: Control powdery mildew disease by spraying Sulphur 80% WP @ 800 g/ac or Propiconazole 25% EC @ 200ml/ac mixed with 200 liters of water."
+            "Pest Management: Rust: Prevailing weather condition favours the development of rust disease. To control spray, Chlorothalonil 75% WP @ 400g/acre or Difenoconazole 25% EC @ 200ml/acre mixed with 200 liters of water."
          ]
       },
-      "greengram/blackgram": {
+      "green gram": {
          "advisory": [
-            "Pest Management: Monitor pest population of aphid and whitefly by installing yellow sticky traps @ 8nos/acre and apply neem oil-based pesticide or chemical control."
+            "Pest Management: Yellow Mosaic Virus: In Prevailing weather condition YMV is transmitted through white fly. If symptom is noticed, remove infected plants from the field. Install yellow sticky traps @ 8nos/acre to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% ( 300 ppm) @ 5ml/ltr of water at initial stage of infestation."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Pest Management: Yellow Mosaic Virus: In Prevailing weather condition YMV is transmitted through white fly. If symptom is noticed, remove infected plants from the field. Install yellow sticky traps @ 8nos/acre to monitor pest population and apply neem oil-based pesticide Azadiractin 0.03% ( 300 ppm) @ 5ml/ltr of water at initial stage of infestation."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Pest Management: Control Tikka by applying Chlorothalonil 75% WP or Hexaconazole 5% EC mixed with water."
+            "Pest Management: Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Pest Management: Mustard Aphid: In prevailing weather condition infestation of mustard aphid may be seen. Install yellow sticky trap @ 8nos/acre to monitor pest population. Apply Imidacloprid 17.8% SL @ 4ml or Thiamethoxam 25% WG @ 3g or Chlorpyriphos 20% EC @ 15 ml by mixing with 15 liters of water when symptom is noticed."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Pest Management: Powdery mildew: Infestation of powdery mildew may happen in prevailing weather condition. Spray Propiconazole 25% EC @ 1 ml/ltr or Triademefon 25% WP @ 1g /ltr of water as control measure. Capitulum Borer: Spray Bacillus thuringiensis var kurstaki 5% WP @ 1.5 g/ltr of water. Head Rot: Spray 0.4% Copper oxychloride 50% WP @ 3g/ltr of water to control head rot disease."
          ]
       },
       "onion": {
          "advisory": [
-            "Nutrient Management: Apply Urea as top dressing at specific stages along with irrigation."
+            "Irrigate the crop at 10 days interval considering dry weather condition. Nutrient Management: After hoeing and weeding, apply 45kg Urea as first top dressing at 4-week stage followed by irrigation. After hoeing and weeding, apply 23kg Urea as second top dressing at 6 to 7-week stage followed by irrigation."
          ]
       },
       "tomato": {
          "advisory": [
-            "Pest Management: Control fruit & shoot borer by installing pheromone trap @ 8nos/acre and chemical control measures."
+            "Pest Management: Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population. For chemical control, spray or Flubendiamide 39.35% SC @ 3 ml Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% ZC @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water. Leaf curling/White fly: Leaf curling may notice due to white fly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda -cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water."
          ]
       },
-      "chilli": {
+      "brinjal": {
          "advisory": [
-            "Pest Management: Control mite infestation by applying Ethion 50% EC or Propargite 57 % EC mixed with water."
+            "Pest Management: White fly: Install yellow sticky trap @ 8 -10/acre or spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 3ml/ltr of water at initial stage of infestation."
          ]
       },
       "rose": {
          "advisory": [
-            "Pest Management: Control Powdery mildew by spraying Carbendazim 50% WP mixed with water."
+            "Powdery mildew: In prevailing weather condition infestation of Powdery mildew may notice in Rose plant. Spray Carbendazim 50% WP @ 2g/ltr of water as preventive measure."
          ]
       },
       "merigold": {
          "advisory": [
-            "Pest Management: Control inflorescence rot by spraying Mancozeb 75% WP or Carbendazim 50% WP mixed with water."
+            "Inflorescence rot: To control inflorescence rotting in Merigold spray Mancozeb 75% WP @ 2g or Carbendazim 50% WP @ 1g by mixing with one liter of water."
          ]
       },
-      "cattle & buffalo": {
+      "cattle": {
          "advisory": [
-            "Ensure proper feeding to maintain body condition score and increase concentrate gradually before calving."
+            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
          ]
       },
-      "goat & sheep": {
+      "buffalo": {
          "advisory": [
-            "Protect animals from cold wind and floor, contact veterinarians for any symptoms."
+            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Provide kid starter @ 50 -100 g/day for better growth."
          ]
       },
       "poultry": {
          "advisory": [
-            "Protect poultry birds from chill wind and cold floor, cover poultry house with polythene sheet, and maintain cleanliness."
+            "Keep the poultry house clean and damp free."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

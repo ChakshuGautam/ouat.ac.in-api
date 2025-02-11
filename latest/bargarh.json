@@ -1,99 +1,99 @@
 {
    "weather_details": {
-      "01-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 56,
-         "rh_min": 24,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 1
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 56,
-         "rh_min": 21,
-         "wind_speed": 2,
-         "wind_direction": 143,
-         "cloud_cover": 1
-      },
-      "03-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
          "t_max": 34,
-         "t_min": 18,
-         "rh_max": 47,
-         "rh_min": 20,
-         "wind_speed": 1,
-         "wind_direction": 90,
-         "cloud_cover": 2
-      },
-      "04-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 19,
-         "rh_max": 47,
-         "rh_min": 21,
-         "wind_speed": 2,
-         "wind_direction": 53,
-         "cloud_cover": 3
-      },
-      "05-02-2025": {
-         "rainfall": 0,
-         "t_max": 33,
          "t_min": 18,
          "rh_max": 42,
-         "rh_min": 20,
+         "rh_min": 14,
+         "wind_speed": 5,
+         "wind_direction": 356,
+         "cloud_cover": 1
+      },
+      "09-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 41,
+         "rh_min": 11,
          "wind_speed": 4,
-         "wind_direction": 80,
-         "cloud_cover": 3
+         "wind_direction": 355,
+         "cloud_cover": 1
+      },
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 16,
+         "rh_max": 40,
+         "rh_min": 11,
+         "wind_speed": 3,
+         "wind_direction": 21,
+         "cloud_cover": 2
+      },
+      "11-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 15,
+         "rh_max": 40,
+         "rh_min": 11,
+         "wind_speed": 1,
+         "wind_direction": 146,
+         "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 15,
+         "rh_max": 43,
+         "rh_min": 15,
+         "wind_speed": 2,
+         "wind_direction": 207,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "dry season rice",
-      "green gram",
-      "black gram",
+      "green gram/black gram",
       "mango",
       "vegetable crops",
       "livestock"
    ],
-   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to above normal minimum temperature (night temperature) is expected over the districts of Odisha during week-1 (31st January to 6th February, 2025) and in week-2 (7th to 13th February, 2025), minimum temperature is very likely to be normal over the state. Farmers are advised to provide one irrigation in crop field and conduct all kind of spraying and intercultural operations in standing crop fields. Farmers should keep their field weed free for proper crop growth. Prevailing temperature condition (high gap in day and night temperature) may affect various types of crop (favor different kind of insect attack) as well as animals. Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worm. Farmers are advised to avoid burning of rice straw or crop residue in field because it hampers the environment.",
+   "general_advisory": "As per the extended range forecast (date:-06.02.2025) of IMD, MC, Bhubaneswar, dry weather is very likely to prevail over the districts of Odisha during week-1 (7th to 13th February, 2025) and minimum temperature is very likely to be normal to below normal over the districts of Coastal Odisha and districts adjoining Coastal Odisha and appreciably below normal over the remaining parts of the state during that period. In week-2 (14th to 20th February, 2025), minimum temperature is very likely to be normal to below normal over the districts of Coastal Odisha and districts adjoining Coastal Odisha, appreciably below normal over some parts of the Interior Odisha and markedly below normal over rest of the parts of Interior Odisha. Dry weather is very likely to prevail over the districts of Odisha during week 2. Considering the prevailing dry weather condition, farmers are advised to provide one live saving irrigation in standing crop and conduct all kind of spraying and intercultural operations during that period at morning or in evening hours.",
    "crops_data": {
       "dry season rice": {
          "advisory": [
-            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at shallow depth.",
-            "Weed management: Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 DAT."
+            "In transplanted rice, application of 35 kg urea per acre should be advised as first top dressing at 20-25 days after transplanting or maximum tillering stage.",
+            "In just transplanted field use 3 pheromone traps with 5 mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Whenever the number of male moths in the trap reaches 4 or 5, spraying of Azadiractin 0.15% neem seed kernel based EC formulation @ 800 ml/acre should be advised.",
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage. At initial stage of attack, farmers should spray 5 ml neem oil per liter of water to control these insect."
          ]
       },
-      "green gram": {
+      "green gram/black gram": {
          "advisory": [
-            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage."
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage. At initial stage of attack, farmers should spray 5 ml neem oil per liter of water to control these insect.",
+            "To control yellow mosaic virus attack in field, spraying of imidacloprid 17.8% SL @ 0.3 ml or thiamethoxam 25% WG @ 0.3-0.5 ml per liter of water should be advised.",
+            "If possible, avoid chemical application at flowering stage."
          ]
       },
       "mango": {
          "advisory": [
-            "Wrap or fix polythene/alkathane sheet tightly on Mango trees to manage mango mealy bug.",
-            "If powdery mildew infestation or any fungal infection observed in Mango orchard then spraying of wettable sulphur @ 2g per liter of water should be advised."
+            "Prevailing increasing temperature condition may accelerate the Mango Hopper attack in orchard so its regular monitoring should be advised.",
+            "Avoid irrigation at flowering stage to reduce flower drop in Mango orchard.",
+            "Wrap or fix polythene/alkathane sheet tightly on Mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised."
+            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised.",
+            "Regular monitoring against sucking insect attack (aphids, thrips etc.) should be advised. Avoid chemical application at flowering stage.",
+            "Current weather condition is favourable for purple blotch disease infestation in onion plant so its regular monitoring is advised."
          ]
       },
       "livestock": {
          "advisory": [
-            "To maintain the body temperature of animals in prevailing weather condition (large gap in day and night temperature), they should be fed with a mixture of oil cakes and jiggery including covering of body during cold hours.",
-            "Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worm."
+            "Looking to the increase in temperature in upcoming week, farmers are advised to increase the fresh clean drinking water supply to the animals. Avoid grazing of animals at noon hours.",
+            "Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worms."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

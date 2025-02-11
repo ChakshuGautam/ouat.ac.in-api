@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "2025-02-01": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 93,
+         "rh_min": 33,
+         "wind_speed": 2,
+         "wind_direction": 63,
+         "cloud_cover": 3
+      },
+      "2025-02-02": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 94,
+         "rh_min": 30,
+         "wind_speed": 3,
+         "wind_direction": 108,
+         "cloud_cover": 1
+      },
+      "2025-02-03": {
+         "rainfall": 0.0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 82,
+         "rh_min": 23,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 3
+      },
+      "2025-02-04": {
+         "rainfall": 0.0,
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 83,
+         "rh_min": 29,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 2
+      },
+      "2025-02-05": {
+         "rainfall": 0.0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 75,
+         "rh_min": 26,
+         "wind_speed": 4,
+         "wind_direction": 101,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "brinjal",
+      "chicken"
+   ],
+   "general_advisory": "Foggy weather may lead to increase infestation of Powdery Mildew in several winter vegetables and Mung, Urd. Spray Mixture of 1 litre water with 1 gram Thiophanate Methyl or 1 ml Tebuconazole. sucking pest attack might be seen in ground nut crop. Go for foliar application of Thiomethoxam 25% WG 165 Gram/ha in 500litre of water.",
+   "crops_data": {
+      "brinjal": {
+         "advisory": [
+            "There are chances of Solanaceae plant getting infested by bacterial wilt. First uproot the affected plants and destroy them then apply a mixture of Streptocyclin 6gram in 15 litre of water and give a flood irrigation in water channels."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "For preventing CRD (Chronic Respiratory Disease) maintain litter properly, take care of disinfection and avoid ammonia build up in poultry shed. Stirring of the litter twice a day to make the litter dry."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

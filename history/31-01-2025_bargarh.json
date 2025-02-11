@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 56,
+         "rh_min": 24,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 56,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 143,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 47,
+         "rh_min": 20,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 47,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 42,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 80,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "green gram",
+      "black gram",
+      "mango",
+      "vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to above normal minimum temperature (night temperature) is expected over the districts of Odisha during week-1 (31st January to 6th February, 2025) and in week-2 (7th to 13th February, 2025), minimum temperature is very likely to be normal over the state. Farmers are advised to provide one irrigation in crop field and conduct all kind of spraying and intercultural operations in standing crop fields. Farmers should keep their field weed free for proper crop growth. Prevailing temperature condition (high gap in day and night temperature) may affect various types of crop (favor different kind of insect attack) as well as animals. Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worm. Farmers are advised to avoid burning of rice straw or crop residue in field because it hampers the environment.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at shallow depth.",
+            "Weed management: Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 DAT."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on Mango trees to manage mango mealy bug.",
+            "If powdery mildew infestation or any fungal infection observed in Mango orchard then spraying of wettable sulphur @ 2g per liter of water should be advised."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "To maintain the body temperature of animals in prevailing weather condition (large gap in day and night temperature), they should be fed with a mixture of oil cakes and jiggery including covering of body during cold hours.",
+            "Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worm."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

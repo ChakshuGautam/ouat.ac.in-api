@@ -58,97 +58,73 @@
       "tomato",
       "brinjal",
       "coconut",
-      "vegetables",
-      "fingerlings",
+      "vegetable",
       "black gram",
       "green gram",
-      "tobacco caterpillar",
-      "early shoot borer",
-      "brinjal shoot and fruit borer",
-      "whitefly infestation",
-      "mango hopper",
-      "onion"
+      "okra",
+      "onion",
+      "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are critical stages. Water deficit should be avoided during these stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to reduce heat effects. Irrigate maize crop adequately. Spread polythene in irrigation channels. Apply specific treatments for high temperature issues in tomato, brinjal, and coconut. Harvest fingerlings in shallow ponds if water temperature rises. Manage Yellow Stem Borer and Blast Disease in paddy. Control Tobacco Caterpillar in black gram and green gram. Manage early shoot borer in Sugarcane. Control Brinjal shoot and fruit borer. Prevent whitefly infestation in okra seeds. Properly manage onions after harvesting. Control Mango hopper in Mango.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop promptly to avoid water-related issues. Spread polythene in irrigation channels to save water. Take measures to prevent wilting in tomato and brinjal. Mulch coconut leaves around the tree. Cover newly planted vegetable seedlings during the day. Harvest fingerlings in shallow ponds if temperature rises. Follow specific advice for each crop.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Panicle initiation, Panicle emergence, flowering, and milking stages are critical. Avoid water deficit during these stages. Manage Yellow Stem Borer and Blast Disease."
+            "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves. Apply proper irrigation to avoid water scarcity."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Irrigate frequently during hot months to manage early shoot borer. Timely cut attacked shoot and destroy egg masses. Apply specific treatments as needed."
+            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect the crop from water scarcity during summer."
          ]
       },
       "maize": {
          "advisory": [
-            "High temperature increases water requirement. Irrigate adequately and prevent water stagnation in the field."
+            "The high temperature increases the water requirement of the maize crop. Proper irrigation is necessary to avoid water-related issues."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply 1g Streptocyclin in 10 liters of water in root zone to prevent wilting due to high temperatures."
+            "High temperatures may lead to wilting in tomato. Apply Streptocyclin in the root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps, use neem-based pesticide, and apply specific chemical controls to manage shoot and fruit borer."
+            "Install pheromone traps to manage brinjal shoot and fruit borer. Use neem-based pesticides at the primary stage of pest infestation."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves around the tree to reduce water loss."
+            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
          ]
       },
-      "vegetables": {
+      "vegetable": {
          "advisory": [
-            "Cover newly planted seedlings with paper caps during the daytime."
-         ]
-      },
-      "fingerlings": {
-         "advisory": [
-            "Harvest fingerlings in shallow ponds if temperature rises to protect them."
+            "Cover with paper caps on the newly planted vegetable seedlings during the day time."
          ]
       },
       "black gram": {
          "advisory": [
-            "Check caterpillar migration and apply recommended insecticides as needed."
+            "Check the migration of caterpillars around the field. Use appropriate insecticides for control."
          ]
       },
       "green gram": {
          "advisory": [
-            "Check caterpillar migration and apply recommended insecticides as needed."
+            "Check the migration of caterpillars around the field. Use appropriate insecticides for control."
          ]
       },
-      "tobacco caterpillar": {
+      "okra": {
          "advisory": [
-            "Dust with Chlorpyriphos and apply specific chemical controls as needed."
-         ]
-      },
-      "early shoot borer": {
-         "advisory": [
-            "Irrigate frequently and manage attacked shoots to control early shoot borer."
-         ]
-      },
-      "brinjal shoot and fruit borer": {
-         "advisory": [
-            "Install pheromone traps and apply specific chemical controls to manage the pest."
-         ]
-      },
-      "whitefly infestation": {
-         "advisory": [
-            "Treat okra seeds with Imidacloprid and install yellow sticky traps."
-         ]
-      },
-      "mango hopper": {
-         "advisory": [
-            "Spray recommended insecticides and use smoke to control mango hoppers."
+            "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation. Install yellow sticky traps at an early stage."
          ]
       },
       "onion": {
          "advisory": [
-            "Properly dry and store harvested onions."
+            "After harvesting, dry the onions properly for longer storage."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hoppers, spray insecticides according to recommendations."
          ]
       }
    },

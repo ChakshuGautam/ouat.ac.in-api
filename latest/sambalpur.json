@@ -1,98 +1,98 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 20,
-         "rh_max": 27,
-         "rh_min": 74,
-         "wind_speed": 2,
-         "wind_direction": 207,
-         "cloud_cover": 1
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 20,
-         "rh_max": 24,
-         "rh_min": 81,
-         "wind_speed": 3,
-         "wind_direction": 202,
-         "cloud_cover": 1
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 21,
-         "rh_max": 20,
-         "rh_min": 61,
-         "wind_speed": 3,
-         "wind_direction": 0,
+         "t_max": 33,
+         "t_min": 15,
+         "rh_max": 13,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 347,
          "cloud_cover": 2
       },
-      "04-02-2025": {
+      "09-02-2025": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 20,
-         "rh_max": 24,
-         "rh_min": 73,
+         "t_max": 33,
+         "t_min": 14,
+         "rh_max": 11,
+         "rh_min": 40,
          "wind_speed": 4,
-         "wind_direction": 63,
-         "cloud_cover": 3
+         "wind_direction": 346,
+         "cloud_cover": 2
       },
-      "05-02-2025": {
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 13,
+         "rh_max": 11,
+         "rh_min": 44,
+         "wind_speed": 4,
+         "wind_direction": 0,
+         "cloud_cover": 1
+      },
+      "11-02-2025": {
          "rainfall": 0,
          "t_max": 34,
-         "t_min": 20,
-         "rh_max": 23,
-         "rh_min": 63,
-         "wind_speed": 5,
-         "wind_direction": 79,
+         "t_min": 13,
+         "rh_max": 12,
+         "rh_min": 46,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 13,
+         "rh_max": 15,
+         "rh_min": 48,
+         "wind_speed": 2,
+         "wind_direction": 225,
          "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "dry season rice",
-      "green gram/black gram",
+      "green gram",
+      "black gram",
       "mango",
       "vegetable crops",
       "livestock"
    ],
-   "general_advisory": "As per the extended range forecast of IMD, MC, Bhubaneswar, dry weather along with normal to above normal minimum temperature is expected over the districts of Odisha. Farmers are advised to provide irrigation in crop fields and conduct spraying and intercultural operations. It is important to keep fields weed-free for proper crop growth. The prevailing temperature conditions may affect crop and animals, so precautions should be taken.",
+   "general_advisory": "As per the extended range forecast (date :-06.02 .2025 ) of IMD, MC, Bhubaneswar, dry weather is very likely to prevail over the districts of Odisha during week -1 (7th to 13th February , 2025 ) and minimum temperature is very likely to be normal to below normal over the districts of Coastal Odisha and districts adjoining Coastal Odisha...",
    "crops_data": {
       "dry season rice": {
          "advisory": [
-            "Transplanting of 3-5 week old seedlings advised in well-puddled soil at specified spacing with basal dose application",
-            "Weed management strategies provided for completed transplanting fields",
-            "Insect/pest management strategies specified for various insects"
+            "In transplanted rice, application of 35 kg urea per acre should be advised as first top dressing at 20 -25 days after transplanting or maximum tillering stage.",
+            "In just transplanted field use 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder."
          ]
       },
-      "green gram/black gram": {
+      "green gram": {
          "advisory": [
-            "Monitoring and control measures for sucking insect attack",
-            "Avoiding insecticide application at flowering stage"
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "If sucking insect attack is noticed in Green/Black gram field then farmers should use 8 nos. of yellow sticky trap per acre to control these insect at vegetative stage."
          ]
       },
       "mango": {
          "advisory": [
-            "Management of mango mealy bug using polythene/alkathane sheet",
-            "Spraying of wettable sulphur for fungal infections"
+            "Prevailing increasing temperature condition may accelerate the Mango Hopper attack in orchard so its regular monitoring should be advised."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Control strategies for leaf eating caterpillar and fruit borer/shoot and fruit borer",
-            "Monitoring against sucking insect attack",
-            "Avoiding chemical application at flowering stage"
+            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised."
          ]
       },
       "livestock": {
          "advisory": [
-            "Maintaining body temperature of animals in prevailing weather conditions",
-            "Feeding mixtures and additional feed for pregnant animals",
-            "Vaccination and deworming advice for animals"
+            "Looking to the increase in temperature in upcoming week, farmers are advised to increase the fresh clean drinking water supply to the animals.",
+            "Vaccination against FMF, HS, BQ etc. should be advised. Deworming of animals is advised to control harmful worm."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

@@ -1,0 +1,110 @@
+{
+   "weather_details": {
+      "01/02/2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 66,
+         "rh_min": 27,
+         "wind_speed": 2,
+         "wind_direction": 51,
+         "cloud_cover": 1
+      },
+      "02/02/2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 70,
+         "rh_min": 24,
+         "wind_speed": 2,
+         "wind_direction": 72,
+         "cloud_cover": 1
+      },
+      "03/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 55,
+         "rh_min": 19,
+         "wind_speed": 4,
+         "wind_direction": 37,
+         "cloud_cover": 2
+      },
+      "04/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 53,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 48,
+         "cloud_cover": 3
+      },
+      "05/02/2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 48,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 56,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rabi paddy",
+      "rape seed & mustard",
+      "wheat",
+      "summer maize",
+      "sesamum",
+      "summer groundnut",
+      "ragi",
+      "vegetable"
+   ],
+   "general_advisory": "Provide light irrigation to paddy nursery. Keep provision of critical irrigation for rabi crops. Survey for insect pest attack and take necessary steps. Complete earthing up in rabi crops. Due to weather there is chances of powdery mildew in various crops, to manage spray sulphur powder @ 1 kg in 200 liters of water.",
+   "crops_data": {
+      "rabi paddy": {
+         "advisory": [
+            "Apply Pyrazo sulfuran ethyl to control the weeds at early stage i.e within 2-3 days of transplanting. The dose is 80 g/acre. Keep water at the time of spraying the herbicides. For proper growth of the seedling keep 2 cm water in the field."
+         ]
+      },
+      "rape seed & mustard": {
+         "advisory": [
+            "Due to weather there will be severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt.",
+            "Provide one irrigation at critical stage at flowering and pod development stage."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Due to forecast of increased temperature, provide critical stage irrigation to the crop at flowering and milking stage. Survey for any insect and there is chances of stem borer attack. Apply 12-16 kg Nitrogen/acre"
+         ]
+      },
+      "summer maize": {
+         "advisory": [
+            "Due to upland ecosystem more weeds will be there, To control the weeds in upland apply Attrazine @ 1 kg/acre in 200 liters of water at the following day of sowing."
+         ]
+      },
+      "sesamum": {
+         "advisory": [
+            "Go for sowing sesamum like Prachi, G-10, Kalika @ 3 kg/acre. Treat the seeds for protection of soil born and seed born disease. Apply 12-8-8 kg NPK/acre with Sulphur 10 kg as basal dose."
+         ]
+      },
+      "summer groundnut": {
+         "advisory": [
+            "Complete sowing the summer groundnut at 30X10 cm spacing. Seed rate is 50 kg pod/ac. Good varieties like Kalinga Chinabadam, Devi, Dharani. Kadri, AK12-24",
+            "In the already sown crop, do not go for intercultivation after flowering."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Go for intercultivation and apply 12 kg Nitrogen after 3 weeks of transplanting."
+         ]
+      },
+      "vegetable": {
+         "advisory": [
+            "In cucurbits, due to weather there is chances of Downy Mildew, to manage this apply Mancozeb @ 2.5 g/liter of water."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

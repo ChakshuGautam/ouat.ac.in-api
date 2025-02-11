@@ -1,0 +1,103 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 92,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 50,
+         "wind_speed": 3,
+         "wind_direction": 242,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose"
+   ],
+   "general_advisory": "Standing water to a depth of 2-3 cm should be maintained at least for 2-3 days before uprooting of seedlings. Farmers are advised to irrigate their field as there is mildly dry condition prevailed.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer in paddy at early stage of crop, use Trichogrammajaponicum card @ 1/acre (50000/ha) at weekly interval for 6 times by splitting each card into 12 pieces at the scheduled points.",
+            "Use pheromone traps @ 5 /acre. Apply Cartap Hydrochloride 4 % G @ 8kg/acre or Chlorantraniliprole 0.4 % GR @ 4kg/acre or Imidacloprid 0.3% GR @ 6kg/acre by mixing it with sand at 1:1 ratio."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot in groundnut drench soil with Validamycin 3% L @ 400-ml/acre or Captan 70 % + Hexaconazole 5 % WP@ 300-gram/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To prevent red rot disease, resistant varieties like CO-7219, CO-8371, CO-8013, CO-8014, CO-6907, CO-7601 and CO-7602 should be selected.",
+            "Soak the setts for 30 minutes in a solution of 100 lit of water containing 150 g of carbendazim 50 WP, 200- ml of chlorpyriphos 20 % EC and 1 kg urea. Do not add chlorpyriphos if soil drenching is adopted."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew disease in Blackgram and Greengram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200-ml/acre or Penconazole 10% EC @ 100-ml/acre by mixing in 200litre of water."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew disease in Blackgram and Greengram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200-ml/acre or Penconazole 10% EC @ 100-ml/acre by mixing in 200litre of water."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water.",
+            "Cut Worm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "For controlling mites in chilli, spray Ethion 50 % EC @ 600 ml/acre or Spiromesifen 22.9 % SC @ 200 ml/acre or Propargite 57 % EC @ 600 ml/acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Prevailing fog condition may increase the infestation Aphid. To control aphid need based spraying of neem oil formulation @ 600ml per acre or Flonicam @ 60g per acre is recommended."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control black spot disease in Rose spray Copper Oxy-chloride 50% WP @ 3g/ltr of water."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

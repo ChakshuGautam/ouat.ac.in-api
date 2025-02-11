@@ -1,84 +1,78 @@
 {
    "weather_details": {
-      "2025-02-01": {
-         "rainfall": 0.0,
+      "2025-02-08": {
+         "rainfall": 0,
          "t_max": 32,
-         "t_min": 17,
-         "rh_max": 93,
-         "rh_min": 28,
-         "wind_speed": 2,
-         "wind_direction": 194,
-         "cloud_cover": 3
-      },
-      "2025-02-02": {
-         "rainfall": 0.0,
-         "t_max": 33,
          "t_min": 18,
-         "rh_max": 89,
-         "rh_min": 26,
-         "wind_speed": 1,
-         "wind_direction": 198,
-         "cloud_cover": 3
-      },
-      "2025-02-03": {
-         "rainfall": 0.0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 82,
+         "rh_max": 75,
          "rh_min": 21,
+         "wind_speed": 3,
+         "wind_direction": 344,
+         "cloud_cover": 1
+      },
+      "2025-02-09": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 82,
+         "rh_min": 17,
+         "wind_speed": 3,
+         "wind_direction": 337,
+         "cloud_cover": 1
+      },
+      "2025-02-10": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 86,
+         "rh_min": 15,
+         "wind_speed": 1,
+         "wind_direction": 334,
+         "cloud_cover": 0
+      },
+      "2025-02-11": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 84,
+         "rh_min": 17,
+         "wind_speed": 1,
+         "wind_direction": 243,
+         "cloud_cover": 1
+      },
+      "2025-02-12": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 73,
+         "rh_min": 16,
          "wind_speed": 2,
          "wind_direction": 225,
-         "cloud_cover": 3
-      },
-      "2025-02-04": {
-         "rainfall": 0.0,
-         "t_max": 33,
-         "t_min": 19,
-         "rh_max": 73,
-         "rh_min": 21,
-         "wind_speed": 1,
-         "wind_direction": 0,
-         "cloud_cover": 2
-      },
-      "2025-02-05": {
-         "rainfall": 0.0,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 73,
-         "rh_min": 20,
-         "wind_speed": 1,
-         "wind_direction": 0,
-         "cloud_cover": 3
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "pigeon pea",
-      "sunflower",
-      "cabbage",
-      "cow"
+      "black gram",
+      "green gram",
+      "brinjal"
    ],
-   "general_advisory": "To manage thrips infestation install Blue sticky trap @ 8 nos./acre.For chemical control spray Emamectin Benzoate 5% SG @ 0.4 g/lit or Fipronil 5% SC @ 2ml/lit or Imidacloprid 17.8% SL 0.35 ml/lit of water.",
+   "general_advisory": "For early sown summer sunflower, go for hoeing and weeding. Apply 3 kg N to improved varieties and 6 kg to hybrid ones. Thin out plants keeping one healthy plant per hill.",
    "crops_data": {
-      "pigeon pea": {
+      "black gram": {
          "advisory": [
-            "Pod borer has been observed in red gram. Spray Spinosad 45 SC @ 80 ml per 200 litre of water per acre of land to control pod borer."
+            "Powdery mildew disease has been observed in black gram. Spray Sulphur 80 WP @ 800 gm in 200 litres of water per acre of land to control powdery mildew"
          ]
       },
-      "sunflower": {
+      "green gram": {
          "advisory": [
-            "For early sown summer sunflower, go for hoeing and weeding. Apply 3 kg N to improved varieties and 6 kg to hybrid ones. Thin out plants keeping one healthy plant per hill."
+            "The virus produces typical mosaic symptoms of green and yellow on the leaf surface. The whitefly acts as the vector of the disease. To manage the population of the vector in the field first get rid of the severely infected plants by uprooting and destroying them far away from the field. Install 20 yellow sticky traps per acre. To manage whiteflies chemically spray Thiamethoxam (Actara or Areva) @ 40-gram/acre or Acetamiprid (Dhanpreet/ Manik) @ 50-gram /acre or Pyriproxifen 10% EC (Bullon/Lano) @ 200-ml/acre by mixing in 200- litre of water"
          ]
       },
-      "cabbage": {
+      "brinjal": {
          "advisory": [
-            "There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-litre of water . To manage this pest chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ 80-gram/acre by mixing in 200-litre of water."
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "To avoid FMD disease of cow, vaccination must be done in six months interval during February and September in a year."
+            "For Fruit and Shoot borer, spray Lambda-Cyhalothrin 5 % EC @ 300 ml/ha or Novaluron 10% EC 500 ml/ha or Spinosad 45% SC @ 187.5 ml/ha or Thiodicarb 75 % WP @ 625-1000gm/ha mix with 500 litre of water"
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }

@@ -1,143 +1,152 @@
 {
    "weather_details": {
-      "01-02-2025": {
+      "08-02-2025": {
          "rainfall": 0,
          "t_max": 31,
-         "t_min": 18,
-         "rh_max": 94,
-         "rh_min": 35,
-         "wind_speed": 1,
-         "wind_direction": 315,
-         "cloud_cover": 3
-      },
-      "02-02-2025": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 18,
-         "rh_max": 93,
-         "rh_min": 33,
-         "wind_speed": 1,
-         "wind_direction": 154,
-         "cloud_cover": 3
-      },
-      "03-02-2025": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 83,
-         "rh_min": 27,
-         "wind_speed": 2,
-         "wind_direction": 321,
+         "t_min": 16,
+         "rh_max": 49,
+         "rh_min": 15,
+         "wind_speed": 5,
+         "wind_direction": 352,
          "cloud_cover": 2
       },
-      "04-02-2025": {
+      "09-02-2025": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 17,
-         "rh_max": 79,
-         "rh_min": 29,
-         "wind_speed": 3,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 48,
+         "rh_min": 13,
+         "wind_speed": 4,
          "wind_direction": 90,
          "cloud_cover": 3
       },
-      "05-02-2025": {
+      "10-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 14,
+         "rh_max": 68,
+         "rh_min": 14,
+         "wind_speed": 3,
+         "wind_direction": 348,
+         "cloud_cover": 1
+      },
+      "11-02-2025": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 17,
-         "rh_max": 75,
-         "rh_min": 26,
+         "t_min": 14,
+         "rh_max": 69,
+         "rh_min": 17,
          "wind_speed": 1,
-         "wind_direction": 342,
+         "wind_direction": 0,
          "cloud_cover": 2
+      },
+      "12-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 64,
+         "rh_min": 17,
+         "wind_speed": 2,
+         "wind_direction": 284,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "mustard",
-      "toria",
       "linseed",
       "chickpea",
-      "tomato",
+      "mustard and toria",
+      "cucumber",
       "coriander",
-      "pea",
       "chilli",
       "potato",
-      "cauliflower"
+      "amaranthus",
+      "marigold",
+      "chrysanthemum",
+      "papaya",
+      "banana"
    ],
-   "general_advisory": "Value addition of the crops is important after harvesting. Make Tomato sauce, Potato chips, Cauliflower chips, pickles etc. which will attract more income than normal. Spray Imidachloprid and Dimethoate during morning and evening hours to reduce infestation of aphids, jassids and whitefly. Remove weeds from the field and apply irrigation to the crops.",
+   "general_advisory": "Keep a watch on the disease and pests as their infestation will increase in recent times. Prepare the field for sowing of summer crops. Provide irrigation whenever soil is dry or plants showing wilting symptoms. Sowing of summer crops can be taken such as cucumber, bitter gourd, watermelon etc.",
    "crops_data": {
-      "mustard": {
-         "advisory": [
-            "The mustard and toria plants have almost reached the physiological maturity stage. Restrict the irrigation in this case.",
-            "If the plants have lodged down due to heavy weight, make sure siliqua does not touch the soil as it may lead to rotting and decaying.",
-            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water.",
-            "In severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt."
-         ]
-      },
-      "toria": {
-         "advisory": [
-            "The mustard and toria plants have almost reached the physiological maturity stage. Restrict the irrigation in this case.",
-            "If the plants have lodged down due to heavy weight, make sure siliqua does not touch the soil as it may lead to rotting and decaying.",
-            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water.",
-            "In severe infestation of aphids, spray Imidachloprid or Dimethoate @ 2 ml/lt."
-         ]
-      },
       "linseed": {
          "advisory": [
-            "If possible, one irrigation can be provided at the fruit formation time.",
-            "Remove any weeds from the field.",
-            "Whitefly, aphids can be managed in linseed by spraying Dimethoate 30 EC @ 2 ml/lt."
+            "Irrigate the field during flowering/fruiting.",
+            "The crops having fruits yellowish orange or is going to matured, in that case do not irrigate the crop.",
+            "Remove the wilted or damaged or diseased plant parts from the plant population.",
+            "The Cuscuta (Nirmuli lata) weeds will hamper the plant growth and development. Manually, remove the cuscuta from the field."
          ]
       },
       "chickpea": {
          "advisory": [
-            "Provide irrigation at pod initiation or development stage.",
-            "Cutworm infestation may be seen in the field. Cutworm in Chickpea can be managed by spraying Methyl Parathion @ 1 ml/lt.",
-            "Powdery mildew in chickpea is a major problem in recent time. To manage the same, wettable sulphur powder or copper oxychloride @ 2 ml/lt can be sprayed on the crops. Repeat it after 7 days for better result.",
-            "The wilted plants or damaged leaves should be removed from the plants.",
-            "For controlling termite infestation, spray Chloropyriphos or Imidachloprid @ 4ml/10lt."
+            "For controlling termite infestation, spray Chloropyriphos or Imidachloprid @ 4ml/10lt.",
+            "Provide irrigation at pod initiation or development stage."
          ]
       },
-      "tomato": {
+      "mustard and toria": {
          "advisory": [
-            "For the tomato cultivation, apply irrigation at an interval of 6-7 days.",
-            "Be careful about not touching of the fruits with the ground and provide staking in case of plant lodging.",
-            "To manage the whitefly infestation, spray Acetamiprid 20 SP @ 0.5g/lt or Profenophos @ 1ml/lt."
+            "Restrict the irrigation in case of physiological maturity of the crops.",
+            "Harvestable mustard and Toria should be harvested at right time. More drying of the siliqua will result in shattering of the pods.",
+            "If the plants have lodged down due to heavy weight, make sure siliqua does not touch the soil as it may lead to rotting and decaying.",
+            "The incidence of aphids along with mustard saw fly larva and adult may be seen in the field. Spray Emamectin benzoate 4% SG @ 5g/10lt of water."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Prepare the field for sowing summer crops.",
+            "Cucumber seeds should be treated with Carbendazim or Mancozeb before sowing in the field.",
+            "After sowing, provide irrigation as per requirement."
          ]
       },
       "coriander": {
          "advisory": [
             "Provide light and frequent irrigation to the crops.",
-            "Harvest the matured plants by uprooting them.",
-            "Make bundles of the coriander plants and sell them at market."
-         ]
-      },
-      "pea": {
-         "advisory": [
-            "Pod borers in pea cause a lot of damage to the fruits by boring into flowers and pods. To manage the same spray Emamectin benzoate 4% SG @ 5g/10lt or Chloropyriphos @ 1 ml/lt.",
-            "For managing Powdery mildew, spray Karathane 40 EC @ 1 ml/lt ."
+            "Harvest the matured plants by uprooting them. Make bundles of the coriander plants and sell them at market."
          ]
       },
       "chilli": {
          "advisory": [
             "Harvest the matured chilli.",
-            "Little leaf in Chilli can be seen the field. If that happens spray Dimethoate @ 2 ml/lt.",
-            "Aphids and Jassids infestation may be seen the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt.",
+            "Aphids and Jassids infestation may be seen in the field. To manage it spray Imidachloprid 17.8% SL @ 1 ml/lt.",
             "The harvested chilli can be value added by making Chilli pickles. Chilli pickles can fetch more income rather than selling it raw."
          ]
       },
       "potato": {
          "advisory": [
+            "Harvest the potatoes when the plants get drier and wilted.",
             "Earthing up is required in potato to prevent from direct exposure to sun. As this will deteriorate the quality of potato by solanine production.",
             "If wilting is seen in the field, drench Blitox-50 @ 45g + Steptocycline @ 2g in 10lts of water."
          ]
       },
-      "cauliflower": {
+      "amaranthus": {
          "advisory": [
-            "Harvest the cauliflower when it's get matured.",
-            "Do not expose the flower to direct sun rays as it may hamper the flower head. Cover it with the cauliflower leaves.",
-            "Weeding and irrigation is important to keep it in good quality."
+            "Provide light and frequent irrigation for keeping it fresh.",
+            "Make bundles and sell the harvested ones. Before making bundles make sure to remove any weeds or grasses from the bunches."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Give one irrigation before harvesting/plucking the flowers.",
+            "Spray Imidachloprid or Dimethoate or Acetamiprid @ 1-2 ml/lt for managing aphids, thrips and whiteflies."
+         ]
+      },
+      "chrysanthemum": {
+         "advisory": [
+            "Harvest the flowers periodically.",
+            "Separately make bunches of different colours of flowers and sell them at different prices.",
+            "Preparing garlands, bouquets will give more income."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Aphids, Jassids and whitefly can affect the plants and its parts. To manage it, spray Imidachloprid or Dimethoate @ 2 ml/lt.",
+            "Remove the crinkled and upward curling papaya leaves from the plants to protect it from papaya mosaic viruses."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Allow only 1-2 suckers near the mother plants. Remove the rest suckers as it may affect the growth of mother plants.",
+            "Provide support to the emerging banana bunches."
          ]
       }
    },
-   "date": "31-01-2025"
+   "date": "07-02-2025"
 }
