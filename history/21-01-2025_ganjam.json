@@ -53,20 +53,20 @@
    },
    "names_of_crops": [
       "rice",
-      "pigeon pea",
+      "red gram/arhar",
       "green gram",
-      "toma to"
+      "tomato"
    ],
    "general_advisory": "Irrigation should be done at 7-8 Days intervals depending upon soil moisture and weather condition. In view of prevailing low temperature, Provide light irrigation to standing vegetables and crops during morning hours. Pause sowing of rabi pulses and oil seeds for upcoming 5 days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "As clear weather is expected harvest matured rice if not harvested till now. If infestation of the stored grain insect pest is noticed in stored rice, take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly airtight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of the plastic cover should be plastered with 6-inch thick layer of mud/adhesive tapes to prevent leakage of gas."
+            "As clear weather is expected harvest matured rice if not harvested till now . If infestation of the stored grain insect pest is noticed in stored rice take up fumigation by using Aluminium phosphide (do not use in dwelling houses) tablets @ of 3 tablets/ ton grain (total 9 g of tablets) in fairly air tight containers or by covering with thick tarpaulin leaving no gaps. The tablets should be wrapped in cotton pouches before placing them in the stacks. All the corners of the plastic cover should be plastered with 6- inch thick layer of mud/ adhesive tapes to prevent leakage of gas."
          ]
       },
-      "pigeon pea": {
+      "red gram/arhar": {
          "advisory": [
-            "Harvest the red gram crop when 70-80% of Pods turn brown. Over-maturity can cause the shattering of seeds which results in lower yield. Harvesting should be done manually by using a sickle. Harvested plants should be kept on the threshing floor for sun drying for 3-6 days depending on the season."
+            "Harvest the red gram crop when 70-80% of Pods turn brown. Over -maturity can cause the shattering of seeds which results in lower yield. Harvesting should be done manually by using a sickle. Harvested plants should be kept on the threshing floor for sun drying for 3-6 days depending on the season."
          ]
       },
       "green gram": {
@@ -74,9 +74,9 @@
             "In green gram/black gram, chances of infestation of leaf eating caterpillar and black headed caterpillar is there. For management spray a mixture of 2ml profenofos 50%EC or 2 ml quinalphos 25%EC or 1 ml dichlorvos 76%EC per litre of water @200 litres per acre during the afternoon."
          ]
       },
-      "toma to": {
+      "tomato": {
          "advisory": [
-            "Transplanted seedlings are at 6-8 week stage. Complete hoeing, and weeding and apply 27 kg urea at six week stage. Irrigate the crops after fertilizer application. If infested with leaf curl virus, Spray Imidachloprid 17.8% SL @ 0.5 ml or Dimethoate 30% EC @ 1 ml/litre of 10 water at 15, 25, 45 days after transplanting."
+            "Transplanted seedlings are at 6-8 week stage. Complete hoeing, and weeding and apply 27 kg urea at six week stage. Irrigate the crops after fertilizer application. If infested with leaf curl virus, Spray Imidachloprid 17.8% SL  @ 0.5 ml or Dimethoate 30% EC @ 1 ml/litre of 10 water at 15, 25, 45 days after transplanting."
          ]
       }
    },

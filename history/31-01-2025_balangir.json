@@ -1,49 +1,49 @@
 {
    "weather_details": {
-      "2022-10-01": {
+      "2022-10-10": {
          "rainfall": 5,
          "t_max": 28,
          "t_min": 20,
-         "rh_max": 85,
+         "rh_max": 80,
          "rh_min": 60,
-         "wind_speed": 10,
+         "wind_speed": 15,
          "wind_direction": 180,
          "cloud_cover": 4
       },
-      "2022-10-02": {
-         "rainfall": 2,
-         "t_max": 26,
-         "t_min": 18,
-         "rh_max": 80,
+      "2022-10-11": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 75,
          "rh_min": 55,
-         "wind_speed": 12,
+         "wind_speed": 10,
          "wind_direction": 200,
-         "cloud_cover": 3
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "wheat",
-      "corn",
+      "maize",
       "cattle"
    ],
-   "general_advisory": "Sow wheat and corn seeds. Take care of cattle during the rainy season.",
+   "general_advisory": "It is recommended to monitor weather closely and adjust farming practices accordingly. Ensure livestock have access to water and shelter.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Sow wheat seeds in well-drained soil.",
-            "Fertilize with nitrogen and potash for better growth."
+            "Sow wheat seeds in well-drained soil",
+            "Monitor for pests and diseases regularly"
          ]
       },
-      "corn": {
+      "maize": {
          "advisory": [
-            "Plant corn seeds at a depth of 1-2 inches.",
-            "Irrigate regularly to ensure proper growth."
+            "Apply fertilizer based on soil test results",
+            "Water maize plants regularly"
          ]
       },
       "cattle": {
          "advisory": [
-            "Ensure cattle have access to shelter during rainy days.",
-            "Provide adequate nutrition and clean water for healthy growth."
+            "Ensure cattle have access to clean water at all times",
+            "Provide adequate shelter to protect from extreme weather"
          ]
       }
    },

@@ -53,9 +53,8 @@
    },
    "names_of_crops": [
       "rice",
-      "pigeon pea (red gram/arhar)",
+      "pigeon pea",
       "brinjal",
-      "menacinakahi",
       "chilli",
       "mushroom",
       "chicken"
@@ -69,7 +68,7 @@
             "In order to control green leaf hopper in rice, spray Thiamethoxam @ 100 g in 200 litres of water per acre of land."
          ]
       },
-      "pigeon pea (red gram/arhar)": {
+      "pigeon pea": {
          "advisory": [
             "Pod borer in pigeon pea cultivation has been noticed in some places. Spray Chlorantraniliprole @ 80 ml in 200 litres of water per acre of land to control it."
          ]
@@ -78,11 +77,6 @@
          "advisory": [
             "Wilting has been noticed in brinjal. Soil drench with Copper oxychloride 50 WP @ 2 gm + Streptocyclin @ 0.1 gm per liter of water to control it.",
             "Fruit rot disease in brinjal crop has been noticed. Foliar spray with Thiophenate methyl @ 300 g in 200 litre of water per acre of land."
-         ]
-      },
-      "menacinakahi": {
-         "advisory": [
-            "Thrips and mites are noticed in chilli. Foliar spray with Propar gite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
          ]
       },
       "chilli": {

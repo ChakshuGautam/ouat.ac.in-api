@@ -58,73 +58,73 @@
       "tomato",
       "brinjal",
       "coconut",
-      "vegetable",
+      "vegetables",
       "black gram",
       "green gram",
       "okra",
       "onion",
       "mango"
    ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Irrigate the maize crop promptly to avoid water-related issues. Spread polythene in irrigation channels to save water. Take measures to prevent wilting in tomato and brinjal. Mulch coconut leaves around the tree. Cover newly planted vegetable seedlings during the day. Harvest fingerlings in shallow ponds if temperature rises. Follow specific advice for each crop.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Cover the rows with dry leaves. Apply proper irrigation to avoid water scarcity."
+            "Water deficit during critical stages should be avoided."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect the crop from water scarcity during summer."
+            "Top-dress with 4% potassium to protect from water scarcity."
          ]
       },
       "maize": {
          "advisory": [
-            "The high temperature increases the water requirement of the maize crop. Proper irrigation is necessary to avoid water-related issues."
+            "Irrigate the crop properly and prevent waterlogging."
          ]
       },
       "tomato": {
          "advisory": [
-            "High temperatures may lead to wilting in tomato. Apply Streptocyclin in the root zone."
+            "Apply 1g Streptocyclin in root zone to avoid wilting."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Install pheromone traps to manage brinjal shoot and fruit borer. Use neem-based pesticides at the primary stage of pest infestation."
+            "Install pheromone traps to manage shoot and fruit borer."
          ]
       },
       "coconut": {
          "advisory": [
-            "Mulch coconut leaves 1.8 m around a coconut tree to reduce water loss."
+            "Mulch coconut leaves around the tree to reduce water loss."
          ]
       },
-      "vegetable": {
+      "vegetables": {
          "advisory": [
-            "Cover with paper caps on the newly planted vegetable seedlings during the day time."
+            "Cover newly planted seedlings with paper caps during daytime."
          ]
       },
       "black gram": {
          "advisory": [
-            "Check the migration of caterpillars around the field. Use appropriate insecticides for control."
+            "Check and manage migration of tobacco caterpillars."
          ]
       },
       "green gram": {
          "advisory": [
-            "Check the migration of caterpillars around the field. Use appropriate insecticides for control."
+            "Check and manage migration of tobacco caterpillars."
          ]
       },
       "okra": {
          "advisory": [
-            "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation. Install yellow sticky traps at an early stage."
+            "Treat okra seeds with Imidacloprid to prevent whitefly infestation."
          ]
       },
       "onion": {
          "advisory": [
-            "After harvesting, dry the onions properly for longer storage."
+            "Properly dry harvested onion bulbs for longer storage."
          ]
       },
       "mango": {
          "advisory": [
-            "To control mango hoppers, spray insecticides according to recommendations."
+            "Use recommended insecticides to control mango hoppers."
          ]
       }
    },
